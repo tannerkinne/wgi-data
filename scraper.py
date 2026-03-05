@@ -1,8 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import pickle
-from collections import defaultdict
+
 
 def get_recap_links(url):
 
@@ -11,31 +10,39 @@ def get_recap_links(url):
 
     from selenium import webdriver
     from selenium.webdriver.common.by import By
+    try:
+        driver = webdriver.Chrome()
 
-    driver = webdriver.Chrome()
+        driver.get(url)
 
-    driver.get('https://www.wgi.org/scores/percussion-scores/')
+        recaps = driver.find_elements(By.LINK_TEXT, 'Recap')
 
-    recaps = driver.find_elements(By.LINK_TEXT, 'Recap')
+        recap_links = [recap.get_attribute('href') for recap in recaps]
 
-    recap_links = [recap.get_attribute('href') for recap in recaps]
+        driver.close()
 
-    driver.close()
-
-    return recap_links
+        return recap_links
+    except Exception:
+        return []
 
 def get_recap_data(recap_links):
 
 # This function takes the recap links obtained from the previous function and scrapes the relevant data from each recap page.
 
 
-    df = pd.DataFrame(columns = ['class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
+    df = pd.DataFrame(columns = ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
     for recap_link in recap_links:
 
 
 
         soup = BeautifulSoup(requests.get(recap_link).content, 'html.parser')
 
+        date_table = soup.find("table")
+
+        date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
+        date = date_w_year[0:2]
+        year = date_w_year[2]
+        week = get_week(date)
 
         tables = soup.find_all("table")
         for table in tables:
@@ -62,7 +69,7 @@ def get_recap_data(recap_links):
                             music = sub_scores[2]
                             visual = sub_scores[3]
 
-                            df.loc[(len(df)), ['class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [cls, name, overall_score, music_effect, visual_effect, music, visual]
+                            df.loc[(len(df)), ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, week, cls, name, overall_score, music_effect, visual_effect, music, visual]
 
 
             except AttributeError as e:
@@ -72,6 +79,27 @@ def get_recap_data(recap_links):
     df.to_csv('scores.csv', index=False)
 
 
+def get_week(date):
+
+    # This function takes a date in the format of [month, day] and calculates
+    # the corresponding week number based on a fixed starting point (February 1st).
+    # It uses a base dictionary to determine the cumulative number of days up to
+    # the given month and then calculates the week number accordingly.
+
+    base = {"February": 31, "March": 59, "April": 90}
+    day = base[date[0]] + int(date[1])
+
+    week = day // 7 - 6
+
+    return week
+
+
 if __name__ == "__main__":
-    recap_links = get_recap_links('https://www.wgi.org/scores/percussion-scores/')
+    wgi_links = ["https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
+                              'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
+                              'https://www.wgi.org/historical_score_per/2024/',
+                              'https://www.wgi.org/historical_score_per/2025/',
+                              'https://www.wgi.org/scores/percussion-scores/']
+    for link in wgi_links:
+        recap_links = get_recap_links([link])
     get_recap_data(recap_links)
