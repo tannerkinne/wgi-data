@@ -26,31 +26,52 @@ def get_recap_links(url):
 
 def get_recap_data(recap_links):
 
-# This function takes the recap links obtained from the previous function and scrapes
-# the scores for each performance. It uses BeautifulSoup to parse the HTML content of
-# each recap page and extract the relevant data. The scores are stored in a dictionary
-# where the keys are the names of the performers and the values are their overall scores.
+# This function takes the recap links obtained from the previous function and scrapes the relevant data from each recap page.
 
-    scores = defaultdict(lambda: {
-        "overall": None
-    })
 
+    df = pd.DataFrame(columns = ['class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
     for recap_link in recap_links:
+
+
 
         soup = BeautifulSoup(requests.get(recap_link).content, 'html.parser')
 
-        cells = soup.select("td.content.topBorder.rightBorderDouble")
 
-        for c in cells:
-            name = c.text.strip()
-            score = c.find_next_sibling("td", class_="topBorder rightBorderDouble").text.strip()
-            if ',' not in name and float(score) > (scores[name]["overall"] or 0):
-                scores[name]["overall"] = round(float(score), 3)
+        tables = soup.find_all("table")
+        for table in tables:
 
-    return scores
+            try:
+                rows = table.find_all("tr", class_="header-division-name")
+
+                cls = ''.join(word[0] for word in rows[0].find("td").text.strip().split(' '))
+
+                name_objs = table.select("td.content.topBorder.rightBorderDouble")
+                for name_obj in name_objs:
+                    name = name_obj.text.strip()
+                    if ',' not in name:
+                        subs = name_obj.find_next_siblings("td", class_="topBorder rightBorder subcaptionTotal verified")
+
+                        sub_scores = [float(sub.find('td', class_ = 'content score').text.strip()) for sub in subs]
+
+                        overall_score = round(float(name_obj.find_next_sibling("td", class_="topBorder rightBorderDouble").text.strip()), 3)
+
+                        if len(sub_scores) == 4:
+
+                            music_effect = sub_scores[0]
+                            visual_effect = sub_scores[1]
+                            music = sub_scores[2]
+                            visual = sub_scores[3]
+
+                            df.loc[(len(df)), ['class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [cls, name, overall_score, music_effect, visual_effect, music, visual]
+
+
+            except AttributeError as e:
+                print(e)
+            except IndexError:
+                continue
+    df.to_csv('scores.csv', index=False)
+
 
 if __name__ == "__main__":
     recap_links = get_recap_links('https://www.wgi.org/scores/percussion-scores/')
-    recap_data = get_recap_data(recap_links)
-    for key, value in sorted(recap_data.items()):
-        print(f"{key}: {value['overall']}")
+    get_recap_data(recap_links)
