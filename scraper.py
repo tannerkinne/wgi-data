@@ -1,3 +1,5 @@
+import time
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -22,7 +24,8 @@ def get_recap_links(url):
         driver.close()
 
         return recap_links
-    except Exception:
+    except Exception as e:
+        print(e)
         return []
 
 def get_recap_data(recap_links):
@@ -33,7 +36,7 @@ def get_recap_data(recap_links):
     df = pd.DataFrame(columns = ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
     for recap_link in recap_links:
 
-
+        print(recap_link)
 
         soup = BeautifulSoup(requests.get(recap_link).content, 'html.parser')
 
@@ -61,7 +64,7 @@ def get_recap_data(recap_links):
                         sub_scores = [float(sub.find('td', class_ = 'content score').text.strip()) for sub in subs]
 
                         overall_score = round(float(name_obj.find_next_sibling("td", class_="topBorder rightBorderDouble").text.strip()), 3)
-
+                        print(sub_scores)
                         if len(sub_scores) == 4:
 
                             music_effect = sub_scores[0]
@@ -71,11 +74,12 @@ def get_recap_data(recap_links):
 
                             df.loc[(len(df)), ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, week, cls, name, overall_score, music_effect, visual_effect, music, visual]
 
-
             except AttributeError as e:
                 print(e)
-            except IndexError:
+            except IndexError as e:
                 continue
+
+
     df.to_csv('scores.csv', index=False)
 
 
@@ -96,10 +100,21 @@ def get_week(date):
 
 if __name__ == "__main__":
     wgi_links = ["https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
-                              'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
-                              'https://www.wgi.org/historical_score_per/2024/',
-                              'https://www.wgi.org/historical_score_per/2025/',
-                              'https://www.wgi.org/scores/percussion-scores/']
+                               'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
+                               'https://www.wgi.org/historical_score_per/2024/',
+                               'https://www.wgi.org/historical_score_per/2025/',
+                               'https://www.wgi.org/scores/percussion-scores/']
+
+    recap_links_grouped = []
+    recap_links = []
     for link in wgi_links:
-        recap_links = get_recap_links([link])
+        recap_links_grouped.append(get_recap_links(link))
+    for i in range(len(recap_links_grouped)):
+        for link in recap_links_grouped[i]:
+            recap_links.append(link)
+    print(recap_links)
     get_recap_data(recap_links)
+
+#What to fix:
+# Get 2022 to work, currently not working because the table row we search for with header-division-name is not named until 2023
+# Find a way for ones with two judges in each caption work
