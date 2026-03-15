@@ -45,6 +45,8 @@ def get_recap_data(recap_links):
         year = date_w_year[2]
         week = get_week(date)
 
+        print(date_w_year)
+
         tables = soup.find_all("table")
         for table in tables:
 
@@ -98,7 +100,9 @@ def get_week(date):
     base = {"February": 31, "March": 59, "April": 90}
     day = base[date[0]] + int(date[1])
 
-    week = day // 7 - 6
+    day_rounded = round(day / 7) * 7
+
+    week = day_rounded // 7 - 6
 
     return week
 
