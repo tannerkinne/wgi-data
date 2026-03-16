@@ -19,13 +19,16 @@ df26.to_csv('scores26.csv', index=False)
 
 years = [df23, df24, df25, df26]
 file_names = []
+year_show_max = []
 
 for year in years:
     y = year['year'].iloc[0]
-
+    year_show_max.append(year['week'].max().item())
     for i in range(len(classes)):
         year[year['class'] == classes[i]].to_csv(f'{classes[i]}_{y}.csv', index=False)
         file_names.append(f'{classes[i]}_{y}.csv')
+
+print(year_show_max)
 
 final_stats = pd.DataFrame(columns = ['name', 'class', 'year', 'shows', 'first week', 'final week', 'first score', 'final score', 'avg overall increase', 'avg me increase', 'avg ve increase', 'avg m increase', 'avg v increase'])
 
@@ -33,15 +36,19 @@ for f in file_names:
     file = pd.read_csv(f)
     names = file['name'].unique()
     for name in names:
-        shows_attended = file[file['name'] == name].shape[0]
+
+        #shows_attended = file[file['name'] == name].shape[0]
+
+        sub_file = file[file['name'] == name]
+        shows_attended = sub_file['week'].nunique()
+
         if shows_attended > 1:
-            school = file[file['name'] == name]
 
             year = file['year'].iloc[0]
-            first_week = school['week'].iloc[0]
-            final_week = school['week'].iloc[-1]
-            first_score = school['overall score'].iloc[0]
-            final_score = school['overall score'].iloc[-1]
+            first_week = sub_file['week'].iloc[0]
+            final_week = sub_file['week'].iloc[-1]
+            first_score = sub_file['overall score'].iloc[0]
+            final_score = sub_file['overall score'].iloc[-1]
 
             overall_increase = 0
             me_increase = 0
@@ -50,19 +57,23 @@ for f in file_names:
             v_increase = 0
 
             for i in range(1, shows_attended):
-                temp_overall_increase = school['overall score'].iloc[i] - school['overall score'].iloc[i-1]
-                temp_me_increase = school['music effect'].iloc[i] - school['music effect'].iloc[i-1]
-                temp_ve_increase = school['visual effect'].iloc[i] - school['visual effect'].iloc[i-1]
-                temp_m_increase = school['music'].iloc[i] - school['music'].iloc[i-1]
-                temp_v_increase = school['visual'].iloc[i] - school['visual'].iloc[i-1]
 
-                overall_increase = round((overall_increase + temp_overall_increase) / 2, 3)
-                me_increase = round((me_increase + temp_me_increase) / 2, 3)
-                ve_increase = round((ve_increase + temp_ve_increase) / 2, 3)
-                m_increase = round((m_increase + temp_m_increase) / 2, 3)
-                v_increase = round((v_increase + temp_v_increase) / 2, 3)
+                if sub_file['week'].iloc[i] != year_show_max[year - 2023]:
 
-            final_stats.loc[len(final_stats)] = [name, file['class'].iloc[0], year, shows_attended, first_week, final_week, first_score, final_score, overall_increase, me_increase, ve_increase, m_increase, v_increase]
+                    temp_overall_increase = sub_file['overall score'].iloc[i] - sub_file['overall score'].iloc[i-1]
+                    temp_me_increase = sub_file['music effect'].iloc[i] - sub_file['music effect'].iloc[i-1]
+                    temp_ve_increase = sub_file['visual effect'].iloc[i] - sub_file['visual effect'].iloc[i-1]
+                    temp_m_increase = sub_file['music'].iloc[i] - sub_file['music'].iloc[i-1]
+                    temp_v_increase = sub_file['visual'].iloc[i] - sub_file['visual'].iloc[i-1]
+
+                    overall_increase = round((overall_increase + temp_overall_increase) / 2, 3)
+                    me_increase = round((me_increase + temp_me_increase) / 2, 3)
+                    ve_increase = round((ve_increase + temp_ve_increase) / 2, 3)
+                    m_increase = round((m_increase + temp_m_increase) / 2, 3)
+                    v_increase = round((v_increase + temp_v_increase) / 2, 3)
+
+            if overall_increase > 0:
+                final_stats.loc[len(final_stats)] = [name, file['class'].iloc[0], year, shows_attended, first_week, final_week, first_score, final_score, overall_increase, me_increase, ve_increase, m_increase, v_increase]
 
 final_stats.to_csv('final_stats.csv', index=False)
 
