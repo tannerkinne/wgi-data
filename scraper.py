@@ -5,13 +5,16 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date
 
-def get_recap_links(url):
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+from urllib.parse import urlparse
+
+
+def wgi_recap_links(url):
 
 #This will open a browser window and scrape the recap links from the WGI percussion scores page.
 # It uses Selenium to interact with the webpage and extract the necessary links.
-
-    from selenium import webdriver
-    from selenium.webdriver.common.by import By
     try:
         driver = webdriver.Chrome()
 
@@ -27,6 +30,36 @@ def get_recap_links(url):
     except Exception as e:
         print(e)
         return []
+
+def crawler(start_url):
+    driver = webdriver.Chrome()
+
+    domain = urlparse(start_url).netloc
+    visited = []
+    to_visit = [start_url]
+    recap_links = []
+
+    while to_visit:
+        url = to_visit.pop(0)
+        if url not in visited:
+            visited.append(url)
+            driver.get(url)
+            time.sleep(2)
+
+            links = driver.find_elements(By.TAG_NAME, 'a')
+            for link in links:
+                href = link.get_attribute('href')
+                if not href:
+                    continue
+
+                if href not in visited and urlparse(href).netloc == domain:
+                    to_visit.append(link.get_attribute('href'))
+                elif 'recaps.competitionsuite.com' in href:
+                    recap_links.append(link.get_attribute('href'))
+    driver.quit()
+    return recap_links
+
+
 
 def get_recap_data(recap_links):
 
@@ -120,22 +153,27 @@ def get_week(new_date, start_date):
 
 
 if __name__ == "__main__":
-    wgi_links = [
-        # "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
-                               'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
-                               'https://www.wgi.org/historical_score_per/2024/',
-                               'https://www.wgi.org/historical_score_per/2025/',
-                               'https://www.wgi.org/scores/percussion-scores/']
-
-    recap_links_grouped = []
+    # wgi_links = [
+    #     # "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
+    #                            'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
+    #                            'https://www.wgi.org/historical_score_per/2024/',
+    #                            'https://www.wgi.org/historical_score_per/2025/',
+    #                            'https://www.wgi.org/scores/percussion-scores/']
+    #
+    # recap_links_grouped = []
     recap_links = []
-    for link in wgi_links:
-        recap_links_grouped.append(get_recap_links(link))
-    for i in range(len(recap_links_grouped)):
-        for link in recap_links_grouped[i]:
-            recap_links.append(link)
+
+    recap_links.append(crawler('https://www.mapsdrumlines.org/'))
+
     print(recap_links)
-    get_recap_data(recap_links)
+
+    # for link in wgi_links:
+    #     recap_links_grouped.append(wgi_recap_links(link))
+    # for i in range(len(recap_links_grouped)):
+    #     for link in recap_links_grouped[i]:
+    #         recap_links.append(link)
+    # print(recap_links)
+    # get_recap_data(recap_links)
 
 #What to fix:
 # Get 2022 to work, currently not working because the table row we search for with header-division-name is not named until 2023
