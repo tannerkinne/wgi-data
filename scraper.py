@@ -3,7 +3,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-
+from datetime import date
 
 def get_recap_links(url):
 
@@ -23,7 +23,7 @@ def get_recap_links(url):
 
         driver.close()
 
-        return recap_links
+        return recap_links[::-1]
     except Exception as e:
         print(e)
         return []
@@ -31,7 +31,8 @@ def get_recap_links(url):
 def get_recap_data(recap_links):
 
 # This function takes the recap links obtained from the previous function and scrapes the relevant data from each recap page.
-
+    year_tracker = 0
+    start = []
 
     df = pd.DataFrame(columns = ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
     for recap_link in recap_links:
@@ -41,9 +42,14 @@ def get_recap_data(recap_links):
         date_table = soup.find("table")
 
         date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
-        date = date_w_year[0:2]
+        # date = date_w_year[0:2]
         year = date_w_year[2]
-        week = get_week(date)
+        if(year != year_tracker):
+            week = get_week(date_w_year, date_w_year)
+            start = date_w_year
+            year_tracker = year
+        else:
+            week = get_week(date_w_year, start)
 
         print(date_w_year)
 
@@ -90,21 +96,27 @@ def get_recap_data(recap_links):
     df.to_csv('scores.csv', index=False)
 
 
-def get_week(date):
+def get_week(new_date, start_date):
 
     # This function takes a date in the format of [month, day] and calculates
     # the corresponding week number based on a fixed starting point (February 1st).
     # It uses a base dictionary to determine the cumulative number of days up to
     # the given month and then calculates the week number accordingly.
 
-    base = {"February": 31, "March": 59, "April": 90}
-    day = base[date[0]] + int(date[1])
+    base = {"February": 2, "March": 3, "April": 4}
 
-    day_rounded = round(day / 7) * 7
+    d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
+    start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
+    return d - start
 
-    week = day_rounded // 7 - 6
 
-    return week
+    # day = base[date[0]] + int(date[1])
+    #
+    # day_rounded = round(day / 7) * 7
+    #
+    # week = day_rounded // 7 - 6
+    #
+    # return week
 
 
 if __name__ == "__main__":

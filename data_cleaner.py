@@ -10,12 +10,14 @@ df = df.drop(df[df['class'].isin(['PSCW','PSCO','PSCA'])].index)
 df23 = df[df['year'] == 2023].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
 df24 = df[df['year'] == 2024].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
 df25 = df[df['year'] == 2025].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+df26 = df[df['year'] == 2026].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
 
 df23.to_csv('scores23.csv', index=False)
 df24.to_csv('scores24.csv', index=False)
 df25.to_csv('scores25.csv', index=False)
+df26.to_csv('scores26.csv', index=False)
 
-years = [df23, df24, df25]
+years = [df23, df24, df25, df26]
 file_names = []
 
 for year in years:
@@ -35,6 +37,7 @@ for f in file_names:
         if shows_attended > 1:
             school = file[file['name'] == name]
 
+            year = file['year'].iloc[0]
             first_week = school['week'].iloc[0]
             final_week = school['week'].iloc[-1]
             first_score = school['overall score'].iloc[0]
@@ -59,7 +62,7 @@ for f in file_names:
                 m_increase = round((m_increase + temp_m_increase) / 2, 3)
                 v_increase = round((v_increase + temp_v_increase) / 2, 3)
 
-            final_stats.loc[len(final_stats)] = [name, file['class'].iloc[0], file['year'].iloc[0], shows_attended, first_week, final_week, first_score, final_score, overall_increase, me_increase, ve_increase, m_increase, v_increase]
+            final_stats.loc[len(final_stats)] = [name, file['class'].iloc[0], year, shows_attended, first_week, final_week, first_score, final_score, overall_increase, me_increase, ve_increase, m_increase, v_increase]
 
 final_stats.to_csv('final_stats.csv', index=False)
 
