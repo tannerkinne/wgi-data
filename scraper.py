@@ -64,7 +64,7 @@ def get_iframe_links(url):
     driver = webdriver.Chrome()
     driver.get(url)
 
-    driver.implicitly_wait(2)
+    driver.implicitly_wait(3)
     iframe = driver.find_element(By.NAME, "htmlComp-iframe")
     driver.switch_to.frame(iframe)
 
@@ -72,13 +72,14 @@ def get_iframe_links(url):
     year_scripts = []
     event_scripts = []
     recap_links = []
-
+    time.sleep(3)
     menu_script = driver.find_element(By.ID, 'cs-org-scores-menu-viewEvents').find_element(By.TAG_NAME, 'a').get_attribute('onclick')
     seasons_script = driver.find_element(By.ID, 'cs-org-scores-menu-viewSeasons').find_element(By.TAG_NAME, 'a').get_attribute('onclick')
 
 
     driver.execute_script(seasons_script)
 
+    time.sleep(3)
 
     years_area = driver.find_element(By.ID, 'cs-org-scores-area')
     years = years_area.find_elements(By.CLASS_NAME, 'event')
@@ -90,20 +91,23 @@ def get_iframe_links(url):
 
     for year in year_scripts:
         driver.execute_script(year)
-        time.sleep(2)
-        print(year)
+        print(driver)
+        time.sleep(3)
+        print(f'year: {year}')
 
         event_area = driver.find_element(By.ID, 'cs-org-scores-area')
         events = event_area.find_elements(By.CLASS_NAME, 'event')
-        print(events)
+        print(f'event: {events}')
 
         for event in events:
             event_scripts.append(event.get_attribute('onclick'))
 
         for script in event_scripts:
-            print(script)
+            print(f'script: {script}')
             #event_scripts.append(event.get_attribute('onclick'))
             driver.execute_script(script)
+
+            time.sleep(3)
 
             links = driver.find_elements(By.TAG_NAME, 'a')
             recap_links.append([link.get_attribute('href') for link in links if 'recaps.competitionsuite.com' in link.get_attribute('href')])
@@ -111,8 +115,10 @@ def get_iframe_links(url):
             print(f'recalinks: {recap_links}')
 
             driver.execute_script(menu_script)
+            time.sleep(3)
 
         driver.execute_script(seasons_script)
+        time.sleep(3)
 
     print(recap_links)
 
