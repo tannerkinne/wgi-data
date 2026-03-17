@@ -39,11 +39,23 @@ def crawler(start_url):
     to_visit = [start_url]
     recap_links = []
 
+    links_on_last = False
+
     while to_visit:
         url = to_visit.pop(0)
         if url not in visited:
             visited.append(url)
             driver.get(url)
+            time.sleep(2)
+            links_found = False
+
+            if driver.find_elements(By.NAME, "htmlComp-iframe"):
+                iframe_recaps = get_iframe_links(url)
+                for recap in iframe_recaps:
+                    recap_links.append(recap)
+                links_on_last = True
+                links_found = True
+
             time.sleep(2)
 
             links = driver.find_elements(By.TAG_NAME, 'a')
@@ -56,6 +68,11 @@ def crawler(start_url):
                     to_visit.append(link.get_attribute('href'))
                 elif 'recaps.competitionsuite.com' in href:
                     recap_links.append(link.get_attribute('href'))
+                    links_on_last = True
+                    links_found = True
+
+            if not links_found and links_on_last:
+                break
     driver.quit()
     return recap_links
 
@@ -90,37 +107,42 @@ def get_iframe_links(url):
 
 
     for year in year_scripts:
+        event_scripts = []
+
         driver.execute_script(year)
-        print(driver)
-        time.sleep(3)
-        print(f'year: {year}')
+        # print(driver)
+        time.sleep(1)
+        # print(f'year: {year}')
 
         event_area = driver.find_element(By.ID, 'cs-org-scores-area')
         events = event_area.find_elements(By.CLASS_NAME, 'event')
-        print(f'event: {events}')
+        # print(f'event: {events}')
 
         for event in events:
             event_scripts.append(event.get_attribute('onclick'))
 
         for script in event_scripts:
-            print(f'script: {script}')
+            # print(f'script: {script}')
             #event_scripts.append(event.get_attribute('onclick'))
             driver.execute_script(script)
 
-            time.sleep(3)
+            time.sleep(1)
 
             links = driver.find_elements(By.TAG_NAME, 'a')
-            recap_links.append([link.get_attribute('href') for link in links if 'recaps.competitionsuite.com' in link.get_attribute('href')])
-            print(f'links: {links}')
-            print(f'recalinks: {recap_links}')
+            for link in links:
+                if link.get_attribute('href') and 'recaps.competitionsuite.com' in link.get_attribute('href'):
+                    recap_links.append(link.get_attribute('href'))
+            # recap_links.append([link.get_attribute('href') for link in links if 'recaps.competitionsuite.com' in link.get_attribute('href')])
+            # print(f'links: {links}')
+            # print(f'recalinks: {recap_links}')
 
             driver.execute_script(menu_script)
-            time.sleep(3)
+            time.sleep(1)
 
         driver.execute_script(seasons_script)
-        time.sleep(3)
+        time.sleep(1)
 
-    print(recap_links)
+
 
     driver.quit()
     return recap_links
@@ -219,29 +241,29 @@ def get_week(new_date, start_date):
 
 
 if __name__ == "__main__":
-    # wgi_links = [
-    #     # "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
-    #                            'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
-    #                            'https://www.wgi.org/historical_score_per/2024/',
-    #                            'https://www.wgi.org/historical_score_per/2025/',
-    #                            'https://www.wgi.org/scores/percussion-scores/']
-    #
-    # recap_links_grouped = []
+    wgi_links = [
+        # "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
+                               'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
+                               'https://www.wgi.org/historical_score_per/2024/',
+                               'https://www.wgi.org/historical_score_per/2025/',
+                               'https://www.wgi.org/scores/percussion-scores/']
+
+    recap_links_grouped = []
     recap_links = []
 
-    #recap_links.append(crawler('https://www.mapsdrumlines.org/'))
+    recap_links.append(crawler('https://www.mapsdrumlines.org/'))
 
-    recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
+    #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
 
     print(recap_links)
 
-    # for link in wgi_links:
-    #     recap_links_grouped.append(wgi_recap_links(link))
-    # for i in range(len(recap_links_grouped)):
-    #     for link in recap_links_grouped[i]:
-    #         recap_links.append(link)
-    # print(recap_links)
-    # get_recap_data(recap_links)
+    for link in wgi_links:
+        recap_links_grouped.append(wgi_recap_links(link))
+    for i in range(len(recap_links_grouped)):
+        for link in recap_links_grouped[i]:
+            recap_links.append(link)
+    print(recap_links)
+    get_recap_data(recap_links)
 
 #What to fix:
 # Get 2022 to work, currently not working because the table row we search for with header-division-name is not named until 2023
