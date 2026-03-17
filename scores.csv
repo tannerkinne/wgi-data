@@ -1,4 +1,842 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2026,0,PRA(,Cheltenham,76.775,22.125,23.25,15.3,16.1
+2026,0,PRA(,Daniel Boone,71.6,20.85,22.05,14.5,14.2
+2026,0,PRA(,Upper Dublin,71.425,21.225,21.45,14.25,14.5
+2026,0,PSA,Downingtown East HS,85.55,25.35,17.1,26.2,16.9
+2026,0,PSA,Upper Moreland,84.65,25.05,17.5,25.1,17.0
+2026,0,PSA,Bridgewater Raritan,84.5,25.5,16.7,25.6,16.7
+2026,0,PSA,Pennridge,82.6,24.9,16.5,24.8,16.4
+2026,0,PSA,Upper Darby,81.4,25.2,14.9,25.5,15.8
+2026,0,PSA,Southern Regional,78.951,23.55,16.0,23.5,15.9
+2026,0,PSA,Souderton High School,76.051,23.25,14.8,23.2,14.8
+2026,0,PSA,Hopewell Valley Central,74.351,22.05,15.6,22.2,14.5
+2026,0,PSA,Council Rock South,70.951,20.85,13.3,22.8,14.0
+2026,0,PSA,Methacton,70.25,21.15,13.5,21.2,14.4
+2026,0,PIA,Central Bucks School District,70.25,21.15,13.1,22.4,13.6
+2026,0,PSO,West Shore School District,85.55,25.95,17.1,25.6,16.9
+2026,0,PSO,Old Bridge,82.2,24.6,16.3,25.0,16.3
+2026,0,PSO,Kingsway Regional,77.5,23.7,15.0,23.4,15.4
+2026,0,ME,North Penn,83.15,25.05,16.7,24.9,16.5
+2026,-2,PSA,Owen J Roberts,82.85,24.75,16.1,25.7,16.3
+2026,-2,PSA,Upper Moreland,79.15,22.65,15.6,24.3,16.6
+2026,-2,PSA,Egg Harbor Township,77.1,23.1,14.9,23.7,15.4
+2026,-2,PSA,Quakertown,76.85,21.9,14.7,24.05,16.2
+2026,-2,PSA,Phoenixville,74.9,23.4,14.3,22.6,14.6
+2026,-2,PSA,Odessa High School,71.051,20.85,14.4,21.7,14.1
+2026,-2,PSA,Coatesville,69.751,19.95,13.9,21.2,14.7
+2026,-2,PSA,Council Rock South,66.351,20.25,13.3,20.1,12.7
+2026,-2,ME,Avon Grove,73.5,22.2,15.2,21.7,14.4
+2026,-2,PSO,Downingtown HS West,79.0,24.0,16.0,24.2,14.8
+2026,-2,PSO,Old Bridge,75.3,22.5,15.1,23.4,14.3
+2026,-2,PIO,Imperial Dynasty,77.7,22.8,14.9,25.0,15.0
+2026,-3,PRA(,Cheltenham,76.375,20.925,24.15,13.3,18.0
+2026,-3,PRA(,Odessa High School,72.4,20.85,23.85,12.1,15.6
+2026,-3,PRA(,Upper Dublin,70.15,19.8,23.1,12.95,14.3
+2026,-3,PRA(,Daniel Boone,68.7,19.65,22.95,12.7,13.4
+2026,-3,PSA,North Penn,85.25,25.95,17.2,25.0,17.1
+2026,-3,PSA,Owen J Roberts,83.75,25.5,16.5,25.05,16.7
+2026,-3,PSA,Unionville,82.6,24.15,16.45,25.1,16.9
+2026,-3,PSA,Old Bridge,82.45,25.35,16.2,24.5,16.4
+2026,-3,PSA,Highland Regional,79.1,24.3,15.0,23.4,16.4
+2026,-3,PSA,Upper Darby,78.201,24.9,14.5,22.9,15.9
+2026,-3,PSA,Bridgewater Raritan,77.351,24.0,16.25,21.9,15.2
+2026,-3,PSA,Upper Moreland,76.401,22.65,15.5,22.15,16.1
+2026,-3,PSA,Pennridge,74.751,20.85,16.8,21.5,15.6
+2026,-3,PSA,Phoenixville,74.05,22.35,14.4,22.5,14.8
+2026,-3,PSA,Avon Grove,72.6,21.0,15.8,20.4,15.4
+2026,-3,PSA,Perkiomen Valley,72.75,22.5,13.8,22.05,14.4
+2026,-3,PSA,Coatesville,71.0,22.2,13.4,20.9,14.5
+2026,-3,PSA,Marple Newtown,69.0,20.1,13.9,21.0,14.0
+2026,-3,PSA,Abington,67.75,19.65,12.8,20.3,15.0
+2026,-3,PSA,Hopewell Valley Central,67.45,21.15,12.4,19.6,14.3
+2026,-3,PSA,Methacton,65.15,19.35,13.1,19.0,13.7
+2026,-3,ME,Downingtown HS East,76.2,24.0,15.9,21.6,14.7
+2026,-3,PSO,Spring-Ford,80.05,23.85,16.4,23.6,16.2
+2026,-3,PSO,Downingtown HS West,77.4,22.2,15.3,23.5,16.4
+2026,-3,PSO,Kingsway Regional,76.15,22.35,15.0,23.0,15.8
+2026,-4,PRA(,Upper Dublin,70.35,22.35,19.35,14.35,14.3
+2026,-4,PSA,North Penn,78.6,23.1,15.7,24.1,15.7
+2026,-4,PSA,Owen J Roberts,77.7,22.8,15.5,24.0,15.4
+2026,-4,PSA,Unionville,75.1,21.3,15.2,23.7,14.9
+2026,-4,PSA,Souderton High School,72.05,21.75,13.4,22.7,14.2
+2026,-4,PSA,Pennridge,72.001,21.0,14.9,21.6,14.5
+2026,-4,PSA,Downingtown HS East,71.651,19.95,15.3,21.7,14.7
+2026,-4,PSA,Egg Harbor Township,70.551,21.45,14.4,21.8,12.9
+2026,-4,PSA,Upper Darby,70.501,21.9,14.5,20.3,13.8
+2026,-4,PSA,Quakertown,68.951,20.25,14.1,21.1,13.5
+2026,-4,PSA,Coatesville,67.9,19.8,13.5,20.6,14.0
+2026,-4,PSA,Methacton,62.95,17.55,12.9,19.3,13.2
+2026,-4,PSA,Council Rock South,63.5,18.0,13.2,19.5,12.8
+2026,-4,PSO,Spring-Ford,77.85,23.85,15.0,23.9,15.1
+2026,-4,PSO,Kingsway Regional,69.95,20.25,14.0,21.7,14.0
+2026,-5,PSA,Bridgewater Raritan,69.6,21.0,13.5,20.6,14.5
+2026,-5,PSA,Southern Regional,69.6,21.3,13.0,20.5,14.8
+2026,-5,PSA,Highland Regional,68.85,20.85,14.7,19.3,14.0
+2026,-5,PSA,Egg Harbor Township,66.65,19.65,14.1,19.8,13.1
+2026,-5,PSA,Hopewell Valley Central,64.701,19.8,12.6,18.7,13.6
+2026,-5,PSA,Coatesville,63.151,19.05,12.0,18.6,13.5
+2026,-5,PSA,Marple Newtown,61.901,18.3,11.7,19.4,12.5
+2026,-5,PSA,Owen J Roberts,53.701,16.5,10.6,15.0,11.6
+2026,-5,ME,Old Bridge,70.05,21.45,12.4,21.1,15.1
+2026,-5,PSO,Downingtown HS West,68.9,21.6,13.8,20.0,13.5
+2026,-5,PSO,Kingsway Regional,68.45,19.95,14.6,19.8,14.1
+2025,0,PSA,Unionville HS,92.375,27.9,27.075,18.5,18.9
+2025,0,PSA,North Penn,90.9,26.9,27.6,17.9,18.5
+2025,0,PSA,Pennridge,88.725,27.1,26.175,17.95,17.5
+2025,0,PSA,Owen J Roberts,88.575,26.4,26.475,17.6,18.1
+2025,0,PSA,Perkiomen Valley,88.201,26.15,26.85,18.4,16.8
+2025,0,PSA,Quakertown,88.101,26.1,26.7,17.1,18.2
+2025,0,PSA,Hopewell Valley Central,87.101,25.75,26.55,16.9,17.9
+2025,0,PSA,Upper Moreland,83.501,25.3,25.95,16.7,15.55
+2025,0,PSA,Penn Manor High School,81.801,24.45,25.5,15.15,16.7
+2025,0,PSA,Bridgewater Raritan,81.325,25.35,22.425,16.6,16.95
+2025,0,PSA,Downingtown HS East,79.75,23.75,22.95,16.1,16.95
+2025,0,PSA,Edison HS,78.7,23.8,25.05,14.75,15.1
+2025,0,PSA,Avon Grove,78.6,23.0,24.9,15.3,15.4
+2025,0,PSA,Upper Darby,78.55,24.2,23.85,15.6,14.9
+2025,0,PSA,Highland Regional,77.6,24.1,23.7,14.5,15.3
+2025,0,PSA,Odessa High School,77.4,24.7,21.45,15.45,15.8
+2025,0,PSA,Coatesville,75.65,22.3,23.55,14.8,15.0
+2025,0,PSA,Phoenixville,74.75,23.7,22.05,14.6,14.4
+2025,0,PSA,Twin Valley HS,73.4,22.8,22.2,13.6,14.8
+2025,0,PSA,Methacton,71.65,22.0,20.85,14.1,14.7
+2025,0,PSA,Council Rock South,76.35,22.2,23.1,15.4,15.65
+2025,0,PIA,Central Bucks School District,76.35,24.4,21.75,15.0,15.2
+2025,0,PRA(,Great Valley High School,80.5,25.35,21.45,17.3,16.4
+2025,0,PRA(,Upper Dublin,80.25,24.15,23.1,16.3,16.7
+2025,0,PRA(,Daniel Boone,79.325,23.775,21.9,16.55,17.1
+2025,0,PSO,Old Bridge,91.8,27.5,27.3,18.4,18.6
+2025,0,PSO,Spring-Ford HS,91.7,27.7,27.9,17.4,18.7
+2025,0,PSO,Egg Harbor Township HS,84.2,24.3,25.5,17.2,17.2
+2025,0,PSO,Downingtown HS West,82.75,23.6,25.95,16.4,16.8
+2025,0,PIO,Imperial Dynasty,89.95,28.3,25.65,17.5,18.5
+2025,-1,PRA(,Great Valley High School,83.3,26.1,23.85,16.55,16.8
+2025,-1,PRA(,Daniel Boone,81.025,25.425,22.8,15.6,17.2
+2025,-1,PRA(,Upper Dublin,79.425,24.825,22.5,15.1,17.0
+2025,-1,PSA,Unionville HS,92.05,27.8,27.15,18.0,19.1
+2025,-1,PSA,North Penn,91.775,27.9,27.225,17.6,19.05
+2025,-1,PSA,Owen J Roberts,89.5,27.2,26.1,18.3,17.9
+2025,-1,PSA,Perkiomen Valley,85.575,25.9,25.275,17.7,16.7
+2025,-1,PSA,Pennridge,85.251,26.5,25.35,17.1,16.3
+2025,-1,PSA,Quakertown,85.201,26.8,24.3,17.3,16.8
+2025,-1,PSA,Hopewell Valley Central,83.701,24.5,25.2,16.6,17.4
+2025,-1,PSA,Upper Moreland,83.251,25.3,26.25,16.9,14.8
+2025,-1,PSA,Penn Manor High School,79.951,22.35,23.4,16.5,17.7
+2025,-1,PSA,Bridgewater Raritan,79.2,23.7,23.25,15.7,16.55
+2025,-1,PSA,Odessa High School,78.975,25.2,24.825,14.35,14.6
+2025,-1,PSA,Downingtown HS East,78.375,25.45,23.325,15.1,14.5
+2025,-1,PSA,Upper Darby,77.65,25.05,22.65,16.0,13.95
+2025,-1,PSA,Highland Regional,77.7,24.8,24.9,14.0,14.0
+2025,-1,PSA,Edison HS,75.35,22.55,23.1,14.7,15.0
+2025,-1,PSA,Phoenixville,75.0,21.85,22.05,15.2,15.9
+2025,-1,PSA,Council Rock South,73.9,23.4,21.9,14.2,14.4
+2025,-1,PSA,Avon Grove,73.525,22.4,22.425,14.9,13.8
+2025,-1,PSA,Coatesville,72.825,22.2,20.925,14.3,15.4
+2025,-1,PSA,Methacton,70.85,22.6,21.0,13.1,14.15
+2025,-1,PSA,Twin Valley HS,70.35,22.1,21.45,13.2,13.6
+2025,-1,PIA,Central Bucks School District,77.1,25.1,21.3,15.2,15.5
+2025,-1,PSO,Old Bridge,89.5,27.9,25.5,17.7,18.4
+2025,-1,PSO,Spring-Ford HS,89.3,27.8,26.4,16.5,18.6
+2025,-1,PSO,Downingtown HS West,84.75,26.7,25.05,15.9,17.1
+2025,-1,PSO,Egg Harbor Township HS,84.0,26.8,24.6,15.3,17.3
+2025,-1,PIO,United Percussion 2,88.75,27.6,25.65,17.7,17.8
+2025,-1,PIW,United Percussion,91.35,28.3,26.55,17.7,18.8
+2025,-3,PRA(,Upper Dublin,72.75,18.9,22.8,15.35,15.7
+2025,-3,PRA(,Daniel Boone,71.025,18.375,22.2,14.95,15.5
+2025,-3,PSA,West Shore School District,87.65,27.4,26.55,16.8,16.9
+2025,-3,PSA,Pennridge,86.45,26.6,26.85,16.3,16.7
+2025,-3,PSA,Owen J Roberts,85.125,26.5,25.875,16.65,16.1
+2025,-3,PSA,Southern Regional,82.5,24.9,25.5,16.1,16.0
+2025,-3,PSA,Upper Moreland,81.15,25.5,24.75,15.2,15.7
+2025,-3,PSA,Hopewell Valley Central,78.701,23.5,24.0,15.6,15.6
+2025,-3,PSA,Bridgewater Raritan,77.901,23.8,24.15,15.25,14.7
+2025,-3,PSA,Kingsway Regional HS,76.901,22.8,24.3,15.0,14.8
+2025,-3,PSA,Souderton High School,76.901,22.7,24.9,14.7,14.6
+2025,-3,PSA,Council Rock South,76.85,22.45,23.55,14.45,16.4
+2025,-3,PSA,Upper Darby,75.7,21.85,25.65,13.7,14.5
+2025,-3,PSA,Avon Grove,73.65,23.0,22.65,14.2,13.8
+2025,-3,PSA,Odessa High School,72.8,21.9,21.9,15.8,13.2
+2025,-3,PSA,Phoenixville,72.15,21.95,23.1,13.5,13.6
+2025,-3,PSA,Coatesville,71.8,21.3,22.35,14.15,14.0
+2025,-3,PSA,Methacton,69.25,21.0,22.05,13.1,13.1
+2025,-3,PSA,Penn Manor High School,50.2,15.0,15.0,10.0,10.2
+2025,-3,ME,North Penn,86.15,27.15,26.25,16.35,16.4
+2025,-3,PIA,Central Bucks School District,75.45,23.3,23.55,14.4,14.2
+2025,-3,PSO,Old Bridge,85.65,26.6,25.95,16.9,16.2
+2025,-3,PSO,Spring-Ford HS,84.6,26.0,26.4,16.3,15.9
+2025,-3,PIO,United Percussion 2,84.0,26.5,26.1,15.6,15.8
+2025,-4,PRA(,Great Valley High School,78.5,25.05,24.15,14.1,15.2
+2025,-4,PRA(,Daniel Boone,73.825,23.925,21.6,13.4,14.9
+2025,-4,PSA,Owen J Roberts,84.95,25.5,26.85,17.2,15.4
+2025,-4,PSA,North Penn,84.8,24.6,27.3,16.2,16.7
+2025,-4,PSA,Quakertown,82.4,25.2,25.2,16.5,15.5
+2025,-4,PSA,Southern Regional,80.25,23.1,26.1,14.95,16.1
+2025,-4,PSA,Highland Regional,79.751,24.5,25.05,15.3,14.9
+2025,-4,PSA,Perkiomen Valley,78.901,23.4,24.3,14.8,16.4
+2025,-4,PSA,Pennridge,78.551,24.4,24.0,15.0,15.15
+2025,-4,PSA,Hopewell Valley Central,77.051,23.3,23.85,14.1,15.8
+2025,-4,PSA,Downingtown HS East,75.551,22.9,23.1,15.4,14.15
+2025,-4,PSA,Edison HS,74.1,21.6,22.8,14.6,15.1
+2025,-4,PSA,Upper Darby,74.1,20.5,25.5,13.6,14.5
+2025,-4,PSA,Odessa High School,72.65,22.1,21.15,15.8,13.6
+2025,-4,PSA,Council Rock South,71.35,21.0,22.95,14.0,13.4
+2025,-4,PSA,Avon Grove,70.8,22.4,21.6,12.9,13.9
+2025,-4,PSA,Methacton,69.9,21.9,21.3,13.0,13.7
+2025,-4,PSA,Twin Valley HS,69.35,19.5,22.35,13.3,14.2
+2025,-4,ME,Unionville HS,86.1,26.2,27.6,16.4,15.9
+2025,-4,PIA,Central Bucks School District,70.0,21.0,22.2,13.2,13.6
+2025,-4,PSO,Spring-Ford HS,81.05,23.9,25.35,16.2,15.6
+2025,-4,PSO,Egg Harbor Township HS,80.0,25.3,24.3,15.5,14.9
+2025,-4,PIO,Imperial Dynasty,82.7,25.6,25.8,15.3,16.0
+2025,-5,PRA(,Phoenixville,78.95,23.7,24.45,15.0,15.8
+2025,-5,PRA(,Upper Dublin,76.375,23.325,23.1,14.75,15.2
+2025,-5,ME,Avon Grove,84.3,25.5,24.3,16.6,17.9
+2025,-5,PSA,Unionville HS,82.95,23.6,25.95,16.9,16.5
+2025,-5,PSA,Egg Harbor Township HS,81.7,25.0,24.3,16.7,15.7
+2025,-5,PSA,Quakertown,81.5,25.1,25.2,16.5,14.7
+2025,-5,PSA,Upper Darby,79.9,24.6,24.75,16.25,14.3
+2025,-5,PSA,Pennridge,78.1,24.1,23.7,15.9,14.4
+2025,-5,PSA,Twin Valley HS,75.601,23.3,23.1,15.2,14.0
+2025,-5,PSA,Edison HS,75.351,22.9,23.25,16.1,13.1
+2025,-5,PSA,Coatesville,72.301,21.2,22.5,15.2,13.4
+2025,-5,PSO,Downingtown HS West,76.1,23.6,23.4,14.6,14.5
+2025,-5,PIO,Imperial Dynasty,77.05,22.2,24.75,15.1,15.0
+2025,-6,PRA(,Council Rock South,80.975,23.625,25.05,16.2,16.1
+2025,-6,PRA(,Phoenixville,75.5,22.35,22.2,15.35,15.6
+2025,-6,PRA(,Daniel Boone,72.975,22.275,22.8,13.8,14.1
+2025,-6,PRA(,Great Valley High School,72.8,21.6,23.85,12.85,14.5
+2025,-6,PRA(,Upper Dublin,70.925,21.975,21.0,13.25,14.7
+2025,-6,PSA,North Penn,80.5,24.8,24.6,15.6,15.5
+2025,-6,PSA,Unionville HS,80.45,24.3,24.75,16.3,15.1
+2025,-6,PSA,Owen J Roberts,78.8,24.5,25.5,14.4,14.4
+2025,-6,PSA,Perkiomen Valley,77.7,23.5,24.9,14.3,15.0
+2025,-6,PSA,Hopewell Valley Central,76.001,22.8,23.7,14.8,14.7
+2025,-6,PSA,Upper Moreland,72.451,22.0,22.8,13.85,13.8
+2025,-6,PSA,Pennridge,74.201,23.1,22.35,14.25,14.5
+2025,-6,PSA,Upper Darby,74.351,24.65,23.1,12.9,13.7
+2025,-6,PSA,Methacton,70.451,23.6,21.45,13.2,12.2
+2025,-6,PSA,Coatesville,69.025,21.5,22.425,12.2,12.9
+2025,-6,PSA,Souderton High School,70.2,22.1,20.55,14.15,13.4
+2025,-6,PSA,Penn Manor High School,68.1,21.2,20.1,14.0,12.8
+2025,-6,PSA,Twin Valley HS,67.4,20.3,21.6,12.4,13.1
+2025,-6,PSA,Odessa High School,66.6,20.7,20.4,13.0,12.5
+2025,-6,ME,Downingtown HS East,70.8,21.95,21.75,13.8,13.3
+2025,-6,PSO,Old Bridge,76.95,24.3,22.95,15.3,14.4
+2025,-6,PSO,Spring-Ford HS,73.15,23.5,21.15,14.3,14.2
+2025,-6,PSO,Downingtown HS West,72.65,23.0,22.35,14.1,13.2
+2025,-7,PRA(,Great Valley High School,67.825,20.775,19.8,14.15,13.1
+2025,-7,PSA,Owen J Roberts,77.25,24.1,23.25,14.5,15.4
+2025,-7,PSA,North Penn,77.15,24.2,22.65,15.4,14.9
+2025,-7,PSA,Egg Harbor Township HS,73.7,23.0,21.6,13.9,15.2
+2025,-7,PSA,Highland Regional,73.0,22.5,21.3,14.6,14.6
+2025,-7,PSA,Hopewell Valley Central,72.751,22.0,20.55,14.7,15.5
+2025,-7,PSA,Bridgewater Raritan,71.701,21.5,20.7,13.7,15.8
+2025,-7,PSA,Kingsway Regional HS,71.451,22.65,21.75,14.05,13.0
+2025,-7,PSA,Upper Moreland,72.001,22.45,22.05,13.3,14.2
+2025,-7,PSA,Downingtown HS East,70.201,21.6,21.0,13.1,14.5
+2025,-7,PSA,Coatesville,68.4,21.9,20.1,13.0,13.4
+2025,-7,PSA,Penn Manor High School,67.2,20.7,19.8,12.7,14.0
+2025,-7,PSA,Upper Dublin,62.95,19.2,19.05,11.9,12.8
+2024,0,PRA(,Avon Grove,87.9,27.15,24.6,17.45,18.7
+2024,0,PRA(,Methacton,87.1,26.55,25.65,17.3,17.6
+2024,0,PSA,Egg Harbor Township HS,92.15,27.8,28.65,17.4,18.3
+2024,0,PSA,Quakertown,89.35,26.8,28.35,16.5,17.7
+2024,0,PSA,Southern Regional,88.3,26.9,27.0,16.9,17.5
+2024,0,PSA,Unionville,92.75,27.7,28.05,18.1,18.9
+2024,0,PSA,Downingtown HS East,86.15,26.3,27.15,16.2,16.5
+2024,0,PSA,Pennridge,85.851,25.8,27.6,15.1,17.35
+2024,0,PSA,Odessa High School,83.351,25.3,25.65,16.3,16.1
+2024,0,PSA,Upper Darby,82.651,25.4,25.2,15.5,16.55
+2024,0,PSA,North Penn,82.501,25.7,26.7,15.0,15.1
+2024,0,PSA,Marple Newtown,77.7,24.3,24.6,14.6,14.2
+2024,0,PSA,Daniel Boone,73.5,23.8,24.0,12.1,13.6
+2024,0,PSA,Spring-Ford,94.45,27.7,29.25,18.7,18.8
+2024,0,PSA,Bridgewater Raritan,91.8,27.6,28.5,17.4,18.3
+2024,0,PSA,Owen J Roberts,90.05,26.1,28.65,17.2,18.1
+2024,0,PSA,Perkiomen Valley,89.9,26.0,28.2,18.1,17.6
+2024,0,PSA,Hopewell Valley Central,87.15,26.3,27.15,15.5,18.2
+2024,0,PSA,Parkland,83.151,25.3,25.65,14.8,17.4
+2024,0,PSA,Coatesville,81.751,25.0,24.15,15.8,16.8
+2024,0,PSA,Phoenixville,81.551,24.4,24.45,16.9,15.8
+2024,0,PSA,Kingsway Regional HS,81.251,25.1,24.6,15.4,16.15
+2024,0,PSA,Penn Manor High School,79.2,24.3,24.3,15.1,15.5
+2024,0,PSA,Upper Dublin,74.975,23.6,24.375,13.8,13.2
+2024,0,PIA,Central Bucks School District,81.65,24.3,25.65,15.5,16.2
+2024,0,PIA,Mission Independent,79.65,24.1,25.95,15.0,14.6
+2024,0,PSO,Old Bridge,91.0,26.8,28.8,17.4,18.0
+2024,0,PSO,Downingtown HS West,86.5,25.9,27.0,16.2,17.4
+2024,0,PSO,Highland Regional,84.95,26.2,25.95,16.7,16.1
+2024,0,PIO,United Percussion 2,91.6,27.4,28.2,17.6,18.4
+2024,0,PIW,United Percussion,94.25,28.1,28.35,19.1,18.7
+2024,-1,PRA(,Avon Grove,85.325,25.875,24.15,18.1,17.2
+2024,-1,PRA(,Methacton,84.45,24.9,25.2,17.25,17.1
+2024,-1,ME,Souderton High School,78.15,24.5,22.05,15.8,15.8
+2024,-1,ME,Edison HS,75.35,24.2,21.9,14.15,15.1
+2024,-1,PSA,Spring-Ford,93.8,27.6,28.5,18.6,19.1
+2024,-1,PSA,Unionville,91.225,26.9,27.525,18.3,18.5
+2024,-1,PSA,Bridgewater Raritan,87.85,26.3,27.0,17.4,17.15
+2024,-1,PSA,Egg Harbor Township HS,86.425,26.65,26.325,15.75,17.7
+2024,-1,PSA,Owen J Roberts,85.1,25.8,26.1,16.0,17.2
+2024,-1,PSA,Quakertown,85.076,24.5,26.925,15.9,17.75
+2024,-1,PSA,Perkiomen Valley,83.201,23.6,25.2,17.1,17.3
+2024,-1,PSA,Southern Regional,82.226,24.9,24.975,16.4,15.95
+2024,-1,PSA,Hopewell Valley Central,82.201,25.1,24.9,15.2,17.0
+2024,-1,PSA,Downingtown HS East,80.9,26.15,22.5,16.65,15.6
+2024,-1,PSA,Coatesville,79.275,22.1,25.275,16.25,15.65
+2024,-1,PSA,North Penn,79.05,24.1,25.35,14.4,15.2
+2024,-1,PSA,Phoenixville,78.55,21.4,23.1,17.45,16.6
+2024,-1,PSA,Pennridge,78.35,25.6,22.05,14.25,16.45
+2024,-1,PSA,Parkland,77.725,22.7,24.225,14.3,16.5
+2024,-1,PSA,Odessa High School,77.525,23.4,21.525,16.7,15.9
+2024,-1,PSA,Penn Manor High School,76.8,23.15,21.75,15.25,16.65
+2024,-1,PSA,Upper Darby,76.7,22.4,22.8,16.15,15.35
+2024,-1,PSA,Kingsway Regional HS,77.125,24.45,23.175,14.2,15.3
+2024,-1,PSA,Marple Newtown,75.05,22.2,22.65,14.8,15.4
+2024,-1,PSA,Upper Dublin,63.7,19.3,19.2,13.0,12.2
+2024,-1,PSA,Daniel Boone,55.7,18.2,15.0,11.0,11.5
+2024,-1,PIA,Central Bucks School District,73.2,23.2,19.8,15.6,14.6
+2024,-1,PIA,Mission Independent,72.2,23.5,19.5,15.4,13.8
+2024,-1,PSO,Old Bridge,88.8,25.9,27.3,17.2,18.4
+2024,-1,PSO,Downingtown HS West,83.5,24.5,25.5,16.0,17.5
+2024,-1,PSO,Highland Regional,82.95,25.0,25.35,15.4,17.2
+2024,-4,PRA(,Avon Grove,77.5,22.2,23.7,15.8,15.8
+2024,-4,PSA,Spring-Ford,90.65,26.7,27.75,18.0,18.2
+2024,-4,PSA,Unionville,87.45,26.0,26.85,17.2,17.4
+2024,-4,PSA,Egg Harbor Township HS,86.1,26.4,26.1,16.7,16.9
+2024,-4,PSA,Bridgewater Raritan,83.75,25.6,26.55,16.4,15.2
+2024,-4,PSA,Southern Regional,82.451,25.3,25.35,16.8,15.0
+2024,-4,PSA,Hopewell Valley Central,80.476,24.3,25.575,16.0,14.6
+2024,-4,PSA,Perkiomen Valley,79.951,22.8,24.15,16.2,16.8
+2024,-4,PSA,Kingsway Regional HS,75.551,24.8,21.75,14.6,14.4
+2024,-4,PSA,Parkland,75.451,20.8,23.55,15.6,15.5
+2024,-4,PSA,Coatesville,74.2,20.6,23.7,14.8,15.1
+2024,-4,PSA,Marple Newtown,73.65,21.7,22.95,15.0,14.0
+2024,-4,PSA,Upper Darby,72.225,20.4,23.025,15.2,13.6
+2024,-4,PSA,Daniel Boone,68.95,19.9,22.05,14.0,13.0
+2024,-4,PSA,Upper Dublin,66.1,19.3,21.0,13.4,12.4
+2024,-4,PSA,Pennridge,53.0,15.0,18.0,10.0,10.0
+2024,-4,ME,North Penn,81.15,25.1,25.05,15.4,15.6
+2024,-4,PIA,Central Bucks School District,74.8,24.0,22.2,14.8,13.8
+2024,-4,PIA,Mission Independent,70.0,22.7,20.4,14.0,12.9
+2024,-4,PSO,Old Bridge,87.3,26.0,26.1,17.5,17.7
+2024,-4,PSO,Downingtown HS West,82.9,24.6,25.2,16.4,16.7
+2024,-4,PIW,United Percussion,88.3,26.3,26.7,18.3,17.0
+2024,-5,PRA(,Methacton,77.925,21.225,24.3,15.2,17.2
+2024,-5,ME,Avon Grove,81.95,23.2,25.05,16.2,17.5
+2024,-5,PSA,Spring-Ford,87.2,26.6,27.0,16.4,17.2
+2024,-5,PSA,Owen J Roberts,84.05,25.2,26.25,16.1,16.5
+2024,-5,PSA,Southern Regional,82.375,24.5,25.275,15.7,16.9
+2024,-5,PSA,Pennridge,80.65,24.9,25.05,14.6,16.1
+2024,-5,PSA,North Penn,77.101,23.0,24.75,14.45,14.9
+2024,-5,PSA,Phoenixville,76.301,22.7,23.1,14.8,15.7
+2024,-5,PSA,Odessa High School,75.651,21.9,24.45,14.7,14.6
+2024,-5,PSA,Penn Manor High School,74.501,21.7,23.4,15.0,14.4
+2024,-5,PSA,Coatesville,73.0,22.1,22.5,14.2,14.2
+2024,-5,PSA,Upper Darby,72.7,22.95,21.45,14.3,14.0
+2024,-5,PSA,Daniel Boone,68.45,20.2,22.05,12.4,13.8
+2024,-5,PSO,Downingtown HS West,80.45,23.9,24.75,15.3,16.5
+2024,-6,PRA(,Avon Grove,80.875,25.275,23.55,14.95,17.1
+2024,-6,PRA(,Methacton,79.75,24.15,22.95,15.75,16.9
+2024,-6,PSA,Egg Harbor Township HS,83.5,25.2,24.9,16.6,16.8
+2024,-6,PSA,Highland Regional,83.2,24.95,26.25,15.6,16.4
+2024,-6,PSA,Owen J Roberts,81.5,24.1,25.5,16.2,15.7
+2024,-6,PSA,Downingtown HS West,80.9,24.9,23.7,16.5,15.8
+2024,-6,PSA,Quakertown,78.4,23.0,23.55,15.8,16.05
+2024,-6,PSA,Phoenixville,76.301,24.2,22.8,14.4,14.9
+2024,-6,PSA,North Penn,75.276,22.9,23.325,14.45,14.6
+2024,-6,PSA,Downingtown HS East,75.101,21.3,23.4,16.0,14.4
+2024,-6,PSA,Parkland,74.15,23.4,22.5,13.6,14.65
+2024,-6,PSA,Perkiomen Valley,74.0,21.6,21.9,14.9,15.6
+2024,-6,PSA,Kingsway Regional HS,72.6,22.1,19.65,14.55,16.3
+2024,-6,PSA,Pennridge,72.6,22.2,20.55,14.1,15.75
+2024,-6,PSA,Marple Newtown,71.5,21.2,22.2,14.0,14.1
+2024,-6,PSA,Odessa High School,69.8,20.5,21.15,13.9,14.25
+2024,-6,PSA,Upper Darby,74.301,23.5,21.45,14.6,14.75
+2024,-6,PSA,Daniel Boone,65.5,20.2,19.2,12.4,13.7
+2024,-6,PSA,Upper Dublin,60.8,19.1,18.6,10.9,12.2
+2024,-6,ME,Unionville,84.8,24.4,26.4,17.5,16.5
+2024,-6,PIA,Mission Independent,65.05,20.1,19.05,12.9,13.0
+2024,-6,PSO,Old Bridge,80.15,25.0,23.85,15.7,15.6
+2024,-7,PRA(,Methacton,71.0,21.9,19.8,14.4,14.9
+2024,-7,PSA,Egg Harbor Township HS,75.65,23.7,21.75,14.3,15.9
+2024,-7,PSA,Highland Regional,75.65,24.0,21.15,14.8,15.7
+2024,-7,PSA,Downingtown HS East,72.85,23.0,20.85,14.1,14.9
+2024,-7,PSA,Hopewell Valley Central,70.3,21.8,19.5,13.7,15.3
+2024,-7,PSA,Edison HS,69.3,21.4,20.1,13.3,14.5
+2024,-7,PSA,Penn Manor High School,68.801,21.1,20.1,13.6,14.0
+2024,-8,PRA(,Marple Newtown,69.575,18.375,22.2,14.7,14.3
+2024,-8,PSA,Bridgewater Raritan,78.3,23.3,23.7,15.9,15.4
+2024,-8,PSA,Downingtown HS West,78.1,22.6,24.3,15.3,15.9
+2024,-8,PSA,Owen J Roberts,77.15,22.7,23.25,15.6,15.6
+2024,-8,PSA,Quakertown,75.05,22.4,23.1,14.65,14.9
+2024,-8,PSA,Highland Regional,74.05,23.0,21.9,14.45,14.7
+2024,-8,PSA,Hopewell Valley Central,73.351,21.0,23.55,13.6,15.2
+2024,-8,PSA,Downingtown HS East,73.001,21.7,22.05,14.15,15.1
+2024,-8,PSA,North Penn,70.351,19.6,23.4,13.55,13.8
+2024,-8,PSA,Phoenixville,71.101,21.3,20.55,15.25,14.0
+2024,-8,PSA,Upper Darby,69.7,19.9,21.6,13.9,14.3
+2024,-8,PSA,Edison HS,68.2,20.9,21.15,12.65,13.5
+2024,-8,PSA,Parkland,67.875,19.65,21.525,13.5,13.2
+2024,-8,PSA,Odessa High School,66.725,19.5,20.175,13.35,13.7
+2024,-8,PSA,Penn Manor High School,65.9,20.4,20.1,12.8,12.6
+2024,-8,PSA,Coatesville,64.775,20.1,19.575,13.0,12.1
+2024,-8,PSA,Daniel Boone,62.75,18.7,19.35,12.4,12.3
+2024,-8,PSA,Upper Dublin,56.0,18.0,18.0,10.0,10.0
+2024,-8,PIA,Central Bucks School District,71.4,22.1,20.7,13.7,14.9
+2024,-9,PSA,Spring-Ford,78.05,22.3,23.85,15.9,16.0
+2024,-9,PSA,Unionville,74.8,22.2,22.8,14.7,15.1
+2024,-9,PSA,Egg Harbor Township HS,74.5,22.4,22.5,13.9,15.7
+2024,-9,PSA,Bridgewater Raritan,72.85,21.1,22.95,14.8,14.0
+2024,-9,PSA,Perkiomen Valley,69.05,20.1,20.85,14.6,13.5
+2024,-9,PSA,Coatesville,65.801,19.8,20.4,12.9,12.7
+2024,-9,ME,Southern Regional,71.5,21.2,22.2,14.4,13.7
+2024,-9,PSO,Old Bridge,72.55,21.6,22.35,15.1,13.5
+2023,0,PRA,Odessa High School,84.5,24.8,24.6,16.9,18.2
+2023,0,PRA,Marple Newtown,82.6,25.0,24.0,16.3,17.3
+2023,0,PRA,Cheltenham,80.25,23.4,23.85,15.6,17.4
+2023,0,PRA,Great Valley High School,78.2,22.5,22.5,16.5,16.7
+2023,0,PSA,Owen J Roberts,91.15,26.75,27.9,17.7,18.8
+2023,0,PSA,Unionville,91.05,27.5,26.85,17.95,18.75
+2023,0,PSA,Egg Harbor Township HS,90.225,25.85,27.375,18.45,18.55
+2023,0,PSA,Pennridge,89.525,26.9,27.675,17.4,17.55
+2023,0,PSA,Spring-Ford,89.475,26.8,26.775,18.0,17.9
+2023,0,PSA,Southern Regional,88.626,26.1,27.525,18.2,16.8
+2023,0,PSA,Perkiomen Valley,88.351,25.15,26.1,18.5,18.6
+2023,0,PSA,Cab Calloway,86.801,27.7,26.55,15.35,17.2
+2023,0,PSA,Hopewell Valley Central,86.55,26.0,25.2,16.7,18.65
+2023,0,PSA,Bridgewater Raritan,85.925,26.05,25.875,16.5,17.5
+2023,0,PSA,Highland Regional,88.276,27.3,26.625,16.9,17.45
+2023,0,PSA,Quakertown,85.325,25.2,26.025,17.1,17.0
+2023,0,PSA,Hatboro-Horsham High School,81.6,25.9,23.55,16.2,15.95
+2023,0,PSA,Downingtown HS West,81.3,24.9,25.05,15.2,16.15
+2023,0,PSA,Parkland,79.9,23.7,23.4,15.9,16.9
+2023,0,PSA,Upper Darby,82.575,24.1,25.275,15.8,17.4
+2023,0,PSA,Phoenixville,79.725,24.3,24.525,14.7,16.2
+2023,0,PSA,North Penn,79.65,24.7,24.15,15.4,15.4
+2023,0,PSA,Coatesville,78.5,23.8,24.6,15.0,15.1
+2023,0,PSA,Downingtown HS East,80.875,24.05,25.575,15.15,16.1
+2023,0,PSA,Neshaminy High School,73.375,23.5,21.675,14.1,14.1
+2023,0,PSA,Council Rock South,71.9,22.9,21.9,12.5,14.6
+2023,0,PIO,United Percussion 2,91.05,27.3,25.95,19.1,18.7
+2023,0,PIO,Camden County NJ,91.05,27.3,25.95,19.1,18.7
+2023,0,PSW,Old Bridge,89.75,26.9,26.25,18.0,18.6
+2023,0,PIW,United Percussion,92.75,27.9,27.15,18.7,19.0
+2023,-2,PRA,Odessa High School,82.55,23.9,25.35,16.6,16.7
+2023,-2,PRA,Marple Newtown,81.2,24.5,24.9,15.7,16.1
+2023,-2,PRA,Cheltenham,79.45,24.4,24.75,14.7,15.6
+2023,-2,PRA,Great Valley High School,76.8,23.1,22.5,15.8,15.4
+2023,-2,PIA,Central Bucks School District,71.5,21.5,21.0,14.5,14.5
+2023,-2,PSA,Unionville,89.3,26.6,27.15,17.4,18.15
+2023,-2,PSA,Egg Harbor Township HS,89.225,25.95,26.775,18.3,18.2
+2023,-2,PSA,Owen J Roberts,88.775,26.7,27.075,16.9,18.1
+2023,-2,PSA,Southern Regional,86.85,25.7,25.65,18.2,17.3
+2023,-2,PSA,Highland Regional,86.451,25.75,26.4,16.7,17.6
+2023,-2,PSA,Pennridge,86.351,26.2,26.1,17.1,16.95
+2023,-2,PSA,Perkiomen Valley,84.301,24.7,24.0,18.4,17.2
+2023,-2,PSA,Spring-Ford,83.976,26.25,24.525,17.05,16.15
+2023,-2,PSA,Bridgewater Raritan,83.351,26.1,24.75,16.3,16.2
+2023,-2,PSA,Cab Calloway,82.5,26.8,24.6,14.75,16.35
+2023,-2,PSA,Hopewell Valley Central,82.5,25.0,24.9,15.9,16.7
+2023,-2,PSA,Quakertown,81.475,25.55,23.775,16.85,15.3
+2023,-2,PSA,Downingtown HS East,81.15,25.35,25.05,14.65,16.1
+2023,-2,PSA,Upper Darby,79.6,24.2,23.1,15.8,16.5
+2023,-2,PSA,Hatboro-Horsham High School,78.7,24.3,22.8,16.0,15.6
+2023,-2,PSA,Downingtown HS West,76.925,23.7,21.525,15.1,16.6
+2023,-2,PSA,Parkland,76.35,22.1,23.55,15.3,15.4
+2023,-2,PSA,North Penn,73.9,23.0,21.6,14.9,14.4
+2023,-2,PSA,Phoenixville,73.575,22.5,21.825,14.45,14.8
+2023,-2,PSA,Coatesville,73.2,22.9,21.0,14.7,14.6
+2023,-2,PSA,Neshaminy High School,71.7,23.4,20.7,13.8,13.8
+2023,-2,PSA,Council Rock South,54.3,15.0,16.8,10.4,12.1
+2023,-2,PSW,Old Bridge,87.2,26.8,25.8,17.5,17.1
+2023,-3,PRA,Odessa High School,80.75,24.4,24.75,15.9,15.7
+2023,-3,PRA,Marple Newtown,78.95,23.9,23.85,16.1,15.1
+2023,-3,PRA,Cheltenham,74.05,23.4,22.95,13.5,14.2
+2023,-3,PRA,Great Valley High School,73.35,21.5,22.05,14.8,15.0
+2023,-3,PSA,Egg Harbor Township HS,85.5,26.0,26.7,16.5,16.3
+2023,-3,PSA,Southern Regional,82.55,25.1,25.35,16.0,16.1
+2023,-3,PSA,Quakertown,81.4,25.4,24.9,15.8,15.3
+2023,-3,PSA,Hopewell Valley Central,80.251,23.1,24.15,16.2,16.8
+2023,-3,PSA,Cab Calloway,80.3,26.3,23.7,15.1,15.2
+2023,-3,PSA,Upper Darby,78.351,22.5,24.75,15.2,15.9
+2023,-3,PSA,Downingtown HS West,77.351,23.5,24.45,14.4,15.0
+2023,-3,PSA,Phoenixville,73.0,22.6,21.9,14.2,14.3
+2023,-3,PSA,Neshaminy High School,72.5,22.1,22.8,13.6,14.0
+2023,-5,PRA,Great Valley High School,68.65,19.8,21.15,13.5,14.2
+2023,-5,PSA,Owen J Roberts,79.4,23.7,23.4,16.1,16.2
+2023,-5,PSA,Pennridge,78.6,22.9,24.6,15.3,15.8
+2023,-5,PSA,Highland Regional,77.95,23.5,23.55,15.8,15.1
+2023,-5,PSA,Spring-Ford,79.6,24.2,25.35,14.9,15.15
+2023,-5,PSA,Hopewell Valley Central,76.751,22.1,22.95,16.3,15.4
+2023,-5,PSA,Southern Regional,76.626,23.4,23.325,14.3,15.6
+2023,-5,PSA,Bridgewater Raritan,75.551,23.0,24.3,14.05,14.2
+2023,-5,PSA,Downingtown HS West,74.151,22.4,23.25,14.0,14.5
+2023,-5,PSA,North Penn,73.6,21.8,22.2,15.2,14.4
+2023,-5,PSA,Council Rock South,73.25,20.8,22.8,14.75,14.9
+2023,-5,PSA,Hatboro-Horsham High School,73.7,21.9,22.65,14.45,14.7
+2023,-5,PSA,Coatesville,70.2,20.4,21.9,13.9,14.0
+2023,-5,PSA,Parkland,67.95,20.7,21.45,12.4,13.4
+2023,-5,PSA,Phoenixville,68.3,20.0,20.85,13.65,13.8
+2023,-5,PIA,Central Bucks School District,69.3,20.1,21.3,13.7,14.2
+2023,-6,PRA,Odessa High School,75.95,23.0,22.65,15.4,14.9
+2023,-6,PRA,Phoenixville,73.25,21.9,22.05,14.5,14.8
+2023,-6,PRA,Plymouth Whitemarsh,71.35,19.8,20.55,15.1,15.9
+2023,-6,PRA,Marple Newtown,69.65,20.6,22.35,13.3,13.4
+2023,-6,PRA,Cheltenham,68.001,20.9,20.7,12.2,14.2
+2023,-6,PRA,Great Valley High School,67.401,20.2,20.1,13.0,14.1
+2023,-6,PSA,Owen J Roberts,81.95,23.9,24.75,16.4,16.9
+2023,-6,PSA,Egg Harbor Township HS,78.55,22.8,24.15,15.7,15.9
+2023,-6,PSA,Downingtown HS East,77.8,24.9,22.8,15.0,15.1
+2023,-6,PSA,Highland Regional,77.1,21.0,23.55,16.25,16.3
+2023,-6,PSA,Pennridge,75.15,22.0,22.35,15.3,15.5
+2023,-6,PSA,Cab Calloway,74.901,22.5,22.05,14.95,15.4
+2023,-6,PSA,Quakertown,73.651,21.4,22.95,14.6,14.7
+2023,-6,ME,Unionville,80.95,23.6,23.85,16.9,16.6
+2023,-6,PSO,Old Bridge,87.65,26.9,26.85,17.0,16.9
+2023,-7,PRA,Parkland,71.6,22.0,22.8,13.4,13.4
+2023,-7,PRA,Coatesville,71.15,21.1,20.85,14.6,14.6
+2023,-7,PRA,Odessa High School,69.9,20.4,21.3,14.2,14.0
+2023,-7,PRA,Marple Newtown,64.3,20.1,19.2,12.6,12.4
+2023,-7,PRA,Plymouth Whitemarsh,66.55,19.7,20.25,13.3,13.3
+2023,-7,PSA,Unionville,77.975,23.5,22.275,16.4,15.8
+2023,-7,PSA,Owen J Roberts,77.5,23.2,24.3,14.5,15.5
+2023,-7,PSA,Upper Darby,75.3,21.4,23.1,15.6,15.2
+2023,-7,PSA,Egg Harbor Township HS,75.6,21.0,23.55,15.45,15.6
+2023,-7,PSA,Perkiomen Valley,75.85,22.1,22.35,16.1,15.3
+2023,-7,PSA,North Penn,71.976,22.4,21.825,14.35,13.4
+2023,-7,PSA,Pennridge,71.651,21.5,22.5,14.15,13.5
+2023,-7,PSA,Downingtown HS West,71.151,20.3,21.75,14.8,14.3
+2023,-7,PSA,Cab Calloway,68.101,19.5,21.3,13.7,13.6
+2023,-7,PSA,Hopewell Valley Central,68.0,20.6,18.9,14.7,13.8
+2023,-7,PSA,Neshaminy High School,66.15,19.8,20.25,13.2,12.9
+2023,-7,ME,Downingtown HS East,73.25,22.1,22.05,14.6,14.5
+2023,-7,PIA,Central Bucks School District,67.45,20.6,19.05,14.2,13.6
+2023,-8,PRA,Council Rock South,71.5,19.4,20.7,15.3,16.1
+2023,-8,PRA,Coatesville,67.0,19.7,19.5,14.9,12.9
+2023,-8,PRA,Cheltenham,60.55,18.5,18.75,11.2,12.1
+2023,-8,PRA,Parkland,62.75,18.2,18.45,12.9,13.2
+2023,-8,PSA,Unionville,75.15,23.7,20.55,15.7,15.2
+2023,-8,PSA,Spring-Ford,76.15,23.0,22.35,15.3,15.5
+2023,-8,PSA,Hopewell Valley Central,70.95,21.0,22.05,14.3,13.6
+2023,-8,PSA,Upper Darby,72.0,21.6,20.4,14.9,15.1
+2023,-8,PSA,North Penn,68.551,20.8,20.85,13.6,13.3
+2023,-8,PSA,Bridgewater Raritan,69.351,21.9,18.75,13.9,14.8
+2023,-8,PSA,Downingtown HS East,70.8,23.4,19.2,14.1,14.1
+2023,-8,PSA,Quakertown,68.151,20.7,19.05,14.6,13.8
+2023,-8,PSA,Neshaminy High School,64.851,20.0,19.35,13.1,12.4
+2023,-8,ME,Hatboro-Horsham High School,72.5,22.5,21.0,14.6,14.4
+2023,-8,PSO,Old Bridge,77.95,23.2,22.65,16.0,16.1
+2023,-9,PRA,Hatboro-Horsham High School,71.95,23.0,17.85,15.6,15.5
+2023,-9,PRA,Coatesville,66.8,22.0,16.2,14.2,14.4
+2023,-9,PSA,Owen J Roberts,71.75,21.2,21.15,13.9,15.5
+2023,-9,PSA,Spring-Ford,71.7,22.6,20.4,14.0,14.7
+2023,-9,PSA,Southern Regional,69.85,20.5,20.25,14.7,14.4
+2023,-9,PSA,Bridgewater Raritan,67.101,20.3,19.8,13.7,13.3
+2023,-9,PSA,Perkiomen Valley,67.5,20.2,19.5,13.8,14.0
+2023,-9,PSA,Egg Harbor Township HS,65.051,19.8,18.15,12.9,14.2
+2023,-9,PSA,Highland Regional,67.201,19.6,19.2,13.5,14.9
+2023,-9,PSO,Fair Lawn,70.85,21.2,21.75,13.8,14.1
+2023,-9,PSOE,Old Bridge,77.1,23.6,23.1,14.7,15.7
+2024,0,PSA,Spring-Ford,78.05,22.3,23.85,15.9,16.0
+2024,0,PSA,Unionville,74.8,22.2,22.8,14.7,15.1
+2024,0,PSA,Egg Harbor Township HS,74.5,22.4,22.5,13.9,15.7
+2024,0,PSA,Bridgewater Raritan,72.85,21.1,22.95,14.8,14.0
+2024,0,PSA,Perkiomen Valley,69.05,20.1,20.85,14.6,13.5
+2024,0,PSA,Coatesville,65.801,19.8,20.4,12.9,12.7
+2024,0,ME,Southern Regional,71.5,21.2,22.2,14.4,13.7
+2024,0,PSO,Old Bridge,72.55,21.6,22.35,15.1,13.5
+2024,1,PRA(,Marple Newtown,69.575,18.375,22.2,14.7,14.3
+2024,1,PSA,Bridgewater Raritan,78.3,23.3,23.7,15.9,15.4
+2024,1,PSA,Downingtown HS West,78.1,22.6,24.3,15.3,15.9
+2024,1,PSA,Owen J Roberts,77.15,22.7,23.25,15.6,15.6
+2024,1,PSA,Quakertown,75.05,22.4,23.1,14.65,14.9
+2024,1,PSA,Highland Regional,74.05,23.0,21.9,14.45,14.7
+2024,1,PSA,Hopewell Valley Central,73.351,21.0,23.55,13.6,15.2
+2024,1,PSA,Downingtown HS East,73.001,21.7,22.05,14.15,15.1
+2024,1,PSA,North Penn,70.351,19.6,23.4,13.55,13.8
+2024,1,PSA,Phoenixville,71.101,21.3,20.55,15.25,14.0
+2024,1,PSA,Upper Darby,69.7,19.9,21.6,13.9,14.3
+2024,1,PSA,Edison HS,68.2,20.9,21.15,12.65,13.5
+2024,1,PSA,Parkland,67.875,19.65,21.525,13.5,13.2
+2024,1,PSA,Odessa High School,66.725,19.5,20.175,13.35,13.7
+2024,1,PSA,Penn Manor High School,65.9,20.4,20.1,12.8,12.6
+2024,1,PSA,Coatesville,64.775,20.1,19.575,13.0,12.1
+2024,1,PSA,Daniel Boone,62.75,18.7,19.35,12.4,12.3
+2024,1,PSA,Upper Dublin,56.0,18.0,18.0,10.0,10.0
+2024,1,PIA,Central Bucks School District,71.4,22.1,20.7,13.7,14.9
+2024,2,PRA(,Methacton,71.0,21.9,19.8,14.4,14.9
+2024,2,PSA,Egg Harbor Township HS,75.65,23.7,21.75,14.3,15.9
+2024,2,PSA,Highland Regional,75.65,24.0,21.15,14.8,15.7
+2024,2,PSA,Downingtown HS East,72.85,23.0,20.85,14.1,14.9
+2024,2,PSA,Hopewell Valley Central,70.3,21.8,19.5,13.7,15.3
+2024,2,PSA,Edison HS,69.3,21.4,20.1,13.3,14.5
+2024,2,PSA,Penn Manor High School,68.801,21.1,20.1,13.6,14.0
+2024,3,PRA(,Avon Grove,80.875,25.275,23.55,14.95,17.1
+2024,3,PRA(,Methacton,79.75,24.15,22.95,15.75,16.9
+2024,3,PSA,Egg Harbor Township HS,83.5,25.2,24.9,16.6,16.8
+2024,3,PSA,Highland Regional,83.2,24.95,26.25,15.6,16.4
+2024,3,PSA,Owen J Roberts,81.5,24.1,25.5,16.2,15.7
+2024,3,PSA,Downingtown HS West,80.9,24.9,23.7,16.5,15.8
+2024,3,PSA,Quakertown,78.4,23.0,23.55,15.8,16.05
+2024,3,PSA,Phoenixville,76.301,24.2,22.8,14.4,14.9
+2024,3,PSA,North Penn,75.276,22.9,23.325,14.45,14.6
+2024,3,PSA,Downingtown HS East,75.101,21.3,23.4,16.0,14.4
+2024,3,PSA,Parkland,74.15,23.4,22.5,13.6,14.65
+2024,3,PSA,Perkiomen Valley,74.0,21.6,21.9,14.9,15.6
+2024,3,PSA,Kingsway Regional HS,72.6,22.1,19.65,14.55,16.3
+2024,3,PSA,Pennridge,72.6,22.2,20.55,14.1,15.75
+2024,3,PSA,Marple Newtown,71.5,21.2,22.2,14.0,14.1
+2024,3,PSA,Odessa High School,69.8,20.5,21.15,13.9,14.25
+2024,3,PSA,Upper Darby,74.301,23.5,21.45,14.6,14.75
+2024,3,PSA,Daniel Boone,65.5,20.2,19.2,12.4,13.7
+2024,3,PSA,Upper Dublin,60.8,19.1,18.6,10.9,12.2
+2024,3,ME,Unionville,84.8,24.4,26.4,17.5,16.5
+2024,3,PIA,Mission Independent,65.05,20.1,19.05,12.9,13.0
+2024,3,PSO,Old Bridge,80.15,25.0,23.85,15.7,15.6
+2024,4,PRA(,Methacton,77.925,21.225,24.3,15.2,17.2
+2024,4,ME,Avon Grove,81.95,23.2,25.05,16.2,17.5
+2024,4,PSA,Spring-Ford,87.2,26.6,27.0,16.4,17.2
+2024,4,PSA,Owen J Roberts,84.05,25.2,26.25,16.1,16.5
+2024,4,PSA,Southern Regional,82.375,24.5,25.275,15.7,16.9
+2024,4,PSA,Pennridge,80.65,24.9,25.05,14.6,16.1
+2024,4,PSA,North Penn,77.101,23.0,24.75,14.45,14.9
+2024,4,PSA,Phoenixville,76.301,22.7,23.1,14.8,15.7
+2024,4,PSA,Odessa High School,75.651,21.9,24.45,14.7,14.6
+2024,4,PSA,Penn Manor High School,74.501,21.7,23.4,15.0,14.4
+2024,4,PSA,Coatesville,73.0,22.1,22.5,14.2,14.2
+2024,4,PSA,Upper Darby,72.7,22.95,21.45,14.3,14.0
+2024,4,PSA,Daniel Boone,68.45,20.2,22.05,12.4,13.8
+2024,4,PSO,Downingtown HS West,80.45,23.9,24.75,15.3,16.5
+2024,5,PRA(,Avon Grove,77.5,22.2,23.7,15.8,15.8
+2024,5,PSA,Spring-Ford,90.65,26.7,27.75,18.0,18.2
+2024,5,PSA,Unionville,87.45,26.0,26.85,17.2,17.4
+2024,5,PSA,Egg Harbor Township HS,86.1,26.4,26.1,16.7,16.9
+2024,5,PSA,Bridgewater Raritan,83.75,25.6,26.55,16.4,15.2
+2024,5,PSA,Southern Regional,82.451,25.3,25.35,16.8,15.0
+2024,5,PSA,Hopewell Valley Central,80.476,24.3,25.575,16.0,14.6
+2024,5,PSA,Perkiomen Valley,79.951,22.8,24.15,16.2,16.8
+2024,5,PSA,Kingsway Regional HS,75.551,24.8,21.75,14.6,14.4
+2024,5,PSA,Parkland,75.451,20.8,23.55,15.6,15.5
+2024,5,PSA,Coatesville,74.2,20.6,23.7,14.8,15.1
+2024,5,PSA,Marple Newtown,73.65,21.7,22.95,15.0,14.0
+2024,5,PSA,Upper Darby,72.225,20.4,23.025,15.2,13.6
+2024,5,PSA,Daniel Boone,68.95,19.9,22.05,14.0,13.0
+2024,5,PSA,Upper Dublin,66.1,19.3,21.0,13.4,12.4
+2024,5,PSA,Pennridge,53.0,15.0,18.0,10.0,10.0
+2024,5,ME,North Penn,81.15,25.1,25.05,15.4,15.6
+2024,5,PIA,Central Bucks School District,74.8,24.0,22.2,14.8,13.8
+2024,5,PIA,Mission Independent,70.0,22.7,20.4,14.0,12.9
+2024,5,PSO,Old Bridge,87.3,26.0,26.1,17.5,17.7
+2024,5,PSO,Downingtown HS West,82.9,24.6,25.2,16.4,16.7
+2024,5,PIW,United Percussion,88.3,26.3,26.7,18.3,17.0
+2024,8,PRA(,Avon Grove,85.325,25.875,24.15,18.1,17.2
+2024,8,PRA(,Methacton,84.45,24.9,25.2,17.25,17.1
+2024,8,ME,Souderton High School,78.15,24.5,22.05,15.8,15.8
+2024,8,ME,Edison HS,75.35,24.2,21.9,14.15,15.1
+2024,8,PSA,Spring-Ford,93.8,27.6,28.5,18.6,19.1
+2024,8,PSA,Unionville,91.225,26.9,27.525,18.3,18.5
+2024,8,PSA,Bridgewater Raritan,87.85,26.3,27.0,17.4,17.15
+2024,8,PSA,Egg Harbor Township HS,86.425,26.65,26.325,15.75,17.7
+2024,8,PSA,Owen J Roberts,85.1,25.8,26.1,16.0,17.2
+2024,8,PSA,Quakertown,85.076,24.5,26.925,15.9,17.75
+2024,8,PSA,Perkiomen Valley,83.201,23.6,25.2,17.1,17.3
+2024,8,PSA,Southern Regional,82.226,24.9,24.975,16.4,15.95
+2024,8,PSA,Hopewell Valley Central,82.201,25.1,24.9,15.2,17.0
+2024,8,PSA,Downingtown HS East,80.9,26.15,22.5,16.65,15.6
+2024,8,PSA,Coatesville,79.275,22.1,25.275,16.25,15.65
+2024,8,PSA,North Penn,79.05,24.1,25.35,14.4,15.2
+2024,8,PSA,Phoenixville,78.55,21.4,23.1,17.45,16.6
+2024,8,PSA,Pennridge,78.35,25.6,22.05,14.25,16.45
+2024,8,PSA,Parkland,77.725,22.7,24.225,14.3,16.5
+2024,8,PSA,Odessa High School,77.525,23.4,21.525,16.7,15.9
+2024,8,PSA,Penn Manor High School,76.8,23.15,21.75,15.25,16.65
+2024,8,PSA,Upper Darby,76.7,22.4,22.8,16.15,15.35
+2024,8,PSA,Kingsway Regional HS,77.125,24.45,23.175,14.2,15.3
+2024,8,PSA,Marple Newtown,75.05,22.2,22.65,14.8,15.4
+2024,8,PSA,Upper Dublin,63.7,19.3,19.2,13.0,12.2
+2024,8,PSA,Daniel Boone,55.7,18.2,15.0,11.0,11.5
+2024,8,PIA,Central Bucks School District,73.2,23.2,19.8,15.6,14.6
+2024,8,PIA,Mission Independent,72.2,23.5,19.5,15.4,13.8
+2024,8,PSO,Old Bridge,88.8,25.9,27.3,17.2,18.4
+2024,8,PSO,Downingtown HS West,83.5,24.5,25.5,16.0,17.5
+2024,8,PSO,Highland Regional,82.95,25.0,25.35,15.4,17.2
+2024,9,PRA(,Avon Grove,87.9,27.15,24.6,17.45,18.7
+2024,9,PRA(,Methacton,87.1,26.55,25.65,17.3,17.6
+2024,9,PSA,Egg Harbor Township HS,92.15,27.8,28.65,17.4,18.3
+2024,9,PSA,Quakertown,89.35,26.8,28.35,16.5,17.7
+2024,9,PSA,Southern Regional,88.3,26.9,27.0,16.9,17.5
+2024,9,PSA,Unionville,92.75,27.7,28.05,18.1,18.9
+2024,9,PSA,Downingtown HS East,86.15,26.3,27.15,16.2,16.5
+2024,9,PSA,Pennridge,85.851,25.8,27.6,15.1,17.35
+2024,9,PSA,Odessa High School,83.351,25.3,25.65,16.3,16.1
+2024,9,PSA,Upper Darby,82.651,25.4,25.2,15.5,16.55
+2024,9,PSA,North Penn,82.501,25.7,26.7,15.0,15.1
+2024,9,PSA,Marple Newtown,77.7,24.3,24.6,14.6,14.2
+2024,9,PSA,Daniel Boone,73.5,23.8,24.0,12.1,13.6
+2024,9,PSA,Spring-Ford,94.45,27.7,29.25,18.7,18.8
+2024,9,PSA,Bridgewater Raritan,91.8,27.6,28.5,17.4,18.3
+2024,9,PSA,Owen J Roberts,90.05,26.1,28.65,17.2,18.1
+2024,9,PSA,Perkiomen Valley,89.9,26.0,28.2,18.1,17.6
+2024,9,PSA,Hopewell Valley Central,87.15,26.3,27.15,15.5,18.2
+2024,9,PSA,Parkland,83.151,25.3,25.65,14.8,17.4
+2024,9,PSA,Coatesville,81.751,25.0,24.15,15.8,16.8
+2024,9,PSA,Phoenixville,81.551,24.4,24.45,16.9,15.8
+2024,9,PSA,Kingsway Regional HS,81.251,25.1,24.6,15.4,16.15
+2024,9,PSA,Penn Manor High School,79.2,24.3,24.3,15.1,15.5
+2024,9,PSA,Upper Dublin,74.975,23.6,24.375,13.8,13.2
+2024,9,PIA,Central Bucks School District,81.65,24.3,25.65,15.5,16.2
+2024,9,PIA,Mission Independent,79.65,24.1,25.95,15.0,14.6
+2024,9,PSO,Old Bridge,91.0,26.8,28.8,17.4,18.0
+2024,9,PSO,Downingtown HS West,86.5,25.9,27.0,16.2,17.4
+2024,9,PSO,Highland Regional,84.95,26.2,25.95,16.7,16.1
+2024,9,PIO,United Percussion 2,91.6,27.4,28.2,17.6,18.4
+2024,9,PIW,United Percussion,94.25,28.1,28.35,19.1,18.7
+2023,0,PRA,Hatboro-Horsham High School,71.95,23.0,17.85,15.6,15.5
+2023,0,PRA,Coatesville,66.8,22.0,16.2,14.2,14.4
+2023,0,PSA,Owen J Roberts,71.75,21.2,21.15,13.9,15.5
+2023,0,PSA,Spring-Ford,71.7,22.6,20.4,14.0,14.7
+2023,0,PSA,Southern Regional,69.85,20.5,20.25,14.7,14.4
+2023,0,PSA,Bridgewater Raritan,67.101,20.3,19.8,13.7,13.3
+2023,0,PSA,Perkiomen Valley,67.5,20.2,19.5,13.8,14.0
+2023,0,PSA,Egg Harbor Township HS,65.051,19.8,18.15,12.9,14.2
+2023,0,PSA,Highland Regional,67.201,19.6,19.2,13.5,14.9
+2023,0,PSO,Fair Lawn,70.85,21.2,21.75,13.8,14.1
+2023,0,PSOE,Old Bridge,77.1,23.6,23.1,14.7,15.7
+2023,1,PRA,Council Rock South,71.5,19.4,20.7,15.3,16.1
+2023,1,PRA,Coatesville,67.0,19.7,19.5,14.9,12.9
+2023,1,PRA,Cheltenham,60.55,18.5,18.75,11.2,12.1
+2023,1,PRA,Parkland,62.75,18.2,18.45,12.9,13.2
+2023,1,PSA,Unionville,75.15,23.7,20.55,15.7,15.2
+2023,1,PSA,Spring-Ford,76.15,23.0,22.35,15.3,15.5
+2023,1,PSA,Hopewell Valley Central,70.95,21.0,22.05,14.3,13.6
+2023,1,PSA,Upper Darby,72.0,21.6,20.4,14.9,15.1
+2023,1,PSA,North Penn,68.551,20.8,20.85,13.6,13.3
+2023,1,PSA,Bridgewater Raritan,69.351,21.9,18.75,13.9,14.8
+2023,1,PSA,Downingtown HS East,70.8,23.4,19.2,14.1,14.1
+2023,1,PSA,Quakertown,68.151,20.7,19.05,14.6,13.8
+2023,1,PSA,Neshaminy High School,64.851,20.0,19.35,13.1,12.4
+2023,1,ME,Hatboro-Horsham High School,72.5,22.5,21.0,14.6,14.4
+2023,1,PSO,Old Bridge,77.95,23.2,22.65,16.0,16.1
+2023,2,PRA,Parkland,71.6,22.0,22.8,13.4,13.4
+2023,2,PRA,Coatesville,71.15,21.1,20.85,14.6,14.6
+2023,2,PRA,Odessa High School,69.9,20.4,21.3,14.2,14.0
+2023,2,PRA,Marple Newtown,64.3,20.1,19.2,12.6,12.4
+2023,2,PRA,Plymouth Whitemarsh,66.55,19.7,20.25,13.3,13.3
+2023,2,PSA,Unionville,77.975,23.5,22.275,16.4,15.8
+2023,2,PSA,Owen J Roberts,77.5,23.2,24.3,14.5,15.5
+2023,2,PSA,Upper Darby,75.3,21.4,23.1,15.6,15.2
+2023,2,PSA,Egg Harbor Township HS,75.6,21.0,23.55,15.45,15.6
+2023,2,PSA,Perkiomen Valley,75.85,22.1,22.35,16.1,15.3
+2023,2,PSA,North Penn,71.976,22.4,21.825,14.35,13.4
+2023,2,PSA,Pennridge,71.651,21.5,22.5,14.15,13.5
+2023,2,PSA,Downingtown HS West,71.151,20.3,21.75,14.8,14.3
+2023,2,PSA,Cab Calloway,68.101,19.5,21.3,13.7,13.6
+2023,2,PSA,Hopewell Valley Central,68.0,20.6,18.9,14.7,13.8
+2023,2,PSA,Neshaminy High School,66.15,19.8,20.25,13.2,12.9
+2023,2,ME,Downingtown HS East,73.25,22.1,22.05,14.6,14.5
+2023,2,PIA,Central Bucks School District,67.45,20.6,19.05,14.2,13.6
+2023,3,PRA,Odessa High School,75.95,23.0,22.65,15.4,14.9
+2023,3,PRA,Phoenixville,73.25,21.9,22.05,14.5,14.8
+2023,3,PRA,Plymouth Whitemarsh,71.35,19.8,20.55,15.1,15.9
+2023,3,PRA,Marple Newtown,69.65,20.6,22.35,13.3,13.4
+2023,3,PRA,Cheltenham,68.001,20.9,20.7,12.2,14.2
+2023,3,PRA,Great Valley High School,67.401,20.2,20.1,13.0,14.1
+2023,3,PSA,Owen J Roberts,81.95,23.9,24.75,16.4,16.9
+2023,3,PSA,Egg Harbor Township HS,78.55,22.8,24.15,15.7,15.9
+2023,3,PSA,Downingtown HS East,77.8,24.9,22.8,15.0,15.1
+2023,3,PSA,Highland Regional,77.1,21.0,23.55,16.25,16.3
+2023,3,PSA,Pennridge,75.15,22.0,22.35,15.3,15.5
+2023,3,PSA,Cab Calloway,74.901,22.5,22.05,14.95,15.4
+2023,3,PSA,Quakertown,73.651,21.4,22.95,14.6,14.7
+2023,3,ME,Unionville,80.95,23.6,23.85,16.9,16.6
+2023,3,PSO,Old Bridge,87.65,26.9,26.85,17.0,16.9
+2023,4,PRA,Great Valley High School,68.65,19.8,21.15,13.5,14.2
+2023,4,PSA,Owen J Roberts,79.4,23.7,23.4,16.1,16.2
+2023,4,PSA,Pennridge,78.6,22.9,24.6,15.3,15.8
+2023,4,PSA,Highland Regional,77.95,23.5,23.55,15.8,15.1
+2023,4,PSA,Spring-Ford,79.6,24.2,25.35,14.9,15.15
+2023,4,PSA,Hopewell Valley Central,76.751,22.1,22.95,16.3,15.4
+2023,4,PSA,Southern Regional,76.626,23.4,23.325,14.3,15.6
+2023,4,PSA,Bridgewater Raritan,75.551,23.0,24.3,14.05,14.2
+2023,4,PSA,Downingtown HS West,74.151,22.4,23.25,14.0,14.5
+2023,4,PSA,North Penn,73.6,21.8,22.2,15.2,14.4
+2023,4,PSA,Council Rock South,73.25,20.8,22.8,14.75,14.9
+2023,4,PSA,Hatboro-Horsham High School,73.7,21.9,22.65,14.45,14.7
+2023,4,PSA,Coatesville,70.2,20.4,21.9,13.9,14.0
+2023,4,PSA,Parkland,67.95,20.7,21.45,12.4,13.4
+2023,4,PSA,Phoenixville,68.3,20.0,20.85,13.65,13.8
+2023,4,PIA,Central Bucks School District,69.3,20.1,21.3,13.7,14.2
+2023,6,PRA,Odessa High School,80.75,24.4,24.75,15.9,15.7
+2023,6,PRA,Marple Newtown,78.95,23.9,23.85,16.1,15.1
+2023,6,PRA,Cheltenham,74.05,23.4,22.95,13.5,14.2
+2023,6,PRA,Great Valley High School,73.35,21.5,22.05,14.8,15.0
+2023,6,PSA,Egg Harbor Township HS,85.5,26.0,26.7,16.5,16.3
+2023,6,PSA,Southern Regional,82.55,25.1,25.35,16.0,16.1
+2023,6,PSA,Quakertown,81.4,25.4,24.9,15.8,15.3
+2023,6,PSA,Hopewell Valley Central,80.251,23.1,24.15,16.2,16.8
+2023,6,PSA,Cab Calloway,80.3,26.3,23.7,15.1,15.2
+2023,6,PSA,Upper Darby,78.351,22.5,24.75,15.2,15.9
+2023,6,PSA,Downingtown HS West,77.351,23.5,24.45,14.4,15.0
+2023,6,PSA,Phoenixville,73.0,22.6,21.9,14.2,14.3
+2023,6,PSA,Neshaminy High School,72.5,22.1,22.8,13.6,14.0
+2023,7,PRA,Odessa High School,82.55,23.9,25.35,16.6,16.7
+2023,7,PRA,Marple Newtown,81.2,24.5,24.9,15.7,16.1
+2023,7,PRA,Cheltenham,79.45,24.4,24.75,14.7,15.6
+2023,7,PRA,Great Valley High School,76.8,23.1,22.5,15.8,15.4
+2023,7,PIA,Central Bucks School District,71.5,21.5,21.0,14.5,14.5
+2023,7,PSA,Unionville,89.3,26.6,27.15,17.4,18.15
+2023,7,PSA,Egg Harbor Township HS,89.225,25.95,26.775,18.3,18.2
+2023,7,PSA,Owen J Roberts,88.775,26.7,27.075,16.9,18.1
+2023,7,PSA,Southern Regional,86.85,25.7,25.65,18.2,17.3
+2023,7,PSA,Highland Regional,86.451,25.75,26.4,16.7,17.6
+2023,7,PSA,Pennridge,86.351,26.2,26.1,17.1,16.95
+2023,7,PSA,Perkiomen Valley,84.301,24.7,24.0,18.4,17.2
+2023,7,PSA,Spring-Ford,83.976,26.25,24.525,17.05,16.15
+2023,7,PSA,Bridgewater Raritan,83.351,26.1,24.75,16.3,16.2
+2023,7,PSA,Cab Calloway,82.5,26.8,24.6,14.75,16.35
+2023,7,PSA,Hopewell Valley Central,82.5,25.0,24.9,15.9,16.7
+2023,7,PSA,Quakertown,81.475,25.55,23.775,16.85,15.3
+2023,7,PSA,Downingtown HS East,81.15,25.35,25.05,14.65,16.1
+2023,7,PSA,Upper Darby,79.6,24.2,23.1,15.8,16.5
+2023,7,PSA,Hatboro-Horsham High School,78.7,24.3,22.8,16.0,15.6
+2023,7,PSA,Downingtown HS West,76.925,23.7,21.525,15.1,16.6
+2023,7,PSA,Parkland,76.35,22.1,23.55,15.3,15.4
+2023,7,PSA,North Penn,73.9,23.0,21.6,14.9,14.4
+2023,7,PSA,Phoenixville,73.575,22.5,21.825,14.45,14.8
+2023,7,PSA,Coatesville,73.2,22.9,21.0,14.7,14.6
+2023,7,PSA,Neshaminy High School,71.7,23.4,20.7,13.8,13.8
+2023,7,PSA,Council Rock South,54.3,15.0,16.8,10.4,12.1
+2023,7,PSW,Old Bridge,87.2,26.8,25.8,17.5,17.1
+2023,9,PRA,Odessa High School,84.5,24.8,24.6,16.9,18.2
+2023,9,PRA,Marple Newtown,82.6,25.0,24.0,16.3,17.3
+2023,9,PRA,Cheltenham,80.25,23.4,23.85,15.6,17.4
+2023,9,PRA,Great Valley High School,78.2,22.5,22.5,16.5,16.7
+2023,9,PSA,Owen J Roberts,91.15,26.75,27.9,17.7,18.8
+2023,9,PSA,Unionville,91.05,27.5,26.85,17.95,18.75
+2023,9,PSA,Egg Harbor Township HS,90.225,25.85,27.375,18.45,18.55
+2023,9,PSA,Pennridge,89.525,26.9,27.675,17.4,17.55
+2023,9,PSA,Spring-Ford,89.475,26.8,26.775,18.0,17.9
+2023,9,PSA,Southern Regional,88.626,26.1,27.525,18.2,16.8
+2023,9,PSA,Perkiomen Valley,88.351,25.15,26.1,18.5,18.6
+2023,9,PSA,Cab Calloway,86.801,27.7,26.55,15.35,17.2
+2023,9,PSA,Hopewell Valley Central,86.55,26.0,25.2,16.7,18.65
+2023,9,PSA,Bridgewater Raritan,85.925,26.05,25.875,16.5,17.5
+2023,9,PSA,Highland Regional,88.276,27.3,26.625,16.9,17.45
+2023,9,PSA,Quakertown,85.325,25.2,26.025,17.1,17.0
+2023,9,PSA,Hatboro-Horsham High School,81.6,25.9,23.55,16.2,15.95
+2023,9,PSA,Downingtown HS West,81.3,24.9,25.05,15.2,16.15
+2023,9,PSA,Parkland,79.9,23.7,23.4,15.9,16.9
+2023,9,PSA,Upper Darby,82.575,24.1,25.275,15.8,17.4
+2023,9,PSA,Phoenixville,79.725,24.3,24.525,14.7,16.2
+2023,9,PSA,North Penn,79.65,24.7,24.15,15.4,15.4
+2023,9,PSA,Coatesville,78.5,23.8,24.6,15.0,15.1
+2023,9,PSA,Downingtown HS East,80.875,24.05,25.575,15.15,16.1
+2023,9,PSA,Neshaminy High School,73.375,23.5,21.675,14.1,14.1
+2023,9,PSA,Council Rock South,71.9,22.9,21.9,12.5,14.6
+2023,9,PIO,United Percussion 2,91.05,27.3,25.95,19.1,18.7
+2023,9,PIO,Camden County NJ,91.05,27.3,25.95,19.1,18.7
+2023,9,PSW,Old Bridge,89.75,26.9,26.25,18.0,18.6
+2023,9,PIW,United Percussion,92.75,27.9,27.15,18.7,19.0
 2023,0,PSA,Plainfield Combined School,82.45,24.15,16.4,25.4,16.5
 2023,0,PSA,Lake Central HS,77.65,23.25,15.7,23.4,15.3
 2023,0,PSA,Minooka Community HS,75.8,23.7,14.7,23.3,14.1
@@ -4623,6 +5461,44 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,4,PIO,Tri-City Percussion,77.35,23.1,15.1,23.65,15.5
 2026,4,PSW,James Logan HS,88.05,26.7,18.25,25.7,17.4
 2026,4,PSW,Saratoga HS,86.175,26.025,17.8,25.95,16.4
+2026,4,PSA,Temple City HS,85.825,25.875,17.85,24.55,17.55
+2026,4,PSA,Trabuco Hills HS,83.875,25.125,16.75,25.1,16.9
+2026,4,PSA,Helix Charter High School,82.75,24.9,17.05,24.15,16.65
+2026,4,PSA,Lemoore HS,80.65,24.9,16.55,23.05,16.15
+2026,4,PIA,ECR Independent,80.175,24.825,16.25,23.25,15.85
+2026,4,PIA,Cornerstone Percussion,73.275,21.975,14.8,21.45,15.05
+2026,4,PSCO,Chaffey HS,86.55,44.6,45.0,41.4,42.1
+2026,4,PSCO,Notre Dame HS,82.7,43.6,41.9,39.6,40.3
+2026,4,PSCW,Vista Murrieta HS,90.0,47.7,44.1,44.0,44.2
+2026,4,PSCW,Ayala HS,90.05,48.2,44.0,43.6,44.3
+2026,4,PSO,Great Oak HS,88.325,27.375,17.95,25.1,17.9
+2026,4,PSO,Pacifica HS,83.775,25.35,16.875,24.45,17.1
+2026,4,PSO,Arbor View HS,83.65,26.1,17.0,23.25,17.3
+2026,4,PSO,Rancho Cucamonga HS,86.35,26.4,17.55,24.45,17.95
+2026,4,PSO,Chino HS,81.175,24.825,16.9,22.85,16.6
+2026,4,PSO,Liberty HS (CA),79.526,24.825,16.4,22.3,16.0
+2026,4,PIO,Bakersfield College,86.65,25.65,18.05,25.2,17.75
+2026,4,PIO,OCI,83.85,24.975,17.3,23.875,17.7
+2026,4,PIO,Desert Vox,82.05,24.45,16.5,24.05,17.05
+2026,4,PIO,Breakthrough Indoor Percussion,81.55,24.0,17.1,23.25,17.2
+2026,4,PIO,Vision Percussion,79.275,23.925,16.3,22.75,16.3
+2026,4,PSW,Chino Hills HS,93.325,28.05,19.05,27.35,18.875
+2026,4,PSW,Vista Murrieta HS,92.15,27.45,19.05,26.8,18.85
+2026,4,PSW,Ayala HS,90.375,27.15,18.65,26.025,18.55
+2026,4,PSW,Arcadia HS,89.45,27.15,18.15,25.95,18.2
+2026,4,PSW,Etiwanda HS,86.251,26.175,17.45,24.775,17.85
+2026,4,PSW,Buchanan HS,85.501,26.1,17.7,24.5,17.2
+2026,4,PSW,El Dorado HS,82.776,24.825,17.1,24.1,16.75
+2026,4,PSW,Foothill HS (NV),79.826,23.925,17.2,22.55,16.15
+2026,4,PIW,RCC,93.675,28.275,19.35,27.0,19.05
+2026,4,PIW,Pulse Percussion,92.863,27.862,18.85,27.45,18.7
+2026,4,PIW,Broken City,92.225,27.825,18.95,26.6,18.85
+2026,4,PIW,POW Percussion,86.5,26.4,17.0,25.95,17.15
+2026,4,PIW,Dark Sky Percussion,85.8,25.95,17.3,25.1,17.45
+2026,4,PIW,Meraki,84.451,25.65,16.75,25.15,16.9
+2026,4,PIW,Kaizen,83.601,25.2,16.4,25.2,16.8
+2026,4,PIW,Red Wave Indoor from Fresno State,81.151,24.0,16.5,24.4,16.25
+2026,4,PIW,Instinct,78.726,23.625,16.45,22.65,16.0
 2026,4,PSA,Homestead HS (IN),87.625,25.875,17.75,26.5,17.5
 2026,4,PSA,Kickapoo HS,83.4,24.6,16.95,25.05,16.8
 2026,4,PSA,Decatur Central HS,82.575,24.225,16.375,25.75,16.225

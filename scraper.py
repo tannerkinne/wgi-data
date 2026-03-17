@@ -162,8 +162,15 @@ def get_recap_data(recap_links):
 
         date_table = soup.find("table")
 
-        date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
-        # date = date_w_year[0:2]
+        try:
+            date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
+            if not date_w_year:
+                date_w_year = date_table.find_all("td")[1].find_all("div")[1].text.strip().replace(',', '').split(' ')[1:4]
+            # date = date_w_year[0:2]
+            print(date_w_year)
+        except IndexError:
+            continue
+
         year = date_w_year[2]
         if(year != year_tracker):
             week = get_week(date_w_year, date_w_year)
@@ -172,7 +179,6 @@ def get_recap_data(recap_links):
         else:
             week = get_week(date_w_year, start)
 
-        print(date_w_year)
 
         tables = soup.find_all("table")
         for table in tables:
@@ -251,7 +257,7 @@ if __name__ == "__main__":
     recap_links_grouped = []
     recap_links = []
 
-    recap_links.append(crawler('https://www.mapsdrumlines.org/'))
+    recap_links_grouped.append(crawler('https://www.mapsdrumlines.org/'))
 
     #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
 
