@@ -186,6 +186,13 @@ def get_recap_data(recap_links):
             try:
                 rows = table.find_all("tr", class_="header-division-name")
 
+                # if not row:
+                #     row = table.find_all('td')
+                #     cls = ''.join(word[0] for word in row[0].text.strip().split(' '))
+                # else:
+                #     cls = ''.join(word[0] for word in row[0].find("td").text.strip().split(' '))
+
+
                 cls = ''.join(word[0] for word in rows[0].find("td").text.strip().split(' '))
 
                 name_objs = table.select("td.content.topBorder.rightBorderDouble")
