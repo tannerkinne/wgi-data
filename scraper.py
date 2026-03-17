@@ -59,6 +59,66 @@ def crawler(start_url):
     driver.quit()
     return recap_links
 
+def get_iframe_links(url):
+
+    driver = webdriver.Chrome()
+    driver.get(url)
+
+    driver.implicitly_wait(2)
+    iframe = driver.find_element(By.NAME, "htmlComp-iframe")
+    driver.switch_to.frame(iframe)
+
+
+    year_scripts = []
+    event_scripts = []
+    recap_links = []
+
+    menu_script = driver.find_element(By.ID, 'cs-org-scores-menu-viewEvents').find_element(By.TAG_NAME, 'a').get_attribute('onclick')
+    seasons_script = driver.find_element(By.ID, 'cs-org-scores-menu-viewSeasons').find_element(By.TAG_NAME, 'a').get_attribute('onclick')
+
+
+    driver.execute_script(seasons_script)
+
+
+    years_area = driver.find_element(By.ID, 'cs-org-scores-area')
+    years = years_area.find_elements(By.CLASS_NAME, 'event')
+
+    for year in years:
+        year_scripts.append(year.get_attribute('onclick'))
+
+
+
+    for year in year_scripts:
+        driver.execute_script(year)
+        time.sleep(2)
+        print(year)
+
+        event_area = driver.find_element(By.ID, 'cs-org-scores-area')
+        events = event_area.find_elements(By.CLASS_NAME, 'event')
+        print(events)
+
+        for event in events:
+            event_scripts.append(event.get_attribute('onclick'))
+
+        for script in event_scripts:
+            print(script)
+            #event_scripts.append(event.get_attribute('onclick'))
+            driver.execute_script(script)
+
+            links = driver.find_elements(By.TAG_NAME, 'a')
+            recap_links.append([link.get_attribute('href') for link in links if 'recaps.competitionsuite.com' in link.get_attribute('href')])
+            print(f'links: {links}')
+            print(f'recalinks: {recap_links}')
+
+            driver.execute_script(menu_script)
+
+        driver.execute_script(seasons_script)
+
+    print(recap_links)
+
+    driver.quit()
+    return recap_links
+
 
 
 def get_recap_data(recap_links):
@@ -163,7 +223,9 @@ if __name__ == "__main__":
     # recap_links_grouped = []
     recap_links = []
 
-    recap_links.append(crawler('https://www.mapsdrumlines.org/'))
+    #recap_links.append(crawler('https://www.mapsdrumlines.org/'))
+
+    recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
 
     print(recap_links)
 
