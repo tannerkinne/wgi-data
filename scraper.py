@@ -1,4 +1,5 @@
 import time
+import csv
 
 import requests
 from bs4 import BeautifulSoup
@@ -20,13 +21,18 @@ def wgi_recap_links(url):
 
         driver.get(url)
 
+        time.sleep(5)
+
         recaps = driver.find_elements(By.LINK_TEXT, 'Recap')
 
         recap_links = [recap.get_attribute('href') for recap in recaps]
 
         driver.close()
 
+        print(f'Recap links for {url}: {recap_links}')
+
         return recap_links[::-1]
+
     except Exception as e:
         print(e)
         return []
@@ -168,10 +174,11 @@ def get_recap_data(recap_links):
                 date_w_year = date_table.find_all("td")[1].find_all("div")[1].text.strip().replace(',', '').split(' ')[1:4]
             # date = date_w_year[0:2]
             print(date_w_year)
+            year = date_w_year[2]
         except IndexError:
+            print(f'Error with date for {recap_link}')
             continue
 
-        year = date_w_year[2]
         if(year != year_tracker):
             week = get_week(date_w_year, date_w_year)
             start = date_w_year
@@ -268,7 +275,6 @@ if __name__ == "__main__":
 
     #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
 
-    print(recap_links)
 
     for link in wgi_links:
         recap_links_grouped.append(wgi_recap_links(link))
@@ -276,6 +282,10 @@ if __name__ == "__main__":
         for link in recap_links_grouped[i]:
             recap_links.append(link)
     print(recap_links)
+
+    links_df = pd.DataFrame(recap_links, columns=['links'])
+    links_df.to_csv('recap_links.csv', index=False)
+
     get_recap_data(recap_links)
 
 #What to fix:
