@@ -175,6 +175,7 @@ def get_recap_data(recap_links):
             # date = date_w_year[0:2]
             print(date_w_year)
             year = date_w_year[2]
+
         except IndexError:
             print(f'Error with date for {recap_link}')
             continue
@@ -193,24 +194,36 @@ def get_recap_data(recap_links):
             try:
                 rows = table.find_all("tr", class_="header-division-name")
 
-                # if not row:
-                #     row = table.find_all('td')
-                #     cls = ''.join(word[0] for word in row[0].text.strip().split(' '))
-                # else:
-                #     cls = ''.join(word[0] for word in row[0].find("td").text.strip().split(' '))
+                if not rows:
+                    rows = table.find_all('td')
+                    if rows[0].text:
+                        cls = ''.join(word[0] for word in rows[0].text.strip().split(' '))
+                    else:
+                        continue
+                else:
+                    cls = ''.join(word[0] for word in rows[0].find("td").text.strip().split(' '))
 
 
-                cls = ''.join(word[0] for word in rows[0].find("td").text.strip().split(' '))
+                # cls = ''.join(word[0] for word in rows[0].find("td").text.strip().split(' '))
 
                 name_objs = table.select("td.content.topBorder.rightBorderDouble")
                 for name_obj in name_objs:
                     name = name_obj.text.strip()
                     if ',' not in name:
                         subs = name_obj.find_next_siblings("td", class_="topBorder rightBorder subcaptionTotal verified")
+                        if not subs:
+                            subs = name_obj.find_next_siblings("td", class_="topBorder rightBorder subcaptionTotal")
+
+
 
                         sub_scores = [float(sub.find('td', class_ = 'content score').text.strip()) for sub in subs]
 
+
                         overall_score = round(float(name_obj.find_next_sibling("td", class_="topBorder rightBorderDouble").text.strip()), 3)
+
+                        if(len(sub_scores) != 4 and len(sub_scores) != 8):
+                            sub_scores = sub_scores[:(len(sub_scores)-1)]
+
                         if len(sub_scores) == 4:
 
                             music_effect = sub_scores[0]
@@ -244,7 +257,7 @@ def get_week(new_date, start_date):
     # It uses a base dictionary to determine the cumulative number of days up to
     # the given month and then calculates the week number accordingly.
 
-    base = {"February": 2, "March": 3, "April": 4}
+    base = {"January": 1, "February": 2, "March": 3, "April": 4}
 
     d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
     start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
@@ -262,7 +275,7 @@ def get_week(new_date, start_date):
 
 if __name__ == "__main__":
     wgi_links = [
-        # "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
+        "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
                                'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
                                'https://www.wgi.org/historical_score_per/2024/',
                                'https://www.wgi.org/historical_score_per/2025/',
@@ -271,7 +284,10 @@ if __name__ == "__main__":
     recap_links_grouped = []
     recap_links = []
 
-    recap_links_grouped.append(crawler('https://www.mapsdrumlines.org/'))
+    local_links = ['https://www.nyspercussion.org/', 'https://www.mapsdrumlines.org/']
+
+    for link in local_links:
+        recap_links_grouped.append(crawler(link))
 
     #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
 
@@ -285,6 +301,9 @@ if __name__ == "__main__":
 
     links_df = pd.DataFrame(recap_links, columns=['links'])
     links_df.to_csv('recap_links.csv', index=False)
+
+    # for when not testing or adding to scraping functions, just want to run the data collection and cleaning
+    # recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
 
     get_recap_data(recap_links)
 
