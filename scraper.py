@@ -179,7 +179,8 @@ def get_recap_data(recap_links):
         except IndexError:
             print(f'Error with date for {recap_link}')
             continue
-
+        except AttributeError:
+            continue
         if(year != year_tracker):
             week = get_week(date_w_year, date_w_year)
             start = date_w_year
@@ -243,7 +244,10 @@ def get_recap_data(recap_links):
 
             except AttributeError as e:
                 print(e)
+                continue
             except IndexError as e:
+                continue
+            except ValueError:
                 continue
 
 

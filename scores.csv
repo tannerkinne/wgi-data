@@ -1,4 +1,885 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2026,0,PIA-AA,Auburn,71.35,21.5,22.05,13.9,13.9
+2026,0,PIA-AA,Cornell University,67.25,19.8,21.45,12.8,13.2
+2026,0,PSA,East Syracuse Minoa,85.7,25.2,26.1,17.0,17.4
+2026,0,PSA,Central Square High School,81.8,23.6,24.3,16.6,17.3
+2026,0,PSA,Greece,74.85,22.6,22.65,15.2,14.4
+2026,0,PSA,Cicero-North Syracuse,74.45,23.0,23.85,13.5,14.1
+2026,0,PSO,Victor,81.2,23.8,24.9,16.2,16.3
+2026,0,PIO-AA,Purple Lancers,69.9,19.5,21.3,14.3,14.8
+2026,-1,PIA-AA,Auburn,70.8,22.1,21.3,13.9,13.5
+2026,-1,PIA-AA,Cornell University,66.9,21.1,21.0,12.4,12.4
+2026,-1,PSA,Jordan Elbridge,88.7,25.9,26.7,18.1,18.0
+2026,-1,PSA,East Syracuse Minoa,85.35,25.4,25.95,16.9,17.1
+2026,-1,PSA,Central Square High School,80.45,24.9,22.05,16.6,16.9
+2026,-1,PSA,Liverpool,77.6,24.7,21.3,15.7,15.9
+2026,-1,PSA,Eastridge,76.451,24.2,22.95,14.6,14.7
+2026,-1,PSA,Cicero-North Syracuse,73.301,23.6,21.6,14.1,14.0
+2026,-1,PSA,Mohonasen,72.001,22.5,20.7,14.3,14.5
+2026,-1,PSA,Oswego,70.251,22.1,20.55,13.9,13.7
+2026,-2,PIA-AA,Rochester Institute of Technology (RIT),64.9,20.0,19.5,12.4,13.0
+2026,-2,PSA,Jordan Elbridge,86.45,25.4,26.55,17.2,17.3
+2026,-2,PSA,Central Square High School,79.425,24.8,22.275,15.75,16.6
+2026,-2,PSA,East Syracuse Minoa,79.4,24.1,23.1,15.9,16.3
+2026,-2,PSA,New Hartford,78.6,25.1,23.4,15.1,15.0
+2026,-2,PSA,Phoenix,77.6,24.0,21.9,16.6,15.1
+2026,-2,PSA,Liverpool,77.101,24.5,22.65,15.15,14.8
+2026,-2,PSA,Corning-Painted Post,76.101,23.6,22.2,14.6,15.7
+2026,-2,PSA,Greece,72.151,22.4,21.45,14.3,14.0
+2026,-2,PSA,Mohonasen,71.276,21.6,21.675,13.9,14.1
+2026,-2,PSA,Cicero-North Syracuse,69.9,22.7,20.4,13.7,13.1
+2026,-2,PSA,Oswego,68.35,20.7,20.55,13.6,13.5
+2026,-3,PIA-AA,Auburn,66.25,19.8,19.65,13.7,13.1
+2026,-3,PIA-AA,Rochester Institute of Technology (RIT),63.0,18.5,18.9,12.8,12.8
+2026,-3,PSA,Jordan Elbridge,83.55,25.0,25.65,16.3,16.6
+2026,-3,PSA,East Syracuse Minoa,81.65,24.9,25.05,15.8,15.9
+2026,-3,PSA,New Hartford,74.25,23.6,21.75,14.7,14.2
+2026,-3,PSA,Greece,71.85,23.0,21.45,13.9,13.5
+2026,-3,PSA,Mohonasen,69.6,21.8,20.7,13.7,13.4
+2026,-5,PIA-AA,Rochester Institute of Technology (RIT),62.2,18.6,18.9,12.2,12.5
+2026,-5,PIA,Flower City Percussion,63.95,19.4,19.95,12.7,11.9
+2026,-5,PSA,Liverpool,69.05,21.3,20.25,13.9,13.6
+2026,-5,PSA,Eastridge,68.55,21.4,20.85,13.3,13.0
+2026,-5,PSA,New Hartford,64.6,20.0,19.2,12.9,12.5
+2026,-5,PSA,Greece,63.85,19.3,20.55,12.1,11.9
+2026,-5,PSA,Cicero-North Syracuse,63.501,19.4,19.5,12.4,12.2
+2026,-6,PSA,Jordan Elbridge,71.6,20.6,22.2,14.6,14.2
+2026,-6,PSA,Central Square High School,67.85,19.4,20.55,13.8,14.1
+2026,-6,PSA,East Syracuse Minoa,65.45,18.8,18.75,14.3,13.6
+2026,-6,PSA,Corning-Painted Post,65.35,18.9,21.15,12.7,12.6
+2026,-6,PSA,Phoenix,65.35,18.4,19.95,13.5,13.5
+2026,-6,PSA,Eastridge,65.151,19.9,19.65,12.9,12.7
+2026,-6,PSA,New Hartford,64.601,19.8,18.6,13.1,13.1
+2026,-6,PSO,Victor,66.0,19.7,19.5,13.2,13.6
+2025,0,PIA,Albany,72.5,22.7,20.4,14.6,14.8
+2025,0,PIA,Cornell University,70.35,21.8,21.15,13.3,14.1
+2025,0,PIA,Rochester Institute of Technology (RIT),62.8,18.9,18.6,12.3,13.0
+2025,0,PSA,East Syracuse Minoa,89.125,27.5,25.125,18.4,18.1
+2025,0,PSA,Jordan Elbridge,88.95,26.5,26.25,18.0,18.2
+2025,0,PSA,Phoenix,87.925,27.2,26.175,16.95,17.6
+2025,0,PSA,Central Square High School,87.775,28.0,25.575,17.2,17.0
+2025,0,PSA,Auburn,84.05,25.9,24.45,17.3,16.4
+2025,0,PSA,Liverpool,82.901,25.6,24.9,16.6,15.8
+2025,0,PSA,Eastridge,82.876,25.1,24.525,16.55,16.7
+2025,0,PSA,Corning-Painted Post,82.051,24.9,24.6,16.3,16.25
+2025,0,PSA,Cicero North Syracuse,81.101,24.0,24.15,16.35,16.6
+2025,0,PSA,New Hartford,79.85,25.2,23.55,14.8,16.3
+2025,0,PSA,Mohonasen,75.5,23.6,22.2,14.5,15.2
+2025,0,PSA,Greece,74.05,24.4,21.75,13.5,14.4
+2025,0,PSO,Victor,82.15,25.6,24.15,16.0,16.4
+2025,0,PIO,EPIC Indoor Percussion,79.4,25.2,23.7,15.8,14.7
+2025,0,PIO,Flower City Percussion,77.0,23.8,22.8,15.0,15.4
+2025,0,PIO,Auburn Purple Lancers,76.35,24.2,21.75,16.1,14.3
+2025,-1,PIA,Albany,71.95,21.7,21.45,15.4,13.4
+2025,-1,PIA,Rochester Institute of Technology (RIT),66.45,20.4,20.55,13.2,12.3
+2025,-1,PSA,Corning-Painted Post,83.4,24.7,24.6,16.6,17.5
+2025,-1,PSA,Southern Tioga Percussion Ensemble,73.75,20.7,22.65,14.7,15.7
+2025,-1,PIO,EPIC Indoor Percussion,84.6,25.6,25.2,15.9,17.9
+2025,-2,PIA,Cornell University,65.15,20.4,19.95,12.6,12.2
+2025,-2,PSA,Central Square High School,82.7,24.4,25.2,17.1,16.0
+2025,-2,PSA,East Syracuse Minoa,81.25,24.15,24.0,16.8,16.3
+2025,-2,PSA,Phoenix,76.8,24.1,23.4,14.8,14.5
+2025,-2,PSA,Auburn,74.7,22.1,23.1,14.2,15.3
+2025,-2,PSA,Cicero North Syracuse,73.925,21.9,22.425,14.9,14.7
+2025,-2,PSA,Mohonasen,73.601,21.4,22.2,14.6,15.4
+2025,-2,PSA,Greece,71.951,22.0,22.35,14.0,13.6
+2025,-2,PSO,Victor,81.75,24.1,25.35,16.6,15.7
+2025,-3,PSA,Eastridge,80.5,24.6,24.3,16.8,14.8
+2025,-3,PSA,Central Square High School,79.95,23.7,24.15,17.0,15.1
+2025,-3,PSA,East Syracuse Minoa,79.5,24.7,23.1,16.3,15.4
+2025,-3,PSA,Auburn,74.1,24.0,22.8,13.5,13.8
+2025,-3,PSA,Liverpool,74.05,22.2,22.35,15.2,14.3
+2025,-3,PSA,New Hartford,72.351,22.3,21.75,15.1,13.2
+2025,-3,PSA,Cicero North Syracuse,72.101,21.2,21.9,15.0,14.0
+2025,-3,PSA,Greece,67.801,20.6,21.3,13.3,12.6
+2025,-4,PIA,Cornell University,59.4,19.5,16.8,11.7,11.4
+2025,-4,PIA,Albany,57.9,17.6,16.2,13.5,10.6
+2025,-4,PSA,Jordan Elbridge,80.65,24.1,24.45,16.8,15.3
+2025,-4,PSA,East Syracuse Minoa,78.3,23.0,24.0,16.3,15.0
+2025,-4,PSA,Central Square High School,75.05,22.5,22.05,16.0,14.5
+2025,-4,PSA,Eastridge,74.95,21.4,23.85,16.4,13.3
+2025,-4,PSA,Liverpool,73.751,22.3,22.35,15.0,14.1
+2025,-4,PSA,Phoenix,72.201,22.4,22.5,14.6,12.7
+2025,-4,PSA,New Hartford,71.101,21.5,22.8,14.2,12.6
+2025,-4,PSA,Cicero North Syracuse,68.451,19.5,20.55,14.7,13.7
+2025,-4,PSA,Greece,64.551,18.7,20.25,13.3,12.3
+2025,-4,PSO,Victor,76.65,23.2,23.55,15.4,14.5
+2025,-4,PIO,Flower City Percussion,66.0,19.8,18.6,12.7,14.9
+2025,-5,PIA,Albany,65.45,19.3,19.95,13.8,12.4
+2025,-5,PSA,Corning-Painted Post,71.65,21.8,22.35,13.2,14.3
+2025,-5,PSA,Phoenix,70.6,20.3,22.5,13.4,14.4
+2025,-5,PSA,Mohonasen,70.45,20.5,21.45,14.0,14.5
+2025,-5,PSA,New Hartford,69.4,21.3,21.6,13.1,13.4
+2025,-6,PSA,Eastridge,72.6,21.0,22.5,14.5,14.6
+2025,-6,PSA,Auburn,69.2,21.4,21.3,13.0,13.5
+2025,-6,PSA,Mohonasen,68.35,18.9,21.45,13.3,14.7
+2025,-6,PSA,Greece,64.85,19.6,20.85,12.2,12.2
+2025,-6,PSA,Central Square High School,0.001,0.0,0.0,0.0,0.0
+2025,-6,PSA,East Syracuse Minoa,0.001,0.0,0.0,0.0,0.0
+2025,-6,PSA,Liverpool,0.001,0.0,0.0,0.0,0.0
+2025,-6,PSO,Victor,71.95,21.3,22.65,14.3,13.7
+2025,-6,PIO,Flower City Percussion,65.25,19.8,21.15,12.7,11.6
+2025,-7,PIA,Albany,60.4,18.0,18.6,11.9,11.9
+2025,-7,PSA,Jordan Elbridge,74.85,22.1,22.95,14.8,15.0
+2025,-7,PSA,East Syracuse Minoa,72.55,21.7,22.65,14.2,14.0
+2025,-7,PSA,Corning-Painted Post,67.25,19.95,20.1,13.6,13.6
+2025,-7,PSA,New Hartford,66.6,19.5,22.2,12.4,12.5
+2025,-7,PSA,Liverpool,66.501,20.1,20.85,12.7,12.85
+2025,-7,PSA,Auburn,66.251,20.6,21.45,12.0,12.2
+2025,-7,PSA,Cicero North Syracuse,66.001,19.8,19.8,13.3,13.1
+2025,-7,PSA,Phoenix,65.351,19.1,20.55,12.8,12.9
+2025,-7,PSA,Greece,61.651,19.5,19.35,11.6,11.2
+2025,-8,PIA,Rochester Institute of Technology (RIT),58.55,17.6,17.25,12.2,11.5
+2025,-8,PSA,Jordan Elbridge,72.65,21.9,21.45,14.8,14.5
+2025,-8,PSA,East Syracuse Minoa,71.35,22.1,21.15,14.3,13.8
+2025,-8,PSA,Eastridge,70.05,20.6,21.75,13.6,14.1
+2025,-8,PSA,Central Square High School,68.875,20.9,20.775,12.9,14.3
+2025,-8,PSA,New Hartford,65.475,19.0,21.675,11.9,12.9
+2025,-8,PSA,Cicero North Syracuse,64.001,19.5,19.2,13.5,11.8
+2025,-8,PSA,Liverpool,63.926,19.9,19.425,12.1,12.5
+2025,-8,PSA,Corning-Painted Post,63.001,19.6,18.0,11.8,13.6
+2025,-8,PSA,Greece,62.101,18.9,18.6,11.5,13.1
+2024,0,PSA-C,Hornell Intermediate,80.55,25.1,25.65,14.6,15.2
+2024,0,PSA-C,,80.55,25.1,25.65,14.6,15.2
+2024,0,PIA,Cornell University,75.75,23.4,22.95,14.9,14.5
+2024,0,PIA,Albany,75.55,23.3,22.05,15.3,14.9
+2024,0,PIA,Rochester Institute of Technology (RIT),69.1,21.8,20.4,13.0,13.9
+2024,0,PSA,New Hartford,89.825,28.4,26.025,17.7,17.7
+2024,0,PSA,Jordan Elbridge,88.45,27.3,26.25,17.0,17.9
+2024,0,PSA,Eastridge,86.65,26.9,25.05,17.4,17.3
+2024,0,PSA,Phoenix,86.325,26.6,25.875,16.65,17.2
+2024,0,PSA,Central Square High School,84.701,26.05,25.5,16.25,16.9
+2024,0,PSA,Cicero North Syracuse,83.676,25.6,24.975,16.7,16.4
+2024,0,PSA,Liverpool,82.126,25.8,23.925,16.0,16.4
+2024,0,PSA,East Syracuse Minoa,81.351,25.25,23.25,16.4,16.45
+2024,0,PSA,Corning-Painted Post,80.801,24.45,24.45,15.9,16.0
+2024,0,PSA,Hilton,78.85,24.5,22.5,15.6,16.25
+2024,0,PSA,Mohonasen,76.825,23.9,22.125,15.1,15.7
+2024,0,PSA,Webster,75.4,23.2,22.2,15.0,15.0
+2024,0,PSA,Auburn,73.75,22.7,21.45,15.4,14.2
+2024,0,PSA,Greece,72.0,21.8,21.0,14.7,14.5
+2024,0,PSA,Marcus Whitman,68.85,20.5,20.25,14.1,14.0
+2024,0,PSO,Victor,86.1,26.9,25.5,17.1,16.6
+2024,-1,PIA,Rochester Institute of Technology (RIT),62.5,17.8,18.6,12.8,13.3
+2024,-1,PSA,New Hartford,87.55,25.2,27.75,16.7,17.9
+2024,-1,PSA,Phoenix,85.475,24.0,26.775,17.4,17.3
+2024,-1,PSA,Eastridge,82.5,23.1,27.0,16.2,16.2
+2024,-1,PSA,Cicero North Syracuse,81.75,22.9,25.65,16.5,16.7
+2024,-1,PSA,East Syracuse Minoa,79.501,22.7,24.0,16.4,16.4
+2024,-1,PSA,Central Square High School,78.676,22.0,24.075,15.8,16.8
+2024,-1,PSA,Auburn,72.351,20.6,22.05,15.1,14.6
+2024,-1,PSA,Greece,68.801,19.3,21.6,13.7,14.2
+2024,-1,PSA,Marcus Whitman,64.801,18.3,19.8,13.3,13.4
+2024,-2,PSA-C,Hornell Intermediate,53.6,16.4,16.2,10.0,11.0
+2024,-2,PIA,Rochester Institute of Technology (RIT),63.25,19.9,19.35,12.0,12.0
+2024,-2,PSA,Cicero North Syracuse,82.2,24.5,25.5,16.2,16.0
+2024,-2,PSA,Corning-Painted Post,78.2,23.5,24.6,14.8,15.3
+2024,-2,PSA,Hilton,77.2,23.2,23.4,15.4,15.2
+2024,-2,PSA,Webster,74.75,22.6,23.25,14.2,14.7
+2024,-2,PSA,Greece,68.35,20.0,21.45,12.9,14.0
+2024,-2,PSA,Marcus Whitman,65.401,19.3,20.1,13.1,12.9
+2024,-2,PSO,Victor,81.15,25.0,24.75,15.8,15.6
+2024,-3,PIA,Albany,68.3,18.7,21.9,13.6,14.1
+2024,-3,PIA,Cornell University,66.5,19.5,21.0,12.5,13.5
+2024,-3,PSA,Eastridge,82.75,24.2,25.35,16.8,16.4
+2024,-3,PSA,Phoenix,81.15,23.9,25.05,16.1,16.1
+2024,-3,PSA,Central Square High School,80.25,23.4,25.65,15.7,15.5
+2024,-3,PSA,Cicero North Syracuse,79.35,24.6,23.85,15.5,15.4
+2024,-3,PSA,East Syracuse Minoa,77.701,23.3,24.6,14.9,14.9
+2024,-3,PSA,Corning-Painted Post,76.201,23.2,24.3,14.2,14.5
+2024,-3,PSA,Mohonasen,74.101,20.4,23.7,14.7,15.3
+2024,-3,PSA,Greece,66.051,19.6,20.85,12.3,13.3
+2024,-3,PSA,Marcus Whitman,63.301,18.1,19.2,13.3,12.7
+2024,-4,PSA,Victor,84.75,25.5,25.95,16.6,16.7
+2024,-4,PSA,New Hartford,83.9,25.2,25.8,16.3,16.6
+2024,-4,PSA,Jordan Elbridge,81.2,24.1,24.9,16.1,16.1
+2024,-4,PSA,Liverpool,79.9,24.9,24.6,15.2,15.2
+2024,-4,PSA,Central Square High School,79.1,23.2,24.3,15.8,15.8
+2024,-4,PSA,Cicero North Syracuse,76.551,22.7,23.85,15.0,15.0
+2024,-4,PSA,Auburn,71.601,21.2,21.6,14.3,14.5
+2024,-4,PSA,Webster,70.551,20.8,21.45,14.1,14.2
+2024,-5,PIA,Cornell University,62.8,18.3,19.2,12.7,12.6
+2024,-5,PIA,Rochester Institute of Technology (RIT),62.55,18.7,19.35,12.3,12.2
+2024,-5,PSA,Eastridge,78.3,22.5,23.7,16.2,15.9
+2024,-5,PSA,Phoenix,77.9,23.0,23.4,15.8,15.7
+2024,-5,PSA,Liverpool,74.3,22.6,22.2,15.3,14.2
+2024,-5,PSA,Central Square High School,74.0,21.6,22.8,14.5,15.1
+2024,-5,PSA,East Syracuse Minoa,73.251,22.3,22.35,14.3,14.3
+2024,-5,PSA,Hilton,71.501,20.8,21.3,14.9,14.5
+2024,-5,PSA,Webster,67.001,19.5,20.7,13.3,13.5
+2024,-5,PSA,Greece,63.901,18.8,19.5,12.7,12.9
+2024,-6,PSA,Jordan Elbridge,73.05,22.8,21.45,14.5,14.3
+2024,-6,PSA,Corning-Painted Post,70.6,22.7,21.3,13.8,12.8
+2024,-6,PSA,Auburn,67.65,22.0,19.35,13.1,13.2
+2024,-7,PSA,New Hartford,75.25,22.8,23.85,14.0,14.6
+2024,-7,PSA,Eastridge,75.05,23.1,22.35,14.7,14.9
+2024,-7,PSA,Jordan Elbridge,74.15,22.5,24.15,13.3,14.2
+2024,-7,PSA,East Syracuse Minoa,72.175,21.5,22.575,14.4,13.7
+2024,-7,PSA,Cicero North Syracuse,71.251,21.8,23.25,12.7,13.5
+2024,-7,PSA,Central Square High School,70.901,21.2,21.6,13.8,14.3
+2024,-7,PSA,Liverpool,69.751,22.1,21.75,12.8,13.1
+2024,-7,PSA,Hilton,68.051,20.6,20.55,13.1,13.8
+2024,-7,PSA,Webster,65.901,20.1,20.4,12.4,13.0
+2024,-7,PSA,Greece,63.15,19.5,19.05,12.0,12.6
+2024,-8,PIA,Albany,64.3,20.2,18.6,12.8,12.7
+2024,-8,PSA,Phoenix,72.95,22.3,21.45,15.2,14.0
+2024,-8,PSA,New Hartford,71.85,22.7,21.15,14.6,13.4
+2024,-8,PSA,Liverpool,71.1,22.0,22.8,13.4,12.9
+2024,-8,PSA,Mohonasen,69.8,20.6,21.9,14.3,13.0
+2024,-8,PSA,Corning-Painted Post,65.35,21.4,19.05,12.6,12.3
+2024,-9,PSA,Victor,74.15,23.2,22.2,14.65,14.1
+2024,-9,PSA,New Hartford,73.7,23.3,22.8,14.4,13.2
+2024,-9,PSA,Eastridge,73.05,23.6,20.55,14.6,14.3
+2024,-9,PSA,Jordan Elbridge,73.05,22.7,23.25,13.7,13.4
+2024,-9,PSA,Cicero North Syracuse,71.501,22.25,22.35,13.8,13.1
+2024,-9,PSA,Phoenix,70.101,20.9,20.7,14.7,13.8
+2024,-9,PSA,Central Square High School,70.076,22.2,20.925,14.05,12.9
+2024,-9,PSA,East Syracuse Minoa,68.801,21.8,21.3,12.7,13.0
+2024,-9,PSA,Liverpool,66.601,21.2,20.4,12.6,12.4
+2024,-9,PSA,Webster,66.35,22.3,19.95,12.1,12.0
+2024,-9,PSA,Hilton,66.3,20.2,19.2,13.3,13.6
+2024,-9,PSA,Mohonasen,64.55,21.1,18.45,12.2,12.8
+2024,-9,PSA,Greece,61.3,19.9,17.7,11.4,12.3
+2023,0,PIA,Cornell University,73.45,25.0,20.55,14.3,13.6
+2023,0,PIA,Albany,71.45,24.5,19.05,13.7,14.2
+2023,0,PSA,Victor,87.1,28.0,26.25,16.2,16.65
+2023,0,PSA,Jordan Elbridge,85.2,26.6,25.2,16.8,16.6
+2023,0,PSA,New Hartford,84.65,27.7,24.75,15.8,16.4
+2023,0,PSA,Central Square High School,84.3,27.2,25.5,15.7,15.9
+2023,0,PSA,Phoenix Indoor Percussion,83.15,25.9,23.55,16.9,16.8
+2023,0,PSA,East Syracuse Minoa,82.751,26.0,23.85,16.7,16.2
+2023,0,PSA,Liverpool,81.876,26.9,23.775,15.4,15.8
+2023,0,PSA,Eastridge,78.901,26.1,21.3,15.5,16.0
+2023,0,PSA,Hilton,78.901,25.4,22.8,15.6,15.1
+2023,0,PSA,Corning-Painted Post,75.05,24.8,21.45,14.3,14.5
+2023,0,PSA,Cicero North Syracuse,72.8,23.7,20.4,14.6,14.1
+2023,0,PSA,Webster,72.3,24.4,20.1,14.4,13.4
+2023,0,PSA,Mohonasen,68.2,23.2,18.9,13.2,12.9
+2023,-1,PIA,Cornell University,69.05,22.5,20.85,13.0,12.7
+2023,-1,PSA,Victor,87.95,26.6,26.55,17.5,17.3
+2023,-1,PSA,New Hartford,86.35,26.8,25.65,17.2,16.7
+2023,-1,PSA,Central Square High School,84.9,26.5,25.5,16.7,16.2
+2023,-1,PSA,Jordan Elbridge,82.05,24.5,24.15,16.5,16.9
+2023,-1,PSA,Phoenix,81.65,23.8,24.75,16.0,17.1
+2023,-1,PSA,Liverpool,80.176,25.5,23.775,15.2,15.7
+2023,-1,PSA,Eastridge,80.101,24.6,23.4,15.7,16.4
+2023,-1,PSA,East Syracuse Minoa,79.251,23.6,23.85,15.8,16.0
+2023,-1,PSA,Webster,75.701,24.6,21.9,14.6,14.6
+2023,-1,PSA,Cicero North Syracuse,73.6,22.5,21.6,14.5,15.0
+2023,-2,PIA,Cornell University,64.65,20.6,19.65,12.2,12.2
+2023,-2,PSA,Central Square High School,81.15,24.7,24.75,16.2,15.5
+2023,-2,PSA,Phoenix Indoor Percussion,79.3,24.4,22.5,16.5,15.9
+2023,-2,PSA,East Syracuse Minoa,77.45,22.6,22.95,15.9,16.0
+2023,-2,PSA,Cicero North Syracuse,76.4,22.9,24.0,14.6,14.9
+2023,-2,PSA,Webster,72.951,21.6,22.65,14.2,14.5
+2023,-2,PSA,Mohonasen,67.601,19.5,20.7,13.8,13.6
+2023,-3,PSA,New Hartford,81.9,24.8,25.2,15.6,16.3
+2023,-3,PSA,Victor,81.85,25.0,24.75,15.7,16.4
+2023,-3,PSA,Jordan Elbridge,79.3,23.3,23.7,15.8,16.5
+2023,-3,PSA,Central Square High School,78.95,25.1,24.15,14.6,15.1
+2023,-3,PSA,Hilton,75.85,23.6,22.65,14.4,15.2
+2023,-3,PSA,East Syracuse Minoa,75.801,21.9,24.3,13.8,15.8
+2023,-3,PSA,Cicero North Syracuse,73.401,22.7,22.8,13.6,14.3
+2023,-3,PSA,Webster,72.901,23.0,22.5,13.2,14.2
+2023,-5,PSA,Jordan Elbridge,75.95,21.8,23.55,15.4,15.2
+2023,-5,PSA,Corning-Painted Post,72.75,21.2,22.65,14.5,14.4
+2023,-6,PSA,Victor,76.4,23.2,24.0,14.6,14.6
+2023,-6,PSA,Central Square High School,73.4,22.6,23.1,14.2,13.5
+2023,-6,PSA,Phoenix Indoor Percussion,72.55,21.8,22.05,14.0,14.7
+2023,-6,PSA,Jordan Elbridge,72.15,19.5,23.85,14.9,13.9
+2023,-6,PSA,Eastridge,71.3,20.2,22.8,13.3,15.0
+2023,-6,PSA,East Syracuse Minoa,71.251,21.0,22.65,13.3,14.3
+2023,-6,PSA,Liverpool,70.901,21.2,22.05,14.35,13.3
+2023,-6,PSA,New Hartford,70.501,21.7,20.7,14.5,13.6
+2023,-6,PSA,Webster,64.451,18.7,21.15,12.0,12.6
+2023,-7,PIA,Albany,62.65,18.6,19.05,12.4,12.6
+2023,-7,PSA,New Hartford,73.4,22.6,23.4,14.3,13.1
+2023,-7,PSA,Eastridge,73.3,21.8,22.2,14.8,14.5
+2023,-7,PSA,Liverpool,71.5,22.0,22.5,13.8,13.2
+2023,-7,PSA,East Syracuse Minoa,70.85,21.9,21.75,13.9,13.3
+2023,-7,PSA,Mohonasen,62.7,19.3,18.6,12.3,12.5
+2023,-8,PIA,Albany,59.3,18.1,18.0,11.9,11.3
+2023,-8,PSA,Jordan Elbridge,69.0,20.5,21.3,13.7,13.5
+2023,-8,PSA,Victor,68.95,21.4,21.15,12.4,14.0
+2023,-8,PSA,Eastridge,68.15,20.7,19.65,14.0,13.8
+2023,-8,PSA,Central Square High School,67.925,21.55,20.175,13.1,13.1
+2023,-8,PSA,East Syracuse Minoa,67.35,21.65,20.1,12.6,13.0
+2023,-8,PSA,Corning-Painted Post,65.301,22.0,19.2,12.7,11.4
+2023,-8,PSA,Hilton,64.701,20.6,19.8,11.8,12.5
+2023,-8,PSA,Cicero North Syracuse,63.551,20.3,18.75,12.2,12.3
+2023,-8,PSA,Webster,61.051,20.2,17.85,11.5,11.5
+2022,0,PIA,Cornell Indoor Drumline,75.05,23.0,23.85,13.7,14.5
+2022,0,PIA,Albany Indoor Percussion,75.0,21.9,23.4,14.6,15.1
+2022,0,PSA,New Hartford,87.4,25.3,27.0,17.4,17.7
+2022,0,PSA,East Irondequoit,84.1,23.7,26.85,16.3,17.25
+2022,0,PSA,Victor Indoor Percussion Ensemble,84.05,24.2,25.35,17.0,17.5
+2022,0,PSA,East Syracuse Minoa,83.25,23.6,26.1,16.5,17.05
+2022,0,PSA,Phoenix Indoor Percussion,81.35,22.1,25.65,16.8,16.8
+2022,0,PSA,Central Square High School,81.201,24.6,24.15,15.8,16.65
+2022,0,PSA,Hilton HS Percussion,80.901,23.0,25.05,16.1,16.75
+2022,0,PSA,Webster Percussion Theater,76.151,22.4,22.95,14.2,16.6
+2022,0,PSA,Corning-Painted Post,75.851,21.8,23.25,14.3,16.5
+2022,0,PSA,Baldwinsville indoor Percussion,74.95,21.2,22.8,14.8,16.15
+2022,0,PSA,Jordan Elbridge Indoor Percussion,72.2,20.7,21.75,13.7,16.05
+2022,0,PSO,Liverpool Indoor Percussion,75.3,21.3,24.9,14.5,14.6
+2022,-1,PSA,New Hartford,83.45,24.8,25.65,17.1,15.9
+2022,-1,PSA,East Syracuse Minoa,81.4,23.9,24.3,16.8,16.4
+2022,-1,PSA,Victor Indoor Percussion Ensemble,81.05,23.6,24.75,16.6,16.1
+2022,-1,PSA,Hilton HS Percussion,80.75,23.5,24.45,16.2,16.6
+2022,-1,PSA,Central Square High School,78.85,23.1,24.15,16.1,15.5
+2022,-1,PSA,Webster Percussion Theater,72.551,21.4,21.75,14.5,14.9
+2022,-1,PSA,Corning-Painted Post,72.551,20.8,22.05,15.0,14.7
+2022,-1,PIA,Albany Indoor Percussion,71.8,21.5,21.6,14.2,14.5
+2022,-2,PIA,Cornell Indoor Drumline,69.5,21.1,23.1,12.9,12.4
+2022,-2,PIA,Albany Indoor Percussion,67.35,18.9,22.05,13.5,12.9
+2022,-2,PSA,East Syracuse Minoa,77.875,23.9,23.475,15.1,15.4
+2022,-2,PSA,Victor Indoor Percussion Ensemble,77.0,21.7,24.0,15.8,15.5
+2022,-2,PSA,Central Square High School,77.4,24.1,24.3,14.7,14.3
+2022,-2,PSA,Phoenix Indoor Percussion,76.75,24.2,23.25,14.3,15.0
+2022,-2,PSA,Mohonasen,71.65,19.9,23.55,14.5,13.7
+2022,-2,PSA,,71.65,19.9,23.55,14.5,13.7
+2022,-2,PSA,Jordan Elbridge Indoor Percussion,70.701,20.6,22.2,13.9,14.0
+2022,-2,PSA,Baldwinsville indoor Percussion,70.051,19.4,22.35,14.1,14.2
+2022,-2,PSA,Victor Indoor Percussion Ensemble,77.7,23.2,24.0,15.7,14.8
+2022,-2,PSA,Central Square High School,76.0,24.0,21.9,14.9,15.2
+2022,-2,PSA,East Irondequoit,75.35,20.8,22.05,16.3,16.2
+2022,-2,PSA,Hilton HS Percussion,73.45,21.1,22.35,14.9,15.1
+2022,-2,PSA,Mohonasen,67.8,18.9,20.4,14.2,14.3
+2022,-2,PSA,,67.8,18.9,20.4,14.2,14.3
+2022,-2,PSA,East Syracuse Minoa,0.001,0.0,0.0,0.0,0.0
+2022,-2,PSA,Jordan Elbridge Indoor Percussion,0.001,0.0,0.0,0.0,0.0
+2022,-2,PSA,New Hartford,0.001,0.0,0.0,0.0,0.0
+2022,-2,PSA,Webster Percussion Theater,0.001,0.0,0.0,0.0,0.0
+2022,-4,PIA,Cornell Indoor Drumline,59.9,18.6,18.0,11.4,11.9
+2022,-4,PIA,Albany Indoor Percussion,0.0,0.0,0.0,0.0,0.0
+2022,-4,PSA,New Hartford,78.9,24.4,23.1,15.7,15.7
+2022,-4,PSA,Phoenix Indoor Percussion,73.8,24.1,21.6,13.8,14.3
+2022,-4,PSA,Victor Indoor Percussion Ensemble,73.0,21.0,22.2,15.1,14.7
+2022,-4,PSA,East Irondequoit,72.9,20.4,21.9,15.5,15.1
+2022,-4,PSA,Hilton HS Percussion,72.251,21.6,21.75,14.8,14.1
+2022,-4,PSA,Central Square High School,72.201,22.7,21.0,14.3,14.2
+2022,-4,PSA,Webster Percussion Theater,67.701,20.9,19.8,13.6,13.4
+2022,-4,PSO,Liverpool Indoor Percussion,67.6,21.3,18.9,13.8,13.6
+2022,-5,PSA,New Hartford,78.0,23.5,24.6,14.9,15.0
+2022,-5,PSA,East Syracuse Minoa,76.55,23.8,23.85,14.7,14.2
+2022,-5,PSA,Phoenix Indoor Percussion,74.65,24.1,24.15,13.2,13.2
+2022,-5,PSA,Central Square High School,73.75,21.8,24.45,13.9,13.6
+2022,-5,PSA,Mohonasen,63.151,18.2,20.25,12.3,12.4
+2022,-5,PSA,,63.151,18.2,20.25,12.3,12.4
+2022,-6,PSA,East Irondequoit,75.15,21.2,23.55,15.8,14.6
+2022,-6,PSA,East Syracuse Minoa,73.7,22.6,23.1,14.3,13.7
+2022,-6,PSA,Phoenix Indoor Percussion,71.7,22.1,23.4,13.0,13.2
+2022,-6,PSA,Central Square High School,72.3,21.1,23.7,13.7,13.8
+2022,-6,PSA,Jordan Elbridge Indoor Percussion,69.051,19.5,23.25,13.2,13.1
+2022,-6,PSA,Webster Percussion Theater,71.001,22.4,21.9,13.9,12.8
+2022,-6,PSA,Corning-Painted Post,66.801,20.0,21.6,12.7,12.5
+2022,-6,PSO,Liverpool Indoor Percussion,68.15,20.3,21.75,13.2,12.9
+2022,-7,PSA,New Hartford,74.8,22.4,23.7,14.5,14.2
+2022,-7,PSA,Hilton HS Percussion,70.75,21.1,23.25,13.1,13.3
+2022,-7,PSA,Victor Indoor Percussion Ensemble,70.15,19.9,22.65,14.0,13.6
+2022,-7,PSA,Phoenix Indoor Percussion,68.9,20.4,22.5,12.9,13.1
+2022,-7,PSA,Jordan Elbridge Indoor Percussion,66.651,19.3,22.35,12.3,12.7
+2022,-7,PSA,Webster Percussion Theater,68.85,21.6,21.45,13.4,12.4
+2022,-7,PSA,Corning-Painted Post,64.051,19.6,20.85,11.8,11.8
+2022,-8,PSA,East Irondequoit,73.0,19.5,23.1,15.8,14.6
+2022,-8,PSA,New Hartford,72.45,21.6,23.25,13.7,13.9
+2022,-8,PSA,Victor Indoor Percussion Ensemble,69.5,20.5,23.4,12.9,12.7
+2022,-8,PSA,East Syracuse Minoa,67.95,19.8,22.35,13.3,12.5
+2022,-8,PSA,Central Square High School,66.675,20.1,22.875,12.4,11.3
+2022,-8,PSA,Phoenix Indoor Percussion,65.701,18.4,21.6,12.6,13.1
+2022,-8,PSA,Webster Percussion Theater,65.451,18.8,21.45,13.2,12.0
+2022,-8,PSA,Hilton HS Percussion,64.576,19.1,21.375,12.5,11.6
+2022,-8,PIA,Albany Indoor Percussion,62.15,17.9,20.25,12.4,11.6
+2022,-8,PSO,Liverpool Indoor Percussion,64.35,18.4,19.65,14.1,12.2
+2020,0,PIA,Albany Indoor Percussion,66.3,20.5,18.0,13.9,13.9
+2020,0,PIA,Cornell Indoor Drumline,59.45,19.6,16.95,11.4,11.5
+2020,0,PSA,New Hartford,79.2,24.4,22.5,16.3,16.0
+2020,0,PSA,Webster Percussion Theater,76.65,24.0,22.65,15.2,14.8
+2020,0,PSA,Central Square High School,75.15,22.7,21.75,15.6,15.1
+2020,0,PSA,Corning-Painted Post,71.15,22.4,20.85,14.1,13.8
+2020,0,PSA,Marcus Whitman,60.6,19.8,17.7,11.6,11.5
+2020,0,PSO,East Syracuse Minoa,82.6,25.9,24.9,15.8,16.0
+2020,0,PSO,Hilton HS Percussion,79.95,23.9,24.75,15.6,15.7
+2020,0,PSO,Liverpool Indoor Percussion,78.8,24.0,24.0,15.3,15.5
+2020,0,PSO,East Irondequoit,77.35,21.7,23.25,16.1,16.3
+2020,0,PSO,Victor Indoor Percussion Ensemble,72.951,21.0,22.35,14.7,14.9
+2020,-1,PIA,Onondaga Community College,77.1,23.8,23.4,14.9,15.0
+2020,-1,PIA,Albany Indoor Percussion,68.6,19.6,20.7,14.2,14.1
+2020,-1,PSA,New Hartford,79.1,23.3,23.7,16.1,16.0
+2020,-1,PSA,Webster Percussion Theater,76.7,23.0,22.8,15.6,15.3
+2020,-1,PSA,Jordan Elbridge Indoor Percussion,73.2,22.3,21.3,14.9,14.7
+2020,-1,PSO,East Syracuse Minoa,81.1,24.2,24.3,16.3,16.3
+2020,-1,PSO,Victor Indoor Percussion Ensemble,73.7,21.0,22.5,15.2,15.0
+2020,-2,PSA,Phoenix Indoor Percussion,76.85,23.0,23.55,15.3,15.0
+2020,-2,PSA,Central Square High School,71.5,20.5,22.5,14.1,14.4
+2020,-2,PSO,East Syracuse Minoa,78.55,23.3,24.15,15.5,15.6
+2020,-2,PSO,Liverpool Indoor Percussion,74.85,21.4,23.85,14.8,14.8
+2020,-3,PSA,Phoenix Indoor Percussion,76.1,23.9,22.2,15.5,14.5
+2020,-3,PSA,New Hartford,73.25,22.5,21.45,14.7,14.6
+2020,-3,PSA,Corning-Painted Post,69.6,20.3,20.4,14.9,14.0
+2020,-3,PSA,Central Square High School,69.35,21.2,20.85,13.8,13.5
+2020,-3,PSA,Jordan Elbridge Indoor Percussion,68.55,21.3,20.55,13.5,13.2
+2020,-3,PSA,Mohonasen,66.501,20.0,19.5,13.7,13.3
+2020,-3,PSA,Marcus Whitman,54.201,18.7,15.3,10.2,10.0
+2020,-3,PSO,Hilton HS Percussion,75.35,23.0,22.95,14.7,14.7
+2020,-3,PSO,East Irondequoit,74.15,23.4,21.75,14.4,14.6
+2020,-3,PSO,Liverpool Indoor Percussion,72.5,22.4,21.9,14.0,14.2
+2020,-4,PSA,Phoenix Indoor Percussion,71.4,23.2,21.3,14.5,12.4
+2020,-4,PSA,New Hartford,70.75,21.6,21.75,13.8,13.6
+2020,-4,PSA,Corning-Painted Post,67.1,19.8,20.1,14.6,12.6
+2020,-4,PSA,Webster Percussion Theater,65.9,19.1,20.4,14.1,12.3
+2020,-4,PSA,Central Square High School,63.751,19.4,19.65,12.9,11.8
+2020,-4,PSA,Jordan Elbridge Indoor Percussion,63.401,20.3,19.5,12.2,11.4
+2020,-4,PSO,East Syracuse Minoa,70.0,22.7,20.1,13.6,13.6
+2020,-4,PSO,East Irondequoit,68.25,23.6,18.75,12.9,13.0
+2020,-4,PSO,Hilton HS Percussion,67.9,23.7,18.9,13.3,12.0
+2020,-4,PSO,Liverpool Indoor Percussion,67.35,22.8,19.05,12.7,12.8
+2020,-4,PSO,Victor Indoor Percussion Ensemble,64.501,23.2,17.7,12.4,11.2
+2019,0,PSA,New Hartford,83.075,25.7,24.375,16.6,16.4
+2019,0,PSA,Phoenix Indoor Percussion,82.475,24.6,24.675,16.4,16.8
+2019,0,PSA,Central Square High School,81.75,24.9,24.45,16.1,16.3
+2019,0,PSA,Jordan Elbridge Indoor Percussion,81.6,25.4,23.7,16.0,16.5
+2019,0,PSA,Corning-Painted Post,78.626,23.4,23.625,15.9,15.7
+2019,0,PSA,Baldwinsville indoor Percussion,75.101,22.4,22.8,15.3,14.6
+2019,0,PSA,Mohonasen,74.351,22.5,21.45,15.4,15.0
+2019,0,PSA,Marcus Whitman,68.251,20.8,20.55,13.6,13.3
+2019,0,PSRO,East Irondequoit,86.05,26.4,25.05,17.2,17.4
+2019,0,PIA,Onondaga Community College,78.525,25.5,22.725,15.3,15.0
+2019,0,PIA,Webster Percussion Theater,72.8,21.8,21.6,14.9,14.5
+2019,0,PIA,Albany Indoor Percussion,72.35,21.9,21.75,14.4,14.3
+2019,0,PIA,Cornell Indoor Drumline,68.5,20.2,21.0,13.5,13.8
+2019,0,PSO,East Syracuse Minoa,86.55,26.1,25.65,17.8,17.0
+2019,0,PSO,Hilton HS Percussion,85.4,25.8,25.5,17.4,16.7
+2019,0,PSO,Liverpool Indoor Percussion,81.85,25.3,23.85,16.5,16.2
+2019,0,PSO,Victor Indoor Percussion Ensemble,77.4,23.7,22.5,15.9,15.3
+2019,-1,PIA,Webster Percussion Theater,82.3,25.6,26.55,14.95,15.2
+2019,-1,PSA,Central Square High School,84.4,25.9,26.55,15.85,16.1
+2019,-1,PSA,Jordan Elbridge Indoor Percussion,84.05,25.3,27.15,15.2,16.4
+2019,-1,PSA,Phoenix Indoor Percussion,83.8,24.8,26.1,16.3,16.6
+2019,-1,PSA,Baldwinsville indoor Percussion,81.4,26.2,24.0,15.6,15.6
+2019,-1,PSA,Corning-Painted Post,80.15,24.8,25.35,14.9,15.1
+2019,-1,PSA,New Hartford,0.001,0.0,0.0,0.0,0.0
+2019,-1,PSRO,East Irondequoit,86.75,25.7,26.25,17.1,17.7
+2019,-1,PSO,Hilton HS Percussion,89.75,27.6,28.05,16.9,17.2
+2019,-1,PSO,East Syracuse Minoa,89.2,28.0,27.9,16.4,16.9
+2019,-1,PSO,Liverpool Indoor Percussion,85.25,26.8,26.55,15.7,16.2
+2019,-1,PSO,Victor Indoor Percussion Ensemble,79.35,23.1,24.45,15.5,16.3
+2019,-2,PSA,New Hartford,78.1,23.9,24.3,14.9,15.0
+2019,-2,PSA,Baldwinsville indoor Percussion,75.9,22.4,23.1,15.2,15.2
+2019,-2,PSA,Central Square High School,74.7,23.0,22.2,14.7,14.8
+2019,-2,PSA,Marcus Whitman,63.35,19.8,18.45,12.7,12.4
+2019,-2,PIA,Onondaga Community College,73.85,24.3,21.15,13.8,14.6
+2019,-2,PIA,Webster Percussion Theater,70.6,22.1,21.9,13.4,13.2
+2019,-2,PSO,East Syracuse Minoa,85.55,25.5,25.35,17.2,17.5
+2019,-2,PSO,Liverpool Indoor Percussion,81.05,24.0,23.55,16.5,17.0
+2019,-2,PSO,Victor Indoor Percussion Ensemble,78.9,24.1,22.2,16.0,16.6
+2019,-3,PSA,Phoenix Indoor Percussion,79.15,23.1,24.75,15.4,15.9
+2019,-3,PSA,Central Square High School,78.5,23.6,24.6,14.9,15.4
+2019,-3,PSA,Mohonasen,72.35,21.3,23.25,14.0,13.8
+2019,-3,PSA,Marcus Whitman,62.5,18.1,19.8,12.2,12.4
+2019,-3,PSRO,East Syracuse Minoa,87.0,25.4,27.6,17.1,16.9
+2019,-3,PSRO,East Irondequoit,83.9,24.3,26.4,16.7,16.5
+2019,-3,PSO,Victor Indoor Percussion Ensemble,75.7,21.9,24.6,14.8,14.4
+2019,-4,PIA-C,EPIC Cadets,83.95,25.0,27.15,16.0,15.8
+2019,-4,PIA,Cornell Indoor Drumline,65.2,19.3,19.2,13.2,13.5
+2019,-4,PSA,East Syracuse Minoa,84.2,24.4,25.5,17.1,17.2
+2019,-4,PSA,Liverpool Indoor Percussion,83.6,25.1,25.5,16.5,16.5
+2019,-4,PSA,Hilton HS Percussion,83.15,24.9,25.35,16.1,16.8
+2019,-4,PSA,Lake Lehman,78.3,22.6,23.7,15.8,16.2
+2019,-4,PSA,Jordan Elbridge Indoor Percussion,76.701,22.4,22.8,15.7,15.8
+2019,-4,PSA,Central Square High School,76.451,22.1,23.85,15.1,15.4
+2019,-4,PSA,New Hartford,76.451,23.4,22.65,15.2,15.2
+2019,-4,PSA,Corning-Painted Post,73.301,20.8,22.5,15.0,15.0
+2019,-4,PSA,Mohonasen,71.301,20.7,21.3,14.6,14.7
+2019,-5,PIA,Webster Percussion Theater,68.35,20.2,21.75,13.4,13.0
+2019,-5,PSA,Hilton HS Percussion,80.0,23.8,24.0,16.5,15.7
+2019,-5,PSA,East Irondequoit,78.3,22.0,24.3,16.4,15.6
+2019,-5,PSA,New Hartford,73.3,21.2,21.9,16.0,14.2
+2019,-5,PSA,Baldwinsville indoor Percussion,71.9,20.8,21.3,15.5,14.3
+2019,-5,PSA,Marcus Whitman,60.1,17.3,18.0,12.3,12.5
+2019,-5,PSO,Victor Indoor Percussion Ensemble,68.0,19.9,20.7,13.5,13.9
+2019,-6,PSA,Liverpool Indoor Percussion,77.75,23.7,22.95,15.6,15.5
+2019,-6,PSA,Phoenix Indoor Percussion,74.2,21.1,22.5,15.1,15.5
+2019,-6,PSA,Jordan Elbridge Indoor Percussion,74.1,21.2,22.8,14.3,15.8
+2019,-6,PSA,Corning-Painted Post,70.95,22.5,21.15,13.9,13.4
+2019,-6,PSA,Central Square High School,69.65,21.5,20.55,13.4,14.2
+2019,-6,PIA,Onondaga Community College,72.1,23.4,22.5,13.2,13.0
+2019,-6,PIA,Albany Indoor Percussion,63.6,21.3,17.4,12.2,12.7
+2019,-7,PIA,Albany Indoor Percussion,66.65,19.1,21.45,12.5,13.6
+2019,-7,PSA,East Syracuse Minoa,78.05,24.2,24.75,13.9,15.2
+2019,-7,PSA,Liverpool Indoor Percussion,77.8,23.8,24.3,14.1,15.6
+2019,-7,PSA,Hilton HS Percussion,77.7,23.4,24.0,14.3,16.0
+2019,-7,PSA,Baldwinsville indoor Percussion,72.45,22.3,22.05,13.4,14.7
+2019,-7,PSA,Central Square High School,71.451,21.6,22.65,12.6,14.6
+2019,-7,PSA,Phoenix Indoor Percussion,71.051,21.4,21.45,13.1,15.1
+2019,-7,PSA,Corning-Painted Post,69.901,21.1,21.3,13.3,14.2
+2019,-7,PSA,Marcus Whitman,57.301,16.0,18.0,11.7,11.6
+2019,-8,PIA,Webster Percussion Theater,60.45,18.4,18.45,11.5,12.1
+2019,-8,PSA,East Syracuse Minoa,70.2,21.1,21.0,14.9,13.2
+2019,-8,PSA,Liverpool Indoor Percussion,69.45,21.4,21.3,13.35,13.4
+2019,-8,PSA,Hilton HS Percussion,68.15,20.4,20.55,13.9,13.3
+2019,-8,PSA,East Irondequoit,64.975,19.7,19.125,13.3,12.85
+2019,-8,PSA,New Hartford,64.3,19.2,19.05,13.25,12.8
+2019,-8,PSA,Baldwinsville indoor Percussion,63.301,19.7,19.2,12.1,12.3
+2019,-8,PSA,Phoenix Indoor Percussion,61.476,18.6,18.225,12.55,12.1
+2019,-8,PSA,Jordan Elbridge Indoor Percussion,60.401,18.2,18.3,12.0,11.9
+2019,-8,PSA,Central Square High School,0.001,0.0,0.0,0.0,0.0
+2019,-8,PSO,Victor Indoor Percussion Ensemble,61.95,18.9,18.45,12.2,12.4
+2018,0,PSA,Hilton HS Percussion,88.8,27.2,26.4,17.2,18.0
+2018,0,PSA,East Irondequoit,84.5,25.5,25.2,16.6,17.2
+2018,0,PSA,Liverpool Indoor Percussion,84.2,26.0,25.5,16.1,16.6
+2018,0,PSA,New Hartford,83.35,25.8,23.85,16.4,17.3
+2018,0,PSA,Central Square High School,80.501,24.4,23.1,16.5,16.5
+2018,0,PSA,Phoenix Indoor Percussion,79.201,24.1,23.7,15.6,15.8
+2018,0,PSA,Baldwinsville indoor Percussion,77.051,22.1,23.85,15.0,16.1
+2018,0,PSA,Webster Percussion Theater,74.701,23.5,22.8,13.7,14.7
+2018,0,PSA,Albany Indoor Percussion,70.901,20.6,21.9,13.3,15.1
+2018,0,PSA,Jordan Elbridge Indoor Percussion,68.5,19.2,20.4,14.1,14.8
+2018,0,PSA,Marcus Whitman,63.1,18.2,19.2,12.8,12.9
+2018,0,PIA,Onondaga Community College,79.9,22.7,24.0,16.2,17.0
+2018,0,PIA,Dundee Indoor Percussion,79.8,23.5,24.3,15.7,16.3
+2018,0,PIA,Cornell Indoor Drumline,73.2,21.6,21.6,15.3,14.7
+2018,0,PSO,East Syracuse Minoa,91.4,27.8,28.2,17.5,17.9
+2018,0,PSO,Victor Indoor Percussion Ensemble,90.2,27.2,27.0,17.8,18.2
+2018,-1,PSA,Hilton HS Percussion,87.05,26.0,25.95,17.2,17.9
+2018,-1,PSA,New Hartford,83.725,24.9,24.825,16.6,17.4
+2018,-1,PSA,Liverpool Indoor Percussion,82.6,24.4,24.6,16.7,16.9
+2018,-1,PSA,East Irondequoit,82.2,24.1,24.0,16.8,17.3
+2018,-1,PSA,Phoenix Indoor Percussion,79.15,23.2,23.25,16.1,16.6
+2018,-1,PSA,Baldwinsville indoor Percussion,75.751,22.0,22.65,15.4,15.7
+2018,-1,PSA,Webster Percussion Theater,75.151,23.0,22.05,15.1,15.0
+2018,-1,PSA,Jordan Elbridge Indoor Percussion,69.601,19.0,21.6,14.3,14.7
+2018,-1,PSA,Albany Indoor Percussion,69.451,20.2,21.45,13.5,14.3
+2018,-1,PSA,Marcus Whitman,0.0,0.0,0.0,0.0,0.0
+2018,-1,PIA,Dundee Indoor Percussion,78.75,24.0,22.65,15.4,16.7
+2018,-1,PIA,Onondaga Community College,78.7,24.6,22.2,15.5,16.4
+2018,-1,PSO,East Syracuse Minoa,87.75,26.8,25.65,17.8,17.5
+2018,-1,PSO,Victor Indoor Percussion Ensemble,86.75,26.3,24.75,17.9,17.8
+2018,-2,PSA,Hilton HS Percussion,87.35,25.7,27.15,16.8,17.7
+2018,-2,PSA,New Hartford,82.75,24.3,25.35,16.4,16.7
+2018,-2,PSA,Central Square High School,78.95,23.2,24.45,15.9,15.4
+2018,-2,PSA,Phoenix Indoor Percussion,76.5,22.8,22.5,15.3,15.9
+2018,-2,PSA,Baldwinsville indoor Percussion,72.6,21.2,21.6,14.5,15.3
+2018,-2,PSA,Jordan Elbridge Indoor Percussion,65.101,18.4,18.9,13.2,14.6
+2018,-2,PSA,Marcus Whitman,57.801,16.7,16.5,11.9,12.7
+2018,-2,PSO,East Syracuse Minoa,87.85,26.8,26.55,17.1,17.4
+2018,-2,PSO,Victor Indoor Percussion Ensemble,87.15,26.3,25.65,17.2,18.0
+2018,-3,PSA,Central Square High School,76.0,22.7,22.5,15.4,15.4
+2018,-3,PSA,Phoenix Indoor Percussion,73.9,22.4,21.6,14.8,15.1
+2018,-3,PSA,Marcus Whitman,57.15,16.3,18.45,11.2,11.2
+2018,-3,PIA,Dundee Indoor Percussion,75.5,24.8,21.6,14.4,14.7
+2018,-3,PSO,East Syracuse Minoa,84.8,25.7,25.5,16.9,16.7
+2018,-3,PSO,Victor Indoor Percussion Ensemble,83.4,24.8,24.6,17.1,16.9
+2018,-4,PSA,Hilton HS Percussion,81.7,24.4,24.9,16.8,15.6
+2018,-4,PSA,New Hartford,79.45,23.2,23.85,16.1,16.3
+2018,-4,PSA,East Irondequoit,79.3,22.0,24.15,16.4,16.75
+2018,-4,PSA,Liverpool Indoor Percussion,77.1,22.6,23.1,14.8,16.6
+2018,-4,PSA,Central Square High School,73.201,21.4,22.2,14.3,15.3
+2018,-4,PSA,Albany Indoor Percussion,65.051,19.2,18.75,13.4,13.7
+2018,-4,PSA,Marcus Whitman,57.251,16.6,17.85,11.0,11.8
+2018,-4,PIA,Onondaga Community College,71.75,23.3,20.55,13.9,14.0
+2018,-5,PSA,Hilton HS Percussion,80.1,23.0,24.9,16.3,15.9
+2018,-5,PSA,New Hartford,75.2,21.6,23.4,15.0,15.2
+2018,-5,PSA,East Irondequoit,74.8,21.3,22.5,15.7,15.3
+2018,-5,PSA,Baldwinsville indoor Percussion,70.85,20.7,21.75,13.9,14.5
+2018,-5,PSA,Webster Percussion Theater,68.451,19.2,21.45,13.4,14.4
+2018,-5,PSA,Jordan Elbridge Indoor Percussion,63.601,17.7,20.1,12.4,13.4
+2018,-5,PSA,Marcus Whitman,52.201,16.1,15.0,10.5,10.6
+2018,-5,PIA,Cornell Indoor Drumline,67.2,18.4,21.0,13.6,14.2
+2018,-5,PSO,East Syracuse Minoa,81.6,24.7,24.6,16.2,16.1
+2018,-5,PSO,Victor Indoor Percussion Ensemble,80.2,23.7,24.3,15.9,16.3
+2018,-6,PSA,Liverpool Indoor Percussion,72.75,22.7,21.15,14.6,14.3
+2018,-6,PSA,Baldwinsville indoor Percussion,67.75,20.1,20.25,14.2,13.2
+2018,-6,PSA,Central Square High School,66.4,19.8,20.1,13.7,12.8
+2018,-6,PIA,Dundee Indoor Percussion,66.25,20.4,19.95,13.4,12.5
+2018,-6,PSO,East Syracuse Minoa,79.85,25.0,23.85,15.5,15.5
+2018,-8,PSA,East Syracuse Minoa,77.85,24.7,22.65,15.5,15.0
+2018,-8,PSA,Victor Indoor Percussion Ensemble,76.95,24.1,22.95,15.1,14.8
+2018,-8,PSA,Hilton HS Percussion,74.9,23.5,21.9,14.9,14.6
+2018,-8,PSA,East Irondequoit,71.1,21.7,19.8,15.2,14.4
+2018,-8,PSA,Liverpool Indoor Percussion,70.3,20.6,21.3,14.5,13.9
+2018,-8,PSA,New Hartford,68.751,20.7,19.95,14.0,14.1
+2018,-8,PSA,Phoenix Indoor Percussion,65.301,18.5,18.9,14.4,13.5
+2018,-8,PSA,Baldwinsville indoor Percussion,65.151,19.9,18.75,13.6,12.9
+2018,-8,PSA,Central Square High School,62.851,19.3,18.15,13.2,12.2
+2018,-8,PSA,Webster Percussion Theater,62.45,18.8,18.45,12.5,12.7
+2018,-8,PSA,Jordan Elbridge Indoor Percussion,62.0,18.2,18.3,13.4,12.1
+2018,-8,PSA,Albany Indoor Percussion,61.3,17.6,18.6,12.7,12.4
+2018,-8,PIA,Dundee Indoor Percussion,60.4,18.4,17.4,13.0,11.6
+2018,-9,PSA,East Syracuse Minoa,75.45,22.1,22.95,15.0,15.4
+2018,-9,PSA,East Irondequoit,69.85,19.1,21.75,14.3,14.7
+2018,-9,PSA,Hilton HS Percussion,68.2,20.8,20.7,13.4,13.3
+2018,-9,PSA,Phoenix Indoor Percussion,67.95,19.8,20.55,13.7,13.9
+2018,-9,PSA,New Hartford,67.35,18.4,21.45,13.0,14.5
+2018,-9,PSA,Baldwinsville indoor Percussion,64.901,18.8,20.1,13.2,12.8
+2017,0,PIA,Dundee Indoor Percussion,86.55,27.3,26.25,16.5,16.5
+2017,0,PIA,Midlakes Independent,85.9,26.8,25.5,16.8,16.8
+2017,0,PIA,Cornell Indoor Drumline,78.5,24.6,24.3,14.2,15.4
+2017,0,PIA,Rome Free Academy,70.0,22.5,21.0,12.6,13.9
+2017,0,PSA,East Irondequoit,86.2,25.9,25.5,17.4,17.4
+2017,0,PSA,New Hartford,85.05,25.1,25.35,17.5,17.1
+2017,0,PSA,Central Square High School,84.9,26.2,25.2,16.7,16.8
+2017,0,PSA,Phoenix Indoor Percussion,83.35,24.8,24.75,17.1,16.7
+2017,0,PSA,Baldwinsville indoor Percussion,81.251,24.4,22.65,16.9,17.3
+2017,0,PSA,Liverpool Indoor Percussion,80.901,25.4,23.7,16.0,15.8
+2017,0,PSA,Jordan Elbridge Indoor Percussion,78.951,24.1,22.35,16.2,16.3
+2017,0,PSA,Albany Indoor Percussion,75.001,23.4,21.6,14.6,15.4
+2017,0,PSA,Webster Percussion Theater,72.451,22.2,21.15,14.5,14.6
+2017,0,PSA,Marcus Whitman,67.05,21.1,19.35,13.2,13.4
+2017,-1,PIA,Midlakes Independent,78.75,24.3,22.65,16.1,15.7
+2017,-1,PIA,Dundee Indoor Percussion,78.1,24.6,22.8,15.2,15.5
+2017,-1,PIA,Rome Free Academy,62.35,18.9,19.35,11.3,12.8
+2017,-1,PSA,New Hartford,77.6,22.6,23.4,16.1,15.5
+2017,-1,PSA,Central Square High School,75.1,22.9,21.6,15.5,15.1
+2017,-1,PSA,Liverpool Indoor Percussion,73.9,21.8,22.2,15.2,14.7
+2017,-1,PSA,Baldwinsville indoor Percussion,72.8,21.5,20.7,15.7,14.9
+2017,-1,PSA,Jordan Elbridge Indoor Percussion,72.65,21.2,22.05,14.9,14.5
+2017,-1,PSA,Albany Indoor Percussion,67.601,19.7,20.4,13.6,13.9
+2017,-1,PSA,Webster Percussion Theater,66.451,18.5,20.85,13.5,13.6
+2017,-1,PSA,Marcus Whitman,61.001,16.7,18.9,12.8,12.6
+2017,-2,PIA,Dundee Indoor Percussion,76.35,22.5,23.55,14.4,15.9
+2017,-2,PIA,Midlakes Independent,75.75,22.2,23.25,14.9,15.4
+2017,-2,PIA,Cornell Indoor Drumline,70.9,21.0,22.2,13.4,14.3
+2017,-2,PSA,East Irondequoit,81.3,24.1,24.0,16.5,16.7
+2017,-2,PSA,Central Square High School,78.75,23.8,23.25,15.7,16.0
+2017,-2,PSA,Phoenix Indoor Percussion,77.75,23.0,22.65,15.9,16.2
+2017,-2,PSA,Liverpool Indoor Percussion,74.9,22.5,22.2,15.3,14.9
+2017,-2,PSA,Baldwinsville indoor Percussion,74.451,22.1,21.45,15.2,15.7
+2017,-2,PSA,Albany Indoor Percussion,70.101,21.0,20.7,13.6,14.8
+2017,-2,PSA,Marcus Whitman,62.451,19.3,18.15,12.4,12.6
+2017,-3,PIA,Midlakes Independent,76.45,23.4,22.65,15.1,15.3
+2017,-3,PSA,East Irondequoit,77.3,22.8,23.1,15.7,15.7
+2017,-3,PSA,New Hartford,76.8,22.5,23.4,15.4,15.5
+2017,-3,PSA,Central Square High School,74.35,22.0,22.65,14.6,15.1
+2017,-3,PSA,Liverpool Indoor Percussion,70.75,21.6,21.45,13.7,14.0
+2017,-3,PSA,Jordan Elbridge Indoor Percussion,70.701,20.0,21.9,14.0,14.8
+2017,-3,PSA,Webster Percussion Theater,67.251,21.0,19.65,13.2,13.4
+2017,-3,PSA,Albany Indoor Percussion,0.001,0.0,0.0,0.0,0.0
+2017,-4,PIA,Cornell Indoor Drumline,65.75,20.3,21.45,12.2,11.8
+2017,-4,PSA,Victor Indoor Percussion Ensemble,82.7,24.7,25.2,16.3,16.5
+2017,-4,PSA,East Syracuse Minoa,81.0,24.7,24.6,15.7,16.0
+2017,-4,PSA,Hilton HS Percussion,79.95,24.2,24.15,15.3,16.3
+2017,-4,PSA,New Hartford,75.15,22.2,22.35,15.2,15.4
+2017,-4,PSA,Central Square High School,72.251,19.9,23.55,14.5,14.3
+2017,-4,PSA,Jordan Elbridge Indoor Percussion,70.851,20.6,21.75,13.9,14.6
+2017,-4,PSA,Webster Percussion Theater,67.951,20.2,21.15,13.2,13.4
+2017,-5,PIA,Midlakes Independent,69.05,22.8,18.75,14.0,13.5
+2017,-5,PIA,Dundee Indoor Percussion,65.9,22.4,18.0,12.4,13.1
+2017,-5,PIA,Rome Free Academy,52.95,16.0,16.35,10.0,10.6
+2017,-5,PSA,East Syracuse Minoa,79.95,24.5,24.15,15.7,15.6
+2017,-5,PSA,Phoenix Indoor Percussion,69.45,21.5,19.65,13.8,14.5
+2017,-5,PSA,Central Square High School,68.75,21.2,20.25,13.3,14.0
+2017,-5,PSA,Liverpool Indoor Percussion,63.85,20.3,18.75,11.6,13.2
+2017,-6,PSA,East Syracuse Minoa,78.8,23.8,22.8,15.9,16.3
+2017,-6,PSA,Phoenix Indoor Percussion,68.1,21.0,18.6,14.3,14.2
+2017,-6,PSA,Central Square High School,66.0,18.6,19.5,14.0,13.9
+2017,-6,PSA,Baldwinsville indoor Percussion,65.35,19.3,18.75,13.7,13.6
+2017,-6,PSA,Liverpool Indoor Percussion,63.501,20.4,18.3,11.6,13.2
+2017,-7,PIA,Midlakes Independent,64.0,20.3,18.9,12.4,12.4
+2017,-7,PIA,Dundee Indoor Percussion,62.95,19.5,19.65,11.9,11.9
+2017,-7,PSA,Victor Indoor Percussion Ensemble,78.6,23.8,23.4,15.5,15.9
+2017,-7,PSA,Hilton HS Percussion,76.5,23.7,22.5,14.9,15.4
+2017,-7,PSA,East Irondequoit,71.2,21.8,20.7,14.2,14.5
+2017,-7,PSA,New Hartford,70.75,21.2,20.85,14.3,14.4
+2017,-7,PSA,Webster Percussion Theater,65.05,20.6,18.45,12.9,13.1
+2017,-7,PSA,Baldwinsville indoor Percussion,64.701,20.0,18.3,12.8,13.6
+2017,-7,PSA,Jordan Elbridge Indoor Percussion,64.951,18.8,21.15,13.1,11.9
+2017,-8,PIA,Midlakes Independent,59.7,18.8,17.4,12.2,11.3
+2017,-8,PIA,Rome Free Academy,50.55,15.5,15.15,10.2,9.7
+2017,-8,PSA,Victor Indoor Percussion Ensemble,76.65,22.3,23.55,15.3,15.5
+2017,-8,PSA,East Syracuse Minoa,74.8,23.1,21.9,15.0,14.8
+2017,-8,PSA,Hilton HS Percussion,74.3,21.9,23.1,14.7,14.6
+2017,-8,PSA,East Irondequoit,68.6,19.3,21.3,14.2,13.8
+2017,-8,PSA,New Hartford,67.9,19.4,21.0,13.4,14.1
+2017,-8,PSA,Baldwinsville indoor Percussion,64.751,18.2,20.25,12.9,13.4
+2017,-8,PSA,Central Square High School,60.701,15.9,19.2,12.7,12.9
+2017,-8,PSA,Liverpool Indoor Percussion,61.001,17.1,18.9,12.3,12.7
+2017,-8,PSA,Jordan Elbridge Indoor Percussion,57.601,16.5,17.4,12.5,11.2
+2017,-8,PSA,Phoenix Indoor Percussion,0.0,0.0,0.0,0.0,0.0
+2016,0,PSAS,Saint Mary Crusaders,63.9,31.4,31.3,33.2,31.9
+2016,0,PIAS,Rochester Institute of Technology (RIT),80.5,40.9,43.2,37.8,39.1
+2016,-1,PSA,Victor Indoor Percussion Ensemble,90.65,36.4,35.55,18.7,0.0
+2016,-1,PSA,Hilton HS Percussion,89.7,36.0,35.5,18.2,0.0
+2016,-1,PSA,East Syracuse Minoa,86.35,34.6,34.05,17.7,0.0
+2016,-1,PSA,New Hartford,82.05,33.0,32.35,16.7,0.0
+2016,-1,PSA,Liverpool Indoor Percussion,76.55,31.6,28.85,16.1,0.0
+2016,-1,PSA,Baldwinsville indoor Percussion,74.651,32.0,25.85,16.8,0.0
+2016,-1,PSA,Charter School for Applied Technologies,69.101,29.0,25.5,14.6,-1.0
+2016,-1,PIA,Midlakes Independent,82.35,34.2,32.05,16.1,0.0
+2016,-1,PIA,Dundee Indoor Percussion,77.9,30.8,30.2,16.9,0.0
+2016,-2,PSA,Victor Indoor Percussion Ensemble,91.8,36.4,37.1,18.3,-0.6
+2016,-2,PSA,Hilton HS Percussion,90.7,35.4,37.2,18.1,0.0
+2016,-2,PSA,East Syracuse Minoa,88.2,34.4,36.8,17.0,0.0
+2016,-2,PSA,Phoenix Indoor Percussion,87.2,34.2,35.9,17.1,0.0
+2016,-2,PSA,Liverpool Indoor Percussion,77.951,32.0,30.15,15.8,0.0
+2016,-2,PSA,Central Square High School,77.301,30.8,30.2,16.3,0.0
+2016,-2,PSA,Baldwinsville indoor Percussion,76.751,31.2,29.05,16.5,0.0
+2016,-2,PSA,Albany Indoor Percussion,70.001,29.2,25.8,15.0,-0.2
+2016,-2,PSA,Charter School for Applied Technologies,68.301,28.6,25.4,14.3,-1.8
+2016,-2,PIA,Midlakes Independent,83.0,33.2,33.1,16.7,0.0
+2016,-2,PIA,Dundee Indoor Percussion,80.15,32.2,32.55,15.4,0.0
+2016,-2,PIA,Cornell Indoor Drumline,68.3,28.2,26.5,13.6,-2.6
+2016,-3,PIA,Midlakes Independent,76.8,30.4,30.6,15.8,0.0
+2016,-3,PIA,Black Knights,66.5,27.8,26.2,12.5,0.0
+2016,-3,PSA,Hilton HS Percussion,85.6,34.2,33.9,17.5,0.0
+2016,-3,PSA,East Syracuse Minoa,82.4,33.0,32.6,16.8,0.0
+2016,-3,PSA,Central Square High School,78.65,31.4,31.65,15.6,0.0
+2016,-3,PSA,New Hartford,78.6,31.0,32.2,15.4,0.0
+2016,-3,PSA,East Irondequoit,77.201,32.0,30.1,15.1,0.0
+2016,-3,PSA,Jordan Elbridge Indoor Percussion,73.001,29.6,28.1,15.3,0.0
+2016,-3,PSA,Liverpool Indoor Percussion,67.551,26.8,26.25,14.5,0.0
+2016,-4,PSA,Victor Indoor Percussion Ensemble,83.3,33.6,33.1,16.6,0.0
+2016,-4,PSA,East Syracuse Minoa,81.2,32.6,32.7,15.9,0.0
+2016,-4,PSA,Phoenix Indoor Percussion,79.3,31.4,32.3,15.6,0.0
+2016,-4,PSA,New Hartford,74.25,30.4,29.65,14.2,0.0
+2016,-4,PSA,Jordan Elbridge Indoor Percussion,71.201,29.4,28.3,13.5,0.0
+2016,-4,PSA,Liverpool Indoor Percussion,68.501,27.6,27.5,13.4,0.0
+2016,-4,PSA,Central Square High School,70.301,28.8,27.9,13.6,-2.8
+2016,-4,PIA,Midlakes Independent,77.1,30.8,31.5,14.8,-0.35
+2016,-4,PIA,Cornell Indoor Drumline,65.6,28.0,25.5,12.1,-0.35
+2016,-4,PIA,Black Knights,61.95,26.4,24.15,11.4,0.0
+2016,-5,PSA,Victor Indoor Percussion Ensemble,81.8,33.2,32.3,16.3,-0.85
+2016,-5,PSA,Hilton HS Percussion,80.0,32.8,31.5,15.7,0.0
+2016,-5,PSA,East Syracuse Minoa,78.65,31.8,31.45,15.4,0.0
+2016,-5,PSA,East Irondequoit,73.5,30.0,29.4,14.1,0.0
+2016,-5,PSA,New Hartford,69.6,27.2,28.6,13.8,0.0
+2016,-5,PSA,Baldwinsville indoor Percussion,63.301,24.4,25.4,13.5,0.0
+2016,-5,PSA,Central Square High School,67.301,26.4,27.8,13.1,-4.6
+2016,-5,PSA,Charter School for Applied Technologies,57.801,22.8,23.0,12.0,0.0
+2016,-5,PIA,Dundee Indoor Percussion,65.8,26.4,26.2,13.2,0.0
+2016,-6,PSA,East Syracuse Minoa,77.4,30.6,31.5,15.3,0.0
+2016,-6,PSA,Phoenix Indoor Percussion,75.75,30.0,30.95,14.8,0.0
+2016,-6,PSA,Central Square High School,67.55,28.0,26.75,12.8,0.0
+2016,-6,PSA,Jordan Elbridge Indoor Percussion,64.45,26.2,25.25,13.0,0.0
+2016,-6,PSA,Liverpool Indoor Percussion,61.401,24.4,24.7,12.3,-3.85
+2016,-7,PSA,Hilton HS Percussion,73.7,30.2,29.0,14.5,0.0
+2016,-7,PSA,East Syracuse Minoa,73.35,29.2,30.15,14.0,0.0
+2016,-7,PSA,East Irondequoit,70.9,28.4,28.3,14.2,0.0
+2016,-7,PSA,Phoenix Indoor Percussion,68.85,27.6,27.75,13.5,0.0
+2016,-7,PSA,Jordan Elbridge Indoor Percussion,60.55,23.4,24.45,12.7,0.0
+2016,-7,PSA,Baldwinsville indoor Percussion,56.701,22.6,22.6,11.5,0.0
+2016,-7,PSA,Charter School for Applied Technologies,0.001,0.0,0.0,0.0,0.0
+2016,-7,PIA,Dundee Indoor Percussion,62.5,24.4,25.5,12.6,0.0
+2016,-7,PIA,Midlakes Independent,0.0,0.0,0.0,0.0,0.0
+2016,-8,PSA,Victor Indoor Percussion Ensemble,68.475,28.2,25.875,14.4,-0.2
+2016,-8,PSA,Hilton HS Percussion,65.175,26.6,25.675,12.9,0.0
+2016,-8,PSA,East Irondequoit,62.75,25.4,24.95,12.4,0.0
+2016,-8,PSA,New Hartford,60.9,24.6,24.3,12.0,0.0
+2016,-8,PSA,Central Square High School,60.725,24.0,24.925,11.8,-1.0
+2016,-8,PIA,Midlakes Independent,60.0,24.2,24.9,10.9,-4.5
+2015,0,PSSA,Saint Mary Crusaders,74.9,37.0,37.0,39.4,36.4
+2015,-1,PSA(,Victor Indoor Percussion Ensemble,91.4,36.8,36.1,18.5,0.0
+2015,-1,PSA(,East Syracuse Minoa,89.35,34.4,36.65,18.3,0.0
+2015,-1,PSA(,Phoenix Indoor Percussion,88.3,36.4,33.8,18.1,0.0
+2015,-1,PSA(,Central Square High School,83.25,33.2,33.75,16.3,0.0
+2015,-1,PSA(,Charter School for Applied Technologies,80.751,32.8,32.35,15.6,0.0
+2015,-1,PSA(,Baldwinsville indoor Percussion,77.901,30.6,30.8,16.5,0.0
+2015,-1,PIA(,Onondaga Communuty College,86.8,34.0,35.3,17.5,0.0
+2015,-1,PIA(,Midlakes Independent,82.9,33.2,32.8,16.9,0.0
+2015,-1,PIA(,Dundee Indoor Percussion,76.4,29.4,30.8,16.2,0.0
+2015,-2,PSA(,Hilton HS Percussion,87.1,35.6,34.3,17.2,0.0
+2015,-2,PSA(,Victor Indoor Percussion Ensemble,86.8,35.2,34.7,16.9,0.0
+2015,-2,PSA(,East Irondequoit,81.8,32.4,33.5,15.9,0.0
+2015,-2,PSA(,East Syracuse Minoa,81.8,32.6,33.1,16.1,0.0
+2015,-2,PSA(,Central Square High School,78.9,31.8,31.9,15.2,0.0
+2015,-2,PSA(,Jordan Elbridge Indoor Percussion,75.051,30.8,29.65,14.6,0.0
+2015,-2,PSA(,Charter School for Applied Technologies,71.901,29.6,29.1,13.2,0.0
+2015,-2,PIA(,Midlakes Independent,81.35,33.4,32.45,15.5,0.0
+2015,-2,PIA(,New Hartford,77.2,31.0,31.9,14.3,0.0
+2015,-2,PIA(,Dundee Indoor Percussion,76.85,31.8,30.95,14.1,0.0
+2015,-2,PIA(,Cornell Indoor Drumline,70.95,29.6,27.95,13.4,0.0
+2015,-3,PSA(,Hilton HS Percussion,84.15,33.6,34.05,16.5,0.0
+2015,-3,PSA(,Phoenix Indoor Percussion,80.05,32.2,31.95,15.9,0.0
+2015,-3,PSA(,East Syracuse Minoa,77.7,30.4,32.3,15.0,0.0
+2015,-3,PSA(,Central Square High School,77.45,31.2,31.75,14.5,0.0
+2015,-3,PSA(,Jordan Elbridge Indoor Percussion,72.4,29.8,28.9,13.7,0.0
+2015,-3,PSA(,Mohonasen Indoor Percussion,71.401,28.6,29.5,13.3,-1.1
+2015,-3,PIA(,Onondaga Communuty College,83.85,33.4,33.65,16.8,0.0
+2015,-3,PIA(,Midlakes Independent,79.4,31.0,32.7,15.7,0.0
+2015,-3,PIA(,New Hartford,75.8,30.0,30.6,15.2,0.0
+2015,-4,PSA(,Hilton HS Percussion,81.65,32.6,32.45,16.6,0.0
+2015,-4,PSA(,Victor Indoor Percussion Ensemble,81.45,33.2,32.05,16.2,0.0
+2015,-4,PSA(,East Syracuse Minoa,76.6,31.2,30.3,15.1,0.0
+2015,-4,PSA(,East Irondequoit,75.1,30.4,29.9,14.8,0.0
+2015,-4,PSA(,Central Square High School,70.9,28.4,29.1,13.4,-0.9
+2015,-4,PSA(,Baldwinsville indoor Percussion,68.651,27.4,27.25,14.0,-0.1
+2015,-4,PSA(,Charter School for Applied Technologies,67.301,26.4,28.3,12.6,0.0
+2015,-4,PIA(,Dundee Indoor Percussion,67.45,26.8,26.85,13.8,0.0
+2015,-4,PIA(,New Hartford,64.45,25.0,26.05,13.4,0.0
+2015,-5,PSA(,Victor Indoor Percussion Ensemble,82.0,33.2,33.7,15.1,0.0
+2015,-5,PSA(,Phoenix Indoor Percussion,81.7,33.4,34.5,13.8,0.0
+2015,-5,PSA(,East Syracuse Minoa,79.8,31.2,34.1,14.5,0.0
+2015,-5,PSA(,Central Square High School,73.55,30.2,30.15,13.2,-0.2
+2015,-5,PSA(,Jordan Elbridge Indoor Percussion,72.55,30.0,29.95,12.6,0.0
+2015,-5,PSA(,Baldwinsville indoor Percussion,71.301,27.6,30.9,12.8,-1.3
+2015,-6,PSA(,Victor Indoor Percussion Ensemble,77.85,31.4,31.25,15.2,0.0
+2015,-6,PSA(,East Irondequoit,74.9,30.4,29.9,14.6,0.0
+2015,-6,PSA(,Phoenix Indoor Percussion,73.85,29.6,29.55,14.7,0.0
+2015,-6,PSA(,Jordan Elbridge Indoor Percussion,64.6,25.6,25.4,13.6,-0.1
+2015,-6,PIA(,Midlakes Independent,75.25,29.8,30.45,15.0,0.0
+2015,-6,PIA(,Dundee Indoor Percussion,68.05,28.0,25.75,14.3,0.0
+2015,-7,PSA(,Victor Indoor Percussion Ensemble,74.25,27.4,31.05,15.8,-0.1
+2015,-7,PSA(,Hilton HS Percussion,73.2,28.4,30.1,14.7,0.0
+2015,-7,PSA(,Phoenix Indoor Percussion,73.15,28.6,30.45,14.1,-0.3
+2015,-7,PSA(,East Irondequoit,70.5,25.8,29.5,15.2,0.0
+2015,-7,PSA(,East Syracuse Minoa,70.5,26.6,29.9,14.0,-0.1
+2015,-7,PSA(,Central Square High School,70.051,25.0,32.05,13.0,0.0
+2015,-7,PSA(,Baldwinsville indoor Percussion,65.101,24.0,27.9,13.2,0.0
+2015,-7,PIA(,Midlakes Independent,73.8,28.4,29.5,15.9,0.0
+2015,-7,PIA(,New Hartford,63.5,22.6,28.0,12.9,0.0
+2014,0,PSSA,Central Square High School,90.05,45.4,42.8,46.0,45.9
+2014,0,PSSA,Charter School for Applied Technologies,84.25,42.9,41.4,42.8,41.4
+2014,-1,PIA(,Dundee Indoor Percussion,80.35,31.0,33.75,15.6,0.0
+2014,-1,PSA(,Victor Indoor Percussion Ensemble,89.55,37.4,35.35,16.8,0.0
+2014,-1,PSA(,Liverpool Indoor Percussion,88.3,36.6,34.4,17.3,0.0
+2014,-1,PSA(,Phoenix Indoor Percussion,84.8,35.0,33.3,16.5,0.0
+2014,-1,PSA(,East Irondequoit,81.55,33.8,31.6,16.15,0.0
+2014,-1,PSA(,East Syracuse Minoa,81.15,34.2,30.55,16.4,0.0
+2014,-1,PSA(,Jordan Elbridge Indoor Percussion,80.0,33.4,32.0,14.6,0.0
+2014,-1,PSA(,Baldwinsville indoor Percussion,78.75,33.0,29.75,16.0,0.0
+2014,-2,PIA(,Midlakes Independent,77.4,30.4,31.8,15.2,0.0
+2014,-2,PIA(,Dundee Indoor Percussion,77.15,31.6,30.85,14.7,0.0
+2014,-2,PSA(,Liverpool Indoor Percussion,88.5,36.0,35.5,17.0,0.0
+2014,-2,PSA(,Phoenix Indoor Percussion,88.0,34.8,36.3,16.9,0.0
+2014,-2,PSA(,East Syracuse Minoa,85.55,35.2,34.45,15.9,0.0
+2014,-2,PSA(,Baldwinsville indoor Percussion,81.9,32.4,33.1,16.4,0.0
+2014,-2,PSA(,Cicero North Syracuse,78.55,31.0,32.15,15.4,0.0
+2014,-2,PSA(,Mohonasen Indoor Percussion,78.05,30.6,31.75,15.7,0.0
+2014,-3,PIA(,Midlakes Independent,77.3,31.4,31.2,14.7,0.0
+2014,-3,PSA(,Victor Indoor Percussion Ensemble,86.0,34.2,35.8,16.0,0.0
+2014,-3,PSA(,Liverpool Indoor Percussion,83.5,33.6,34.2,15.7,0.0
+2014,-3,PSA(,East Syracuse Minoa,79.9,32.4,32.6,14.9,0.0
+2014,-3,PSA(,East Irondequoit,79.5,30.8,33.4,15.3,0.0
+2014,-3,PSA(,Jordan Ebridge Indoor Percussion,76.6,30.6,31.8,14.2,0.0
+2014,-3,PSA(,Cicero North Syracuse,74.8,29.4,31.0,14.4,0.0
+2014,-4,PIA(,Midlakes Independent,77.4,32.4,30.7,14.3,0.0
+2014,-4,PIA(,Dundee Indoor Percussion,73.25,29.6,28.85,14.8,0.0
+2014,-4,PSA(,Liverpool Indoor Percussion,84.45,33.8,34.05,16.6,0.0
+2014,-4,PSA(,East Syracuse Minoa,79.1,32.6,32.2,14.3,0.0
+2014,-4,PSA(,East Irondequoit,77.65,31.8,31.25,14.6,0.0
+2014,-4,PSA(,Baldwinsville indoor Percussion,75.6,31.0,29.6,15.0,0.0
+2014,-4,PSA(,Jordan Ebridge Indoor Percussion,74.0,30.0,30.3,13.7,0.0
+2014,-5,PSA(,Phoenix Indoor Percussion,82.3,32.6,33.1,16.6,0.0
+2014,-5,PSA(,Victor Indoor Percussion Ensemble,83.6,32.0,35.5,16.1,0.0
+2014,-6,PIA(,Midlakes Independent,72.75,29.8,30.45,12.5,0.0
+2014,-6,PIA(,Dundee Indoor Percussion,70.2,29.0,28.3,12.9,0.0
+2014,-6,PSA(,Liverpool Indoor Percussion,79.8,32.8,30.7,16.3,0.0
+2014,-6,PSA(,Phoenix Indoor Percussion,79.75,32.4,31.25,16.1,0.0
+2014,-6,PSA(,East Syracuse Minoa,73.75,29.2,30.15,14.4,0.0
+2014,-6,PSA(,Jordan Ebridge Indoor Percussion,71.45,28.6,29.75,13.1,0.0
+2014,-6,PSA(,Cicero North Syracuse,66.8,24.4,29.1,13.3,0.0
+2014,-6,PSA(,Mohonasen Indoor Percussion,62.95,23.2,27.75,12.0,0.0
+2014,-7,PIA(,Midlakes Independent,64.7,23.8,28.6,12.3,0.0
+2014,-7,PSA(,Phoenix Indoor Percussion,70.85,26.8,29.85,14.2,0.0
+2014,-7,PSA(,East Irondequoit,70.45,27.4,29.25,13.8,0.0
+2014,-7,PSA(,Baldwinsville indoor Percussion,65.45,25.0,27.15,13.3,0.0
+2014,-8,PSA(,Phoenix Indoor Percussion,72.3,30.6,27.5,14.2,0.0
+2014,-8,PSA(,Liverpool Indoor Percussion,69.35,29.4,26.15,13.8,0.0
+2014,-8,PSA(,East Irondequoit,69.25,28.8,26.45,14.0,0.0
+2014,-8,PSA(,Baldwinsville indoor Percussion,67.0,30.0,25.8,11.2,0.0
+2014,-8,PSA(,East Syracuse Minoa,66.4,28.4,25.6,12.4,0.0
+2014,-8,PSA(,Cicero North Syracuse,65.7,28.0,24.8,12.9,0.0
+2014,-8,PSA(,Jordan Ebridge Indoor Percussion,61.3,26.2,23.5,11.6,0.0
 2026,0,PRA(,Cheltenham,76.775,22.125,23.25,15.3,16.1
 2026,0,PRA(,Daniel Boone,71.6,20.85,22.05,14.5,14.2
 2026,0,PRA(,Upper Dublin,71.425,21.225,21.45,14.25,14.5
@@ -2778,6 +3659,2143 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,0,PSO,Upper Darby,79.4,23.8,24.6,15.7,15.3
 2017,0,PSO,Cab Calloway,79.05,24.1,23.55,15.9,15.5
 2017,0,PIW,United Percussion,88.15,26.2,27.75,17.0,17.2
+2022,0,PSA,Lake Central HS,72.6,22.2,15.5,20.2,14.7
+2022,0,PSA,Plainfield Central HS,67.25,20.55,13.4,19.2,14.1
+2022,0,PSA,Minooka Community HS,66.8,21.3,12.9,19.1,13.5
+2022,0,PIA,Modulation Z,78.9,24.3,16.4,21.8,16.4
+2022,0,PIA,Pi Percussion Inc.,74.65,23.85,15.5,20.6,14.7
+2022,0,PIA,Lincoln-Way Community HS,68.1,19.8,15.0,19.8,13.5
+2022,0,PIA,Crystal Lake Thunder,66.75,20.25,14.3,19.2,13.0
+2022,0,PSO,Victor J. Andrew HS,74.85,22.65,17.0,20.0,15.2
+2022,0,PIO,Crossroads Percussion,72.5,23.1,16.3,19.5,13.6
+2022,0,PSA,Lake Central HS,72.55,22.65,15.2,19.7,15.0
+2022,0,PSA,Plainfield Central HS,67.2,19.8,13.3,19.4,14.7
+2022,0,PSA,Minooka Community HS,65.55,20.85,12.8,18.8,13.1
+2022,0,PIA,Modulation Z,77.65,23.55,16.3,21.4,16.4
+2022,0,PIA,Pi Percussion Inc.,72.95,24.15,15.2,19.9,13.7
+2022,0,PIA,Lincoln-Way Community HS,68.1,20.1,15.0,20.0,13.0
+2022,0,PIA,Crystal Lake Thunder,67.6,20.7,14.1,20.3,12.5
+2022,0,PSO,Victor J. Andrew HS,75.15,23.25,17.0,20.0,14.9
+2022,0,PIO,Crossroads Percussion,71.85,22.35,16.3,19.4,13.8
+2022,0,PSA,Grand Blanc HS,74.8,21.3,15.5,23.4,14.6
+2022,0,PSA,Dakota Combined Schools,72.55,20.55,15.4,22.5,14.1
+2022,0,PSA,Dawson Bryant HS,68.4,18.9,13.2,23.1,13.2
+2022,0,PSA,Hudsonville HS,67.7,19.8,14.4,20.2,13.3
+2022,0,PSA,Southgate Anderson HS,66.65,19.35,13.4,20.1,13.8
+2022,0,PSA,Holly HS,62.951,18.45,12.6,18.9,13.0
+2022,0,PIA,Ascension Percussion,75.15,22.05,15.7,23.6,13.8
+2022,0,PIA,Lake Effect Percussion,71.65,20.25,15.1,21.8,14.5
+2022,0,PIA,Huron Valley Percussion,70.15,19.65,14.9,22.6,13.0
+2022,0,PIA,Shockwave,60.75,18.45,12.0,18.3,12.0
+2022,0,PSO,Walled Lake Consolidated Schools,75.7,22.2,15.2,23.9,14.4
+2022,0,PSO,Plymouth-Canton Educational Park,71.35,20.25,14.3,22.1,14.7
+2022,0,PSO,Lake Orion HS,67.6,20.4,12.9,21.4,12.9
+2022,0,PIO,Motor City Percussion,75.0,22.2,14.4,23.7,14.7
+2022,0,PIW,Redline,76.1,22.5,15.2,23.5,14.9
+2022,0,PSA,Grand Blanc HS,74.0,21.6,15.5,22.8,14.1
+2022,0,PSA,Dakota Combined Schools,71.6,19.5,15.7,22.1,14.3
+2022,0,PSA,Dawson Bryant HS,70.1,19.8,13.5,23.6,13.2
+2022,0,PSA,Southgate Anderson HS,68.3,19.2,14.3,21.3,13.5
+2022,0,PSA,Hudsonville HS,67.9,18.9,15.2,20.8,13.0
+2022,0,PSA,Holly HS,61.901,18.0,12.4,18.7,12.8
+2022,0,PIA,Ascension Percussion,74.65,22.05,15.6,23.3,13.7
+2022,0,PIA,Lake Effect Percussion,71.3,20.1,14.9,21.9,14.4
+2022,0,PIA,Huron Valley Percussion,70.0,19.2,15.8,21.8,13.2
+2022,0,PIA,Shockwave,58.5,16.5,12.2,18.3,11.5
+2022,0,PSO,Walled Lake Consolidated Schools,75.75,22.35,14.9,24.1,14.4
+2022,0,PSO,Lake Orion HS,69.8,21.0,13.2,22.6,13.0
+2022,0,PSO,Plymouth-Canton Educational Park,69.6,19.5,13.4,22.1,14.6
+2022,0,PIO,Motor City Percussion,73.45,21.75,13.9,23.6,14.2
+2022,0,PIW,Redline,73.3,21.9,14.3,23.2,13.9
+2022,2,PSA,Nutley HS,76.7,23.1,15.5,22.8,15.3
+2022,2,PSA,Mansfield HS,76.95,22.65,15.3,23.3,15.7
+2022,2,PSA,Hempfield HS,74.1,21.3,15.0,22.5,15.3
+2022,2,PSA,Old Bridge HS,75.65,21.75,14.8,24.4,14.7
+2022,2,PSA,Central Dauphin HS,73.025,20.325,13.5,23.6,15.6
+2022,2,PSA,Londonderry HS,72.551,21.15,14.6,22.2,14.6
+2022,2,PSA,New Milford HS,70.376,21.075,14.4,21.2,13.7
+2022,2,PSA,Dennis-Yarmouth HS,70.051,20.25,12.6,24.3,12.9
+2022,2,PSA,Cranston Combined Schools,69.051,19.65,14.0,20.9,14.5
+2022,2,PSA,Westhill HS,68.15,19.95,13.0,21.3,13.9
+2022,2,PSA,Eastridge HS,68.0,20.4,13.3,19.9,14.4
+2022,2,PSA,West Milford HS,66.35,19.05,12.8,21.0,13.5
+2022,2,PSA,Salem HS,65.95,18.45,12.4,21.8,13.3
+2022,2,PIA,United Percussion 2,73.85,21.75,14.6,22.2,15.3
+2022,2,PSO,Trumbull HS,75.2,22.2,13.9,23.9,15.2
+2022,2,PSO,Fair Lawn HS,73.2,21.3,14.0,23.6,14.3
+2022,2,PSO,Norwalk HS,71.15,20.85,14.2,22.3,13.8
+2022,2,PIO,Spartans Indoor Percussion,75.55,22.95,15.0,21.7,15.9
+2022,2,PSW,Dartmouth HS,85.2,25.8,17.0,25.9,16.5
+2022,2,PIW,United Percussion,82.2,24.9,16.3,24.2,16.8
+2022,2,PSA,Carlsbad HS,76.55,23.55,14.3,23.2,15.5
+2022,2,PSA,Valhalla HS,73.0,21.6,13.3,24.1,14.0
+2022,2,PSA,Dorothy McElhinney MS,72.95,22.65,13.9,23.1,13.3
+2022,2,PSA,Selma HS,69.5,21.3,13.8,20.3,14.1
+2022,2,PSA,Great Oak HS,67.55,21.15,12.8,20.7,12.9
+2022,2,PIA,Pace Percussion Ensemble,75.05,23.55,14.4,21.8,15.3
+2022,2,PIA,Cornerstone Percussion,74.85,22.65,14.8,22.5,14.9
+2022,2,PSO,Great Oak HS,80.4,24.3,16.2,23.7,16.2
+2022,2,PSO,West HS,79.45,22.95,15.9,25.2,15.4
+2022,2,PSO,Basha HS,76.7,22.2,15.7,23.3,15.5
+2022,2,PSO,Mission Hills HS,72.1,21.3,15.5,21.6,13.7
+2022,2,PSO,La Quinta HS,70.451,19.95,15.3,20.6,14.6
+2022,2,PSO,Independence HS (Bakersfield),70.401,19.8,14.8,21.3,14.5
+2022,2,PIO,Bakersfield College,83.1,25.2,16.6,24.9,16.4
+2022,2,PIO,Gold Indoor Percussion,80.8,24.0,16.3,23.8,16.7
+2022,2,PIO,Meraki Percussion,78.65,23.25,15.8,23.3,16.3
+2022,2,PSW,Chino Hills HS,85.9,25.5,16.4,26.4,17.6
+2022,2,PSW,Vista Murrieta HS,83.55,24.75,16.7,25.0,17.1
+2022,2,PIW,Pulse Percussion,87.65,25.95,16.9,27.1,17.7
+2022,2,PIW,POW Percussion,82.65,24.75,16.2,24.7,17.0
+2022,2,PSA,Carlsbad HS,75.5,23.7,13.8,22.2,15.8
+2022,2,PSA,Dorothy McElhinney MS,73.6,22.5,13.7,23.9,13.5
+2022,2,PSA,Valhalla HS,71.9,21.3,13.3,22.8,14.5
+2022,2,PSA,Selma HS,70.65,22.35,14.2,19.2,14.9
+2022,2,PSA,Great Oak HS,65.701,19.8,12.7,20.1,13.1
+2022,2,PIA,Pace Percussion Ensemble,75.25,23.85,14.5,21.7,15.2
+2022,2,PIA,Cornerstone Percussion,74.6,22.8,14.9,22.2,14.7
+2022,2,PSO,Great Oak HS,77.95,23.25,16.3,22.2,16.2
+2022,2,PSO,West HS,78.4,22.5,16.1,24.4,15.4
+2022,2,PSO,Basha HS,75.45,22.05,15.7,22.6,15.1
+2022,2,PSO,Mission Hills HS,72.0,21.6,15.9,20.5,14.0
+2022,2,PSO,La Quinta HS,71.1,19.8,15.4,21.3,14.6
+2022,2,PSO,Independence HS (Bakersfield),68.151,19.65,14.6,20.0,13.9
+2022,2,PIO,Bakersfield College,81.45,24.75,16.5,23.7,16.5
+2022,2,PIO,Gold Indoor Percussion,79.0,23.4,16.2,22.7,16.7
+2022,2,PIO,Meraki Percussion,77.05,22.65,15.5,23.0,15.9
+2022,2,PSW,Chino Hills HS,85.0,25.5,16.3,26.0,17.2
+2022,2,PSW,Vista Murrieta HS,81.75,24.15,16.6,23.9,17.1
+2022,2,PIW,Pulse Percussion,86.85,25.65,16.8,26.9,17.5
+2022,2,PIW,POW Percussion,82.0,24.6,16.4,24.2,16.8
+2022,2,PSA,J.W. Mitchell HS,76.3,23.1,14.7,23.6,14.9
+2022,2,PSA,Stoneman Douglas HS,73.2,22.5,14.4,22.0,14.3
+2022,2,PSA,Wiregrass Ranch HS,70.05,20.25,13.7,22.5,13.6
+2022,2,PIA,Conflux Percussion,74.55,22.05,15.0,22.0,15.5
+2022,2,PIA,STRYKE Percussion 2,72.3,21.9,14.3,22.5,13.6
+2022,2,PIA,RPT PERCUSSION,65.95,18.75,13.0,20.9,13.3
+2022,2,PSO,Newsome HS,75.35,21.45,14.9,23.5,15.5
+2022,2,PIO,Infinity 2,82.85,24.75,16.2,25.3,16.6
+2022,2,PIO,Q2,79.3,22.8,15.5,24.9,16.1
+2022,2,PIO,Infinity 3,78.35,22.65,15.8,23.7,16.2
+2022,2,PIW,Infinity,83.45,25.05,16.2,25.7,16.5
+2022,2,PIW,Atlanta Quest,80.45,23.55,15.2,25.8,15.9
+2022,2,PIW,STRYKE Percussion,78.15,23.25,14.5,24.9,15.5
+2022,2,PSO,Newsome HS,75.05,20.85,15.1,23.3,15.8
+2022,2,PIO,Infinity 2,82.9,24.3,16.5,25.5,16.6
+2022,2,PIO,Q2,78.7,21.6,15.9,24.7,16.5
+2022,2,PIW,Infinity,81.7,24.9,15.7,24.8,16.3
+2022,2,PIW,Atlanta Quest,78.85,22.95,15.0,25.1,15.8
+2022,2,PIW,STRYKE Percussion,79.0,23.4,15.3,25.0,15.3
+2022,3,PSA,Green Hope HS,79.55,23.85,15.7,23.9,16.1
+2022,3,PSA,West Shore School District,76.3,22.2,16.1,23.3,14.7
+2022,3,PSA,Clarke County HS,75.8,22.5,16.5,20.8,16.0
+2022,3,PSA,Hickory HS,74.7,23.4,15.4,22.5,13.4
+2022,3,PSA,Green Level HS,74.35,21.75,15.5,22.8,14.3
+2022,3,PSA,Millbrook HS,66.951,19.95,13.3,21.0,12.7
+2022,3,PSA,Albemarle County Combined Schools,63.801,18.9,13.0,19.8,12.1
+2022,3,PSA,Powhatan MS,56.451,16.95,10.7,18.8,10.0
+2022,3,PSO,Thomas Jefferson HS,80.6,23.7,16.5,24.1,16.3
+2022,3,PSO,Powhatan HS,79.65,23.85,16.6,23.7,15.5
+2022,3,PSO,Panther Creek HS,77.4,22.8,15.5,23.2,15.9
+2022,3,PSO,Chantilly HS,76.75,22.65,16.1,23.6,14.4
+2022,3,PSO,Freedom HS,72.6,21.9,14.4,21.8,14.5
+2022,3,PIO,Old Line Independent Percussion,81.75,23.55,17.1,24.8,16.3
+2022,3,PIO,Liberty University Indoor Drumline,77.5,22.8,15.5,23.8,15.4
+2022,3,PSW,South County HS,75.75,23.25,14.0,24.0,14.5
+2022,3,PIW,George Mason University,83.95,25.05,16.8,25.2,16.9
+2022,3,PSA,Klein Collins HS,80.675,23.475,16.6,24.9,15.7
+2022,3,PSA,Cypress Park HS,79.4,23.1,16.5,24.2,15.6
+2022,3,PSA,Cypress Ranch HS,78.85,22.95,15.2,25.3,15.4
+2022,3,PSA,John Marshall HS,75.8,22.8,14.9,23.7,14.4
+2022,3,PSA,Morton Ranch HS,73.9,21.6,13.9,24.4,14.0
+2022,3,PSA,Edinburg North HS,69.551,17.55,15.5,22.3,14.2
+2022,3,PSA,Robstown Early College HS,65.951,17.25,14.1,21.5,13.1
+2022,3,PSA,Elkhart HS,56.401,15.9,10.0,20.3,10.2
+2022,3,PSO,Clear Brook HS,79.8,24.0,15.0,25.1,15.7
+2022,3,PSO,Bridgeland HS,77.95,24.15,14.6,24.3,14.9
+2022,3,PSO,Cy-Fair HS,77.7,24.9,15.4,21.6,15.8
+2022,3,PSO,Obra D. Tompkins HS,73.8,22.8,14.2,22.9,13.9
+2022,3,PSO,Seven Lakes HS,72.451,22.65,13.8,22.4,13.6
+2022,3,PSO,Sharyland HS,71.301,21.9,13.6,21.4,14.4
+2022,3,PSO,Forney HS,70.451,20.55,14.4,21.2,14.3
+2022,3,PIO,UTSA,74.9,21.6,14.2,23.1,16.0
+2022,3,PSW,Timber Creek HS,72.7,19.8,15.4,23.4,14.1
+2022,3,PSW,North Shore HS,68.95,19.95,12.4,23.3,13.3
+2022,3,PIW,Monarch Independent,81.55,23.85,16.3,24.7,16.7
+2022,3,PSA,Papillion-La Vista South HS,78.55,24.15,14.9,23.6,15.9
+2022,3,PSA,Bellevue Combined Schools,77.05,22.35,16.2,22.8,15.7
+2022,3,PSA,Columbus HS,67.1,20.4,14.5,19.1,13.1
+2022,3,PSO,Brandon Valley HS,79.75,23.55,16.5,23.9,15.8
+2022,3,PSW,Broken Arrow HS,81.5,25.2,15.9,24.0,16.4
+2022,3,PSA,Papillion-La Vista South HS,76.7,23.7,14.4,23.0,15.6
+2022,3,PSA,Bellevue Combined Schools,75.2,21.9,15.8,21.8,15.7
+2022,3,PSA,Lees Summit HS,73.85,22.35,14.2,22.4,14.9
+2022,3,PSA,Columbus HS,67.0,20.1,14.8,19.0,13.1
+2022,3,PSO,Brandon Valley HS,79.05,23.25,16.2,23.5,16.1
+2022,3,PSW,Broken Arrow HS,81.05,25.35,15.7,23.4,16.6
+2022,3,PSA,Dorman HS,84.05,25.65,16.6,25.3,16.5
+2022,3,PSA,Clover HS,82.0,25.2,16.4,25.0,15.4
+2022,3,PSA,Oak Ridge HS,80.2,24.3,16.0,24.4,15.5
+2022,3,PSA,Seymour HS,79.45,24.15,15.6,24.1,15.6
+2022,3,PSA,Mauldin HS,78.35,24.75,15.5,23.6,14.5
+2022,3,PSA,Harrison HS,75.101,23.55,15.1,21.9,14.55
+2022,3,PSA,Bearden HS,71.551,21.75,14.5,20.7,14.6
+2022,3,PSA,Karns HS,69.301,20.7,14.4,20.8,13.4
+2022,3,PSA,Jefferson County HS,67.526,19.425,14.3,20.0,13.8
+2022,3,PSA,Green Hill HS,66.15,20.85,13.4,19.5,12.4
+2022,3,PSA,Lakeway Christian Academy,64.8,18.9,13.6,19.1,13.2
+2022,3,PSA,Heritage HS,64.55,19.35,14.2,18.2,12.8
+2022,3,PIA,Station Camp Independent,71.8,22.2,14.3,20.5,14.8
+2022,3,PSO,Sparkman HS,85.3,26.7,16.0,25.8,16.8
+2022,3,PSO,Dobyns-Bennett HS,80.25,24.75,15.4,24.7,15.4
+2022,3,PSO,Hardin Valley Academy,77.8,24.6,15.1,23.5,14.6
+2022,3,PIW,Audio Theater,74.55,23.85,14.6,22.1,14.0
+2022,3,PSA,Clover HS,79.7,23.7,16.0,24.8,15.2
+2022,3,PSA,Seymour HS,79.3,24.9,15.7,23.2,15.5
+2022,3,PSA,Oak Ridge HS,79.275,24.825,16.1,22.6,15.75
+2022,3,PSA,Dorman HS,82.05,25.05,16.7,24.3,16.0
+2022,3,PSA,Mauldin HS,77.4,24.0,15.8,23.3,14.3
+2022,3,PSA,Harrison HS,72.401,23.1,15.0,20.8,13.5
+2022,3,PSA,Karns HS,72.151,22.5,14.0,22.3,13.35
+2022,3,PSA,Jefferson County HS,65.8,19.5,13.7,18.5,14.1
+2022,3,PSA,Heritage HS,65.35,19.95,14.4,17.9,13.1
+2022,3,PSA,Lakeway Christian Academy,64.85,18.6,14.7,19.0,12.55
+2022,3,PSA,Bearden HS,72.901,21.9,14.6,21.7,14.7
+2022,3,PSA,Green Hill HS,67.201,21.3,13.9,19.3,12.7
+2022,3,PIA,Station Camp Independent,71.9,22.2,15.2,19.8,14.7
+2022,3,PSO,Sparkman HS,83.3,25.5,16.1,25.4,16.3
+2022,3,PSO,Dobyns-Bennett HS,78.75,23.85,15.0,24.5,15.4
+2022,3,PSO,Hardin Valley Academy,77.85,24.45,15.6,23.1,14.7
+2022,3,PIW,Audio Theater,72.6,23.7,15.0,20.2,13.7
+2022,3,PSA,Westfield HS,83.4,25.05,16.8,23.95,17.6
+2022,3,PSA,Central Crossing HS,85.2,26.7,17.5,23.9,17.1
+2022,3,PSA,Noblesville HS,76.8,21.6,14.7,23.8,16.7
+2022,3,PSA,Kickapoo HS,76.1,24.0,16.2,19.7,16.2
+2022,3,PSA,Franklin Community HS,75.4,22.95,14.6,20.05,17.8
+2022,3,PSA,Perry Meridian HS,74.951,22.65,16.0,20.7,15.6
+2022,3,PSA,Hamilton Southeastern HS,74.601,20.55,16.6,20.15,17.3
+2022,3,PSA,Olentangy Liberty HS,73.501,22.8,15.9,19.5,15.3
+2022,3,PSA,Beavercreek HS,72.95,21.75,16.1,19.45,15.65
+2022,3,PSA,Southport HS,75.051,23.85,15.6,19.9,15.7
+2022,3,PSA,Northview HS,71.1,21.45,15.5,19.05,15.1
+2022,3,PSA,Northeastern HS,66.75,20.25,13.2,18.6,14.7
+2022,3,PSA,Greenwood HS,66.25,20.85,12.9,18.1,14.4
+2022,3,PSA,Southgate Anderson HS,65.65,19.65,13.4,18.8,13.8
+2022,3,PIA,Vortex Percussion,75.55,22.95,14.8,22.5,15.3
+2022,3,PIA,Fruitport Independent Percussion,71.25,21.75,13.8,21.2,14.5
+2022,3,PSO,Decatur Central HS,82.55,24.6,16.95,25.9,15.1
+2022,3,PSO,Victor J. Andrew HS,82.15,25.05,17.3,24.3,15.5
+2022,3,PSO,Plainfield HS,80.9,23.7,16.3,25.2,15.7
+2022,3,PSO,Greenfield-Central HS,79.55,24.15,16.1,24.6,14.7
+2022,3,PSO,Brownsburg HS,79.401,24.0,17.0,24.2,14.2
+2022,3,PSO,Zionsville Community HS,79.525,23.925,16.7,23.3,15.6
+2022,3,PSO,Kettering Fairmont HS,77.026,23.625,15.6,23.2,14.6
+2022,3,PSO,Goshen HS,73.601,22.2,14.6,22.9,13.9
+2022,3,PIO,Freedom Percussion,82.7,24.6,15.7,25.3,17.1
+2022,3,PIO,Cap City 2,82.55,25.35,16.3,23.3,17.6
+2022,3,PIO,Triple Crown,78.55,23.25,15.4,24.7,15.2
+2022,3,PSW,Franklin Central HS,82.3,24.3,17.2,24.8,16.0
+2022,3,PSW,Fishers HS,81.7,23.4,15.9,25.0,17.4
+2022,3,PIW,Rhythm X,86.7,26.4,17.3,26.1,16.9
+2022,3,PIW,Music City Mystique,86.45,25.95,17.6,26.5,16.4
+2022,3,PIW,Redline,81.85,23.85,16.7,25.3,16.0
+2022,3,PIW,Cap City Percussion,82.5,25.2,16.3,24.2,16.8
+2022,3,PIW,ConneXus,80.15,24.75,16.2,23.6,15.6
+2022,3,PIW,Veritas,79.351,24.15,14.8,24.3,16.1
+2022,3,PIW,MBI Indoor Percussion,77.551,23.25,15.8,23.4,15.1
+2022,3,PIW,4th Wall,75.851,22.65,15.1,23.5,14.6
+2022,3,PSA,Klein Collins HS,82.05,24.45,16.2,25.3,16.1
+2022,3,PSA,Cypress Ranch HS,79.9,23.4,15.6,25.6,15.3
+2022,3,PSA,Cypress Park HS,79.55,23.55,16.1,24.0,15.9
+2022,3,PSA,John Marshall HS,75.8,23.1,15.0,23.2,14.5
+2022,3,PSA,Morton Ranch HS,75.15,21.75,14.7,24.4,14.3
+2022,3,PSA,Edinburg North HS,69.801,19.2,14.8,21.7,14.1
+2022,3,PSA,Robstown Early College HS,68.251,18.45,14.2,22.2,13.4
+2022,3,PIA,Brazos Valley Independent Percussion,70.9,20.4,13.0,24.3,13.2
+2022,3,PSO,Clear Brook HS,81.5,24.9,15.4,25.7,15.5
+2022,3,PSO,Cy-Fair HS,80.8,23.7,16.2,24.7,16.2
+2022,3,PSO,Bridgeland HS,80.0,24.6,15.2,25.2,15.0
+2022,3,PSO,Obra D. Tompkins HS,76.05,22.95,14.4,24.2,14.5
+2022,3,PSO,Sharyland HS,72.55,22.05,13.7,22.0,14.8
+2022,3,PSO,Forney HS,71.251,20.25,14.1,22.7,14.2
+2022,3,PSO,Seven Lakes HS,71.051,21.75,13.9,21.9,13.5
+2022,3,PIO,UTSA,75.3,21.6,14.2,24.0,15.5
+2022,3,PSW,Timber Creek HS,73.35,20.85,14.4,23.6,14.5
+2022,3,PSW,North Shore HS,69.3,20.1,12.6,22.9,13.7
+2022,3,PIW,Monarch Independent,80.9,23.7,16.2,24.4,16.6
+2022,3,PSA,Green Hope HS,80.45,23.85,16.5,23.6,16.5
+2022,3,PSA,West Shore School District,78.9,23.4,16.3,23.2,16.0
+2022,3,PSA,Clarke County HS,77.15,22.35,16.4,22.3,16.1
+2022,3,PSA,Hickory HS,75.45,22.65,15.2,22.7,14.9
+2022,3,PSA,Millbrook HS,69.951,20.25,13.6,22.8,13.3
+2022,3,PSA,Green Level HS,72.05,21.45,15.1,20.8,14.7
+2022,3,PSA,Albemarle County Combined Schools,65.301,19.2,12.5,20.7,12.9
+2022,3,PSA,Powhatan MS,57.751,17.25,10.3,19.2,11.0
+2022,3,PSO,Thomas Jefferson HS,82.75,24.15,16.7,25.3,16.6
+2022,3,PSO,Powhatan HS,80.1,23.7,16.9,24.4,15.1
+2022,3,PSO,Panther Creek HS,78.65,22.95,16.0,24.1,15.6
+2022,3,PSO,Chantilly HS,76.5,22.8,16.1,22.9,14.7
+2022,3,PSO,Freedom HS,75.001,22.2,14.6,23.0,15.2
+2022,3,PSA,Noblesville HS,80.1,24.6,15.7,23.8,16.0
+2022,3,PSA,Westfield HS,78.85,24.75,16.4,22.0,15.7
+2022,3,PSA,Franklin Community HS,77.7,24.3,15.2,23.7,14.5
+2022,3,PSA,Kickapoo HS,76.1,23.1,15.6,22.1,15.3
+2022,3,PSA,Perry Meridian HS,76.05,23.55,15.5,21.6,15.4
+2022,3,PSA,Hamilton Southeastern HS,75.851,24.15,14.7,22.4,14.6
+2022,3,PSA,Olentangy Liberty HS,73.201,22.5,15.0,20.8,14.9
+2022,3,PIA,Vortex Percussion,72.6,22.5,14.1,20.8,15.2
+2022,3,PIA,Fruitport Independent Percussion,69.05,21.45,13.8,18.9,14.9
+2022,3,PSO,Decatur Central HS,86.2,25.2,16.7,26.3,18.0
+2022,3,PSO,Victor J. Andrew HS,85.55,24.75,16.9,25.5,18.4
+2022,3,PSO,Plainfield HS,82.7,24.9,16.6,25.0,16.2
+2022,3,PSO,Greenfield-Central HS,80.9,23.1,15.5,25.2,17.1
+2022,3,PSO,Brownsburg HS,80.751,23.55,15.6,24.3,17.3
+2022,3,PSO,Zionsville Community HS,80.051,24.15,15.8,23.7,16.4
+2022,3,PSO,Central Crossing HS,79.551,22.95,14.9,24.8,16.9
+2022,3,PIO,Freedom Percussion,81.8,24.0,16.9,25.0,15.9
+2022,3,PIO,Cap City 2,80.85,23.25,16.6,24.9,16.1
+2022,3,PIO,Triple Crown,77.2,21.6,16.2,23.8,15.6
+2022,3,PSW,Avon HS,86.85,25.95,18.0,25.8,17.1
+2022,3,PSW,Franklin Central HS,83.35,25.05,16.7,25.3,16.3
+2022,3,PSW,Fishers HS,82.1,25.2,16.3,24.5,16.1
+2022,3,PSW,Center Grove HS,81.35,24.15,16.5,24.3,16.4
+2022,3,PIW,Rhythm X,89.6,26.1,18.5,26.7,18.3
+2022,3,PIW,Music City Mystique,87.45,25.35,18.1,26.2,17.8
+2022,3,PIW,Cap City Percussion,83.85,24.75,16.5,25.7,16.9
+2022,3,PIW,Redline,81.65,24.45,16.7,24.4,16.1
+2022,3,PIW,MBI Indoor Percussion,77.501,23.1,15.3,23.7,15.4
+2022,3,PIW,4th Wall,75.601,22.2,14.5,23.3,15.6
+2022,3,PIW,ConneXus,78.801,23.4,15.4,24.1,15.9
+2022,3,PIW,Veritas,79.15,23.85,15.6,24.7,15.0
+2022,4,PIA,Charles Towne Percussion,76.85,24.15,15.1,22.2,15.4
+2022,4,PSO,Dorman HS,83.0,24.9,16.6,24.5,17.0
+2022,4,PIO,Palmetto Indoor Theatre,76.8,24.3,15.6,21.9,15.0
+2022,4,PIO,Civitas Independent,79.8,23.7,16.3,23.2,16.6
+2022,4,PIO,Paradigm Percussion,73.05,22.95,14.8,20.9,14.4
+2022,4,PSA,Hernando HS,83.3,23.7,17.1,25.2,17.3
+2022,4,PSA,Pearl HS,83.275,24.075,17.5,25.1,16.6
+2022,4,PSA,Desoto Central HS,81.8,25.2,17.0,23.5,16.1
+2022,4,PSA,Oak Grove HS (MS),79.95,23.25,16.2,24.0,16.5
+2022,4,PSA,Vandebilt Catholic HS,79.701,24.0,16.5,23.9,15.3
+2022,4,PSA,West Harrison HS,79.401,24.3,16.1,22.6,16.4
+2022,4,PSA,Harrison Central HS,77.651,23.55,16.6,21.7,15.8
+2022,4,PSA,Gulfport HS,77.226,23.625,16.0,22.4,15.2
+2022,4,PSA,E.D. White Catholic HS,76.101,21.3,15.3,24.5,15.0
+2022,4,PSA,Gulf Breeze HS,70.6,21.6,15.8,20.1,13.1
+2022,4,PSA,Warren Central HS,70.0,19.5,14.8,22.5,13.2
+2022,4,PSA,Clinton HS,69.35,20.25,14.1,21.0,14.0
+2022,4,PSA,Long Beach HS,67.85,19.35,14.5,20.4,13.6
+2022,4,PIA,St. Martin Independent,83.05,24.45,16.5,25.4,16.7
+2022,4,PSO,Pace HS,85.05,25.65,17.2,24.9,17.3
+2022,4,PSO,Newsome HS,77.3,24.0,16.1,22.2,15.0
+2022,4,PSW,Petal HS,82.4,25.2,16.9,24.3,16.0
+2022,4,PSA,Arbor View HS,82.6,24.9,16.5,25.3,15.9
+2022,4,PSA,Walden Grove HS,79.35,24.6,15.3,24.15,15.3
+2022,4,PSA,Higley HS,78.25,23.55,16.0,22.0,16.7
+2022,4,PSA,Gilbert HS,78.0,24.0,15.2,23.0,15.8
+2022,4,PSA,Ironwood Ridge HS,76.35,22.95,13.5,23.7,16.2
+2022,4,PSA,University HS,74.426,22.125,14.3,23.1,14.9
+2022,4,PSA,Sahuarita HS,73.751,21.75,15.0,20.9,16.1
+2022,4,PSA,Sabino HS,72.851,22.05,14.4,21.6,14.8
+2022,4,PSA,Perry HS,71.851,21.45,13.6,22.6,14.2
+2022,4,PSA,Verrado HS,70.35,20.85,13.9,21.5,14.1
+2022,4,PIA,Sun City Independent,81.15,23.55,15.8,25.9,15.9
+2022,4,PIA,Pinnacle Percussion,76.05,21.15,15.1,24.0,15.8
+2022,4,PIA,Convergence Indoor Percussion,75.15,21.75,14.9,22.5,16.0
+2022,4,PIA,Phoenix Union Indoor,74.1,21.0,14.4,23.6,15.1
+2022,4,PIA,LINEA,73.55,22.35,13.4,22.6,15.2
+2022,4,PSO,Basha HS,80.7,23.4,16.6,25.6,15.1
+2022,4,PSO,Foothill HS (NV),79.35,22.65,17.0,23.9,15.8
+2022,4,PSO,Casa Grande HS,76.4,22.8,15.7,23.0,14.9
+2022,4,PIO,Flux Indoor Percussion,87.2,25.8,17.8,26.6,17.0
+2022,4,PIO,Vision Percussion,84.3,25.2,16.8,25.9,16.4
+2022,4,PIO,Breakthrough Indoor Percussion,79.8,23.4,16.4,24.4,15.6
+2022,4,PSA,Pearl HS,84.6,25.5,17.5,24.9,16.7
+2022,4,PSA,Hernando HS,81.75,23.55,16.8,24.3,17.1
+2022,4,PSA,Desoto Central HS,80.0,24.3,16.7,22.8,16.2
+2022,4,PSA,Oak Grove HS (MS),79.0,24.0,15.6,22.9,16.5
+2022,4,PSA,Vandebilt Catholic HS,78.65,23.25,16.3,23.6,15.5
+2022,4,PSA,Harrison Central HS,78.451,24.45,15.9,22.7,15.4
+2022,4,PSA,Gulfport HS,78.226,23.025,16.9,22.5,15.8
+2022,4,PSA,E.D. White Catholic HS,77.201,21.3,15.4,24.8,15.7
+2022,4,PSA,West Harrison HS,76.151,21.45,14.9,23.9,15.9
+2022,4,PSA,Gulf Breeze HS,73.7,21.0,16.2,22.0,14.5
+2022,4,PSA,Warren Central HS,72.2,20.1,15.2,23.4,13.5
+2022,4,PSA,Clinton HS,68.75,19.95,14.0,20.5,14.3
+2022,4,PSA,Long Beach HS,68.45,20.25,14.4,20.1,13.7
+2022,4,PIA,St. Martin Independent,79.15,22.95,15.7,24.1,16.4
+2022,4,PSO,Pace HS,84.2,25.8,17.1,24.4,16.9
+2022,4,PSO,Newsome HS,76.85,22.95,15.8,22.8,15.3
+2022,4,PSW,Petal HS,81.55,25.35,16.8,23.2,16.2
+2022,4,PSA,Arbor View HS,78.65,22.05,16.3,25.1,15.2
+2022,4,PSA,Higley HS,78.1,23.4,16.1,22.1,16.5
+2022,4,PSA,Walden Grove HS,76.1,22.8,14.6,23.1,15.6
+2022,4,PSA,Gilbert HS,75.9,23.1,14.1,23.9,14.8
+2022,4,PSA,Ironwood Ridge HS,75.876,23.175,13.4,23.5,15.8
+2022,4,PSA,University HS,73.951,20.55,14.5,24.5,14.4
+2022,4,PSA,Sahuarita HS,71.501,20.1,15.1,20.6,15.7
+2022,4,PSA,Verrado HS,71.151,20.85,14.2,22.4,13.7
+2022,4,PSA,Perry HS,70.55,21.15,13.3,22.8,13.3
+2022,4,PSA,Sabino HS,74.051,21.45,13.9,23.8,14.9
+2022,4,PIA,Sun City Independent,79.8,22.8,15.3,25.9,15.8
+2022,4,PIA,Pinnacle Percussion,73.8,19.5,14.9,23.2,16.2
+2022,4,PIA,Convergence Indoor Percussion,73.251,20.25,14.6,23.8,14.6
+2022,4,PIA,LINEA,76.7,22.5,13.5,25.1,15.6
+2022,4,PIA,Phoenix Union Indoor,75.05,20.85,14.3,25.2,14.7
+2022,4,PSO,Basha HS,79.15,22.05,16.7,25.1,15.3
+2022,4,PSO,Foothill HS (NV),77.35,22.35,16.2,24.1,14.7
+2022,4,PSO,Casa Grande HS,75.9,22.5,15.4,23.0,15.0
+2022,4,PIO,Flux Indoor Percussion,85.65,24.75,17.4,26.8,16.7
+2022,4,PIO,Vision Percussion,83.5,25.5,16.3,25.5,16.2
+2022,4,PIO,Breakthrough Indoor Percussion,79.4,23.4,16.5,24.0,15.5
+2022,4,PSA,Centaurus HS,81.2,23.1,15.2,26.2,16.7
+2022,4,PSA,Longmont Combined Schools,75.65,22.05,14.6,23.9,15.1
+2022,4,PSA,Monarch HS,75.65,20.85,13.9,24.4,16.5
+2022,4,PSA,Rampart HS,70.65,19.95,12.6,22.2,15.9
+2022,4,PSA,Columbus HS,68.65,19.35,14.2,19.9,15.2
+2022,4,PSO,Legacy HS,76.3,22.5,15.0,24.0,14.8
+2022,4,PIO,Crossroads Percussion,74.4,21.0,14.6,23.3,15.5
+2022,4,PIW,Blue Knights,81.6,24.3,16.5,24.9,15.9
+2022,4,PIW,Rise Percussion,77.05,22.35,14.9,24.6,15.2
+2022,4,PSA,Centaurus HS,84.25,24.75,16.7,26.0,16.8
+2022,4,PSA,Longmont Combined Schools,78.25,23.25,15.4,24.1,15.5
+2022,4,PSA,Monarch HS,77.2,21.9,14.6,24.4,16.3
+2022,4,PSA,Rampart HS,73.4,21.6,14.0,22.7,15.1
+2022,4,PSA,Columbus HS,69.05,20.55,14.4,20.0,14.1
+2022,4,PSO,Legacy HS,79.1,24.3,15.8,24.0,15.0
+2022,4,PIO,Crossroads Percussion,76.05,22.65,15.1,23.4,14.9
+2022,4,PIW,Blue Knights,83.55,25.65,16.7,25.2,16.0
+2022,4,PIW,Rise Percussion,79.55,24.15,15.2,24.9,15.3
+2022,4,PSA,Centaurus HS,81.2,23.1,15.2,26.2,16.7
+2022,4,PSA,Longmont Combined Schools,75.65,22.05,14.6,23.9,15.1
+2022,4,PSA,Monarch HS,75.65,20.85,13.9,24.4,16.5
+2022,4,PSA,Rampart HS,70.65,19.95,12.6,22.2,15.9
+2022,4,PSA,Columbus HS,68.65,19.35,14.2,19.9,15.2
+2022,4,PSO,Legacy HS,76.3,22.5,15.0,24.0,14.8
+2022,4,PIO,Crossroads Percussion,74.4,21.0,14.6,23.3,15.5
+2022,4,PIW,Blue Knights,81.6,24.3,16.5,24.9,15.9
+2022,4,PIW,Rise Percussion,77.05,22.35,14.9,24.6,15.2
+2022,4,PSA,T.L. Hanna HS,88.4,26.1,18.0,26.2,18.1
+2022,4,PSA,Clover HS,86.55,25.95,17.7,25.5,17.4
+2022,4,PSA,Ninety Six HS,84.8,24.9,17.2,25.1,17.6
+2022,4,PSA,Chattahoochee HS,81.75,24.45,16.3,24.2,16.8
+2022,4,PSA,Fort Mill HS,75.201,22.8,15.1,21.6,15.7
+2022,4,PSA,Enka HS,75.9,23.4,15.4,21.9,15.2
+2022,4,PIA,Charles Towne Percussion,78.05,24.15,15.8,22.5,15.6
+2022,4,PSO,Dorman HS,83.35,25.05,16.8,24.3,17.2
+2022,4,PIO,Civitas Independent,81.2,24.3,16.9,23.0,17.0
+2022,4,PIO,Palmetto Indoor Theatre,79.1,24.6,15.5,22.2,16.8
+2022,4,PIO,Paradigm Percussion,74.95,23.55,14.8,21.4,15.2
+2022,5,PSA,Elk River Combined Schools,82.5,26.7,15.9,24.7,15.2
+2022,5,PSA,Burnsville HS,81.25,25.95,15.5,24.0,15.8
+2022,5,PSA,Osseo Area Combined Schools,79.85,24.45,16.5,22.3,16.6
+2022,5,PSA,Irondale Combined Schools,81.35,26.55,15.6,23.3,15.9
+2022,5,PSA,Dassel-Cokato HS,73.65,23.85,13.8,21.3,14.7
+2022,5,PSA,Rocori HS,69.001,22.8,14.0,19.1,13.1
+2022,5,PSA,South St. Paul HS,66.901,21.3,14.8,18.4,12.4
+2022,5,PIA,Groove Pursuit,76.25,23.25,15.4,22.8,14.8
+2022,5,PIA,St. Ambrose University Indoor Percussion,74.0,20.7,14.8,24.3,14.2
+2022,5,PIA,Rochester Lourdes Drumline,69.6,21.3,14.3,20.7,13.3
+2022,5,PIA,Quad City Percussion,68.6,21.9,13.4,19.6,13.7
+2022,5,PSO,Brandon Valley HS,85.45,26.55,17.4,24.5,17.0
+2022,5,PSO,Eden Prairie HS,82.85,25.95,16.1,25.3,15.5
+2022,5,PIO,River City Rhythm,84.35,25.05,17.0,26.0,16.3
+2022,5,PIO,Crossroads Percussion,78.85,24.45,16.2,22.6,15.6
+2022,5,PIW,MBI Indoor Percussion,84.75,25.95,16.6,25.9,16.3
+2022,5,PSA,Lewisville HS,81.75,24.75,16.2,24.3,16.5
+2022,5,PSA,Southmoore HS,74.6,21.9,15.2,22.2,15.3
+2022,5,PSA,Robert Vela HS,71.25,20.85,14.8,20.0,15.6
+2022,5,PIA,Brazos Valley Independent Percussion,76.9,22.8,14.7,23.1,16.3
+2022,5,PSO,Burleson HS,84.4,25.8,16.9,25.8,15.9
+2022,5,PSO,Azle HS,82.6,24.0,15.9,26.2,16.5
+2022,5,PSO,Boswell HS,82.1,25.2,16.7,24.5,15.7
+2022,5,PSO,Rock Hill HS,79.0,24.6,16.6,22.8,15.0
+2022,5,PSO,Fossil Ridge HS,77.35,23.85,15.6,24.2,13.7
+2022,5,PSO,Forney HS,74.501,22.2,14.9,22.9,14.5
+2022,5,PSO,Saginaw HS,74.401,23.4,15.5,22.4,13.1
+2022,5,PIO,Resistance Indoor Percussion,80.7,22.5,15.9,25.6,16.7
+2022,5,PSW,Carroll HS,77.5,22.2,14.9,24.1,16.3
+2022,5,PIW,Rhythmic Force Percussion,86.75,25.95,17.1,26.2,17.5
+2022,5,PIW,Vigilantes Indoor Percussion,82.35,23.85,15.9,25.7,16.9
+2022,5,PSA,Lewisville HS,81.65,24.75,16.9,23.6,16.4
+2022,5,PSA,Robert Vela HS,75.5,23.1,15.3,22.1,15.0
+2022,5,PSA,Southmoore HS,74.85,24.15,16.0,20.7,14.0
+2022,5,PIA,Brazos Valley Independent Percussion,77.75,23.55,15.3,23.8,15.1
+2022,5,PSO,Burleson HS,85.05,25.65,17.8,25.4,16.2
+2022,5,PSO,Azle HS,82.65,25.35,17.5,24.4,15.4
+2022,5,PSO,Boswell HS,81.2,25.8,17.2,23.2,15.0
+2022,5,PSO,Fossil Ridge HS,79.5,24.6,15.7,23.9,15.3
+2022,5,PSO,Forney HS,76.951,22.65,15.4,23.0,15.9
+2022,5,PSO,Rock Hill HS,78.1,22.5,16.0,23.1,16.5
+2022,5,PSO,Saginaw HS,74.251,22.05,13.7,24.0,14.5
+2022,5,PIO,Resistance Indoor Percussion,85.15,26.55,18.4,24.1,16.1
+2022,5,PSW,Carroll HS,80.45,24.45,15.5,24.2,16.3
+2022,5,PIW,Rhythmic Force Percussion,86.1,26.7,17.6,25.7,16.1
+2022,5,PIW,Vigilantes Indoor Percussion,84.35,25.35,17.0,25.1,16.9
+2022,5,PSA,Rex Putnam HS,75.8,23.25,14.8,23.3,14.45
+2022,5,PSA,Glencoe HS,74.55,22.35,14.7,22.9,14.6
+2022,5,PSA,Sherwood Middle School,71.15,21.75,15.1,21.4,12.9
+2022,5,PSA,Fruitland HS,72.9,21.3,14.2,22.6,14.8
+2022,5,PSA,Othello HS,68.3,20.4,14.4,21.0,12.5
+2022,5,PSA,Skyview HS,64.651,20.55,11.3,21.7,11.1
+2022,5,PIA,Rhythm Armada,76.05,22.95,15.1,21.6,16.4
+2022,5,PSO,Sherwood HS,86.75,26.25,17.6,25.3,17.6
+2022,5,PSO,Kamiak HS,85.0,25.5,17.3,24.3,17.9
+2022,5,PSO,Saratoga HS,79.95,24.75,15.7,24.4,15.1
+2022,5,PSO,Century HS,73.85,21.15,16.3,22.6,13.8
+2022,5,PIO,IMPACT Percussion,85.95,25.05,17.6,25.9,17.4
+2022,5,PSA,Alpharetta HS,81.15,23.55,15.9,25.6,16.1
+2022,5,PSA,North Forsyth HS,75.7,21.6,15.0,24.3,14.8
+2022,5,PSA,Green Level HS,72.1,21.9,14.0,22.6,13.6
+2022,5,PSO,Collins Hill HS,77.75,22.65,14.8,25.0,15.3
+2022,5,PSO,South Forsyth HS,76.0,22.2,14.2,24.2,15.4
+2022,5,PSO,Hillgrove HS,73.9,21.9,13.8,23.7,14.5
+2022,5,PSW,Lambert HS,82.7,24.9,16.3,24.7,16.8
+2022,5,PSW,Milton HS,82.55,24.75,16.7,25.1,16.0
+2022,5,PSW,Petal HS,79.4,24.0,16.1,23.7,15.6
+2022,5,PIW,Atlanta Quest,83.25,25.65,16.7,24.0,16.9
+2022,5,PIW,Audio Theater,80.55,25.35,16.0,23.4,15.8
+2022,5,PSO,Sherwood HS,85.2,26.4,17.0,24.7,17.1
+2022,5,PSO,Saratoga HS,78.6,23.7,15.8,23.5,15.6
+2022,5,PSO,Century HS,73.1,20.1,15.5,22.8,14.7
+2022,5,PIO,IMPACT Percussion,83.55,25.05,17.0,25.3,16.2
+2022,5,PSA,Alpharetta HS,83.05,24.75,16.2,25.7,16.4
+2022,5,PSA,North Forsyth HS,77.65,23.85,14.9,23.7,15.2
+2022,5,PSA,Green Level HS,73.75,22.65,14.4,22.7,14.0
+2022,5,PSW,Lambert HS,85.15,26.25,16.7,25.3,16.9
+2022,5,PSW,Milton HS,84.35,25.35,16.9,25.7,16.4
+2022,5,PSW,Petal HS,81.15,25.05,16.2,24.2,15.7
+2022,5,PIW,Atlanta Quest,83.6,25.8,16.6,24.6,16.6
+2022,5,PIW,Audio Theater,80.25,25.05,15.8,23.9,15.5
+2022,5,PSA,Elk River Combined Schools,84.85,27.15,16.2,25.3,16.2
+2022,5,PSA,Burnsville HS,84.2,26.4,16.4,25.4,16.0
+2022,5,PSA,Osseo Area Combined Schools,83.4,24.9,17.3,24.8,16.4
+2022,5,PSA,Irondale Combined Schools,83.05,26.25,16.9,24.0,15.9
+2022,5,PSA,Dassel-Cokato HS,77.451,24.15,16.0,22.1,15.2
+2022,5,PSA,Rocori HS,70.851,23.55,14.7,19.1,13.5
+2022,5,PSA,South St. Paul HS,68.051,22.05,14.8,18.4,12.8
+2022,5,PIA,Groove Pursuit,77.8,23.7,15.3,24.1,14.7
+2022,5,PIA,St. Ambrose University Indoor Percussion,74.0,21.6,14.6,23.5,14.3
+2022,5,PIA,Quad City Percussion,69.3,22.5,13.2,19.8,13.8
+2022,5,PIA,Rochester Lourdes Drumline,69.1,22.2,14.3,19.4,13.2
+2022,5,PSO,Brandon Valley HS,86.7,26.7,17.5,25.4,17.1
+2022,5,PSO,Eden Prairie HS,84.75,26.55,16.5,25.9,15.8
+2022,5,PIO,River City Rhythm,84.9,25.2,17.3,26.0,16.4
+2022,5,PIO,Crossroads Percussion,80.75,25.05,16.5,23.4,15.8
+2022,5,PIW,MBI Indoor Percussion,84.65,25.65,16.9,25.7,16.4
+2022,6,PSA,Old Bridge HS,91.85,27.75,17.9,27.6,18.6
+2022,6,PSA,Unionville HS,88.125,25.275,18.5,27.3,17.05
+2022,6,PSA,Cab Calloway HS,87.45,25.35,17.4,26.5,18.2
+2022,6,PSA,Mansfield HS,84.376,26.175,16.2,25.9,16.1
+2022,6,PSA,Spring-Ford HS,85.025,25.875,15.95,26.8,16.4
+2022,6,PSA,Appoquinimink HS,81.526,23.625,15.4,25.8,16.7
+2022,6,PSA,Westhill HS,81.351,22.8,16.4,25.6,16.55
+2022,6,PSA,Nutley HS,80.276,23.925,14.75,24.1,17.5
+2022,6,PSA,Perkiomen Valley HS,79.475,22.275,14.4,25.4,17.4
+2022,6,PSA,West Milford HS,80.226,22.875,16.85,24.05,16.45
+2022,6,PSA,North Penn HS,79.05,24.75,16.5,23.2,14.6
+2022,6,PSA,Southern Regional HS,78.275,21.975,14.45,25.1,16.75
+2022,6,PSA,Immaculata HS,78.825,24.075,16.6,23.4,14.75
+2022,6,PSA,Urbana HS,77.65,24.0,14.6,23.75,15.3
+2022,6,PSA,Downingtown East HS,77.075,22.575,15.2,22.7,16.6
+2022,6,PSA,Bridgewater Raritan HS,75.725,21.675,15.6,24.95,13.5
+2022,6,PSA,Phoenixville Area HS,74.1,21.9,13.85,24.5,13.85
+2022,6,PSA,Hopewell Valley Central HS,71.825,21.375,13.0,23.15,14.3
+2022,6,PSA,Bergenfield HS,70.8,20.7,13.4,22.9,13.8
+2022,6,PSA,West Essex HS,72.0,21.6,13.8,23.7,12.9
+2022,6,PSA,Edison HS,70.3,19.8,12.8,24.0,13.7
+2022,6,PSA,John P. Stevens HS,66.4,19.2,12.4,22.0,12.8
+2022,6,PIA,Tar River Independent Percussion,58.5,16.5,11.1,19.4,11.5
+2022,6,PSO,Norwalk HS,83.85,24.75,17.0,25.5,16.6
+2022,6,PSO,Trumbull HS,83.15,24.15,16.1,27.1,15.8
+2022,6,PSO,Fair Lawn HS,81.1,25.2,16.4,23.0,16.5
+2022,6,PSO,Lower Dauphin HS,80.6,24.6,15.9,24.6,15.5
+2022,6,PSO,Liverpool HS,74.05,22.95,14.7,21.5,14.9
+2022,6,PIO,Spartans Indoor Percussion,83.5,25.5,16.7,25.7,15.6
+2022,6,PIO,United Percussion 2,81.75,24.75,16.2,24.6,16.2
+2022,6,PSW,Dartmouth HS,92.4,27.3,18.4,28.2,18.5
+2022,6,PIW,United Percussion,91.55,27.75,17.9,27.8,18.1
+2022,6,PIW,George Mason University,90.8,26.1,18.2,27.9,18.6
+2022,6,PIW,Imperial Dynasty,84.15,25.05,16.9,25.0,17.2
+2022,6,PSA,Old Bridge HS,92.35,27.75,18.2,27.8,18.6
+2022,6,PSA,Cab Calloway HS,87.225,25.575,17.2,26.35,18.1
+2022,6,PSA,Unionville HS,88.2,25.5,18.8,27.0,16.9
+2022,6,PSA,Mansfield HS,86.2,26.25,16.4,26.1,17.45
+2022,6,PSA,Spring-Ford HS,85.55,25.65,16.9,26.9,16.1
+2022,6,PSA,Westhill HS,80.201,22.35,16.3,24.7,16.85
+2022,6,PSA,Appoquinimink HS,79.251,23.55,14.6,25.2,15.9
+2022,6,PSA,North Penn HS,78.551,24.45,16.0,23.2,14.9
+2022,6,PSA,Perkiomen Valley HS,78.026,23.025,14.5,24.0,16.5
+2022,6,PSA,Nutley HS,77.475,22.275,14.3,23.7,17.2
+2022,6,PSA,West Milford HS,77.35,22.95,16.5,22.9,15.0
+2022,6,PIA,Tar River Independent Percussion,57.0,16.8,9.9,19.2,11.1
+2022,6,PSO,Norwalk HS,85.3,24.9,16.9,26.7,16.8
+2022,6,PSO,Fair Lawn HS,82.05,25.35,16.3,23.8,16.6
+2022,6,PSO,Liverpool HS,73.8,22.5,14.9,21.3,15.1
+2022,6,PSO,Trumbull HS,83.6,24.6,16.0,27.1,15.9
+2022,6,PIO,Spartans Indoor Percussion,85.45,25.65,16.8,26.2,16.8
+2022,6,PIO,United Percussion 2,82.25,24.45,16.4,25.0,16.4
+2022,6,PSW,Dartmouth HS,93.65,27.75,18.7,28.5,18.7
+2022,6,PIW,United Percussion,92.0,27.6,18.0,28.0,18.4
+2022,6,PSA,North Allegheny HS,90.25,28.35,18.8,25.3,17.8
+2022,6,PSA,Mars Area HS,87.15,27.45,17.6,24.9,17.2
+2022,6,PSA,Olentangy Liberty HS,85.9,27.9,18.1,23.75,16.15
+2022,6,PSA,Beavercreek HS,84.7,26.7,17.3,24.5,16.2
+2022,6,PSA,Seymour HS,83.05,25.65,16.8,23.5,17.1
+2022,6,PSA,Francis Howell Combined Schools,82.901,25.2,18.6,22.4,16.7
+2022,6,PSA,Worthington Kilbourne HS,82.451,25.95,16.6,24.3,15.6
+2022,6,PSA,Milford HS (OH),82.401,25.05,17.0,24.0,16.35
+2022,6,PSA,Kings HS,81.776,24.975,16.4,24.15,16.25
+2022,6,PSA,Bellbrook HS,81.75,24.3,16.1,24.7,16.65
+2022,6,PSA,Bob Jones HS,78.775,24.225,15.4,23.65,15.5
+2022,6,PSA,Hudsonville HS,76.85,24.0,15.7,23.15,14.0
+2022,6,PSA,Thomas Worthington HS,74.45,22.35,15.8,21.2,15.1
+2022,6,PSA,Fairborn HS,74.4,22.05,14.9,23.55,13.9
+2022,6,PSA,Wapakoneta HS,73.0,23.1,15.3,20.2,14.4
+2022,6,PIA,Matrix A,87.25,27.15,18.4,24.1,17.6
+2022,6,PIA,Nomad Indoor,81.55,25.35,16.9,22.6,16.7
+2022,6,PSO,Zionsville Community HS,81.2,23.7,16.6,23.8,17.1
+2022,6,PSO,Ravenwood HS,79.55,23.55,16.1,24.8,15.1
+2022,6,PSO,Kettering Fairmont HS,79.0,24.6,15.3,23.2,15.9
+2022,6,PIO,Cap City 2,84.5,24.6,17.2,25.8,16.9
+2022,6,PIO,Triple Crown,81.85,25.35,16.5,23.7,16.3
+2022,6,PSW,Fishers HS,84.15,24.75,17.6,25.3,16.5
+2022,6,PSW,Centerville HS,84.3,25.5,16.6,25.2,17.0
+2022,6,PIW,Rhythm X,93.65,28.05,18.5,28.1,19.0
+2022,6,PIW,Music City Mystique,93.2,27.9,18.3,28.5,18.5
+2022,6,PIW,Cap City Percussion,89.1,26.4,17.8,27.6,17.3
+2022,6,PIW,Matrix,89.1,26.55,17.9,28.15,16.5
+2022,6,PIW,ConneXus,84.751,25.05,16.8,25.9,17.0
+2022,6,PIW,Veritas,83.651,24.45,16.9,26.2,16.1
+2022,6,PIW,4th Wall,78.401,22.5,15.4,24.5,16.0
+2022,6,PSA,Los Alamitos HS,90.35,27.45,17.8,27.0,18.1
+2022,6,PSA,Carlsbad HS,88.4,25.8,16.6,28.4,17.6
+2022,6,PSA,Lemoore HS,87.05,26.85,16.1,27.3,16.8
+2022,6,PSA,Arbor View HS,84.951,24.75,18.4,25.9,15.9
+2022,6,PSA,Gilbert HS,84.601,23.4,16.5,27.2,17.5
+2022,6,PSA,Merced HS,82.551,23.55,16.8,25.0,17.2
+2022,6,PSA,Ridgeview HS,85.65,26.25,17.2,25.1,17.1
+2022,6,PSA,University HS,77.651,23.25,16.9,23.3,14.2
+2022,6,PSA,Ogden HS,75.351,22.35,15.5,22.4,15.1
+2022,6,PIA,Cornerstone Percussion,82.6,23.7,15.4,26.8,16.7
+2022,6,PIA,Pace Percussion Ensemble,79.4,22.8,15.5,24.9,16.2
+2022,6,PSO,Great Oak HS,91.4,27.6,18.5,27.8,17.5
+2022,6,PSO,West HS,85.9,26.4,16.5,26.0,17.0
+2022,6,PSO,Fountain Valley HS,85.4,25.8,17.2,25.5,16.9
+2022,6,PSO,Mission Hills HS,85.25,27.15,17.1,25.3,15.7
+2022,6,PSO,Granada Hills Charter HS,84.451,25.65,17.3,25.4,16.1
+2022,6,PSO,Chino HS,84.301,25.35,16.0,26.5,16.45
+2022,6,PSO,Foothill HS (NV),83.751,25.05,16.4,25.2,17.1
+2022,6,PSO,La Quinta HS,82.426,25.725,16.7,23.4,16.6
+2022,6,PSO,Arcadia HS,80.501,24.3,15.8,23.6,16.8
+2022,6,PSO,Pleasant Grove HS,77.8,23.1,15.4,24.7,14.6
+2022,6,PIO,Meraki Percussion,90.9,27.6,16.9,27.9,18.5
+2022,6,PIO,Bakersfield College,90.3,28.2,18.4,25.5,18.2
+2022,6,PIO,Gold Indoor Percussion,87.875,27.075,17.9,25.0,17.9
+2022,6,PIO,Thesis,87.6,25.5,17.4,27.8,16.9
+2022,6,PIO,Elan Percussion,86.251,25.35,17.0,26.5,17.4
+2022,6,PIO,Instinct,84.551,27.0,16.5,23.3,17.75
+2022,6,PIO,Breakthrough Indoor Percussion,83.601,25.2,16.3,25.6,16.5
+2022,6,PIO,Vision Percussion,85.601,26.7,17.3,24.3,17.3
+2022,6,PSW,Homestead HS,87.876,25.575,17.4,27.3,17.6
+2022,6,PSW,Sunny Hills HS,83.551,25.35,16.4,25.9,15.9
+2022,6,PIW,Pulse Percussion,92.8,27.3,18.5,28.6,18.4
+2022,6,PIW,Broken City,92.6,27.6,18.2,28.0,18.8
+2022,6,PIW,RCC,90.45,26.55,17.9,28.3,17.7
+2022,6,PIW,POW Percussion,87.05,25.95,17.4,26.6,17.1
+2022,6,PIW,Red Wave Indoor,85.101,25.2,17.1,26.2,16.6
+2022,6,PIW,Dark Sky Percussion,85.725,26.025,16.6,25.7,17.4
+2022,6,PIW,Vessel Indoor Percussion,83.251,25.5,15.6,24.7,17.45
+2022,6,PIW,Flux Indoor Percussion,82.251,24.75,16.2,25.8,15.5
+2022,6,PSA,Los Alamitos HS,90.55,26.85,18.4,27.2,18.1
+2022,6,PSA,Carlsbad HS,89.05,26.25,17.9,27.6,17.3
+2022,6,PSA,Arbor View HS,87.6,26.1,17.3,26.8,17.4
+2022,6,PSA,Lemoore HS,86.35,25.95,17.8,26.7,15.9
+2022,6,PSA,Gilbert HS,84.55,25.35,17.2,25.3,16.7
+2022,6,PIA,Cornerstone Percussion,85.65,25.65,16.3,26.6,17.1
+2022,6,PIA,Pace Percussion Ensemble,81.65,24.45,16.2,24.5,16.5
+2022,6,PSO,Great Oak HS,94.2,28.2,19.1,28.5,18.4
+2022,6,PSO,West HS,92.55,27.45,18.8,28.2,18.1
+2022,6,PSO,Fountain Valley HS,90.7,27.0,18.1,28.1,17.5
+2022,6,PSO,Chino HS,86.65,25.35,17.2,27.1,17.0
+2022,6,PSO,Mission Hills HS,85.701,25.2,17.8,26.1,16.6
+2022,6,PSO,La Quinta HS,84.851,23.55,18.3,26.2,16.8
+2022,6,PSO,Foothill HS (NV),82.901,23.7,17.7,25.1,16.4
+2022,6,PSO,Granada Hills Charter HS,82.626,24.225,16.6,25.6,16.2
+2022,6,PIO,Meraki Percussion,91.45,26.85,18.4,28.0,18.2
+2022,6,PIO,Bakersfield College,90.3,27.3,18.0,27.1,17.9
+2022,6,PIO,Gold Indoor Percussion,88.8,26.4,17.8,27.0,17.6
+2022,6,PIO,Elan Percussion,84.001,24.6,17.2,25.7,16.5
+2022,6,PIO,Instinct,81.501,24.9,16.7,22.7,17.2
+2022,6,PIO,Thesis,86.7,25.8,17.3,26.6,17.0
+2022,6,PSW,Chino Hills HS,95.05,28.5,19.2,28.7,18.65
+2022,6,PSW,Vista Murrieta HS,93.05,28.05,19.0,27.6,18.4
+2022,6,PSW,Arcadia HS,92.25,27.45,18.6,28.1,18.1
+2022,6,PSW,Ayala HS,88.8,26.25,18.1,27.2,17.25
+2022,6,PSW,Homestead HS,85.8,26.4,17.2,25.9,16.3
+2022,6,PSW,Rowland HS,85.8,24.9,18.4,25.4,17.1
+2022,6,PSW,Sunny Hills HS,85.601,25.8,16.4,26.6,16.8
+2022,6,PSW,West Ranch HS,84.351,25.05,17.6,25.2,16.5
+2022,6,PSW,Amador Valley HS,82.951,24.0,17.7,24.8,16.45
+2022,6,PIW,Pulse Percussion,95.55,28.35,19.2,29.2,18.8
+2022,6,PIW,Broken City,95.4,28.5,19.1,28.8,19.0
+2022,6,PIW,RCC,92.15,27.45,18.4,28.2,18.1
+2022,6,PIW,POW Percussion,90.75,26.85,18.5,27.7,17.7
+2022,6,PIW,Red Wave Indoor,87.001,25.95,17.4,26.7,16.95
+2022,6,PIW,Dark Sky Percussion,84.951,24.75,16.6,26.4,17.2
+2022,6,PIW,Vessel Indoor Percussion,83.101,24.6,16.4,25.4,16.7
+2022,6,PIW,Flux Indoor Percussion,82.251,23.85,16.3,25.7,16.4
+2022,6,PSA,North Allegheny HS,89.55,27.45,18.2,25.7,18.2
+2022,6,PSA,Mars Area HS,87.6,26.4,17.9,24.8,18.5
+2022,6,PSA,Beavercreek HS,85.65,25.65,17.1,25.0,17.9
+2022,6,PSA,Olentangy Liberty HS,84.1,25.2,17.0,24.7,17.2
+2022,6,PSA,Seymour HS,82.9,25.5,17.4,23.9,16.1
+2022,6,PSA,Francis Howell Combined Schools,82.201,24.6,18.1,23.3,16.2
+2022,6,PSA,Milford HS (OH),81.551,25.95,16.8,22.3,16.5
+2022,6,PSA,Worthington Kilbourne HS,80.151,24.15,17.3,22.7,16.0
+2022,6,PIA,Matrix A,88.1,27.6,18.1,24.4,18.0
+2022,6,PIA,Nomad Indoor,80.55,25.05,16.5,22.0,17.0
+2022,6,PSO,Zionsville Community HS,91.9,27.6,18.6,27.6,18.1
+2022,6,PSO,Ravenwood HS,86.05,26.55,16.8,25.8,16.9
+2022,6,PSO,Kettering Fairmont HS,82.8,24.9,16.7,25.0,16.2
+2022,6,PIO,Matrix Open,89.05,26.55,18.6,26.7,17.2
+2022,6,PIO,Cap City 2,89.0,27.6,18.3,26.1,17.0
+2022,6,PIO,Triple Crown,85.0,25.8,17.5,25.2,16.5
+2022,6,PSW,Fishers HS,89.5,26.1,18.1,27.9,17.4
+2022,6,PSW,Centerville HS,89.25,26.55,18.3,26.9,17.5
+2022,6,PIW,Rhythm X,95.0,28.8,19.0,28.2,19.0
+2022,6,PIW,Music City Mystique,94.25,29.1,18.7,27.75,18.7
+2022,6,PIW,Matrix,93.65,28.05,19.3,28.0,18.3
+2022,6,PIW,Cap City Percussion,90.35,27.15,18.4,26.9,17.9
+2022,6,PIW,ConneXus,87.501,26.4,17.3,26.8,17.0
+2022,6,PIW,Veritas,84.951,25.35,17.0,26.3,16.3
+2022,6,PIW,4th Wall,83.101,25.2,16.7,25.7,15.5
+2022,10,PSCA,Penn-Trafford HS,91.425,46.0,47.0,46.0,43.85
+2022,10,PSCA,East Central HS,91.0,45.6,46.6,44.4,45.4
+2022,10,PSCA,Hatboro-Horsham HS,88.95,40.4,45.9,46.5,45.1
+2022,10,PSCA,West Clermont HS,86.65,41.6,45.7,44.9,41.1
+2022,10,PSCA,Lewis Cass HS,85.8,43.3,43.7,42.4,42.2
+2022,10,PSCA,Warren County Public Schools,85.251,40.9,41.4,43.5,44.7
+2022,10,PSCA,Clayton HS,84.251,43.8,41.6,40.5,42.6
+2022,10,PSCA,First Colonial HS,83.301,41.7,40.0,41.6,43.3
+2022,10,PSCA,Atoka HS,80.426,38.1,41.75,41.3,39.7
+2022,10,PSCA,Madison Southern HS,79.95,39.1,41.5,38.9,40.4
+2022,10,PSCO,Muscle Shoals HS,94.95,48.3,47.4,47.0,47.2
+2022,10,PSCO,Corona del Sol HS,92.85,46.6,45.1,46.0,48.0
+2022,10,PSCO,Campbell County HS,90.65,45.8,46.6,43.7,45.2
+2022,10,PSCO,Plainfield HS,89.95,42.6,45.95,45.75,45.6
+2022,10,PSCO,Cleveland HS,88.751,43.7,45.4,45.0,43.4
+2022,10,PSCO,Powhatan HS,84.651,42.7,42.6,41.6,42.4
+2022,10,PSCW,Fishers HS,97.2,48.7,49.7,47.7,48.3
+2022,10,PSCW,North Forney HS,94.95,47.2,46.5,47.2,49.0
+2022,10,PSCW,Catawba Ridge HS,93.7,45.9,47.7,46.5,47.3
+2022,10,PSCW,Corinth Holders HS,90.05,44.8,44.6,45.0,45.7
+2022,10,PSCW,Ayala HS,89.501,44.4,46.1,45.1,43.4
+2022,10,PSCW,Tunstall HS,87.251,43.7,42.7,43.1,45.0
+2022,10,PSW,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,PSW,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,PSW,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,PSW,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,PSW,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,PSW,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,PSW,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,PSW,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,PSW,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,R1,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,R1,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,R1,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,R1,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,R1,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,R1,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,R1,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,R1,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,R1,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,PSW,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,PSW,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,PSW,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,PSW,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,PSW,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,PSW,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,PSW,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,PSW,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,PSW,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,R2,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,R2,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,R2,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,R2,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,R2,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,R2,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,R2,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,R2,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,R2,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,PIW,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,PIW,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,PIW,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,PIW,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,PIW,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,PIW,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,PIW,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,PIW,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,PIW,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,PIW,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,PIW,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,PIW,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,R1,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,R1,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,R1,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,R1,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,R1,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,R1,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,R1,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,R1,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,R1,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,R1,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,R1,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,R1,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,PIW,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,PIW,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,PIW,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,PIW,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,PIW,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,PIW,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,PIW,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,PIW,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,PIW,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,PIW,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,PIW,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,PIW,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,PIW,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,PIW,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,PIW,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,R2,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,R2,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,R2,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,R2,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,R2,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,R2,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,R2,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,R2,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,R2,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,R2,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,R2,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,R2,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,R2,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,R2,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,R2,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,PIO,Infinity 2,95.375,28.8,19.3,28.65,18.625
+2022,10,PIO,River City Rhythm,92.175,27.825,18.8,27.45,18.1
+2022,10,PIO,Bakersfield College,92.1,28.575,17.875,27.45,18.2
+2022,10,PIO,Q2,91.925,28.425,19.35,27.7,16.45
+2022,10,PIO,Matrix Open,91.739,27.637,18.5,27.55,18.05
+2022,10,PIO,IMPACT Percussion,90.689,29.062,18.45,27.475,15.7
+2022,10,PIO,Cap City 2,91.751,29.025,18.725,27.05,16.95
+2022,10,PIO,Triple Crown,88.101,25.8,18.15,26.4,17.75
+2022,10,PIO,Paradigm Percussion,86.451,26.775,16.95,24.975,17.75
+2022,10,PIO,United Percussion 2,85.25,25.5,17.5,25.5,16.75
+2022,10,PIO,Liberty University Indoor Drumline,83.5,25.2,16.5,25.75,16.05
+2022,10,PIO,Palmetto Indoor Theatre,82.663,24.712,17.15,24.5,16.3
+2022,10,PIO,STRYKE Percussion 2,82.288,25.087,16.9,24.9,15.4
+2022,10,R1,Infinity 2,95.375,28.8,19.3,28.65,18.625
+2022,10,R1,River City Rhythm,92.175,27.825,18.8,27.45,18.1
+2022,10,R1,Bakersfield College,92.1,28.575,17.875,27.45,18.2
+2022,10,R1,Q2,91.925,28.425,19.35,27.7,16.45
+2022,10,R1,Matrix Open,91.739,27.637,18.5,27.55,18.05
+2022,10,R1,IMPACT Percussion,90.689,29.062,18.45,27.475,15.7
+2022,10,R1,Cap City 2,91.751,29.025,18.725,27.05,16.95
+2022,10,R1,Triple Crown,88.101,25.8,18.15,26.4,17.75
+2022,10,R1,Paradigm Percussion,86.451,26.775,16.95,24.975,17.75
+2022,10,R1,United Percussion 2,85.25,25.5,17.5,25.5,16.75
+2022,10,R1,Liberty University Indoor Drumline,83.5,25.2,16.5,25.75,16.05
+2022,10,R1,Palmetto Indoor Theatre,82.663,24.712,17.15,24.5,16.3
+2022,10,R1,STRYKE Percussion 2,82.288,25.087,16.9,24.9,15.4
+2022,10,PIO,Civitas Independent,93.3,28.05,18.85,28.05,18.35
+2022,10,PIO,Freedom Percussion,93.225,29.1,18.525,27.4,18.2
+2022,10,PIO,Gold Indoor Percussion,92.663,27.562,19.0,27.6,18.5
+2022,10,PIO,Meraki Percussion,92.225,27.75,18.575,27.8,18.1
+2022,10,PIO,Motor City Percussion,90.463,28.613,18.5,25.55,17.8
+2022,10,PIO,Resistance Indoor Percussion,90.001,28.35,18.75,25.5,17.4
+2022,10,PIO,Vision Percussion,88.264,27.562,17.5,26.15,17.05
+2022,10,PIO,Infinity 3,87.164,27.113,17.625,26.175,16.25
+2022,10,PIO,Breakthrough Indoor Percussion,85.551,26.55,17.575,25.575,15.85
+2022,10,PIO,Gold Spike Percussion,83.713,25.238,16.625,25.25,16.6
+2022,10,PIO,Crossroads Percussion,83.513,25.462,16.45,25.1,16.5
+2022,10,PIO,Instinct,83.175,26.025,16.4,24.35,16.4
+2022,10,R2,Civitas Independent,93.3,28.05,18.85,28.05,18.35
+2022,10,R2,Freedom Percussion,93.225,29.1,18.525,27.4,18.2
+2022,10,R2,Gold Indoor Percussion,92.663,27.562,19.0,27.6,18.5
+2022,10,R2,Meraki Percussion,92.225,27.75,18.575,27.8,18.1
+2022,10,R2,Motor City Percussion,90.463,28.613,18.5,25.55,17.8
+2022,10,R2,Resistance Indoor Percussion,90.001,28.35,18.75,25.5,17.4
+2022,10,R2,Vision Percussion,88.264,27.562,17.5,26.15,17.05
+2022,10,R2,Infinity 3,87.164,27.113,17.625,26.175,16.25
+2022,10,R2,Breakthrough Indoor Percussion,85.551,26.55,17.575,25.575,15.85
+2022,10,R2,Gold Spike Percussion,83.713,25.238,16.625,25.25,16.6
+2022,10,R2,Crossroads Percussion,83.513,25.462,16.45,25.1,16.5
+2022,10,R2,Instinct,83.175,26.025,16.4,24.35,16.4
+2022,10,PSA,North Allegheny HS,94.225,28.425,19.3,27.85,18.65
+2022,10,PSA,Irondale Combined Schools,91.863,27.038,19.35,26.225,19.25
+2022,10,PSA,Kickapoo HS,91.65,28.2,18.7,27.15,17.6
+2022,10,PSA,Grand Blanc HS,89.725,27.45,17.95,26.8,17.525
+2022,10,PSA,Beavercreek HS,89.189,27.262,17.75,26.9,17.275
+2022,10,PSA,Cab Calloway HS,89.051,26.175,18.325,26.8,17.75
+2022,10,PSA,Bob Jones HS,88.414,26.812,17.8,25.1,18.7
+2022,10,PSA,Everett HS,87.726,26.55,18.2,25.65,17.325
+2022,10,PSA,Lees Summit HS,87.526,26.1,17.75,25.625,18.05
+2022,10,PSA,Southgate Anderson HS,82.925,26.325,17.0,23.95,15.65
+2022,10,PSA,Thomas Worthington HS,80.5,24.75,16.4,23.05,16.3
+2022,10,R1,North Allegheny HS,94.225,28.425,19.3,27.85,18.65
+2022,10,R1,Irondale Combined Schools,91.863,27.038,19.35,26.225,19.25
+2022,10,R1,Kickapoo HS,91.65,28.2,18.7,27.15,17.6
+2022,10,R1,Grand Blanc HS,89.725,27.45,17.95,26.8,17.525
+2022,10,R1,Beavercreek HS,89.189,27.262,17.75,26.9,17.275
+2022,10,R1,Cab Calloway HS,89.051,26.175,18.325,26.8,17.75
+2022,10,R1,Bob Jones HS,88.414,26.812,17.8,25.1,18.7
+2022,10,R1,Everett HS,87.726,26.55,18.2,25.65,17.325
+2022,10,R1,Lees Summit HS,87.526,26.1,17.75,25.625,18.05
+2022,10,R1,Southgate Anderson HS,82.925,26.325,17.0,23.95,15.65
+2022,10,R1,Thomas Worthington HS,80.5,24.75,16.4,23.05,16.3
+2022,10,PSA,Clover HS,95.663,28.613,19.3,28.65,19.1
+2022,10,PSA,Franklin Community HS,93.238,27.938,18.45,27.9,18.95
+2022,10,PSA,Hempfield HS,92.225,27.975,18.6,27.85,17.8
+2022,10,PSA,Central Dauphin HS,90.4,27.3,18.35,26.45,18.3
+2022,10,PSA,Northview HS,89.939,26.887,18.35,26.0,18.7
+2022,10,PSA,Osseo Area Combined Schools,89.001,27.3,17.95,26.3,17.45
+2022,10,PSA,Southport HS,88.701,27.075,18.9,24.05,18.675
+2022,10,PSA,Perry Meridian HS,89.564,27.113,18.15,26.25,18.05
+2022,10,PSA,Hudsonville HS,86.764,25.837,17.7,26.225,17.0
+2022,10,PSA,Westhill HS,84.675,25.5,17.275,25.3,16.6
+2022,10,PSA,Worthington Kilbourne HS,83.9,25.425,16.35,25.35,16.775
+2022,10,PSA,Fairborn HS,80.95,25.2,15.8,24.15,15.8
+2022,10,R2,Clover HS,95.663,28.613,19.3,28.65,19.1
+2022,10,R2,Franklin Community HS,93.238,27.938,18.45,27.9,18.95
+2022,10,R2,Hempfield HS,92.225,27.975,18.6,27.85,17.8
+2022,10,R2,Central Dauphin HS,90.4,27.3,18.35,26.45,18.3
+2022,10,R2,Northview HS,89.939,26.887,18.35,26.0,18.7
+2022,10,R2,Osseo Area Combined Schools,89.001,27.3,17.95,26.3,17.45
+2022,10,R2,Southport HS,88.701,27.075,18.9,24.05,18.675
+2022,10,R2,Perry Meridian HS,89.564,27.113,18.15,26.25,18.05
+2022,10,R2,Hudsonville HS,86.764,25.837,17.7,26.225,17.0
+2022,10,R2,Westhill HS,84.675,25.5,17.275,25.3,16.6
+2022,10,R2,Worthington Kilbourne HS,83.9,25.425,16.35,25.35,16.775
+2022,10,R2,Fairborn HS,80.95,25.2,15.8,24.15,15.8
+2022,10,PSA,Unionville HS,92.638,28.388,18.45,27.1,18.7
+2022,10,PSA,Ninety Six HS,91.925,28.05,18.7,26.475,18.7
+2022,10,PSA,Pearl HS,90.788,27.788,17.85,27.25,17.9
+2022,10,PSA,Hamilton Southeastern HS,90.138,27.413,17.65,26.975,18.1
+2022,10,PSA,E.D. White Catholic HS,90.076,27.375,18.2,26.45,18.05
+2022,10,PSA,Harrison HS,86.814,25.913,17.35,26.475,17.075
+2022,10,PSA,Salem HS,80.388,23.737,15.7,25.5,15.45
+2022,10,PSA,Dassel-Cokato HS,82.501,25.2,16.3,24.4,16.6
+2022,10,PSA,Northeastern HS,79.025,24.075,15.85,22.6,16.5
+2022,10,R3,Unionville HS,92.638,28.388,18.45,27.1,18.7
+2022,10,R3,Ninety Six HS,91.925,28.05,18.7,26.475,18.7
+2022,10,R3,Pearl HS,90.788,27.788,17.85,27.25,17.9
+2022,10,R3,Hamilton Southeastern HS,90.138,27.413,17.65,26.975,18.1
+2022,10,R3,E.D. White Catholic HS,90.076,27.375,18.2,26.45,18.05
+2022,10,R3,Harrison HS,86.814,25.913,17.35,26.475,17.075
+2022,10,R3,Salem HS,80.388,23.737,15.7,25.5,15.45
+2022,10,R3,Dassel-Cokato HS,82.501,25.2,16.3,24.4,16.6
+2022,10,R3,Northeastern HS,79.025,24.075,15.85,22.6,16.5
+2022,10,PSA,Vandebilt Catholic HS,91.85,27.6,18.45,27.3,18.5
+2022,10,PSA,Stoneman Douglas HS,88.975,26.475,18.2,26.85,17.45
+2022,10,PSA,Gulfport HS,88.739,26.812,17.1,26.75,18.075
+2022,10,PSA,Elk River Combined Schools,87.739,26.737,16.9,26.275,17.825
+2022,10,PSA,Bellevue Combined Schools,86.276,26.1,17.1,26.2,16.875
+2022,10,PSA,Plainfield Combined School,82.588,24.562,17.7,23.45,16.875
+2022,10,PSA,Minooka Community HS,81.325,24.375,15.85,25.0,16.1
+2022,10,PSA,Dennis-Yarmouth HS,80.363,23.587,15.8,24.625,16.35
+2022,10,R4,Vandebilt Catholic HS,91.85,27.6,18.45,27.3,18.5
+2022,10,R4,Stoneman Douglas HS,88.975,26.475,18.2,26.85,17.45
+2022,10,R4,Gulfport HS,88.739,26.812,17.1,26.75,18.075
+2022,10,R4,Elk River Combined Schools,87.739,26.737,16.9,26.275,17.825
+2022,10,R4,Bellevue Combined Schools,86.276,26.1,17.1,26.2,16.875
+2022,10,R4,Plainfield Combined School,82.588,24.562,17.7,23.45,16.875
+2022,10,R4,Minooka Community HS,81.325,24.375,15.85,25.0,16.1
+2022,10,R4,Dennis-Yarmouth HS,80.363,23.587,15.8,24.625,16.35
+2022,10,PIA,Matrix A,94.725,28.875,19.1,28.25,18.5
+2022,10,PIA,St. Martin Independent,92.0,27.6,17.9,27.8,18.7
+2022,10,PIA,Groove Pursuit,90.075,26.625,18.2,27.15,18.1
+2022,10,PIA,Lake Effect Percussion,88.475,25.725,18.15,26.0,18.6
+2022,10,PIA,Charles Towne Percussion,86.425,25.275,16.5,27.4,17.25
+2022,10,PIA,St. Ambrose University Indoor Percussion,86.051,25.35,16.8,26.45,17.45
+2022,10,PIA,Shockwave,75.951,22.95,13.95,23.0,16.05
+2022,10,PIA,Fruitport Independent Percussion,79.451,24.0,16.85,23.3,15.3
+2022,10,PIA,Tar River Independent Percussion,71.676,21.975,14.15,21.0,14.55
+2022,10,R1,Matrix A,94.725,28.875,19.1,28.25,18.5
+2022,10,R1,St. Martin Independent,92.0,27.6,17.9,27.8,18.7
+2022,10,R1,Groove Pursuit,90.075,26.625,18.2,27.15,18.1
+2022,10,R1,Lake Effect Percussion,88.475,25.725,18.15,26.0,18.6
+2022,10,R1,Charles Towne Percussion,86.425,25.275,16.5,27.4,17.25
+2022,10,R1,St. Ambrose University Indoor Percussion,86.051,25.35,16.8,26.45,17.45
+2022,10,R1,Shockwave,75.951,22.95,13.95,23.0,16.05
+2022,10,R1,Fruitport Independent Percussion,79.451,24.0,16.85,23.3,15.3
+2022,10,R1,Tar River Independent Percussion,71.676,21.975,14.15,21.0,14.55
+2022,10,PIA,Modulation Z,94.575,28.275,18.85,28.2,19.25
+2022,10,PIA,Mt. Juliet Independent,91.025,27.225,18.2,27.65,17.95
+2022,10,PIA,Pi Percussion Inc.,87.95,25.95,17.6,28.0,16.4
+2022,10,PIA,Ascension Percussion,86.85,25.35,17.8,26.45,17.25
+2022,10,PIA,Nomad Indoor,86.526,25.95,17.5,25.625,17.45
+2022,10,PIA,Huron Valley Percussion,86.426,25.425,17.75,26.3,16.95
+2022,10,PIA,North Star Independent,87.175,26.175,17.5,25.8,17.7
+2022,10,PIA,Quad City Percussion,81.214,23.962,16.85,23.8,16.6
+2022,10,R2,Modulation Z,94.575,28.275,18.85,28.2,19.25
+2022,10,R2,Mt. Juliet Independent,91.025,27.225,18.2,27.65,17.95
+2022,10,R2,Pi Percussion Inc.,87.95,25.95,17.6,28.0,16.4
+2022,10,R2,Ascension Percussion,86.85,25.35,17.8,26.45,17.25
+2022,10,R2,Nomad Indoor,86.526,25.95,17.5,25.625,17.45
+2022,10,R2,Huron Valley Percussion,86.426,25.425,17.75,26.3,16.95
+2022,10,R2,North Star Independent,87.175,26.175,17.5,25.8,17.7
+2022,10,R2,Quad City Percussion,81.214,23.962,16.85,23.8,16.6
+2022,10,PSCA,Penn-Trafford HS,91.425,46.0,47.0,46.0,43.85
+2022,10,PSCA,East Central HS,91.0,45.6,46.6,44.4,45.4
+2022,10,PSCA,Hatboro-Horsham HS,88.95,40.4,45.9,46.5,45.1
+2022,10,PSCA,West Clermont HS,86.65,41.6,45.7,44.9,41.1
+2022,10,PSCA,Lewis Cass HS,85.8,43.3,43.7,42.4,42.2
+2022,10,PSCA,Warren County Public Schools,85.251,40.9,41.4,43.5,44.7
+2022,10,PSCA,Clayton HS,84.251,43.8,41.6,40.5,42.6
+2022,10,PSCA,First Colonial HS,83.301,41.7,40.0,41.6,43.3
+2022,10,PSCA,Atoka HS,80.426,38.1,41.75,41.3,39.7
+2022,10,PSCA,Madison Southern HS,79.95,39.1,41.5,38.9,40.4
+2022,10,PSCO,Muscle Shoals HS,94.95,48.3,47.4,47.0,47.2
+2022,10,PSCO,Corona del Sol HS,92.85,46.6,45.1,46.0,48.0
+2022,10,PSCO,Campbell County HS,90.65,45.8,46.6,43.7,45.2
+2022,10,PSCO,Plainfield HS,89.95,42.6,45.95,45.75,45.6
+2022,10,PSCO,Cleveland HS,88.751,43.7,45.4,45.0,43.4
+2022,10,PSCO,Powhatan HS,84.651,42.7,42.6,41.6,42.4
+2022,10,PSCW,Fishers HS,97.2,48.7,49.7,47.7,48.3
+2022,10,PSCW,North Forney HS,94.95,47.2,46.5,47.2,49.0
+2022,10,PSCW,Catawba Ridge HS,93.7,45.9,47.7,46.5,47.3
+2022,10,PSCW,Corinth Holders HS,90.05,44.8,44.6,45.0,45.7
+2022,10,PSCW,Ayala HS,89.501,44.4,46.1,45.1,43.4
+2022,10,PSCW,Tunstall HS,87.251,43.7,42.7,43.1,45.0
+2022,10,PSW,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,PSW,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,PSW,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,PSW,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,PSW,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,PSW,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,PSW,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,PSW,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,PSW,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,R1,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,R1,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,R1,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,R1,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,R1,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,R1,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,R1,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,R1,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,R1,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,PSW,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,PSW,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,PSW,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,PSW,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,PSW,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,PSW,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,PSW,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,PSW,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,PSW,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,R2,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,R2,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,R2,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,R2,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,R2,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,R2,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,R2,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,R2,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,R2,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,PIW,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,PIW,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,PIW,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,PIW,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,PIW,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,PIW,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,PIW,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,PIW,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,PIW,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,PIW,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,PIW,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,PIW,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,R1,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,R1,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,R1,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,R1,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,R1,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,R1,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,R1,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,R1,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,R1,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,R1,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,R1,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,R1,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,PIW,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,PIW,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,PIW,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,PIW,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,PIW,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,PIW,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,PIW,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,PIW,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,PIW,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,PIW,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,PIW,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,PIW,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,PIW,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,PIW,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,PIW,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,R2,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,R2,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,R2,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,R2,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,R2,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,R2,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,R2,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,R2,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,R2,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,R2,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,R2,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,R2,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,R2,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,R2,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,R2,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,PSO,Clear Brook HS,93.5,28.05,18.5,28.45,18.5
+2022,10,PSO,Burleson HS,90.688,27.337,17.85,28.15,17.35
+2022,10,PSO,Zionsville Community HS,90.5,27.525,18.85,26.225,17.9
+2022,10,PSO,Greenfield-Central HS,90.9,27.45,18.0,27.15,18.3
+2022,10,PSO,Norwalk HS,85.501,26.475,16.9,25.65,16.475
+2022,10,PSO,Foothill HS (NV),85.751,25.65,17.35,25.15,17.6
+2022,10,PSO,Collins Hill HS,84.126,25.275,16.4,26.2,16.25
+2022,10,PSO,Lake Orion HS,82.326,24.225,16.4,25.0,16.7
+2022,10,PSO,Goshen HS,81.176,24.3,16.6,23.9,16.375
+2022,10,R1,Clear Brook HS,93.5,28.05,18.5,28.45,18.5
+2022,10,R1,Burleson HS,90.688,27.337,17.85,28.15,17.35
+2022,10,R1,Zionsville Community HS,90.5,27.525,18.85,26.225,17.9
+2022,10,R1,Greenfield-Central HS,90.9,27.45,18.0,27.15,18.3
+2022,10,R1,Norwalk HS,85.501,26.475,16.9,25.65,16.475
+2022,10,R1,Foothill HS (NV),85.751,25.65,17.35,25.15,17.6
+2022,10,R1,Collins Hill HS,84.126,25.275,16.4,26.2,16.25
+2022,10,R1,Lake Orion HS,82.326,24.225,16.4,25.0,16.7
+2022,10,R1,Goshen HS,81.176,24.3,16.6,23.9,16.375
+2022,10,PSO,Boswell HS,94.763,28.538,19.05,28.6,18.575
+2022,10,PSO,Dorman HS,92.45,28.5,18.45,27.35,18.15
+2022,10,PSO,Azle HS,90.313,27.712,17.5,27.25,17.85
+2022,10,PSO,Brandon Valley HS,89.45,27.6,17.35,26.95,17.55
+2022,10,PSO,Mauldin HS,86.85,27.15,16.4,26.65,16.65
+2022,10,PSO,Trumbull HS,84.651,25.275,16.95,25.3,17.125
+2022,10,PSO,Hardin Valley Academy,82.176,24.525,16.4,25.0,16.25
+2022,10,PSO,Freedom HS,80.301,24.3,15.85,24.25,15.9
+2022,10,PSO,Lebanon HS,79.701,23.85,15.9,23.7,16.25
+2022,10,R2,Boswell HS,94.763,28.538,19.05,28.6,18.575
+2022,10,R2,Dorman HS,92.45,28.5,18.45,27.35,18.15
+2022,10,R2,Azle HS,90.313,27.712,17.5,27.25,17.85
+2022,10,R2,Brandon Valley HS,89.45,27.6,17.35,26.95,17.55
+2022,10,R2,Mauldin HS,86.85,27.15,16.4,26.65,16.65
+2022,10,R2,Trumbull HS,84.651,25.275,16.95,25.3,17.125
+2022,10,R2,Hardin Valley Academy,82.176,24.525,16.4,25.0,16.25
+2022,10,R2,Freedom HS,80.301,24.3,15.85,24.25,15.9
+2022,10,R2,Lebanon HS,79.701,23.85,15.9,23.7,16.25
+2022,10,PSO,Pace HS,91.45,27.6,18.1,26.75,19.0
+2022,10,PSO,Plainfield HS,87.313,26.062,17.95,26.65,16.65
+2022,10,PSO,Thomas Jefferson HS,86.8,26.25,16.95,26.25,17.35
+2022,10,PSO,Kettering Fairmont HS,86.701,25.65,17.975,26.25,16.825
+2022,10,PSO,Central Crossing HS,84.451,25.65,17.55,24.5,16.75
+2022,10,PSO,Plymouth-Canton Educational Park,83.914,24.562,16.85,25.7,16.8
+2022,10,PSO,Decatur Central HS,93.025,28.125,18.8,27.95,18.15
+2022,10,PSO,Fair Lawn HS,81.401,24.3,16.5,24.6,16.0
+2022,10,PSO,Lower Dauphin HS,81.276,23.925,16.75,24.85,15.75
+2022,10,R3,Pace HS,91.45,27.6,18.1,26.75,19.0
+2022,10,R3,Plainfield HS,87.313,26.062,17.95,26.65,16.65
+2022,10,R3,Thomas Jefferson HS,86.8,26.25,16.95,26.25,17.35
+2022,10,R3,Kettering Fairmont HS,86.701,25.65,17.975,26.25,16.825
+2022,10,R3,Central Crossing HS,84.451,25.65,17.55,24.5,16.75
+2022,10,R3,Plymouth-Canton Educational Park,83.914,24.562,16.85,25.7,16.8
+2022,10,R3,Decatur Central HS,93.025,28.125,18.8,27.95,18.15
+2022,10,R3,Fair Lawn HS,81.401,24.3,16.5,24.6,16.0
+2022,10,R3,Lower Dauphin HS,81.276,23.925,16.75,24.85,15.75
+2022,10,PSO,Sherwood HS,92.725,27.525,17.85,29.0,18.35
+2022,10,PSO,Victor J. Andrew HS,91.688,28.238,17.9,27.35,18.2
+2022,10,PSO,Brownsburg HS,90.625,27.375,18.1,27.0,18.15
+2022,10,PSO,Walled Lake Consolidated Schools,88.875,27.525,17.875,26.575,16.9
+2022,10,PSO,Powhatan HS,86.65,25.65,16.8,27.4,16.8
+2022,10,PSO,T.L. Hanna HS,86.451,25.875,17.0,26.6,16.975
+2022,10,PSO,Chattahoochee HS,84.639,25.612,17.0,25.525,16.5
+2022,10,PSO,Eden Prairie HS,83.276,24.225,16.2,26.85,16.0
+2022,10,PSO,Chantilly HS,82.576,25.2,17.3,23.7,16.375
+2022,10,R4,Sherwood HS,92.725,27.525,17.85,29.0,18.35
+2022,10,R4,Victor J. Andrew HS,91.688,28.238,17.9,27.35,18.2
+2022,10,R4,Brownsburg HS,90.625,27.375,18.1,27.0,18.15
+2022,10,R4,Walled Lake Consolidated Schools,88.875,27.525,17.875,26.575,16.9
+2022,10,R4,Powhatan HS,86.65,25.65,16.8,27.4,16.8
+2022,10,R4,T.L. Hanna HS,86.451,25.875,17.0,26.6,16.975
+2022,10,R4,Chattahoochee HS,84.639,25.612,17.0,25.525,16.5
+2022,10,R4,Eden Prairie HS,83.276,24.225,16.2,26.85,16.0
+2022,10,R4,Chantilly HS,82.576,25.2,17.3,23.7,16.375
+2022,10,PSA,North Allegheny HS,94.225,28.425,19.3,27.85,18.65
+2022,10,PSA,Irondale Combined Schools,91.863,27.038,19.35,26.225,19.25
+2022,10,PSA,Kickapoo HS,91.65,28.2,18.7,27.15,17.6
+2022,10,PSA,Grand Blanc HS,89.725,27.45,17.95,26.8,17.525
+2022,10,PSA,Beavercreek HS,89.189,27.262,17.75,26.9,17.275
+2022,10,PSA,Cab Calloway HS,89.051,26.175,18.325,26.8,17.75
+2022,10,PSA,Bob Jones HS,88.414,26.812,17.8,25.1,18.7
+2022,10,PSA,Everett HS,87.726,26.55,18.2,25.65,17.325
+2022,10,PSA,Lees Summit HS,87.526,26.1,17.75,25.625,18.05
+2022,10,PSA,Southgate Anderson HS,82.925,26.325,17.0,23.95,15.65
+2022,10,PSA,Thomas Worthington HS,80.5,24.75,16.4,23.05,16.3
+2022,10,R1,North Allegheny HS,94.225,28.425,19.3,27.85,18.65
+2022,10,R1,Irondale Combined Schools,91.863,27.038,19.35,26.225,19.25
+2022,10,R1,Kickapoo HS,91.65,28.2,18.7,27.15,17.6
+2022,10,R1,Grand Blanc HS,89.725,27.45,17.95,26.8,17.525
+2022,10,R1,Beavercreek HS,89.189,27.262,17.75,26.9,17.275
+2022,10,R1,Cab Calloway HS,89.051,26.175,18.325,26.8,17.75
+2022,10,R1,Bob Jones HS,88.414,26.812,17.8,25.1,18.7
+2022,10,R1,Everett HS,87.726,26.55,18.2,25.65,17.325
+2022,10,R1,Lees Summit HS,87.526,26.1,17.75,25.625,18.05
+2022,10,R1,Southgate Anderson HS,82.925,26.325,17.0,23.95,15.65
+2022,10,R1,Thomas Worthington HS,80.5,24.75,16.4,23.05,16.3
+2022,10,PSA,Clover HS,95.663,28.613,19.3,28.65,19.1
+2022,10,PSA,Franklin Community HS,93.238,27.938,18.45,27.9,18.95
+2022,10,PSA,Hempfield HS,92.225,27.975,18.6,27.85,17.8
+2022,10,PSA,Central Dauphin HS,90.4,27.3,18.35,26.45,18.3
+2022,10,PSA,Northview HS,89.939,26.887,18.35,26.0,18.7
+2022,10,PSA,Osseo Area Combined Schools,89.001,27.3,17.95,26.3,17.45
+2022,10,PSA,Southport HS,88.701,27.075,18.9,24.05,18.675
+2022,10,PSA,Perry Meridian HS,89.564,27.113,18.15,26.25,18.05
+2022,10,PSA,Hudsonville HS,86.764,25.837,17.7,26.225,17.0
+2022,10,PSA,Westhill HS,84.675,25.5,17.275,25.3,16.6
+2022,10,PSA,Worthington Kilbourne HS,83.9,25.425,16.35,25.35,16.775
+2022,10,PSA,Fairborn HS,80.95,25.2,15.8,24.15,15.8
+2022,10,R2,Clover HS,95.663,28.613,19.3,28.65,19.1
+2022,10,R2,Franklin Community HS,93.238,27.938,18.45,27.9,18.95
+2022,10,R2,Hempfield HS,92.225,27.975,18.6,27.85,17.8
+2022,10,R2,Central Dauphin HS,90.4,27.3,18.35,26.45,18.3
+2022,10,R2,Northview HS,89.939,26.887,18.35,26.0,18.7
+2022,10,R2,Osseo Area Combined Schools,89.001,27.3,17.95,26.3,17.45
+2022,10,R2,Southport HS,88.701,27.075,18.9,24.05,18.675
+2022,10,R2,Perry Meridian HS,89.564,27.113,18.15,26.25,18.05
+2022,10,R2,Hudsonville HS,86.764,25.837,17.7,26.225,17.0
+2022,10,R2,Westhill HS,84.675,25.5,17.275,25.3,16.6
+2022,10,R2,Worthington Kilbourne HS,83.9,25.425,16.35,25.35,16.775
+2022,10,R2,Fairborn HS,80.95,25.2,15.8,24.15,15.8
+2022,10,PSA,Unionville HS,92.638,28.388,18.45,27.1,18.7
+2022,10,PSA,Ninety Six HS,91.925,28.05,18.7,26.475,18.7
+2022,10,PSA,Pearl HS,90.788,27.788,17.85,27.25,17.9
+2022,10,PSA,Hamilton Southeastern HS,90.138,27.413,17.65,26.975,18.1
+2022,10,PSA,E.D. White Catholic HS,90.076,27.375,18.2,26.45,18.05
+2022,10,PSA,Harrison HS,86.814,25.913,17.35,26.475,17.075
+2022,10,PSA,Salem HS,80.388,23.737,15.7,25.5,15.45
+2022,10,PSA,Dassel-Cokato HS,82.501,25.2,16.3,24.4,16.6
+2022,10,PSA,Northeastern HS,79.025,24.075,15.85,22.6,16.5
+2022,10,R3,Unionville HS,92.638,28.388,18.45,27.1,18.7
+2022,10,R3,Ninety Six HS,91.925,28.05,18.7,26.475,18.7
+2022,10,R3,Pearl HS,90.788,27.788,17.85,27.25,17.9
+2022,10,R3,Hamilton Southeastern HS,90.138,27.413,17.65,26.975,18.1
+2022,10,R3,E.D. White Catholic HS,90.076,27.375,18.2,26.45,18.05
+2022,10,R3,Harrison HS,86.814,25.913,17.35,26.475,17.075
+2022,10,R3,Salem HS,80.388,23.737,15.7,25.5,15.45
+2022,10,R3,Dassel-Cokato HS,82.501,25.2,16.3,24.4,16.6
+2022,10,R3,Northeastern HS,79.025,24.075,15.85,22.6,16.5
+2022,10,PSA,Vandebilt Catholic HS,91.85,27.6,18.45,27.3,18.5
+2022,10,PSA,Stoneman Douglas HS,88.975,26.475,18.2,26.85,17.45
+2022,10,PSA,Gulfport HS,88.739,26.812,17.1,26.75,18.075
+2022,10,PSA,Elk River Combined Schools,87.739,26.737,16.9,26.275,17.825
+2022,10,PSA,Bellevue Combined Schools,86.276,26.1,17.1,26.2,16.875
+2022,10,PSA,Plainfield Combined School,82.588,24.562,17.7,23.45,16.875
+2022,10,PSA,Minooka Community HS,81.325,24.375,15.85,25.0,16.1
+2022,10,PSA,Dennis-Yarmouth HS,80.363,23.587,15.8,24.625,16.35
+2022,10,R4,Vandebilt Catholic HS,91.85,27.6,18.45,27.3,18.5
+2022,10,R4,Stoneman Douglas HS,88.975,26.475,18.2,26.85,17.45
+2022,10,R4,Gulfport HS,88.739,26.812,17.1,26.75,18.075
+2022,10,R4,Elk River Combined Schools,87.739,26.737,16.9,26.275,17.825
+2022,10,R4,Bellevue Combined Schools,86.276,26.1,17.1,26.2,16.875
+2022,10,R4,Plainfield Combined School,82.588,24.562,17.7,23.45,16.875
+2022,10,R4,Minooka Community HS,81.325,24.375,15.85,25.0,16.1
+2022,10,R4,Dennis-Yarmouth HS,80.363,23.587,15.8,24.625,16.35
+2022,10,PIA,Matrix A,94.725,28.875,19.1,28.25,18.5
+2022,10,PIA,St. Martin Independent,92.0,27.6,17.9,27.8,18.7
+2022,10,PIA,Groove Pursuit,90.075,26.625,18.2,27.15,18.1
+2022,10,PIA,Lake Effect Percussion,88.475,25.725,18.15,26.0,18.6
+2022,10,PIA,Charles Towne Percussion,86.425,25.275,16.5,27.4,17.25
+2022,10,PIA,St. Ambrose University Indoor Percussion,86.051,25.35,16.8,26.45,17.45
+2022,10,PIA,Shockwave,75.951,22.95,13.95,23.0,16.05
+2022,10,PIA,Fruitport Independent Percussion,79.451,24.0,16.85,23.3,15.3
+2022,10,PIA,Tar River Independent Percussion,71.676,21.975,14.15,21.0,14.55
+2022,10,R1,Matrix A,94.725,28.875,19.1,28.25,18.5
+2022,10,R1,St. Martin Independent,92.0,27.6,17.9,27.8,18.7
+2022,10,R1,Groove Pursuit,90.075,26.625,18.2,27.15,18.1
+2022,10,R1,Lake Effect Percussion,88.475,25.725,18.15,26.0,18.6
+2022,10,R1,Charles Towne Percussion,86.425,25.275,16.5,27.4,17.25
+2022,10,R1,St. Ambrose University Indoor Percussion,86.051,25.35,16.8,26.45,17.45
+2022,10,R1,Shockwave,75.951,22.95,13.95,23.0,16.05
+2022,10,R1,Fruitport Independent Percussion,79.451,24.0,16.85,23.3,15.3
+2022,10,R1,Tar River Independent Percussion,71.676,21.975,14.15,21.0,14.55
+2022,10,PIA,Modulation Z,94.575,28.275,18.85,28.2,19.25
+2022,10,PIA,Mt. Juliet Independent,91.025,27.225,18.2,27.65,17.95
+2022,10,PIA,Pi Percussion Inc.,87.95,25.95,17.6,28.0,16.4
+2022,10,PIA,Ascension Percussion,86.85,25.35,17.8,26.45,17.25
+2022,10,PIA,Nomad Indoor,86.526,25.95,17.5,25.625,17.45
+2022,10,PIA,Huron Valley Percussion,86.426,25.425,17.75,26.3,16.95
+2022,10,PIA,North Star Independent,87.175,26.175,17.5,25.8,17.7
+2022,10,PIA,Quad City Percussion,81.214,23.962,16.85,23.8,16.6
+2022,10,R2,Modulation Z,94.575,28.275,18.85,28.2,19.25
+2022,10,R2,Mt. Juliet Independent,91.025,27.225,18.2,27.65,17.95
+2022,10,R2,Pi Percussion Inc.,87.95,25.95,17.6,28.0,16.4
+2022,10,R2,Ascension Percussion,86.85,25.35,17.8,26.45,17.25
+2022,10,R2,Nomad Indoor,86.526,25.95,17.5,25.625,17.45
+2022,10,R2,Huron Valley Percussion,86.426,25.425,17.75,26.3,16.95
+2022,10,R2,North Star Independent,87.175,26.175,17.5,25.8,17.7
+2022,10,R2,Quad City Percussion,81.214,23.962,16.85,23.8,16.6
+2022,10,PSCA,Penn-Trafford HS,91.425,46.0,47.0,46.0,43.85
+2022,10,PSCA,East Central HS,91.0,45.6,46.6,44.4,45.4
+2022,10,PSCA,Hatboro-Horsham HS,88.95,40.4,45.9,46.5,45.1
+2022,10,PSCA,West Clermont HS,86.65,41.6,45.7,44.9,41.1
+2022,10,PSCA,Lewis Cass HS,85.8,43.3,43.7,42.4,42.2
+2022,10,PSCA,Warren County Public Schools,85.251,40.9,41.4,43.5,44.7
+2022,10,PSCA,Clayton HS,84.251,43.8,41.6,40.5,42.6
+2022,10,PSCA,First Colonial HS,83.301,41.7,40.0,41.6,43.3
+2022,10,PSCA,Atoka HS,80.426,38.1,41.75,41.3,39.7
+2022,10,PSCA,Madison Southern HS,79.95,39.1,41.5,38.9,40.4
+2022,10,PSCO,Muscle Shoals HS,94.95,48.3,47.4,47.0,47.2
+2022,10,PSCO,Corona del Sol HS,92.85,46.6,45.1,46.0,48.0
+2022,10,PSCO,Campbell County HS,90.65,45.8,46.6,43.7,45.2
+2022,10,PSCO,Plainfield HS,89.95,42.6,45.95,45.75,45.6
+2022,10,PSCO,Cleveland HS,88.751,43.7,45.4,45.0,43.4
+2022,10,PSCO,Powhatan HS,84.651,42.7,42.6,41.6,42.4
+2022,10,PSCW,Fishers HS,97.2,48.7,49.7,47.7,48.3
+2022,10,PSCW,North Forney HS,94.95,47.2,46.5,47.2,49.0
+2022,10,PSCW,Catawba Ridge HS,93.7,45.9,47.7,46.5,47.3
+2022,10,PSCW,Corinth Holders HS,90.05,44.8,44.6,45.0,45.7
+2022,10,PSCW,Ayala HS,89.501,44.4,46.1,45.1,43.4
+2022,10,PSCW,Tunstall HS,87.251,43.7,42.7,43.1,45.0
+2022,10,PSW,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,PSW,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,PSW,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,PSW,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,PSW,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,PSW,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,PSW,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,PSW,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,PSW,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,R1,Dartmouth HS,95.05,28.5,18.95,28.55,19.05
+2022,10,R1,Arcadia HS,94.888,28.988,19.0,28.4,18.5
+2022,10,R1,Lambert HS,88.575,25.95,18.3,26.625,17.7
+2022,10,R1,Cupertino HS,88.663,26.962,17.6,26.75,17.35
+2022,10,R1,Broken Arrow HS,88.314,26.663,17.4,27.25,17.0
+2022,10,R1,Homestead HS,88.064,27.038,17.65,26.15,17.225
+2022,10,R1,Milton HS,87.851,26.1,17.45,26.45,17.85
+2022,10,R1,Petal HS,85.426,25.275,17.3,25.55,17.3
+2022,10,R1,South County HS,81.976,24.825,16.25,24.7,16.2
+2022,10,PSW,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,PSW,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,PSW,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,PSW,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,PSW,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,PSW,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,PSW,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,PSW,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,PSW,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,R2,Chino Hills HS,97.513,29.513,19.5,29.3,19.2
+2022,10,R2,Avon HS,95.5,28.8,19.05,28.5,19.15
+2022,10,R2,Ayala HS,91.638,28.087,18.65,26.55,18.35
+2022,10,R2,Sparkman HS,89.313,27.863,17.4,27.025,17.025
+2022,10,R2,Franklin Central HS,88.864,26.962,17.3,27.25,17.35
+2022,10,R2,Center Grove HS,87.889,26.062,17.65,26.425,17.75
+2022,10,R2,Timber Creek HS,87.451,26.7,16.65,26.85,17.25
+2022,10,R2,Carroll HS,87.176,26.4,17.2,26.675,16.9
+2022,10,R2,Centerville HS,88.925,27.375,17.9,26.05,17.6
+2022,10,PIW,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,PIW,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,PIW,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,PIW,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,PIW,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,PIW,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,PIW,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,PIW,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,PIW,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,PIW,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,PIW,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,PIW,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,R1,Pulse Percussion,97.275,29.325,19.0,29.3,19.65
+2022,10,R1,Music City Mystique,94.713,29.212,18.55,28.35,18.6
+2022,10,R1,United Percussion,91.2,27.675,17.9,27.55,18.075
+2022,10,R1,Matrix,91.663,27.113,19.25,26.9,18.4
+2022,10,R1,POW Percussion,88.538,27.038,17.55,26.35,17.6
+2022,10,R1,Blue Knights,85.426,26.4,16.7,25.925,16.4
+2022,10,R1,STRYKE Percussion,84.451,24.375,16.35,26.525,17.2
+2022,10,R1,Atlanta Quest,83.925,25.35,16.35,26.175,16.05
+2022,10,R1,Veritas,82.538,24.113,15.45,26.1,16.875
+2022,10,R1,MBI Indoor Percussion,82.35,24.0,16.25,25.55,16.55
+2022,10,R1,Vessel Indoor Percussion,81.85,23.775,16.5,24.575,17.0
+2022,10,R1,Flux Indoor Percussion,78.025,23.475,15.2,24.25,15.1
+2022,10,PIW,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,PIW,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,PIW,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,PIW,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,PIW,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,PIW,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,PIW,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,PIW,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,PIW,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,PIW,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,PIW,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,PIW,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,PIW,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,PIW,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,PIW,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,R2,Broken City,96.7,29.475,19.2,28.65,19.375
+2022,10,R2,Rhythm X,96.713,29.362,18.7,29.3,19.35
+2022,10,R2,RCC,95.55,29.025,18.7,28.975,18.85
+2022,10,R2,Infinity,91.225,27.75,17.3,28.175,18.0
+2022,10,R2,Monarch Independent,89.751,27.375,17.2,27.4,17.775
+2022,10,R2,George Mason University,89.076,25.5,17.6,27.775,18.2
+2022,10,R2,Cap City Percussion,87.089,26.062,17.125,27.0,16.9
+2022,10,R2,Vigilantes Indoor Percussion,86.939,26.587,16.9,26.4,17.05
+2022,10,R2,Rhythmic Force Percussion,85.426,25.8,15.95,26.575,17.1
+2022,10,R2,ConneXus,85.25,25.95,16.45,26.225,16.625
+2022,10,R2,Dark Sky Percussion,84.2,23.7,17.0,26.45,17.05
+2022,10,R2,Audio Theater,83.788,25.688,17.0,25.15,15.95
+2022,10,R2,Rise Percussion,83.413,25.837,16.15,25.65,15.775
+2022,10,R2,Imperial Dynasty,80.45,23.325,16.35,24.85,15.925
+2022,10,R2,4th Wall,80.3,23.85,15.75,25.55,15.15
+2022,10,PSW,Chino Hills HS,97.25,29.475,19.5,29.15,19.125
+2022,10,PSW,Avon HS,97.225,29.55,19.7,28.575,19.4
+2022,10,PSW,Dartmouth HS,96.188,28.837,19.25,28.975,19.125
+2022,10,PSW,Arcadia HS,94.688,28.538,19.025,28.35,18.775
+2022,10,PSW,Ayala HS,92.951,28.125,18.9,27.25,18.675
+2022,10,PSW,Cupertino HS,92.039,28.012,17.8,27.875,18.35
+2022,10,PSW,Sparkman HS,91.576,27.75,27.45,27.85,18.25
+2022,10,PSW,Broken Arrow HS,91.151,27.825,27.375,27.35,18.35
+2022,10,PSW,Lambert HS,90.564,27.337,18.05,27.575,17.6
+2022,10,PSW,Franklin Central HS,90.225,27.15,18.1,27.4,17.575
+2022,10,PSW,Homestead HS,89.325,27.375,17.5,26.35,18.1
+2022,10,PSW,Center Grove HS,88.813,26.587,17.45,26.95,17.825
+2022,10,PSW,Milton HS,88.625,26.475,18.0,26.575,17.575
+2022,10,PSW,Centerville HS,87.85,25.95,18.05,26.55,17.3
+2022,10,PSW,Timber Creek HS,86.013,25.988,16.9,26.025,17.1
+2022,10,PSW,Carroll HS,85.25,25.875,16.8,25.975,16.6
+2022,10,PSW,South County HS,81.15,24.0,16.3,24.55,16.3
+2022,10,PIW,Broken City,97.688,29.288,19.375,29.6,19.425
+2022,10,PIW,RCC,96.038,28.388,19.325,29.1,19.225
+2022,10,PIW,Music City Mystique,95.175,28.275,19.1,28.725,19.075
+2022,10,PIW,Infinity,93.464,27.712,18.775,28.475,18.5
+2022,10,PIW,Monarch Independent,92.751,27.525,18.325,28.45,18.45
+2022,10,PIW,George Mason University,92.175,26.925,18.8,27.85,18.6
+2022,10,PIW,POW Percussion,91.063,27.113,18.55,27.25,18.15
+2022,10,PIW,Cap City Percussion,90.738,26.887,18.25,27.65,17.95
+2022,10,PIW,Vigilantes Indoor Percussion,88.938,26.663,17.65,27.175,17.45
+2022,10,PIW,Rhythmic Force Percussion,87.888,26.288,17.9,26.3,17.4
+2022,10,PIW,Blue Knights,87.488,26.062,17.85,25.975,17.6
+2022,10,PIW,Redline,86.813,24.862,17.75,26.7,17.5
+2022,10,PIW,ConneXus,86.05,26.1,17.25,26.2,16.5
+2022,10,PIW,Dark Sky Percussion,85.525,25.35,17.0,26.175,17.0
+2022,10,PIW,STRYKE Percussion,84.963,25.913,17.15,25.25,16.65
+2022,10,PIW,Red Wave Indoor,83.55,24.6,17.1,25.35,16.5
+2022,10,PIA,Matrix A,95.325,29.025,19.4,28.5,18.4
+2022,10,PIA,Modulation Z,94.2,28.5,18.8,28.05,18.85
+2022,10,PIA,St. Martin Independent,92.3,27.825,18.75,27.65,18.075
+2022,10,PIA,Mt. Juliet Independent,91.013,27.487,18.525,26.95,18.05
+2022,10,PIA,Groove Pursuit,87.951,25.725,17.6,26.9,17.725
+2022,10,PIA,Pi Percussion Inc.,87.426,26.55,17.15,26.75,16.975
+2022,10,PIA,Lake Effect Percussion,86.939,26.288,17.65,25.325,17.675
+2022,10,PIA,Ascension Percussion,85.351,25.5,17.2,25.75,16.9
+2022,10,PIA,Charles Towne Percussion,83.176,24.225,16.55,25.65,16.75
+2022,10,PIA,North Star Independent,82.9,24.525,16.5,24.2,17.675
+2022,10,PIA,Nomad Indoor,82.413,23.888,17.025,24.7,16.8
+2022,10,PIA,Huron Valley Percussion,80.438,22.988,16.5,23.75,17.2
+2022,10,PIA,St. Ambrose University Indoor Percussion,79.85,22.95,16.05,24.65,16.2
+2022,10,PIA,Quad City Percussion,77.425,22.725,15.65,23.15,15.9
+2022,10,PIA,Shockwave,72.775,21.375,14.9,21.5,15.0
+2022,10,PSA,Clover HS,97.8,29.775,19.575,29.025,19.425
+2022,10,PSA,Old Bridge HS,95.938,29.212,19.3,28.55,18.875
+2022,10,PSA,Franklin Community HS,94.263,28.462,18.875,27.775,19.15
+2022,10,PSA,Unionville HS,93.9,27.825,19.05,28.45,18.575
+2022,10,PSA,North Allegheny HS,93.714,28.163,19.8,27.3,18.45
+2022,10,PSA,Pearl HS,93.689,28.387,19.25,27.675,18.375
+2022,10,PSA,Hempfield HS,92.526,28.35,18.775,26.475,18.925
+2022,10,PSA,Irondale Combined Schools,91.363,27.113,18.625,26.875,18.75
+2022,10,PSA,Vandebilt Catholic HS,90.813,27.638,19.05,25.825,18.3
+2022,10,PSA,Hamilton Southeastern HS,90.788,27.337,18.125,27.2,18.125
+2022,10,PSA,Kickapoo HS,88.863,26.512,17.55,27.0,17.8
+2022,10,PSA,Stoneman Douglas HS,87.375,26.325,17.4,26.3,17.35
+2022,10,PSA,Central Dauphin HS,87.35,26.325,18.125,25.25,17.65
+2022,10,PSA,Gulfport HS,87.325,26.325,17.75,25.9,17.35
+2022,10,PSA,Clover HS,95.875,29.625,19.225,28.45,18.575
+2022,10,PSA,Franklin Community HS,93.538,28.538,19.1,28.0,17.9
+2022,10,PSA,North Allegheny HS,93.225,28.5,19.55,27.225,17.95
+2022,10,PSA,Hempfield HS,92.65,28.95,18.875,26.4,18.425
+2022,10,PSA,Irondale Combined Schools,91.213,27.863,18.775,25.975,18.6
+2022,10,PSA,Northview HS,90.726,27.525,18.6,27.05,17.55
+2022,10,PSA,Kickapoo HS,90.126,27.675,18.1,26.55,17.8
+2022,10,PSA,Central Dauphin HS,88.664,27.638,17.975,25.7,17.35
+2022,10,PSA,Osseo Area Combined Schools,88.101,26.55,18.7,26.4,16.45
+2022,10,PSA,Cab Calloway HS,87.588,27.188,17.55,26.35,16.5
+2022,10,PSA,Beavercreek HS,86.588,25.988,17.5,26.1,17.0
+2022,10,PSA,Grand Blanc HS,86.613,27.262,17.8,24.9,16.65
+2022,10,R1,Clover HS,95.875,29.625,19.225,28.45,18.575
+2022,10,R1,Franklin Community HS,93.538,28.538,19.1,28.0,17.9
+2022,10,R1,North Allegheny HS,93.225,28.5,19.55,27.225,17.95
+2022,10,R1,Hempfield HS,92.65,28.95,18.875,26.4,18.425
+2022,10,R1,Irondale Combined Schools,91.213,27.863,18.775,25.975,18.6
+2022,10,R1,Northview HS,90.726,27.525,18.6,27.05,17.55
+2022,10,R1,Kickapoo HS,90.126,27.675,18.1,26.55,17.8
+2022,10,R1,Central Dauphin HS,88.664,27.638,17.975,25.7,17.35
+2022,10,R1,Osseo Area Combined Schools,88.101,26.55,18.7,26.4,16.45
+2022,10,R1,Cab Calloway HS,87.588,27.188,17.55,26.35,16.5
+2022,10,R1,Beavercreek HS,86.588,25.988,17.5,26.1,17.0
+2022,10,R1,Grand Blanc HS,86.613,27.262,17.8,24.9,16.65
+2022,10,PSA,Old Bridge HS,94.95,29.475,19.275,28.05,18.15
+2022,10,PSA,Ninety Six HS,94.288,28.688,19.125,27.9,18.575
+2022,10,PSA,Unionville HS,93.5,28.8,19.0,27.7,18.0
+2022,10,PSA,Pearl HS,92.35,28.5,19.225,26.8,17.825
+2022,10,PSA,Vandebilt Catholic HS,91.751,28.125,19.1,26.475,18.05
+2022,10,PSA,Hamilton Southeastern HS,91.364,28.012,18.35,27.05,17.95
+2022,10,PSA,Gulfport HS,88.414,27.038,18.275,25.9,17.2
+2022,10,PSA,Stoneman Douglas HS,88.414,27.112,17.4,26.1,17.8
+2022,10,PSA,E.D. White Catholic HS,86.089,27.188,17.3,24.9,16.7
+2022,10,PSA,Elk River Combined Schools,86.038,26.138,17.85,25.15,16.9
+2022,10,PSA,Bellbrook HS,85.625,26.775,17.15,24.9,16.8
+2022,10,PSA,Harrison HS,85.425,25.875,17.45,25.9,16.2
+2022,10,R2,Old Bridge HS,94.95,29.475,19.275,28.05,18.15
+2022,10,R2,Ninety Six HS,94.288,28.688,19.125,27.9,18.575
+2022,10,R2,Unionville HS,93.5,28.8,19.0,27.7,18.0
+2022,10,R2,Pearl HS,92.35,28.5,19.225,26.8,17.825
+2022,10,R2,Vandebilt Catholic HS,91.751,28.125,19.1,26.475,18.05
+2022,10,R2,Hamilton Southeastern HS,91.364,28.012,18.35,27.05,17.95
+2022,10,R2,Gulfport HS,88.414,27.038,18.275,25.9,17.2
+2022,10,R2,Stoneman Douglas HS,88.414,27.112,17.4,26.1,17.8
+2022,10,R2,E.D. White Catholic HS,86.089,27.188,17.3,24.9,16.7
+2022,10,R2,Elk River Combined Schools,86.038,26.138,17.85,25.15,16.9
+2022,10,R2,Bellbrook HS,85.625,26.775,17.15,24.9,16.8
+2022,10,R2,Harrison HS,85.425,25.875,17.45,25.9,16.2
+2022,10,PSCA,East Central HS,93.475,46.4,46.2,47.7,46.65
+2022,10,PSCA,Penn-Trafford HS,92.875,47.4,45.4,46.4,46.55
+2022,10,PSCA,Hatboro-Horsham HS,89.5,45.7,44.6,44.0,44.7
+2022,10,PSCA,West Clermont HS,86.1,44.4,40.9,43.9,43.0
+2022,10,PSCA,Lewis Cass HS,85.675,43.95,41.6,43.7,42.1
+2022,10,PSCO,Muscle Shoals HS,96.9,49.0,48.0,49.0,47.8
+2022,10,PSCO,Corona del Sol HS,94.85,46.7,47.0,49.7,46.3
+2022,10,PSCO,Campbell County HS,93.1,47.2,46.2,47.7,45.1
+2022,10,PSCO,Plainfield HS,91.6,44.4,47.5,47.2,44.1
+2022,10,PSCO,Cleveland HS,91.4,46.0,45.1,47.1,44.6
+2022,10,PSCO,Powhatan HS,86.051,42.7,43.6,44.0,41.8
+2022,10,PSCW,Fishers HS,98.05,48.5,49.0,49.5,49.1
+2022,10,PSCW,North Forney HS,95.8,46.2,47.6,48.8,49.0
+2022,10,PSCW,Catawba Ridge HS,94.45,46.9,47.7,47.2,47.1
+2022,10,PSCW,Corinth Holders HS,91.95,44.6,46.1,46.2,47.0
+2022,10,PSCW,Ayala HS,87.876,43.3,44.8,42.95,44.7
+2022,10,PSCW,Tunstall HS,87.451,42.3,42.9,43.7,46.0
+2022,10,PSW,Chino Hills HS,97.25,29.475,19.5,29.15,19.125
+2022,10,PSW,Avon HS,97.225,29.55,19.7,28.575,19.4
+2022,10,PSW,Dartmouth HS,96.188,28.837,19.25,28.975,19.125
+2022,10,PSW,Arcadia HS,94.688,28.538,19.025,28.35,18.775
+2022,10,PSW,Ayala HS,92.951,28.125,18.9,27.25,18.675
+2022,10,PSW,Cupertino HS,92.039,28.012,17.8,27.875,18.35
+2022,10,PSW,Sparkman HS,91.576,27.75,27.45,27.85,18.25
+2022,10,PSW,Broken Arrow HS,91.151,27.825,27.375,27.35,18.35
+2022,10,PSW,Lambert HS,90.564,27.337,18.05,27.575,17.6
+2022,10,PSW,Franklin Central HS,90.225,27.15,18.1,27.4,17.575
+2022,10,PSW,Homestead HS,89.325,27.375,17.5,26.35,18.1
+2022,10,PSW,Center Grove HS,88.813,26.587,17.45,26.95,17.825
+2022,10,PSW,Milton HS,88.625,26.475,18.0,26.575,17.575
+2022,10,PSW,Centerville HS,87.85,25.95,18.05,26.55,17.3
+2022,10,PSW,Timber Creek HS,86.013,25.988,16.9,26.025,17.1
+2022,10,PSW,Carroll HS,85.25,25.875,16.8,25.975,16.6
+2022,10,PSW,South County HS,81.15,24.0,16.3,24.55,16.3
+2022,10,PIW,Broken City,97.688,29.288,19.375,29.6,19.425
+2022,10,PIW,RCC,96.038,28.388,19.325,29.1,19.225
+2022,10,PIW,Music City Mystique,95.175,28.275,19.1,28.725,19.075
+2022,10,PIW,Infinity,93.464,27.712,18.775,28.475,18.5
+2022,10,PIW,Monarch Independent,92.751,27.525,18.325,28.45,18.45
+2022,10,PIW,George Mason University,92.175,26.925,18.8,27.85,18.6
+2022,10,PIW,POW Percussion,91.063,27.113,18.55,27.25,18.15
+2022,10,PIW,Cap City Percussion,90.738,26.887,18.25,27.65,17.95
+2022,10,PIW,Vigilantes Indoor Percussion,88.938,26.663,17.65,27.175,17.45
+2022,10,PIW,Rhythmic Force Percussion,87.888,26.288,17.9,26.3,17.4
+2022,10,PIW,Blue Knights,87.488,26.062,17.85,25.975,17.6
+2022,10,PIW,Redline,86.813,24.862,17.75,26.7,17.5
+2022,10,PIW,ConneXus,86.05,26.1,17.25,26.2,16.5
+2022,10,PIW,Dark Sky Percussion,85.525,25.35,17.0,26.175,17.0
+2022,10,PIW,STRYKE Percussion,84.963,25.913,17.15,25.25,16.65
+2022,10,PIW,Red Wave Indoor,83.55,24.6,17.1,25.35,16.5
+2022,10,PIA,Matrix A,95.325,29.025,19.4,28.5,18.4
+2022,10,PIA,Modulation Z,94.2,28.5,18.8,28.05,18.85
+2022,10,PIA,St. Martin Independent,92.3,27.825,18.75,27.65,18.075
+2022,10,PIA,Mt. Juliet Independent,91.013,27.487,18.525,26.95,18.05
+2022,10,PIA,Groove Pursuit,87.951,25.725,17.6,26.9,17.725
+2022,10,PIA,Pi Percussion Inc.,87.426,26.55,17.15,26.75,16.975
+2022,10,PIA,Lake Effect Percussion,86.939,26.288,17.65,25.325,17.675
+2022,10,PIA,Ascension Percussion,85.351,25.5,17.2,25.75,16.9
+2022,10,PIA,Charles Towne Percussion,83.176,24.225,16.55,25.65,16.75
+2022,10,PIA,North Star Independent,82.9,24.525,16.5,24.2,17.675
+2022,10,PIA,Nomad Indoor,82.413,23.888,17.025,24.7,16.8
+2022,10,PIA,Huron Valley Percussion,80.438,22.988,16.5,23.75,17.2
+2022,10,PIA,St. Ambrose University Indoor Percussion,79.85,22.95,16.05,24.65,16.2
+2022,10,PIA,Quad City Percussion,77.425,22.725,15.65,23.15,15.9
+2022,10,PIA,Shockwave,72.775,21.375,14.9,21.5,15.0
+2022,10,PSA,Clover HS,97.8,29.775,19.575,29.025,19.425
+2022,10,PSA,Old Bridge HS,95.938,29.212,19.3,28.55,18.875
+2022,10,PSA,Franklin Community HS,94.263,28.462,18.875,27.775,19.15
+2022,10,PSA,Unionville HS,93.9,27.825,19.05,28.45,18.575
+2022,10,PSA,North Allegheny HS,93.714,28.163,19.8,27.3,18.45
+2022,10,PSA,Pearl HS,93.689,28.387,19.25,27.675,18.375
+2022,10,PSA,Hempfield HS,92.526,28.35,18.775,26.475,18.925
+2022,10,PSA,Irondale Combined Schools,91.363,27.113,18.625,26.875,18.75
+2022,10,PSA,Vandebilt Catholic HS,90.813,27.638,19.05,25.825,18.3
+2022,10,PSA,Hamilton Southeastern HS,90.788,27.337,18.125,27.2,18.125
+2022,10,PSA,Kickapoo HS,88.863,26.512,17.55,27.0,17.8
+2022,10,PSA,Stoneman Douglas HS,87.375,26.325,17.4,26.3,17.35
+2022,10,PSA,Central Dauphin HS,87.35,26.325,18.125,25.25,17.65
+2022,10,PSA,Gulfport HS,87.325,26.325,17.75,25.9,17.35
+2022,10,PSW,Chino Hills HS,97.25,29.475,19.5,29.15,19.125
+2022,10,PSW,Avon HS,97.225,29.55,19.7,28.575,19.4
+2022,10,PSW,Dartmouth HS,96.188,28.837,19.25,28.975,19.125
+2022,10,PSW,Arcadia HS,94.688,28.538,19.025,28.35,18.775
+2022,10,PSW,Ayala HS,92.951,28.125,18.9,27.25,18.675
+2022,10,PSW,Cupertino HS,92.039,28.012,17.8,27.875,18.35
+2022,10,PSW,Sparkman HS,91.576,27.75,27.45,27.85,18.25
+2022,10,PSW,Broken Arrow HS,91.151,27.825,27.375,27.35,18.35
+2022,10,PSW,Lambert HS,90.564,27.337,18.05,27.575,17.6
+2022,10,PSW,Franklin Central HS,90.225,27.15,18.1,27.4,17.575
+2022,10,PSW,Homestead HS,89.325,27.375,17.5,26.35,18.1
+2022,10,PSW,Center Grove HS,88.813,26.587,17.45,26.95,17.825
+2022,10,PSW,Milton HS,88.625,26.475,18.0,26.575,17.575
+2022,10,PSW,Centerville HS,87.85,25.95,18.05,26.55,17.3
+2022,10,PSW,Timber Creek HS,86.013,25.988,16.9,26.025,17.1
+2022,10,PSW,Carroll HS,85.25,25.875,16.8,25.975,16.6
+2022,10,PSW,South County HS,81.15,24.0,16.3,24.55,16.3
+2022,10,PIW,Broken City,97.688,29.288,19.375,29.6,19.425
+2022,10,PIW,RCC,96.038,28.388,19.325,29.1,19.225
+2022,10,PIW,Music City Mystique,95.175,28.275,19.1,28.725,19.075
+2022,10,PIW,Infinity,93.464,27.712,18.775,28.475,18.5
+2022,10,PIW,Monarch Independent,92.751,27.525,18.325,28.45,18.45
+2022,10,PIW,George Mason University,92.175,26.925,18.8,27.85,18.6
+2022,10,PIW,POW Percussion,91.063,27.113,18.55,27.25,18.15
+2022,10,PIW,Cap City Percussion,90.738,26.887,18.25,27.65,17.95
+2022,10,PIW,Vigilantes Indoor Percussion,88.938,26.663,17.65,27.175,17.45
+2022,10,PIW,Rhythmic Force Percussion,87.888,26.288,17.9,26.3,17.4
+2022,10,PIW,Blue Knights,87.488,26.062,17.85,25.975,17.6
+2022,10,PIW,Redline,86.813,24.862,17.75,26.7,17.5
+2022,10,PIW,ConneXus,86.05,26.1,17.25,26.2,16.5
+2022,10,PIW,Dark Sky Percussion,85.525,25.35,17.0,26.175,17.0
+2022,10,PIW,STRYKE Percussion,84.963,25.913,17.15,25.25,16.65
+2022,10,PIW,Red Wave Indoor,83.55,24.6,17.1,25.35,16.5
+2022,10,PIA,Matrix A,95.325,29.025,19.4,28.5,18.4
+2022,10,PIA,Modulation Z,94.2,28.5,18.8,28.05,18.85
+2022,10,PIA,St. Martin Independent,92.3,27.825,18.75,27.65,18.075
+2022,10,PIA,Mt. Juliet Independent,91.013,27.487,18.525,26.95,18.05
+2022,10,PIA,Groove Pursuit,87.951,25.725,17.6,26.9,17.725
+2022,10,PIA,Pi Percussion Inc.,87.426,26.55,17.15,26.75,16.975
+2022,10,PIA,Lake Effect Percussion,86.939,26.288,17.65,25.325,17.675
+2022,10,PIA,Ascension Percussion,85.351,25.5,17.2,25.75,16.9
+2022,10,PIA,Charles Towne Percussion,83.176,24.225,16.55,25.65,16.75
+2022,10,PIA,North Star Independent,82.9,24.525,16.5,24.2,17.675
+2022,10,PIA,Nomad Indoor,82.413,23.888,17.025,24.7,16.8
+2022,10,PIA,Huron Valley Percussion,80.438,22.988,16.5,23.75,17.2
+2022,10,PIA,St. Ambrose University Indoor Percussion,79.85,22.95,16.05,24.65,16.2
+2022,10,PIA,Quad City Percussion,77.425,22.725,15.65,23.15,15.9
+2022,10,PIA,Shockwave,72.775,21.375,14.9,21.5,15.0
+2022,10,PSA,Clover HS,97.8,29.775,19.575,29.025,19.425
+2022,10,PSA,Old Bridge HS,95.938,29.212,19.3,28.55,18.875
+2022,10,PSA,Franklin Community HS,94.263,28.462,18.875,27.775,19.15
+2022,10,PSA,Unionville HS,93.9,27.825,19.05,28.45,18.575
+2022,10,PSA,North Allegheny HS,93.714,28.163,19.8,27.3,18.45
+2022,10,PSA,Pearl HS,93.689,28.387,19.25,27.675,18.375
+2022,10,PSA,Hempfield HS,92.526,28.35,18.775,26.475,18.925
+2022,10,PSA,Irondale Combined Schools,91.363,27.113,18.625,26.875,18.75
+2022,10,PSA,Vandebilt Catholic HS,90.813,27.638,19.05,25.825,18.3
+2022,10,PSA,Hamilton Southeastern HS,90.788,27.337,18.125,27.2,18.125
+2022,10,PSA,Kickapoo HS,88.863,26.512,17.55,27.0,17.8
+2022,10,PSA,Stoneman Douglas HS,87.375,26.325,17.4,26.3,17.35
+2022,10,PSA,Central Dauphin HS,87.35,26.325,18.125,25.25,17.65
+2022,10,PSA,Gulfport HS,87.325,26.325,17.75,25.9,17.35
+2022,10,PSO,Clear Brook HS,94.575,28.875,19.0,27.35,19.35
+2022,10,PSO,Dorman HS,93.55,28.425,19.35,27.025,18.75
+2022,10,PSO,Zionsville Community HS,92.213,27.262,19.4,26.95,18.6
+2022,10,PSO,Boswell HS,91.525,28.725,17.4,27.3,18.1
+2022,10,PSO,Burleson HS,91.364,28.462,18.1,26.475,18.325
+2022,10,PSO,Brandon Valley HS,89.676,26.925,18.35,25.85,18.55
+2022,10,PSO,Greenfield-Central HS,88.739,27.488,18.15,25.425,17.675
+2022,10,PSO,Mauldin HS,87.125,26.775,17.5,25.65,17.2
+2022,10,PSO,Trumbull HS,83.213,26.062,16.25,24.4,16.5
+2022,10,PSO,Foothill HS (NV),82.8,25.05,16.85,24.0,16.9
+2022,10,R1,Clear Brook HS,94.575,28.875,19.0,27.35,19.35
+2022,10,R1,Dorman HS,93.55,28.425,19.35,27.025,18.75
+2022,10,R1,Zionsville Community HS,92.213,27.262,19.4,26.95,18.6
+2022,10,R1,Boswell HS,91.525,28.725,17.4,27.3,18.1
+2022,10,R1,Burleson HS,91.364,28.462,18.1,26.475,18.325
+2022,10,R1,Brandon Valley HS,89.676,26.925,18.35,25.85,18.55
+2022,10,R1,Greenfield-Central HS,88.739,27.488,18.15,25.425,17.675
+2022,10,R1,Mauldin HS,87.125,26.775,17.5,25.65,17.2
+2022,10,R1,Trumbull HS,83.213,26.062,16.25,24.4,16.5
+2022,10,R1,Foothill HS (NV),82.8,25.05,16.85,24.0,16.9
+2022,10,PSO,Sherwood HS,95.075,29.1,19.15,27.9,18.925
+2022,10,PSO,Pace HS,93.7,28.65,19.35,26.85,18.85
+2022,10,PSO,Brownsburg HS,93.5,28.2,19.25,27.5,18.55
+2022,10,PSO,Victor J. Andrew HS,93.038,28.087,18.95,27.15,18.85
+2022,10,PSO,Walled Lake Consolidated Schools,89.8,26.625,18.45,26.625,18.1
+2022,10,PSO,Plainfield HS,89.026,27.375,18.15,26.1,17.4
+2022,10,PSO,Thomas Jefferson HS,87.164,26.212,18.25,25.65,17.05
+2022,10,PSO,Powhatan HS,84.226,25.275,17.9,24.35,16.7
+2022,10,PSO,Kettering Fairmont HS,84.014,24.938,17.25,25.0,16.825
+2022,10,PSO,Chattahoochee HS,83.775,24.975,16.4,25.3,17.1
+2022,10,PSO,T.L. Hanna HS,83.488,24.938,17.15,24.75,16.65
+2022,10,PSO,Central Crossing HS,82.3,24.75,16.05,24.1,17.4
+2022,10,R2,Sherwood HS,95.075,29.1,19.15,27.9,18.925
+2022,10,R2,Pace HS,93.7,28.65,19.35,26.85,18.85
+2022,10,R2,Brownsburg HS,93.5,28.2,19.25,27.5,18.55
+2022,10,R2,Victor J. Andrew HS,93.038,28.087,18.95,27.15,18.85
+2022,10,R2,Walled Lake Consolidated Schools,89.8,26.625,18.45,26.625,18.1
+2022,10,R2,Plainfield HS,89.026,27.375,18.15,26.1,17.4
+2022,10,R2,Thomas Jefferson HS,87.164,26.212,18.25,25.65,17.05
+2022,10,R2,Powhatan HS,84.226,25.275,17.9,24.35,16.7
+2022,10,R2,Kettering Fairmont HS,84.014,24.938,17.25,25.0,16.825
+2022,10,R2,Chattahoochee HS,83.775,24.975,16.4,25.3,17.1
+2022,10,R2,T.L. Hanna HS,83.488,24.938,17.15,24.75,16.65
+2022,10,R2,Central Crossing HS,82.3,24.75,16.05,24.1,17.4
+2022,10,PIO,Infinity 2,95.938,29.363,19.2,28.2,19.175
+2022,10,PIO,Civitas Independent,94.763,28.762,18.6,28.425,18.975
+2022,10,PIO,Freedom Percussion,93.925,28.8,18.075,28.425,18.625
+2022,10,PIO,Gold Indoor Percussion,93.2,27.675,18.3,28.35,18.875
+2022,10,PIO,Meraki Percussion,92.189,27.562,17.85,27.275,19.5
+2022,10,PIO,River City Rhythm,92.189,28.087,17.625,28.325,18.15
+2022,10,PIO,Matrix Open,90.989,27.337,18.45,26.825,18.375
+2022,10,PIO,Bakersfield College,90.776,26.775,17.6,27.9,18.5
+2022,10,PIO,IMPACT Percussion,90.426,27.6,17.7,27.275,17.85
+2022,10,PIO,Q2,89.513,27.263,17.525,27.2,17.525
+2022,10,PIO,Cap City 2,88.2,25.05,18.025,27.1,18.025
+2022,10,PIO,Vision Percussion,86.838,25.612,17.6,26.025,17.6
+2022,10,PIO,Resistance Indoor Percussion,89.575,26.475,18.325,27.2,17.575
+2022,10,PIO,Motor City Percussion,86.325,27.0,17.275,24.9,17.15
+2022,10,PIO,Infinity 3,85.75,25.875,16.7,26.325,16.85
+2022,10,PIO,Paradigm Percussion,84.325,25.5,16.6,25.475,16.75
+2022,10,PIO,Breakthrough Indoor Percussion,82.288,24.938,16.0,25.1,16.25
+2022,10,PIO,United Percussion 2,82.15,24.675,16.15,25.825,15.5
+2022,10,PIO,Gold Spike Percussion,79.375,23.475,15.8,24.85,15.25
+2022,10,PSW,Chino Hills HS,97.25,29.475,19.5,29.15,19.125
+2022,10,PSW,Avon HS,97.225,29.55,19.7,28.575,19.4
+2022,10,PSW,Dartmouth HS,96.188,28.837,19.25,28.975,19.125
+2022,10,PSW,Arcadia HS,94.688,28.538,19.025,28.35,18.775
+2022,10,PSW,Ayala HS,92.951,28.125,18.9,27.25,18.675
+2022,10,PSW,Cupertino HS,92.039,28.012,17.8,27.875,18.35
+2022,10,PSW,Sparkman HS,91.576,27.75,27.45,27.85,18.25
+2022,10,PSW,Broken Arrow HS,91.151,27.825,27.375,27.35,18.35
+2022,10,PSW,Lambert HS,90.564,27.337,18.05,27.575,17.6
+2022,10,PSW,Franklin Central HS,90.225,27.15,18.1,27.4,17.575
+2022,10,PSW,Homestead HS,89.325,27.375,17.5,26.35,18.1
+2022,10,PSW,Center Grove HS,88.813,26.587,17.45,26.95,17.825
+2022,10,PSW,Milton HS,88.625,26.475,18.0,26.575,17.575
+2022,10,PSW,Centerville HS,87.85,25.95,18.05,26.55,17.3
+2022,10,PSW,Timber Creek HS,86.013,25.988,16.9,26.025,17.1
+2022,10,PSW,Carroll HS,85.25,25.875,16.8,25.975,16.6
+2022,10,PSW,South County HS,81.15,24.0,16.3,24.55,16.3
+2022,10,PIW,Broken City,97.688,29.288,19.375,29.6,19.425
+2022,10,PIW,RCC,96.038,28.388,19.325,29.1,19.225
+2022,10,PIW,Music City Mystique,95.175,28.275,19.1,28.725,19.075
+2022,10,PIW,Infinity,93.464,27.712,18.775,28.475,18.5
+2022,10,PIW,Monarch Independent,92.751,27.525,18.325,28.45,18.45
+2022,10,PIW,George Mason University,92.175,26.925,18.8,27.85,18.6
+2022,10,PIW,POW Percussion,91.063,27.113,18.55,27.25,18.15
+2022,10,PIW,Cap City Percussion,90.738,26.887,18.25,27.65,17.95
+2022,10,PIW,Vigilantes Indoor Percussion,88.938,26.663,17.65,27.175,17.45
+2022,10,PIW,Rhythmic Force Percussion,87.888,26.288,17.9,26.3,17.4
+2022,10,PIW,Blue Knights,87.488,26.062,17.85,25.975,17.6
+2022,10,PIW,Redline,86.813,24.862,17.75,26.7,17.5
+2022,10,PIW,ConneXus,86.05,26.1,17.25,26.2,16.5
+2022,10,PIW,Dark Sky Percussion,85.525,25.35,17.0,26.175,17.0
+2022,10,PIW,STRYKE Percussion,84.963,25.913,17.15,25.25,16.65
+2022,10,PIW,Red Wave Indoor,83.55,24.6,17.1,25.35,16.5
+2022,10,PIA,Matrix A,95.325,29.025,19.4,28.5,18.4
+2022,10,PIA,Modulation Z,94.2,28.5,18.8,28.05,18.85
+2022,10,PIA,St. Martin Independent,92.3,27.825,18.75,27.65,18.075
+2022,10,PIA,Mt. Juliet Independent,91.013,27.487,18.525,26.95,18.05
+2022,10,PIA,Groove Pursuit,87.951,25.725,17.6,26.9,17.725
+2022,10,PIA,Pi Percussion Inc.,87.426,26.55,17.15,26.75,16.975
+2022,10,PIA,Lake Effect Percussion,86.939,26.288,17.65,25.325,17.675
+2022,10,PIA,Ascension Percussion,85.351,25.5,17.2,25.75,16.9
+2022,10,PIA,Charles Towne Percussion,83.176,24.225,16.55,25.65,16.75
+2022,10,PIA,North Star Independent,82.9,24.525,16.5,24.2,17.675
+2022,10,PIA,Nomad Indoor,82.413,23.888,17.025,24.7,16.8
+2022,10,PIA,Huron Valley Percussion,80.438,22.988,16.5,23.75,17.2
+2022,10,PIA,St. Ambrose University Indoor Percussion,79.85,22.95,16.05,24.65,16.2
+2022,10,PIA,Quad City Percussion,77.425,22.725,15.65,23.15,15.9
+2022,10,PIA,Shockwave,72.775,21.375,14.9,21.5,15.0
+2022,10,PSA,Clover HS,97.8,29.775,19.575,29.025,19.425
+2022,10,PSA,Old Bridge HS,95.938,29.212,19.3,28.55,18.875
+2022,10,PSA,Franklin Community HS,94.263,28.462,18.875,27.775,19.15
+2022,10,PSA,Unionville HS,93.9,27.825,19.05,28.45,18.575
+2022,10,PSA,North Allegheny HS,93.714,28.163,19.8,27.3,18.45
+2022,10,PSA,Pearl HS,93.689,28.387,19.25,27.675,18.375
+2022,10,PSA,Hempfield HS,92.526,28.35,18.775,26.475,18.925
+2022,10,PSA,Irondale Combined Schools,91.363,27.113,18.625,26.875,18.75
+2022,10,PSA,Vandebilt Catholic HS,90.813,27.638,19.05,25.825,18.3
+2022,10,PSA,Hamilton Southeastern HS,90.788,27.337,18.125,27.2,18.125
+2022,10,PSA,Kickapoo HS,88.863,26.512,17.55,27.0,17.8
+2022,10,PSA,Stoneman Douglas HS,87.375,26.325,17.4,26.3,17.35
+2022,10,PSA,Central Dauphin HS,87.35,26.325,18.125,25.25,17.65
+2022,10,PSA,Gulfport HS,87.325,26.325,17.75,25.9,17.35
+2022,10,PSO,Clear Brook HS,94.575,28.875,19.0,27.35,19.35
+2022,10,PSO,Dorman HS,93.55,28.425,19.35,27.025,18.75
+2022,10,PSO,Zionsville Community HS,92.213,27.262,19.4,26.95,18.6
+2022,10,PSO,Boswell HS,91.525,28.725,17.4,27.3,18.1
+2022,10,PSO,Burleson HS,91.364,28.462,18.1,26.475,18.325
+2022,10,PSO,Brandon Valley HS,89.676,26.925,18.35,25.85,18.55
+2022,10,PSO,Greenfield-Central HS,88.739,27.488,18.15,25.425,17.675
+2022,10,PSO,Mauldin HS,87.125,26.775,17.5,25.65,17.2
+2022,10,PSO,Trumbull HS,83.213,26.062,16.25,24.4,16.5
+2022,10,PSO,Foothill HS (NV),82.8,25.05,16.85,24.0,16.9
+2022,10,R1,Clear Brook HS,94.575,28.875,19.0,27.35,19.35
+2022,10,R1,Dorman HS,93.55,28.425,19.35,27.025,18.75
+2022,10,R1,Zionsville Community HS,92.213,27.262,19.4,26.95,18.6
+2022,10,R1,Boswell HS,91.525,28.725,17.4,27.3,18.1
+2022,10,R1,Burleson HS,91.364,28.462,18.1,26.475,18.325
+2022,10,R1,Brandon Valley HS,89.676,26.925,18.35,25.85,18.55
+2022,10,R1,Greenfield-Central HS,88.739,27.488,18.15,25.425,17.675
+2022,10,R1,Mauldin HS,87.125,26.775,17.5,25.65,17.2
+2022,10,R1,Trumbull HS,83.213,26.062,16.25,24.4,16.5
+2022,10,R1,Foothill HS (NV),82.8,25.05,16.85,24.0,16.9
+2022,10,PSO,Sherwood HS,95.075,29.1,19.15,27.9,18.925
+2022,10,PSO,Pace HS,93.7,28.65,19.35,26.85,18.85
+2022,10,PSO,Brownsburg HS,93.5,28.2,19.25,27.5,18.55
+2022,10,PSO,Victor J. Andrew HS,93.038,28.087,18.95,27.15,18.85
+2022,10,PSO,Walled Lake Consolidated Schools,89.8,26.625,18.45,26.625,18.1
+2022,10,PSO,Plainfield HS,89.026,27.375,18.15,26.1,17.4
+2022,10,PSO,Thomas Jefferson HS,87.164,26.212,18.25,25.65,17.05
+2022,10,PSO,Powhatan HS,84.226,25.275,17.9,24.35,16.7
+2022,10,PSO,Kettering Fairmont HS,84.014,24.938,17.25,25.0,16.825
+2022,10,PSO,Chattahoochee HS,83.775,24.975,16.4,25.3,17.1
+2022,10,PSO,T.L. Hanna HS,83.488,24.938,17.15,24.75,16.65
+2022,10,PSO,Central Crossing HS,82.3,24.75,16.05,24.1,17.4
+2022,10,R2,Sherwood HS,95.075,29.1,19.15,27.9,18.925
+2022,10,R2,Pace HS,93.7,28.65,19.35,26.85,18.85
+2022,10,R2,Brownsburg HS,93.5,28.2,19.25,27.5,18.55
+2022,10,R2,Victor J. Andrew HS,93.038,28.087,18.95,27.15,18.85
+2022,10,R2,Walled Lake Consolidated Schools,89.8,26.625,18.45,26.625,18.1
+2022,10,R2,Plainfield HS,89.026,27.375,18.15,26.1,17.4
+2022,10,R2,Thomas Jefferson HS,87.164,26.212,18.25,25.65,17.05
+2022,10,R2,Powhatan HS,84.226,25.275,17.9,24.35,16.7
+2022,10,R2,Kettering Fairmont HS,84.014,24.938,17.25,25.0,16.825
+2022,10,R2,Chattahoochee HS,83.775,24.975,16.4,25.3,17.1
+2022,10,R2,T.L. Hanna HS,83.488,24.938,17.15,24.75,16.65
+2022,10,R2,Central Crossing HS,82.3,24.75,16.05,24.1,17.4
+2022,10,PIO,Infinity 2,95.938,29.363,19.2,28.2,19.175
+2022,10,PIO,Civitas Independent,94.763,28.762,18.6,28.425,18.975
+2022,10,PIO,Freedom Percussion,93.925,28.8,18.075,28.425,18.625
+2022,10,PIO,Gold Indoor Percussion,93.2,27.675,18.3,28.35,18.875
+2022,10,PIO,Meraki Percussion,92.189,27.562,17.85,27.275,19.5
+2022,10,PIO,River City Rhythm,92.189,28.087,17.625,28.325,18.15
+2022,10,PIO,Matrix Open,90.989,27.337,18.45,26.825,18.375
+2022,10,PIO,Bakersfield College,90.776,26.775,17.6,27.9,18.5
+2022,10,PIO,IMPACT Percussion,90.426,27.6,17.7,27.275,17.85
+2022,10,PIO,Q2,89.513,27.263,17.525,27.2,17.525
+2022,10,PIO,Cap City 2,88.2,25.05,18.025,27.1,18.025
+2022,10,PIO,Vision Percussion,86.838,25.612,17.6,26.025,17.6
+2022,10,PIO,Resistance Indoor Percussion,89.575,26.475,18.325,27.2,17.575
+2022,10,PIO,Motor City Percussion,86.325,27.0,17.275,24.9,17.15
+2022,10,PIO,Infinity 3,85.75,25.875,16.7,26.325,16.85
+2022,10,PIO,Paradigm Percussion,84.325,25.5,16.6,25.475,16.75
+2022,10,PIO,Breakthrough Indoor Percussion,82.288,24.938,16.0,25.1,16.25
+2022,10,PIO,United Percussion 2,82.15,24.675,16.15,25.825,15.5
+2022,10,PIO,Gold Spike Percussion,79.375,23.475,15.8,24.85,15.25
+2022,10,PSA,Clover HS,95.875,29.625,19.225,28.45,18.575
+2022,10,PSA,Franklin Community HS,93.538,28.538,19.1,28.0,17.9
+2022,10,PSA,North Allegheny HS,93.225,28.5,19.55,27.225,17.95
+2022,10,PSA,Hempfield HS,92.65,28.95,18.875,26.4,18.425
+2022,10,PSA,Irondale Combined Schools,91.213,27.863,18.775,25.975,18.6
+2022,10,PSA,Northview HS,90.726,27.525,18.6,27.05,17.55
+2022,10,PSA,Kickapoo HS,90.126,27.675,18.1,26.55,17.8
+2022,10,PSA,Central Dauphin HS,88.664,27.638,17.975,25.7,17.35
+2022,10,PSA,Osseo Area Combined Schools,88.101,26.55,18.7,26.4,16.45
+2022,10,PSA,Cab Calloway HS,87.588,27.188,17.55,26.35,16.5
+2022,10,PSA,Beavercreek HS,86.588,25.988,17.5,26.1,17.0
+2022,10,PSA,Grand Blanc HS,86.613,27.262,17.8,24.9,16.65
+2022,10,R1,Clover HS,95.875,29.625,19.225,28.45,18.575
+2022,10,R1,Franklin Community HS,93.538,28.538,19.1,28.0,17.9
+2022,10,R1,North Allegheny HS,93.225,28.5,19.55,27.225,17.95
+2022,10,R1,Hempfield HS,92.65,28.95,18.875,26.4,18.425
+2022,10,R1,Irondale Combined Schools,91.213,27.863,18.775,25.975,18.6
+2022,10,R1,Northview HS,90.726,27.525,18.6,27.05,17.55
+2022,10,R1,Kickapoo HS,90.126,27.675,18.1,26.55,17.8
+2022,10,R1,Central Dauphin HS,88.664,27.638,17.975,25.7,17.35
+2022,10,R1,Osseo Area Combined Schools,88.101,26.55,18.7,26.4,16.45
+2022,10,R1,Cab Calloway HS,87.588,27.188,17.55,26.35,16.5
+2022,10,R1,Beavercreek HS,86.588,25.988,17.5,26.1,17.0
+2022,10,R1,Grand Blanc HS,86.613,27.262,17.8,24.9,16.65
+2022,10,PSA,Old Bridge HS,94.95,29.475,19.275,28.05,18.15
+2022,10,PSA,Ninety Six HS,94.288,28.688,19.125,27.9,18.575
+2022,10,PSA,Unionville HS,93.5,28.8,19.0,27.7,18.0
+2022,10,PSA,Pearl HS,92.35,28.5,19.225,26.8,17.825
+2022,10,PSA,Vandebilt Catholic HS,91.751,28.125,19.1,26.475,18.05
+2022,10,PSA,Hamilton Southeastern HS,91.364,28.012,18.35,27.05,17.95
+2022,10,PSA,Gulfport HS,88.414,27.038,18.275,25.9,17.2
+2022,10,PSA,Stoneman Douglas HS,88.414,27.112,17.4,26.1,17.8
+2022,10,PSA,E.D. White Catholic HS,86.089,27.188,17.3,24.9,16.7
+2022,10,PSA,Elk River Combined Schools,86.038,26.138,17.85,25.15,16.9
+2022,10,PSA,Bellbrook HS,85.625,26.775,17.15,24.9,16.8
+2022,10,PSA,Harrison HS,85.425,25.875,17.45,25.9,16.2
+2022,10,R2,Old Bridge HS,94.95,29.475,19.275,28.05,18.15
+2022,10,R2,Ninety Six HS,94.288,28.688,19.125,27.9,18.575
+2022,10,R2,Unionville HS,93.5,28.8,19.0,27.7,18.0
+2022,10,R2,Pearl HS,92.35,28.5,19.225,26.8,17.825
+2022,10,R2,Vandebilt Catholic HS,91.751,28.125,19.1,26.475,18.05
+2022,10,R2,Hamilton Southeastern HS,91.364,28.012,18.35,27.05,17.95
+2022,10,R2,Gulfport HS,88.414,27.038,18.275,25.9,17.2
+2022,10,R2,Stoneman Douglas HS,88.414,27.112,17.4,26.1,17.8
+2022,10,R2,E.D. White Catholic HS,86.089,27.188,17.3,24.9,16.7
+2022,10,R2,Elk River Combined Schools,86.038,26.138,17.85,25.15,16.9
+2022,10,R2,Bellbrook HS,85.625,26.775,17.15,24.9,16.8
+2022,10,R2,Harrison HS,85.425,25.875,17.45,25.9,16.2
+2022,10,PSCA,East Central HS,93.475,46.4,46.2,47.7,46.65
+2022,10,PSCA,Penn-Trafford HS,92.875,47.4,45.4,46.4,46.55
+2022,10,PSCA,Hatboro-Horsham HS,89.5,45.7,44.6,44.0,44.7
+2022,10,PSCA,West Clermont HS,86.1,44.4,40.9,43.9,43.0
+2022,10,PSCA,Lewis Cass HS,85.675,43.95,41.6,43.7,42.1
+2022,10,PSCO,Muscle Shoals HS,96.9,49.0,48.0,49.0,47.8
+2022,10,PSCO,Corona del Sol HS,94.85,46.7,47.0,49.7,46.3
+2022,10,PSCO,Campbell County HS,93.1,47.2,46.2,47.7,45.1
+2022,10,PSCO,Plainfield HS,91.6,44.4,47.5,47.2,44.1
+2022,10,PSCO,Cleveland HS,91.4,46.0,45.1,47.1,44.6
+2022,10,PSCO,Powhatan HS,86.051,42.7,43.6,44.0,41.8
+2022,10,PSCW,Fishers HS,98.05,48.5,49.0,49.5,49.1
+2022,10,PSCW,North Forney HS,95.8,46.2,47.6,48.8,49.0
+2022,10,PSCW,Catawba Ridge HS,94.45,46.9,47.7,47.2,47.1
+2022,10,PSCW,Corinth Holders HS,91.95,44.6,46.1,46.2,47.0
+2022,10,PSCW,Ayala HS,87.876,43.3,44.8,42.95,44.7
+2022,10,PSCW,Tunstall HS,87.451,42.3,42.9,43.7,46.0
+2022,10,PSO,Sherwood HS,97.125,29.325,19.4,28.95,19.45
+2022,10,PSO,Clear Brook HS,96.4,29.025,19.4,28.625,19.35
+2022,10,PSO,Dorman HS,96.025,28.875,19.65,28.9,18.6
+2022,10,PSO,Pace HS,95.763,28.388,19.5,28.275,19.6
+2022,10,PSO,Victor J. Andrew HS,94.525,28.35,18.9,27.925,19.35
+2022,10,PSO,Zionsville Community HS,93.289,27.938,18.775,27.725,18.85
+2022,10,PSO,Brownsburg HS,93.114,28.013,19.1,27.4,18.6
+2022,10,PSO,Brandon Valley HS,92.551,28.05,18.75,27.4,18.35
+2022,10,PSO,Boswell HS,92.151,28.35,17.85,28.25,17.7
+2022,10,PSO,Burleson HS,91.113,28.163,17.9,27.25,17.8
+2022,10,PSO,Walled Lake Consolidated Schools,89.325,26.4,18.375,26.35,18.2
+2022,10,PSO,Greenfield-Central HS,89.163,27.262,17.85,26.75,17.3
+2022,10,PSO,Azle HS,88.375,26.925,17.75,26.2,17.5
+2022,10,PSO,Plainfield HS,87.7,27.0,17.75,26.05,16.9
+2022,10,PSO,Norwalk HS,87.45,26.775,17.6,25.975,17.1
+2022,10,PIO,Infinity 2,97.5,29.775,19.4,29.025,19.3
+2022,10,PIO,Civitas Independent,96.275,29.175,18.85,29.45,18.8
+2022,10,PIO,Freedom Percussion,93.788,28.988,18.275,28.05,18.475
+2022,10,PIO,River City Rhythm,93.575,28.05,18.3,29.1,18.125
+2022,10,PIO,Gold Indoor Percussion,93.189,28.163,18.4,27.675,18.95
+2022,10,PIO,Meraki Percussion,92.576,27.9,18.375,26.7,19.6
+2022,10,PIO,Matrix Open,91.976,27.9,18.75,27.45,17.875
+2022,10,PIO,Cap City 2,89.826,26.7,18.125,27.4,17.6
+2022,10,PIO,Bakersfield College,89.439,26.137,17.25,27.6,18.45
+2022,10,PIO,IMPACT Percussion,88.55,26.475,17.175,27.225,17.675
+2022,10,PIO,Resistance Indoor Percussion,87.925,26.4,17.3,26.75,17.475
+2022,10,PIO,Q2,87.688,26.138,17.75,26.675,17.125
+2022,10,PIO,Triple Crown,85.675,25.65,17.075,26.45,16.5
+2022,10,PIO,Vision Percussion,86.1,25.725,17.5,25.475,17.4
+2022,10,PIO,Motor City Percussion,85.3,25.95,17.3,25.3,16.75
+2022,10,PSW,Avon HS,98.6,29.85,19.825,29.275,19.65
+2022,10,PSW,Chino Hills HS,97.775,29.55,19.4,29.45,19.375
+2022,10,PSW,Dartmouth HS,97.525,29.25,19.5,29.425,19.35
+2022,10,PSW,Arcadia HS,95.9,29.025,19.1,28.775,19.0
+2022,10,PSW,Ayala HS,93.439,28.688,18.85,26.95,18.95
+2022,10,PSW,Cupertino HS,92.989,28.312,18.475,27.7,18.5
+2022,10,PSW,Broken Arrow HS,92.189,28.013,18.1,27.575,18.5
+2022,10,PSW,Lambert HS,91.226,27.675,17.85,27.775,17.925
+2022,10,PSW,Sparkman HS,91.339,27.863,17.975,27.45,18.05
+2022,10,PSW,Homestead HS,88.588,27.188,17.7,25.975,17.725
+2022,10,PSW,Milton HS,88.538,27.112,17.95,26.475,17.0
+2022,10,PSW,Franklin Central HS,88.413,26.887,17.625,26.55,17.35
+2022,10,PSW,Centerville HS,87.15,26.25,17.6,26.4,16.9
+2022,10,PSW,Petal HS,86.425,26.1,17.25,25.85,17.225
+2022,10,PIW,Pulse Percussion,98.925,29.55,19.825,29.75,19.8
+2022,10,PIW,Rhythm X,98.075,29.625,19.9,29.125,19.425
+2022,10,PIW,Broken City,97.888,29.587,19.475,29.525,19.3
+2022,10,PIW,RCC,96.738,28.613,19.45,29.425,19.25
+2022,10,PIW,Music City Mystique,95.564,28.538,19.125,28.85,19.05
+2022,10,PIW,United Percussion,94.251,28.2,19.125,28.025,18.9
+2022,10,PIW,Infinity,93.864,28.013,18.8,28.375,18.675
+2022,10,PIW,Matrix,93.214,28.312,19.7,26.575,18.625
+2022,10,PIW,George Mason University,92.689,27.788,18.6,27.75,18.55
+2022,10,PIW,POW Percussion,91.738,27.188,18.575,27.625,18.35
+2022,10,PIW,Monarch Independent,91.638,27.038,18.375,28.25,17.975
+2022,10,PIW,Cap City Percussion,89.775,26.775,18.2,27.05,17.75
+2022,10,PIW,Vigilantes Indoor Percussion,89.325,27.0,17.8,27.1,17.425
+2022,10,PIW,Rhythmic Force Percussion,87.688,25.987,17.75,26.35,17.6
+2022,10,PIW,Blue Knights,86.675,26.025,17.65,25.65,17.35
+2022,10,PSO,Sherwood HS,97.125,29.325,19.4,28.95,19.45
+2022,10,PSO,Clear Brook HS,96.4,29.025,19.4,28.625,19.35
+2022,10,PSO,Dorman HS,96.025,28.875,19.65,28.9,18.6
+2022,10,PSO,Pace HS,95.763,28.388,19.5,28.275,19.6
+2022,10,PSO,Victor J. Andrew HS,94.525,28.35,18.9,27.925,19.35
+2022,10,PSO,Zionsville Community HS,93.289,27.938,18.775,27.725,18.85
+2022,10,PSO,Brownsburg HS,93.114,28.013,19.1,27.4,18.6
+2022,10,PSO,Brandon Valley HS,92.551,28.05,18.75,27.4,18.35
+2022,10,PSO,Boswell HS,92.151,28.35,17.85,28.25,17.7
+2022,10,PSO,Burleson HS,91.113,28.163,17.9,27.25,17.8
+2022,10,PSO,Walled Lake Consolidated Schools,89.325,26.4,18.375,26.35,18.2
+2022,10,PSO,Greenfield-Central HS,89.163,27.262,17.85,26.75,17.3
+2022,10,PSO,Azle HS,88.375,26.925,17.75,26.2,17.5
+2022,10,PSO,Plainfield HS,87.7,27.0,17.75,26.05,16.9
+2022,10,PSO,Norwalk HS,87.45,26.775,17.6,25.975,17.1
+2022,10,PIO,Infinity 2,97.5,29.775,19.4,29.025,19.3
+2022,10,PIO,Civitas Independent,96.275,29.175,18.85,29.45,18.8
+2022,10,PIO,Freedom Percussion,93.788,28.988,18.275,28.05,18.475
+2022,10,PIO,River City Rhythm,93.575,28.05,18.3,29.1,18.125
+2022,10,PIO,Gold Indoor Percussion,93.189,28.163,18.4,27.675,18.95
+2022,10,PIO,Meraki Percussion,92.576,27.9,18.375,26.7,19.6
+2022,10,PIO,Matrix Open,91.976,27.9,18.75,27.45,17.875
+2022,10,PIO,Cap City 2,89.826,26.7,18.125,27.4,17.6
+2022,10,PIO,Bakersfield College,89.439,26.137,17.25,27.6,18.45
+2022,10,PIO,IMPACT Percussion,88.55,26.475,17.175,27.225,17.675
+2022,10,PIO,Resistance Indoor Percussion,87.925,26.4,17.3,26.75,17.475
+2022,10,PIO,Q2,87.688,26.138,17.75,26.675,17.125
+2022,10,PIO,Triple Crown,85.675,25.65,17.075,26.45,16.5
+2022,10,PIO,Vision Percussion,86.1,25.725,17.5,25.475,17.4
+2022,10,PIO,Motor City Percussion,85.3,25.95,17.3,25.3,16.75
+2022,10,PSW,Avon HS,98.6,29.85,19.825,29.275,19.65
+2022,10,PSW,Chino Hills HS,97.775,29.55,19.4,29.45,19.375
+2022,10,PSW,Dartmouth HS,97.525,29.25,19.5,29.425,19.35
+2022,10,PSW,Arcadia HS,95.9,29.025,19.1,28.775,19.0
+2022,10,PSW,Ayala HS,93.439,28.688,18.85,26.95,18.95
+2022,10,PSW,Cupertino HS,92.989,28.312,18.475,27.7,18.5
+2022,10,PSW,Broken Arrow HS,92.189,28.013,18.1,27.575,18.5
+2022,10,PSW,Lambert HS,91.226,27.675,17.85,27.775,17.925
+2022,10,PSW,Sparkman HS,91.339,27.863,17.975,27.45,18.05
+2022,10,PSW,Homestead HS,88.588,27.188,17.7,25.975,17.725
+2022,10,PSW,Milton HS,88.538,27.112,17.95,26.475,17.0
+2022,10,PSW,Franklin Central HS,88.413,26.887,17.625,26.55,17.35
+2022,10,PSW,Centerville HS,87.15,26.25,17.6,26.4,16.9
+2022,10,PSW,Petal HS,86.425,26.1,17.25,25.85,17.225
+2022,10,PIW,Pulse Percussion,98.925,29.55,19.825,29.75,19.8
+2022,10,PIW,Rhythm X,98.075,29.625,19.9,29.125,19.425
+2022,10,PIW,Broken City,97.888,29.587,19.475,29.525,19.3
+2022,10,PIW,RCC,96.738,28.613,19.45,29.425,19.25
+2022,10,PIW,Music City Mystique,95.564,28.538,19.125,28.85,19.05
+2022,10,PIW,United Percussion,94.251,28.2,19.125,28.025,18.9
+2022,10,PIW,Infinity,93.864,28.013,18.8,28.375,18.675
+2022,10,PIW,Matrix,93.214,28.312,19.7,26.575,18.625
+2022,10,PIW,George Mason University,92.689,27.788,18.6,27.75,18.55
+2022,10,PIW,POW Percussion,91.738,27.188,18.575,27.625,18.35
+2022,10,PIW,Monarch Independent,91.638,27.038,18.375,28.25,17.975
+2022,10,PIW,Cap City Percussion,89.775,26.775,18.2,27.05,17.75
+2022,10,PIW,Vigilantes Indoor Percussion,89.325,27.0,17.8,27.1,17.425
+2022,10,PIW,Rhythmic Force Percussion,87.688,25.987,17.75,26.35,17.6
+2022,10,PIW,Blue Knights,86.675,26.025,17.65,25.65,17.35
+2022,10,PSO,Sherwood HS,97.125,29.325,19.4,28.95,19.45
+2022,10,PSO,Clear Brook HS,96.4,29.025,19.4,28.625,19.35
+2022,10,PSO,Dorman HS,96.025,28.875,19.65,28.9,18.6
+2022,10,PSO,Pace HS,95.763,28.388,19.5,28.275,19.6
+2022,10,PSO,Victor J. Andrew HS,94.525,28.35,18.9,27.925,19.35
+2022,10,PSO,Zionsville Community HS,93.289,27.938,18.775,27.725,18.85
+2022,10,PSO,Brownsburg HS,93.114,28.013,19.1,27.4,18.6
+2022,10,PSO,Brandon Valley HS,92.551,28.05,18.75,27.4,18.35
+2022,10,PSO,Boswell HS,92.151,28.35,17.85,28.25,17.7
+2022,10,PSO,Burleson HS,91.113,28.163,17.9,27.25,17.8
+2022,10,PSO,Walled Lake Consolidated Schools,89.325,26.4,18.375,26.35,18.2
+2022,10,PSO,Greenfield-Central HS,89.163,27.262,17.85,26.75,17.3
+2022,10,PSO,Azle HS,88.375,26.925,17.75,26.2,17.5
+2022,10,PSO,Plainfield HS,87.7,27.0,17.75,26.05,16.9
+2022,10,PSO,Norwalk HS,87.45,26.775,17.6,25.975,17.1
+2022,10,PIO,Infinity 2,97.5,29.775,19.4,29.025,19.3
+2022,10,PIO,Civitas Independent,96.275,29.175,18.85,29.45,18.8
+2022,10,PIO,Freedom Percussion,93.788,28.988,18.275,28.05,18.475
+2022,10,PIO,River City Rhythm,93.575,28.05,18.3,29.1,18.125
+2022,10,PIO,Gold Indoor Percussion,93.189,28.163,18.4,27.675,18.95
+2022,10,PIO,Meraki Percussion,92.576,27.9,18.375,26.7,19.6
+2022,10,PIO,Matrix Open,91.976,27.9,18.75,27.45,17.875
+2022,10,PIO,Cap City 2,89.826,26.7,18.125,27.4,17.6
+2022,10,PIO,Bakersfield College,89.439,26.137,17.25,27.6,18.45
+2022,10,PIO,IMPACT Percussion,88.55,26.475,17.175,27.225,17.675
+2022,10,PIO,Resistance Indoor Percussion,87.925,26.4,17.3,26.75,17.475
+2022,10,PIO,Q2,87.688,26.138,17.75,26.675,17.125
+2022,10,PIO,Triple Crown,85.675,25.65,17.075,26.45,16.5
+2022,10,PIO,Vision Percussion,86.1,25.725,17.5,25.475,17.4
+2022,10,PIO,Motor City Percussion,85.3,25.95,17.3,25.3,16.75
+2022,10,PSW,Avon HS,98.6,29.85,19.825,29.275,19.65
+2022,10,PSW,Chino Hills HS,97.775,29.55,19.4,29.45,19.375
+2022,10,PSW,Dartmouth HS,97.525,29.25,19.5,29.425,19.35
+2022,10,PSW,Arcadia HS,95.9,29.025,19.1,28.775,19.0
+2022,10,PSW,Ayala HS,93.439,28.688,18.85,26.95,18.95
+2022,10,PSW,Cupertino HS,92.989,28.312,18.475,27.7,18.5
+2022,10,PSW,Broken Arrow HS,92.189,28.013,18.1,27.575,18.5
+2022,10,PSW,Lambert HS,91.226,27.675,17.85,27.775,17.925
+2022,10,PSW,Sparkman HS,91.339,27.863,17.975,27.45,18.05
+2022,10,PSW,Homestead HS,88.588,27.188,17.7,25.975,17.725
+2022,10,PSW,Milton HS,88.538,27.112,17.95,26.475,17.0
+2022,10,PSW,Franklin Central HS,88.413,26.887,17.625,26.55,17.35
+2022,10,PSW,Centerville HS,87.15,26.25,17.6,26.4,16.9
+2022,10,PSW,Petal HS,86.425,26.1,17.25,25.85,17.225
+2022,10,PIW,Pulse Percussion,98.925,29.55,19.825,29.75,19.8
+2022,10,PIW,Rhythm X,98.075,29.625,19.9,29.125,19.425
+2022,10,PIW,Broken City,97.888,29.587,19.475,29.525,19.3
+2022,10,PIW,RCC,96.738,28.613,19.45,29.425,19.25
+2022,10,PIW,Music City Mystique,95.564,28.538,19.125,28.85,19.05
+2022,10,PIW,United Percussion,94.251,28.2,19.125,28.025,18.9
+2022,10,PIW,Infinity,93.864,28.013,18.8,28.375,18.675
+2022,10,PIW,Matrix,93.214,28.312,19.7,26.575,18.625
+2022,10,PIW,George Mason University,92.689,27.788,18.6,27.75,18.55
+2022,10,PIW,POW Percussion,91.738,27.188,18.575,27.625,18.35
+2022,10,PIW,Monarch Independent,91.638,27.038,18.375,28.25,17.975
+2022,10,PIW,Cap City Percussion,89.775,26.775,18.2,27.05,17.75
+2022,10,PIW,Vigilantes Indoor Percussion,89.325,27.0,17.8,27.1,17.425
+2022,10,PIW,Rhythmic Force Percussion,87.688,25.987,17.75,26.35,17.6
+2022,10,PIW,Blue Knights,86.675,26.025,17.65,25.65,17.35
+2022,10,PSO,Sherwood HS,97.125,29.325,19.4,28.95,19.45
+2022,10,PSO,Clear Brook HS,96.4,29.025,19.4,28.625,19.35
+2022,10,PSO,Dorman HS,96.025,28.875,19.65,28.9,18.6
+2022,10,PSO,Pace HS,95.763,28.388,19.5,28.275,19.6
+2022,10,PSO,Victor J. Andrew HS,94.525,28.35,18.9,27.925,19.35
+2022,10,PSO,Zionsville Community HS,93.289,27.938,18.775,27.725,18.85
+2022,10,PSO,Brownsburg HS,93.114,28.013,19.1,27.4,18.6
+2022,10,PSO,Brandon Valley HS,92.551,28.05,18.75,27.4,18.35
+2022,10,PSO,Boswell HS,92.151,28.35,17.85,28.25,17.7
+2022,10,PSO,Burleson HS,91.113,28.163,17.9,27.25,17.8
+2022,10,PSO,Walled Lake Consolidated Schools,89.325,26.4,18.375,26.35,18.2
+2022,10,PSO,Greenfield-Central HS,89.163,27.262,17.85,26.75,17.3
+2022,10,PSO,Azle HS,88.375,26.925,17.75,26.2,17.5
+2022,10,PSO,Plainfield HS,87.7,27.0,17.75,26.05,16.9
+2022,10,PSO,Norwalk HS,87.45,26.775,17.6,25.975,17.1
+2022,10,PIO,Infinity 2,97.5,29.775,19.4,29.025,19.3
+2022,10,PIO,Civitas Independent,96.275,29.175,18.85,29.45,18.8
+2022,10,PIO,Freedom Percussion,93.788,28.988,18.275,28.05,18.475
+2022,10,PIO,River City Rhythm,93.575,28.05,18.3,29.1,18.125
+2022,10,PIO,Gold Indoor Percussion,93.189,28.163,18.4,27.675,18.95
+2022,10,PIO,Meraki Percussion,92.576,27.9,18.375,26.7,19.6
+2022,10,PIO,Matrix Open,91.976,27.9,18.75,27.45,17.875
+2022,10,PIO,Cap City 2,89.826,26.7,18.125,27.4,17.6
+2022,10,PIO,Bakersfield College,89.439,26.137,17.25,27.6,18.45
+2022,10,PIO,IMPACT Percussion,88.55,26.475,17.175,27.225,17.675
+2022,10,PIO,Resistance Indoor Percussion,87.925,26.4,17.3,26.75,17.475
+2022,10,PIO,Q2,87.688,26.138,17.75,26.675,17.125
+2022,10,PIO,Triple Crown,85.675,25.65,17.075,26.45,16.5
+2022,10,PIO,Vision Percussion,86.1,25.725,17.5,25.475,17.4
+2022,10,PIO,Motor City Percussion,85.3,25.95,17.3,25.3,16.75
+2022,10,PSW,Avon HS,98.6,29.85,19.825,29.275,19.65
+2022,10,PSW,Chino Hills HS,97.775,29.55,19.4,29.45,19.375
+2022,10,PSW,Dartmouth HS,97.525,29.25,19.5,29.425,19.35
+2022,10,PSW,Arcadia HS,95.9,29.025,19.1,28.775,19.0
+2022,10,PSW,Ayala HS,93.439,28.688,18.85,26.95,18.95
+2022,10,PSW,Cupertino HS,92.989,28.312,18.475,27.7,18.5
+2022,10,PSW,Broken Arrow HS,92.189,28.013,18.1,27.575,18.5
+2022,10,PSW,Lambert HS,91.226,27.675,17.85,27.775,17.925
+2022,10,PSW,Sparkman HS,91.339,27.863,17.975,27.45,18.05
+2022,10,PSW,Homestead HS,88.588,27.188,17.7,25.975,17.725
+2022,10,PSW,Milton HS,88.538,27.112,17.95,26.475,17.0
+2022,10,PSW,Franklin Central HS,88.413,26.887,17.625,26.55,17.35
+2022,10,PSW,Centerville HS,87.15,26.25,17.6,26.4,16.9
+2022,10,PSW,Petal HS,86.425,26.1,17.25,25.85,17.225
+2022,10,PIW,Pulse Percussion,98.925,29.55,19.825,29.75,19.8
+2022,10,PIW,Rhythm X,98.075,29.625,19.9,29.125,19.425
+2022,10,PIW,Broken City,97.888,29.587,19.475,29.525,19.3
+2022,10,PIW,RCC,96.738,28.613,19.45,29.425,19.25
+2022,10,PIW,Music City Mystique,95.564,28.538,19.125,28.85,19.05
+2022,10,PIW,United Percussion,94.251,28.2,19.125,28.025,18.9
+2022,10,PIW,Infinity,93.864,28.013,18.8,28.375,18.675
+2022,10,PIW,Matrix,93.214,28.312,19.7,26.575,18.625
+2022,10,PIW,George Mason University,92.689,27.788,18.6,27.75,18.55
+2022,10,PIW,POW Percussion,91.738,27.188,18.575,27.625,18.35
+2022,10,PIW,Monarch Independent,91.638,27.038,18.375,28.25,17.975
+2022,10,PIW,Cap City Percussion,89.775,26.775,18.2,27.05,17.75
+2022,10,PIW,Vigilantes Indoor Percussion,89.325,27.0,17.8,27.1,17.425
+2022,10,PIW,Rhythmic Force Percussion,87.688,25.987,17.75,26.35,17.6
+2022,10,PIW,Blue Knights,86.675,26.025,17.65,25.65,17.35
 2023,0,PSA,Plainfield Combined School,82.45,24.15,16.4,25.4,16.5
 2023,0,PSA,Lake Central HS,77.65,23.25,15.7,23.4,15.3
 2023,0,PSA,Minooka Community HS,75.8,23.7,14.7,23.3,14.1
