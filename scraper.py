@@ -161,7 +161,7 @@ def get_recap_data(recap_links):
     year_tracker = 0
     start = []
 
-    df = pd.DataFrame(columns = ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
+    df = pd.DataFrame(columns = ['year', 'month', 'day', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
     for recap_link in recap_links:
 
         soup = BeautifulSoup(requests.get(recap_link).content, 'html.parser')
@@ -172,21 +172,38 @@ def get_recap_data(recap_links):
             date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
             if not date_w_year:
                 date_w_year = date_table.find_all("td")[1].find_all("div")[1].text.strip().replace(',', '').split(' ')[1:4]
-            # date = date_w_year[0:2]
-            print(date_w_year)
+            day = date_w_year[1]
+            month = date_w_year[0]
             year = date_w_year[2]
 
+            print(f'Processing date {month} {day}, {year}')
         except IndexError:
             print(f'Error with date for {recap_link}')
             continue
         except AttributeError:
             continue
-        if(year != year_tracker):
-            week = get_week(date_w_year, date_w_year)
-            start = date_w_year
-            year_tracker = year
-        else:
-            week = get_week(date_w_year, start)
+
+
+        #
+        # try:
+        #     date_w_year = date_table.find_all("td")[1].find_all("div")[2].text.strip().replace(',', '').split(' ')[1:4]
+        #     if not date_w_year:
+        #         date_w_year = date_table.find_all("td")[1].find_all("div")[1].text.strip().replace(',', '').split(' ')[1:4]
+        #     # date = date_w_year[0:2]
+        #     print(date_w_year)
+        #     year = date_w_year[2]
+        #
+        # except IndexError:
+        #     print(f'Error with date for {recap_link}')
+        #     continue
+        # except AttributeError:
+        #     continue
+        # if(year != year_tracker):
+        #     week = get_week(date_w_year, date_w_year)
+        #     start = date_w_year
+        #     year_tracker = year
+        # else:
+        #     week = get_week(date_w_year, start)
 
 
         tables = soup.find_all("table")
@@ -232,14 +249,14 @@ def get_recap_data(recap_links):
                             music = sub_scores[2]
                             visual = sub_scores[3]
 
-                            df.loc[(len(df)), ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, week, cls, name, overall_score, music_effect, visual_effect, music, visual]
+                            df.loc[(len(df)), ['year', 'month', 'day', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, month, day, cls, name, overall_score, music_effect, visual_effect, music, visual]
                         elif len(sub_scores) == 8:
                             music_effect = round((sub_scores[0] + sub_scores[1]) / 2, 3)
                             visual_effect = round((sub_scores[2] + sub_scores[3]) / 2, 3)
                             music = round((sub_scores[4] + sub_scores[5]) / 2, 3)
                             visual = round((sub_scores[6] + sub_scores[7]) / 2, 3)
 
-                            df.loc[(len(df)), ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, week, cls, name, overall_score, music_effect, visual_effect, music, visual]
+                            df.loc[(len(df)), ['year', 'month', 'day', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual']] = [year, month, day, cls, name, overall_score, music_effect, visual_effect, music, visual]
 
 
             except AttributeError as e:
@@ -253,19 +270,56 @@ def get_recap_data(recap_links):
 
     df.to_csv('scores.csv', index=False)
 
+    weeks_df = get_week(df)
 
-def get_week(new_date, start_date):
+    weeks_df.to_csv('scores_with_weeks.csv', index=False)
+
+
+
+
+
+def get_week(df):
 
     # This function takes a date in the format of [month, day] and calculates
     # the corresponding week number based on a fixed starting point (February 1st).
     # It uses a base dictionary to determine the cumulative number of days up to
     # the given month and then calculates the week number accordingly.
 
+    new_df = pd.DataFrame(columns = ['year', 'week', 'class', 'name', 'overall score', 'music effect', 'visual effect', 'music', 'visual'])
+
     base = {"January": 1, "February": 2, "March": 3, "April": 4}
 
-    d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
-    start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
-    return d - start
+    # Map month names to numbers in a new column, then sort by it
+    df['month_num'] = df['month'].map(base)
+    df.sort_values(by=['year', 'month_num', 'day'], inplace=True)
+    df.drop(columns=['month_num'], inplace=True)
+
+    start_year = 0
+
+
+    for idx, row in df.iterrows():
+        if row['year'] != start_year:
+            start_year = row['year']
+            start_date = [row['month'], row['day'], row['year']]
+
+        print(start_date)
+
+        new_date = [row['month'], row['day'], row['year']]
+
+        d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
+        start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
+        week = d - start
+        new_df.loc[len(new_df)] = [row['year'], week, row['class'], row['name'], row['overall score'], row['music effect'], row['visual effect'], row['music'], row['visual']]
+
+    return new_df
+
+
+
+    # base = {"January": 1, "February": 2, "March": 3, "April": 4}
+    #
+    # d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
+    # start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
+    # return d - start
 
 
     # day = base[date[0]] + int(date[1])
@@ -288,7 +342,8 @@ if __name__ == "__main__":
     recap_links_grouped = []
     recap_links = []
 
-    local_links = ['https://www.nyspercussion.org/', 'https://www.mapsdrumlines.org/']
+    local_links = [ 'https://www.nyspercussion.org/',
+                   'https://www.mapsdrumlines.org/']
 
     for link in local_links:
         recap_links_grouped.append(crawler(link))
@@ -310,7 +365,3 @@ if __name__ == "__main__":
     # recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
 
     get_recap_data(recap_links)
-
-#What to fix:
-# Get 2022 to work, currently not working because the table row we search for with header-division-name is not named until 2023
-# Find a way for ones with two judges in each caption work
