@@ -71,7 +71,7 @@ def crawler(start_url):
                 if not href:
                     continue
 
-                if href not in visited and urlparse(href).netloc == domain:
+                if href not in visited and urlparse(href).netloc == domain and '.pdf' not in href:
                     to_visit.append(link.get_attribute('href'))
                 elif 'recaps.competitionsuite.com' in href:
                     recap_links.append(link.get_attribute('href'))
@@ -373,7 +373,7 @@ if __name__ == "__main__":
                     'https://www.magnoliaarts.org/',
                     'https://www.performmapa.org/',
                     'https://mepa-circuit.org/',
-                    'https://mpacircuit.org/index.php',
+                    #'https://mpacircuit.org/index.php',
                     'https://www.ohiocircuit.org/',
                     'https://www.pacificperformingarts.org/',
                     'https://www.svwaa.com/',
