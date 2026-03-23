@@ -44,6 +44,7 @@ def crawler(start_url):
     visited = []
     to_visit = [start_url]
     recap_links = []
+    unknown_links = []
 
     links_on_last = False
 
@@ -76,11 +77,26 @@ def crawler(start_url):
                     recap_links.append(link.get_attribute('href'))
                     links_on_last = True
                     links_found = True
+                elif 'bit.ly' in href:
+                    unknown_links.append(link.get_attribute('href'))
 
             if not links_found and links_on_last:
                 break
+
+    for link in unknown_links:
+        resolved_link = resolve_url(link)
+        if 'recaps.competitionsuite.com' in resolved_link:
+            recap_links.append(resolved_link)
+
     driver.quit()
     return recap_links
+
+def resolve_url(url):
+    try:
+        response = requests.head(url, allow_redirects=True, timeout=5)
+        return response.url
+    except:
+        return url
 
 def get_iframe_links(url):
 
@@ -302,7 +318,6 @@ def get_week(df):
             start_year = row['year']
             start_date = [row['month'], row['day'], row['year']]
 
-        print(start_date)
 
         new_date = [row['month'], row['day'], row['year']]
 
@@ -343,7 +358,28 @@ if __name__ == "__main__":
     recap_links = []
 
     local_links = [ 'https://www.nyspercussion.org/',
-                   'https://www.mapsdrumlines.org/']
+                   'https://www.mapsdrumlines.org/',
+                    'https://www.armarchingarts.org/',
+                    'https://cweaindoor.org/',
+                    'https://www.cs-pa.org/',
+                    'https://www.cvgpa.org/',
+                    'https://www.etpaa.org/',
+                    'http://gipacircuit.com/',
+                    'https://gcgpc.org/',
+                    'https://www.hwaa.org/',
+                    #'https://indianapercussion.org/',
+                    'https://www.im-pa.org/',
+                    'https://www.kida.org/',
+                    'https://www.magnoliaarts.org/',
+                    'https://www.performmapa.org/',
+                    'https://mepa-circuit.org/',
+                    'https://mpacircuit.org/index.php',
+                    'https://www.ohiocircuit.org/',
+                    'https://www.pacificperformingarts.org/',
+                    'https://www.svwaa.com/',
+                    'https://scpa.live/',
+                    'https://tristatemarchingarts.org/'
+                    ]
 
     for link in local_links:
         recap_links_grouped.append(crawler(link))
