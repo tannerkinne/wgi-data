@@ -3,21 +3,33 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 classes = ['PSW', 'PSO', 'PSA', 'PIW', 'PIO', 'PIA']
-df = pd.read_csv('scores.csv')
+df = pd.read_csv('scores_with_weeks.csv')
 
 df = df.drop(df[df['class'].isin(['PSCW','PSCO','PSCA'])].index)
 
-df23 = df[df['year'] == 2023].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
-df24 = df[df['year'] == 2024].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
-df25 = df[df['year'] == 2025].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
-df26 = df[df['year'] == 2026].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+df = df.drop_duplicates()
 
-df23.to_csv('scores23.csv', index=False)
-df24.to_csv('scores24.csv', index=False)
-df25.to_csv('scores25.csv', index=False)
-df26.to_csv('scores26.csv', index=False)
+# df23 = df[df['year'] == 2023].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+# df24 = df[df['year'] == 2024].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+# df25 = df[df['year'] == 2025].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+# df26 = df[df['year'] == 2026].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+#
+# df23.to_csv('scores23.csv', index=False)
+# df24.to_csv('scores24.csv', index=False)
+# df25.to_csv('scores25.csv', index=False)
+# df26.to_csv('scores26.csv', index=False)
+#
+# years = [df23, df24, df25, df26]
 
-years = [df23, df24, df25, df26]
+years = []
+
+for i in range(df['year'].min(), df['year'].max() + 1):
+    df_year = df[df['year'] == i].sort_values(by = ['name', 'week', 'overall score'], ascending=[True, True, True]).drop_duplicates(subset=['name', 'week'], keep='last')
+
+    df_year.to_csv(f'scores-year/scores{i}.csv', index=False)
+
+    years.append(df_year)
+
 file_names = []
 year_show_max = []
 
@@ -25,8 +37,8 @@ for year in years:
     y = year['year'].iloc[0]
     year_show_max.append(year['week'].max().item())
     for i in range(len(classes)):
-        year[year['class'] == classes[i]].to_csv(f'{classes[i]}_{y}.csv', index=False)
-        file_names.append(f'{classes[i]}_{y}.csv')
+        year[year['class'] == classes[i]].to_csv(f'class-year/{classes[i]}_{y}.csv', index=False)
+        file_names.append(f'class-year/{classes[i]}_{y}.csv')
 
 print(year_show_max)
 
