@@ -6,6 +6,7 @@ classes = ['PSW', 'PSO', 'PSA', 'PIW', 'PIO', 'PIA']
 df = pd.read_csv('scores_with_weeks.csv')
 
 df = df.drop(df[df['class'].isin(['PSCW','PSCO','PSCA'])].index)
+df = df.drop(df[df['overall score'] <=50].index)
 
 df = df.drop_duplicates()
 
