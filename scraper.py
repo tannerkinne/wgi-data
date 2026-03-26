@@ -4,6 +4,7 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 from datetime import date
 
 from selenium import webdriver
@@ -349,16 +350,24 @@ def get_week(df):
 if __name__ == "__main__":
     wgi_links = [
         "https://wgi.org/percussion/perc-scores-2022/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw",
-                               'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
-                               'https://www.wgi.org/historical_score_per/2024/',
-                               'https://www.wgi.org/historical_score_per/2025/',
-                               'https://www.wgi.org/scores/percussion-scores/']
+        'https://wgi.org/percussion/perc-scores-2023/?_gl=1*1ktv0zs*_gcl_au*MTExNDUwMTgyNy4xNzcyMjQ0ODEw*_ga*OTIzMTMxNjc3LjE3NzIyNDQ4MTA.*_ga_7BC7XFTSPV*czE3NzI3NDIzMzckbzQkZzEkdDE3NzI3NDM0ODEkajUwJGwwJGgw',
+        'https://www.wgi.org/historical_score_per/2024/',
+        'https://www.wgi.org/historical_score_per/2025/',
+        'https://www.wgi.org/scores/percussion-scores/',
+        #Beginning wayback machine links
+        'https://web.archive.org/web/20180418041418/http://www.wgi.org:80/2017-percussion-scores/',
+        'https://web.archive.org/web/20221004225547/https://www.wgi.org/2018-percussion-scores/',
+        'https://web.archive.org/web/20190414064010/https://www.wgi.org/percussion/2019-perc-scores/'
+    ]
+
 
     recap_links_grouped = []
+
+    #Adding some myself
     recap_links = []
 
     local_links = [ 'https://www.nyspercussion.org/',
-                   'https://www.mapsdrumlines.org/',
+                    'https://www.mapsdrumlines.org/',
                     'https://www.armarchingarts.org/',
                     'https://cweaindoor.org/',
                     'https://www.cs-pa.org/',
@@ -381,23 +390,25 @@ if __name__ == "__main__":
                     'https://tristatemarchingarts.org/'
                     ]
 
-    for link in local_links:
-        recap_links_grouped.append(crawler(link))
-
-    #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
-
-
+    # for link in local_links:
+    #     recap_links_grouped.append(crawler(link))
+    #
+    # #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
+    #
+    #
+    recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
     for link in wgi_links:
         recap_links_grouped.append(wgi_recap_links(link))
     for i in range(len(recap_links_grouped)):
         for link in recap_links_grouped[i]:
             recap_links.append(link)
+    recap_links = np.unique(recap_links).tolist()
     print(recap_links)
+    #
+    # links_df = pd.DataFrame(recap_links, columns=['links'])
+    # links_df.to_csv('recap_links.csv', index=False)
 
-    links_df = pd.DataFrame(recap_links, columns=['links'])
-    links_df.to_csv('recap_links.csv', index=False)
+    #for when not testing or adding to scraping functions, just want to run the data collection and cleaning
 
-    # for when not testing or adding to scraping functions, just want to run the data collection and cleaning
-    # recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
 
     get_recap_data(recap_links)
