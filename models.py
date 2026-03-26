@@ -5,6 +5,8 @@ import warnings
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.neural_network import MLPRegressor
 from sklearn.utils import resample
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LinearRegression
@@ -34,6 +36,24 @@ def random_forest_regression(x_train, y_train, x_test, y_test):
     model.fit(x_train, y_train)
 
     print('Random Forest Regressor Results:')
+    print('R^2 Score:', model.score(x_test, y_test))
+
+    return model
+
+def gradient_boosting_regression(x_train, y_train, x_test, y_test):
+    model = GradientBoostingRegressor(n_estimators=100, random_state=42)
+    model.fit(x_train, y_train)
+
+    print('Gradient Boosting Regressor Results:')
+    print('R^2 Score:', model.score(x_test, y_test))
+
+    return model
+
+def mlp_regression(x_train, y_train, x_test, y_test):
+    model = MLPRegressor(hidden_layer_sizes=(100,), max_iter=500, random_state=42)
+    model.fit(x_train, y_train)
+
+    print('MLP Regressor Results:')
     print('R^2 Score:', model.score(x_test, y_test))
 
     return model
@@ -99,4 +119,26 @@ if __name__ == '__main__':
         actual = this_year_actuals[idx]
         row_df = row.to_frame().T  # Transpose so it’s 1 row
         prediction = rf_model.predict(row_df)
+        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+
+    print("----------------------------------------------------------------------------------------------")
+
+    gb_model = gradient_boosting_regression(x_train, y_train, x_test, y_test)
+
+    for idx, row in this_year_x.iterrows():
+        name = this_year_names[idx]
+        actual = this_year_actuals[idx]
+        row_df = row.to_frame().T
+        prediction = gb_model.predict(row_df)
+        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+
+    print("----------------------------------------------------------------------------------------------")
+
+    mlp_model = mlp_regression(x_train, y_train, x_test, y_test)
+
+    for idx, row in this_year_x.iterrows():
+        name = this_year_names[idx]
+        actual = this_year_actuals[idx]
+        row_df = row.to_frame().T
+        prediction = mlp_model.predict(row_df)
         print(f"{name} prediction: {prediction[0]} actual: {actual}")
