@@ -4,7 +4,7 @@ import seaborn as sns
 import warnings
 import numpy as np
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.utils import resample
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LinearRegression
@@ -25,6 +25,15 @@ def linear_regression(x_train, y_train, x_test, y_test):
     model.fit(x_train, y_train)
 
     print('Linear Regression Results:')
+    print('R^2 Score:', model.score(x_test, y_test))
+
+    return model
+
+def random_forest_regression(x_train, y_train, x_test, y_test):
+    model = RandomForestRegressor(n_estimators=100, random_state=42)
+    model.fit(x_train, y_train)
+
+    print('Random Forest Regressor Results:')
     print('R^2 Score:', model.score(x_test, y_test))
 
     return model
@@ -65,7 +74,7 @@ if __name__ == '__main__':
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
-    model = linear_regression(x_train, y_train, x_test, y_test)
+    lr_model = linear_regression(x_train, y_train, x_test, y_test)
 
     #Redesign above model: is predicting with average scores that include the finals score, so can easily just use slope
 
@@ -78,7 +87,16 @@ if __name__ == '__main__':
         name = this_year_names[idx]
         actual = this_year_actuals[idx]
         row_df = row.to_frame().T  # Transpose so it’s 1 row
-        prediction = model.predict(row_df)
+        prediction = lr_model.predict(row_df)
         print(f"{name} prediction: {prediction[0]} actual: {actual}")
 
+    print("----------------------------------------------------------------------------------------------")
 
+    rf_model = random_forest_regression(x_train, y_train, x_test, y_test)
+
+    for idx, row in this_year_x.iterrows():
+        name = this_year_names[idx]
+        actual = this_year_actuals[idx]
+        row_df = row.to_frame().T  # Transpose so it’s 1 row
+        prediction = rf_model.predict(row_df)
+        print(f"{name} prediction: {prediction[0]} actual: {actual}")
