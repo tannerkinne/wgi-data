@@ -2,7 +2,7 @@ import pandas as pd
 
 classes = ['PSW', 'PSO', 'PSA', 'PIW', 'PIO', 'PIA']
 
-new_df = pd.DataFrame(columns = ['name', 'class', 'year', 'week', 'weeks_since', 'show_count', 'current_overall_average', 'current_me_average', 'current_ve_average', 'current_m_average', 'current_v_average', 'last_show_overall_score', 'last_show_me_score', 'last_show_ve_score', 'last_show_m_score', 'last_show_v_score','overall score', 'me score', 've score', 'm score', 'v score'])
+new_df = pd.DataFrame(columns = ['name', 'class', 'year', 'week', 'weeks_since', 'show_count', 'current_overall_average', 'current_me_average', 'current_ve_average', 'current_m_average', 'current_v_average', 'last_show_overall_score', 'last_show_me_score', 'last_show_ve_score', 'last_show_m_score', 'last_show_v_score','overall score', 'me score', 've score', 'm score', 'v score', 'last_overall_jump', 'last_me_jump', 'last_ve_jump', 'last_m_jump', 'last_v_jump'])
 
 for i in range(2014, 2027):
     for cls in classes:
@@ -28,7 +28,11 @@ for i in range(2014, 2027):
                 current_m_avg = 0
                 current_v_avg = 0
 
-
+                last_overall_jump = 0
+                last_me_jump = 0
+                last_ve_jump = 0
+                last_m_jump = 0
+                last_v_jump = 0
 
                 for j in range(rows.shape[0]):
                     row = rows.iloc[j]
@@ -63,6 +67,14 @@ for i in range(2014, 2027):
                         total_m_cumulative += row['music']
                         total_v_cumulative += row['visual']
 
+                    if shows > 1:
+                        last_overall_jump = round(rows['overall score'].iloc[shows - 1] - rows['overall score'].iloc[shows - 2], 3)
+                        last_me_jump = round(rows['music effect'].iloc[shows - 1] - rows['music effect'].iloc[shows - 2], 3)
+                        last_ve_jump = round(rows['visual effect'].iloc[shows - 1] - rows['visual effect'].iloc[shows - 2], 3)
+                        last_m_jump = round(rows['music'].iloc[shows - 1] - rows['music'].iloc[shows - 2], 3)
+                        last_v_jump = round(rows['visual'].iloc[shows - 1] - rows['visual'].iloc[shows - 2], 3)
+
+
                     last_show_overall_score = rows['overall score'].iloc[shows - 1] if shows > 0 else 0
                     last_show_me_score = rows['music effect'].iloc[shows - 1] if shows > 0 else 0
                     last_show_ve_score = rows['visual effect'].iloc[shows - 1] if shows > 0 else 0
@@ -71,8 +83,7 @@ for i in range(2014, 2027):
 
                     weeks_since = row['week'] - rows['week'].iloc[shows - 1] if shows > 0 else 0
 
-                    new_df.loc[len(new_df)] = [name, cls, i, row['week'], weeks_since, shows, current_avg, current_me_avg, current_ve_avg, current_m_avg, current_v_avg, last_show_overall_score, last_show_me_score, last_show_ve_score, last_show_m_score, last_show_v_score, row['overall score'], row['music effect'], row['visual effect'], row['music'], row['visual']]
-
+                    new_df.loc[len(new_df)] = [name, cls, row['year'], row['week'], weeks_since, shows, current_avg, current_me_avg, current_ve_avg, current_m_avg, current_v_avg, last_show_overall_score, last_show_me_score, last_show_ve_score, last_show_m_score, last_show_v_score, row['overall score'], row['music effect'], row['visual effect'], row['music'], row['visual'], last_overall_jump, last_me_jump, last_ve_jump, last_m_jump, last_v_jump]
 
 
                     if row['overall score'] > 0:

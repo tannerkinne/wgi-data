@@ -86,8 +86,13 @@ if __name__ == '__main__':
     df = pd.read_csv('standardized_data.csv')
 
     df = df.drop(df[df['current_overall_average'] <=50].index)
+    df = df.drop(df[df['show_count'] <= 1].index)
+    df = df.drop(df[df['year'] == 2020].index)
+    df = df.drop(df[df['year'] == 2021].index)
+
 
     df_train= df[df['year'] < 2026]
+
 
     x = df_train.drop(['name', 'class', 'year', 'overall score', 'me score', 've score', 'm score', 'v score'], axis = 1)
     y = df_train['overall score']
@@ -103,42 +108,59 @@ if __name__ == '__main__':
     this_year_names = df[df['year'] == 2026]['name']
     this_year_actuals = df[df['year'] == 2026]['overall score']
 
-    for idx, row in this_year_x.iterrows():
-        name = this_year_names[idx]
-        actual = this_year_actuals[idx]
-        row_df = row.to_frame().T  # Transpose so it’s 1 row
-        prediction = lr_model.predict(row_df)
-        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+    # for idx, row in this_year_x.iterrows():
+    #     name = this_year_names[idx]
+    #     actual = this_year_actuals[idx]
+    #     row_df = row.to_frame().T  # Transpose so it’s 1 row
+    #     prediction = lr_model.predict(row_df)
+    #     print(f"{name} prediction: {prediction[0]} actual: {actual}")
 
     print("----------------------------------------------------------------------------------------------")
 
     rf_model = random_forest_regression(x_train, y_train, x_test, y_test)
 
-    for idx, row in this_year_x.iterrows():
-        name = this_year_names[idx]
-        actual = this_year_actuals[idx]
-        row_df = row.to_frame().T  # Transpose so it’s 1 row
-        prediction = rf_model.predict(row_df)
-        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+    # for idx, row in this_year_x.iterrows():
+    #     name = this_year_names[idx]
+    #     actual = this_year_actuals[idx]
+    #     row_df = row.to_frame().T  # Transpose so it’s 1 row
+    #     prediction = rf_model.predict(row_df)
+    #     print(f"{name} prediction: {prediction[0]} actual: {actual}")
 
     print("----------------------------------------------------------------------------------------------")
 
     gb_model = gradient_boosting_regression(x_train, y_train, x_test, y_test)
 
-    for idx, row in this_year_x.iterrows():
-        name = this_year_names[idx]
-        actual = this_year_actuals[idx]
-        row_df = row.to_frame().T
-        prediction = gb_model.predict(row_df)
-        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+    # for idx, row in this_year_x.iterrows():
+    #     name = this_year_names[idx]
+    #     actual = this_year_actuals[idx]
+    #     row_df = row.to_frame().T
+    #     prediction = gb_model.predict(row_df)
+    #     print(f"{name} prediction: {prediction[0]} actual: {actual}")
 
     print("----------------------------------------------------------------------------------------------")
 
     mlp_model = mlp_regression(x_train, y_train, x_test, y_test)
 
-    for idx, row in this_year_x.iterrows():
-        name = this_year_names[idx]
-        actual = this_year_actuals[idx]
-        row_df = row.to_frame().T
-        prediction = mlp_model.predict(row_df)
-        print(f"{name} prediction: {prediction[0]} actual: {actual}")
+    # for idx, row in this_year_x.iterrows():
+    #     name = this_year_names[idx]
+    #     actual = this_year_actuals[idx]
+    #     row_df = row.to_frame().T
+    #     prediction = mlp_model.predict(row_df)
+    #     print(f"{name} prediction: {prediction[0]} actual: {actual}")
+
+    residuals = y_test - lr_model.predict(x_test)
+
+    df["residual"] = residuals
+    df.groupby("show_count")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    plt.title("MAE by show count")
+    plt.show()
+
+    # 2. Residuals by class — is one class dragging you down?
+    df.groupby("class")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    plt.title("MAE by class")
+    plt.show()
+
+    # 3. Residuals by year — model degrading over time?
+    df.groupby("year")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    plt.title("MAE by year")
+    plt.show()
