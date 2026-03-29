@@ -322,10 +322,15 @@ def get_week(df):
 
         new_date = [row['month'], row['day'], row['year']]
 
-        d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
-        start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
-        week = d - start
-        new_df.loc[len(new_df)] = [row['year'], week, row['class'], row['name'], row['overall score'], row['music effect'], row['visual effect'], row['music'], row['visual']]
+
+        try:
+            d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
+            start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
+            week = d - start
+            new_df.loc[len(new_df)] = [row['year'], week, row['class'], row['name'], row['overall score'], row['music effect'], row['visual effect'], row['music'], row['visual']]
+        except KeyError:
+            print(f"Error with date for {row['name']} on {row['month']} {row['day']}, {row['year']}")
+
 
     return new_df
 
@@ -390,13 +395,13 @@ if __name__ == "__main__":
                     'https://tristatemarchingarts.org/'
                     ]
 
-    # for link in local_links:
-    #     recap_links_grouped.append(crawler(link))
+    recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
+    for link in local_links:
+        recap_links_grouped.append(crawler(link))
     #
     # #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))
     #
     #
-    recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
     for link in wgi_links:
         recap_links_grouped.append(wgi_recap_links(link))
     for i in range(len(recap_links_grouped)):

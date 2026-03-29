@@ -55,6 +55,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,February,4,PIW,RCC,83.5,25.5,16.3,25.1,16.6
 2023,February,4,PIW,POW Percussion,80.15,24.75,16.0,24.2,15.2
 2023,March,26,PIA,Cornell University,69.05,22.5,20.85,13.0,12.7
+2026,March,28,SDS,Bowie HS Dance,82.75,20.625,20.625,21.25,20.25
 2019,March,9,PIA-C,EPIC Cadets,83.95,25.0,27.15,16.0,15.8
 2024,March,16,GJHSA,Pioneer MS Winterguard,65.18,134.8,140.0,12.3,12.7
 2024,March,16,GJHSA,Desmond Middle School Winterguard,62.64,126.7,128.7,11.9,12.6
@@ -86,6 +87,16 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2025,March,29,SN,Cumberland Valley JV Guard,75.811,15.48,15.48,14.0,15.0
 2025,March,29,SN,Severn Run HS,75.431,15.54,15.54,14.5,14.6
 2025,March,29,SN,Halifax HS Color Guard,72.81,15.6,15.21,13.4,14.0
+2026,March,28,SRA,Central Anne Arundel County Color Guard,89.195,17.365,17.63,18.2,17.7
+2026,March,28,SRA,Clarke County HS Guard,84.805,16.505,16.6,17.25,16.8
+2026,March,28,SRA,Carlisle High School,84.465,16.5,16.765,17.15,16.9
+2026,March,28,SRA,Washington County Winter Guard,82.81,16.105,15.955,16.75,16.85
+2026,March,28,SRA,Cedar Crest HS Guard,80.925,15.57,15.805,16.85,15.95
+2026,March,28,SRA,Century HS Guard,79.956,15.0,15.355,17.0,16.15
+2026,March,28,SRA,Waynesboro HS Guard,79.566,15.41,15.505,16.25,15.6
+2026,March,28,SRA,Milton Hershey HS Guard,79.201,15.675,15.575,15.8,15.95
+2026,March,28,SRA,Spring Grove HS Guard,78.529,15.005,15.373,16.85,15.1
+2026,March,28,SRA,Big Spring HS Guard,77.05,15.345,15.005,15.9,15.2
 2022,March,5,GHSSRAB,Roosevelt HS Guard,54.65,139.0,10.3,9.4,8.7
 2022,March,5,GHSSRAB,Liberty High School Winterguard,51.28,126.1,9.7,9.1,8.4
 2022,March,5,GHSSRAB,Edison HS Guard,48.64,120.7,9.8,8.0,8.1
@@ -1827,6 +1838,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2015,February,7,PSA(,East Syracuse Minoa,70.5,26.6,29.9,14.0,-0.1
 2015,February,7,PSA(,Central Square High School,70.051,25.0,32.05,13.0,0.0
 2015,February,7,PSA(,Baldwinsville indoor Percussion,65.101,24.0,27.9,13.2,0.0
+2026,March,28,PIA,Central Bucks School District,70.85,21.45,14.4,20.3,14.7
 2019,March,16,PHSSO,Lemoore HS Percussion,82.9,26.8,23.7,16.0,16.4
 2019,March,16,PHSSO,Tulare Western Percussion,79.05,24.6,23.25,15.2,16.0
 2017,March,25,PSA,New Hartford,77.6,22.6,23.4,16.1,15.5
@@ -1843,6 +1855,9 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,February,10,SRA,Westminster HS Guard,59.05,11.21,12.34,11.7,11.6
 2024,February,10,SRA,Clarksburg HS Winter Guard,58.06,11.61,12.15,12.0,10.0
 2023,March,11,SDS,Clarksburg HS Dance,70.375,16.25,18.0,17.625,18.5
+2026,March,29,P-SO,West Shore SD Percussion,90.85,28.65,27.15,17.5,17.55
+2026,March,29,P-SO,Hempfield Indoor Percussion Ensemble,89.15,28.275,26.625,17.1,17.15
+2026,March,29,P-SO,Mechanicsburg HS Percussion,87.75,27.525,25.875,16.85,17.5
 2019,March,16,PJHSO,Liberty JHS Percussion,76.1,23.7,24.3,13.5,14.6
 2019,March,16,PJHSO,Sundale Union Percussion,69.3,22.2,21.0,12.0,14.1
 2025,March,29,GJHSO,Abraham Lincoln MS Winterguard,79.82,151.4,150.8,17.0,16.3
@@ -3608,6 +3623,9 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2019,April,6,PRA,Cheltenham,82.8,25.6,24.0,17.2,16.0
 2019,April,6,PRA,Pennridge,82.35,23.4,22.95,17.5,18.5
 2024,March,23,IA,Towson University Guard,83.08,16.34,16.14,17.1,17.2
+2026,March,29,GIRA,Spin Academy,67.08,14.44,13.44,12.9,12.7
+2026,March,29,GIRA,El Ritmocito Winter Guard,59.82,13.4,10.52,11.7,12.0
+2026,March,29,GIRA,Huron Elementary Winterguard,57.54,12.12,10.12,10.7,12.2
 2023,February,11,PRA,Hatboro-Horsham High School,71.95,23.0,17.85,15.6,15.5
 2023,February,11,PRA,Coatesville,66.8,22.0,16.2,14.2,14.4
 2015,February,28,PSA,Phoenix,84.3,34.0,33.5,16.8,0.0
@@ -6214,6 +6232,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2015,February,28,ME,Perkiomen Valley,82.25,32.8,33.45,16.0,0.0
 2015,February,28,PSO,Upper Darby,76.1,29.6,32.3,14.2,0.0
 2015,February,28,PSO,Springford,73.2,27.0,32.7,13.5,-1.95
+2026,March,28,IA,Old Line Independent Color Guard,87.545,17.305,17.44,17.6,17.9
+2026,March,28,IA,Towson University Guard,75.99,14.845,15.145,15.3,15.4
 2019,March,9,PSA,Lewisville HS,85.45,25.2,17.1,26.45,16.7
 2019,March,9,PSA,Carroll HS,82.95,25.05,15.8,26.0,16.1
 2019,March,9,PSA,East view HS,82.35,24.75,16.0,26.3,15.3
@@ -6384,6 +6404,50 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2019,March,30,PHSSA-G,Redwood HS Percussion,80.85,26.2,21.75,17.6,15.3
 2019,March,30,PHSSA-G,Mission Oak HS Percussion,79.201,24.1,21.3,17.4,16.4
 2019,March,30,PHSSA-G,Tulare Union HS Percussion,77.901,23.4,22.2,16.6,15.7
+2026,March,28,PSA,Upper Moreland,86.05,24.9,17.9,26.6,16.65
+2026,March,28,PSA,Round 2,86.05,24.9,17.9,26.6,16.65
+2026,March,28,PSA,Downingtown East HS,85.55,25.35,17.1,26.2,16.9
+2026,March,28,PSA,Round 1,85.55,25.35,17.1,26.2,16.9
+2026,March,28,PSA,Egg Harbor Township,83.25,26.25,15.9,25.3,15.8
+2026,March,28,PSA,Round 1,83.25,26.25,15.9,25.3,15.8
+2026,March,28,PSA,Pennridge,83.15,24.45,18.0,24.6,16.1
+2026,March,28,PSA,Round 2,83.15,24.45,18.0,24.6,16.1
+2026,March,28,PSA,Unionville,89.05,26.55,18.0,26.9,17.6
+2026,March,28,PSA,Round 1,89.05,26.55,18.0,26.9,17.6
+2026,March,28,PSA,Upper Darby,81.526,22.875,16.7,26.85,15.1
+2026,March,28,PSA,Round 2,81.526,22.875,16.7,26.85,15.1
+2026,March,28,PSA,Bridgewater Raritan,80.901,25.5,16.2,22.6,16.6
+2026,March,28,PSA,Round 2,80.901,25.5,16.2,22.6,16.6
+2026,March,28,PSA,Quakertown,80.851,24.75,16.5,24.0,15.6
+2026,March,28,PSA,Round 1,80.851,24.75,16.5,24.0,15.6
+2026,March,28,PSA,Phoenixville,79.676,24.075,15.5,25.7,14.4
+2026,March,28,PSA,Round 2,79.676,24.075,15.5,25.7,14.4
+2026,March,28,PSA,Perkiomen Valley,79.6,22.2,15.6,24.8,17.0
+2026,March,28,PSA,Round 2,79.6,22.2,15.6,24.8,17.0
+2026,March,28,PSA,Highland Regional,79.25,23.25,17.5,22.1,16.4
+2026,March,28,PSA,Round 1,79.25,23.25,17.5,22.1,16.4
+2026,March,28,PSA,Souderton High School,78.45,23.25,16.9,21.4,16.9
+2026,March,28,PSA,Round 2,78.45,23.25,16.9,21.4,16.9
+2026,March,28,PSA,Southern Regional,78.4,22.5,17.2,22.3,16.4
+2026,March,28,PSA,Round 2,78.4,22.5,17.2,22.3,16.4
+2026,March,28,PSA,Avon Grove,77.75,22.95,15.65,21.85,17.3
+2026,March,28,PSA,Round 2,77.75,22.95,15.65,21.85,17.3
+2026,March,28,PSA,Hopewell Valley Central,77.55,22.95,15.3,24.6,14.7
+2026,March,28,PSA,Round 1,77.55,22.95,15.3,24.6,14.7
+2026,March,28,PSA,Coatesville,73.5,21.9,15.4,22.4,13.8
+2026,March,28,PSA,Round 1,73.5,21.9,15.4,22.4,13.8
+2026,March,28,PSA,Odessa High School,72.5,21.6,14.9,21.0,15.0
+2026,March,28,PSA,Round 1,72.5,21.6,14.9,21.0,15.0
+2026,March,28,PSA,Cheltenham,72.4,21.3,15.2,22.0,13.9
+2026,March,28,PSA,Round 2,72.4,21.3,15.2,22.0,13.9
+2026,March,28,PSA,Marple Newtown,71.25,20.25,14.6,21.8,14.6
+2026,March,28,PSA,Round 2,71.25,20.25,14.6,21.8,14.6
+2026,March,28,PSA,Council Rock South,71.1,21.3,14.5,20.9,14.4
+2026,March,28,PSA,Round 1,71.1,21.3,14.5,20.9,14.4
+2026,March,28,PSA,Methacton,67.9,19.2,14.7,20.5,13.5
+2026,March,28,PSA,Round 1,67.9,19.2,14.7,20.5,13.5
+2026,March,28,PSA,Owen J Roberts,50.0,15.0,10.0,15.0,10.0
+2026,March,28,PSA,Round 1,50.0,15.0,10.0,15.0,10.0
 2026,March,21,ME,Unionville,87.0,26.4,17.5,25.9,17.2
 2026,March,21,PJHSA,Liberty MS Percussion,72.95,21.8,24.75,13.8,12.6
 2026,March,21,PJHSA,Sundale Union Percussion,71.6,23.0,20.4,14.5,13.7
@@ -6590,6 +6654,23 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,April,2,PSA,Cicero North Syracuse,72.8,23.7,20.4,14.6,14.1
 2023,April,2,PSA,Webster,72.3,24.4,20.1,14.4,13.4
 2023,April,2,PSA,Mohonasen,68.2,23.2,18.9,13.2,12.9
+2026,March,29,PSRA,Preble Shawnee Indoor Percussion,79.55,24.15,16.0,24.1,15.3
+2026,March,29,PSA,Kings,91.6,27.3,18.7,28.0,17.6
+2026,March,29,PSA,Sycamore High School,87.3,26.7,17.8,24.9,17.9
+2026,March,29,PSA,Troy Indoor Percussion,85.95,26.55,16.9,26.3,16.2
+2026,March,29,PSA,Bellbrook High School Indoor Percussion Ensemble,85.3,26.4,17.5,26.7,14.7
+2026,March,29,PSA,Oak Hills Indoor Percussion Ensemble,78.6,22.8,15.8,25.8,14.2
+2026,March,29,PSA,Ross High School,77.601,23.1,16.3,23.0,15.2
+2026,March,29,PSA,Brookville High School Winter Percussion,70.851,20.85,14.7,21.3,14.0
+2026,March,29,PSA,Xenia Indoor Percussion Ensemble,70.551,19.95,15.2,20.8,14.6
+2026,March,29,PSA,Lebanon High School Indoor Percussion,69.401,19.8,14.8,21.8,13.0
+2026,March,29,PSA,Hamilton High School Indoor Percussion,68.55,19.05,15.3,20.4,13.8
+2026,March,29,PSA,Butler Indoor Percussion Ensemble,67.9,19.2,14.4,20.9,13.4
+2026,March,29,PIA,Saints Indoor Percussion,69.35,19.05,13.4,22.1,14.8
+2026,March,29,PSO,Beavercreek Indoor Percussion Ensemble,85.15,24.45,17.5,26.7,16.5
+2026,March,29,PSO,Kettering Fairmont Indoor Percussion,83.4,24.0,17.1,26.6,15.7
+2026,March,29,PSO,Centerville Winter Drumline,83.3,24.6,16.9,25.6,16.2
+2026,March,29,PIW,ConneXus,88.15,25.65,17.5,28.0,17.0
 2026,February,21,GHSSRA,Justin Garza Winter Guard,64.36,12.38,12.58,13.4,12.3
 2026,February,21,GHSSRA,Fresno HS Winter Guard,64.32,13.06,13.46,12.8,12.2
 2026,February,21,GHSSRA,Hanford HS Winterguard,63.22,13.04,12.38,13.0,12.5
@@ -7432,6 +7513,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,March,7,R2,Hanford HS Percussion,70.6,21.8,22.2,13.4,13.2
 2026,March,7,R2,Farmersville High School Percussion,65.101,20.4,19.8,12.4,12.5
 2026,March,7,R2,Farmersville,65.101,20.4,19.8,12.4,12.5
+2026,March,28,PRA(,Upper Dublin,80.325,24.975,24.15,15.7,15.5
+2026,March,28,PRA(,Daniel Boone,79.5,24.45,23.85,15.6,15.6
 2019,January,26,P-SG,Spring Grove HS Percussion,69.5,20.1,19.8,15.1,14.5
 2019,January,26,P-SG,Conestoga Valley HS Percussion,64.25,19.65,18.9,12.7,13.0
 2019,January,26,P-SG,Littlestown HS Percussion,62.425,18.9,17.325,13.7,12.5
@@ -7717,6 +7800,19 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,March,21,GJHSO,Sundale Union Winterguard,66.5,14.92,12.58,13.8,12.4
 2026,March,21,GJHSO,Pioneer MS Winterguard,64.02,13.24,12.18,13.6,13.0
 2024,March,16,SA(,Western Frederick Guard,78.34,16.14,16.4,15.2,15.7
+2026,March,29,P-SA,Susquehannock HS Percussion,91.125,27.825,27.75,17.55,18.0
+2026,March,29,P-SA,Western Frederick Indoor Percussion,89.9,27.825,27.525,17.1,17.45
+2026,March,29,P-SA,Gov. Thomas Johnson HS Percussion,88.075,27.075,26.7,17.2,17.1
+2026,March,29,P-SA,Greencastle-Antrim HS Winter Percussion,86.925,27.225,25.575,17.075,17.05
+2026,March,29,P-SA,Central Dauphin HS Percussion,86.201,26.175,26.625,16.95,16.45
+2026,March,29,P-SA,Urbana High School Indoor Percussion,83.314,25.762,25.5,15.95,16.1
+2026,March,29,P-SA,Clarke County Indoor Drumline,82.926,25.275,25.05,16.05,16.55
+2026,March,29,P-SA,Eastern York HS Indoor Percussion,82.351,25.8,24.6,16.0,15.95
+2026,March,29,P-SA,New Oxford Indoor Percussion Ensemble,82.189,25.462,26.025,15.2,15.5
+2026,March,29,P-SA,Century HS Percussion,79.625,24.225,23.4,15.9,16.1
+2026,March,29,P-SA,Central Anne Arundel County Percussion,79.35,24.3,24.3,15.45,15.3
+2026,March,29,P-SA,Littlestown HS Percussion,78.525,24.15,22.275,15.65,16.45
+2026,March,29,P-SA,Washington County Indoor Percussion,76.525,23.925,22.8,14.6,15.2
 2025,March,22,P-SRA,Dover Area HS Indoor Percussion,77.5,23.55,23.55,15.2,15.2
 2025,March,22,P-SRA,Halifax HS Percussion,71.0,22.2,21.0,13.9,13.9
 2020,March,7,PSJ,Dorothy McElhinney MS,83.85,25.65,16.8,24.7,16.7
@@ -7909,6 +8005,12 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2017,March,18,PHSSA-G,Mission Oak HS Percussion,82.45,24.9,24.75,17.3,15.5
 2017,March,18,PHSSA-G,Golden West HS Percussion,80.85,22.7,23.85,17.8,16.5
 2017,February,25,PHSSO,Lemoore HS Percussion,76.3,22.6,23.7,15.3,14.7
+2026,March,29,GJHSA,Glacier Point MS Winter Guard,67.82,13.34,12.68,13.5,14.1
+2026,March,29,GJHSA,Sequoia MS Winterguard A (Porterville),66.86,13.32,12.84,13.4,13.4
+2026,March,29,GJHSA,Pioneer Mustang Guard,65.14,12.1,12.24,12.8,13.6
+2026,March,29,GJHSA,Sequoia MS Winterguard (Fresno),64.36,12.12,12.34,13.0,13.2
+2026,March,29,GJHSA,Desmond Middle School Winterguard,61.92,11.38,12.44,12.2,13.0
+2026,March,29,GJHSA,Parkview MS Winterguard,60.921,11.58,12.04,12.4,12.6
 2022,February,19,PRA,Quakertown,83.3,25.9,25.8,15.3,16.3
 2022,February,19,PRA,Highland Regional,82.0,25.0,26.4,14.6,16.0
 2022,February,19,PRA,Parkland,79.7,25.4,24.0,15.2,15.1
@@ -8024,6 +8126,10 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,March,21,SRA,Shenandoah Valley Winter Guard,71.651,14.28,14.67,14.4,14.1
 2026,February,21,SJ,Northeastern Guard,64.48,10.61,13.07,13.3,13.6
 2026,February,14,SA,Linganore HS Guard,58.69,12.81,11.28,12.6,9.8
+2026,March,28,SJ,Greencastle-Antrim MS Guard,84.94,16.47,17.27,17.5,17.8
+2026,March,28,SJ,West Shore SD JV Guard,81.78,16.14,16.54,17.0,16.9
+2026,March,28,SJ,Northeastern Guard,79.11,14.94,16.87,16.1,16.1
+2026,March,28,SJ,Waynesboro MS Guard,78.55,15.01,16.34,16.6,15.6
 2017,April,20,PSCW,Ayala HS,95.1,47.2,46.7,48.5,47.8
 2017,April,20,PSCW,Goshen HS,93.575,46.7,46.45,46.0,48.0
 2017,April,20,PSCW,Tunstall HS,88.25,44.4,43.8,43.4,44.9
@@ -8262,6 +8368,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2018,February,3,GHSSRAS,Tulare Western HS Guard,44.891,9.75,10.54,9.0,8.2
 2018,February,3,GHSSRAS,Hanford West HS  Guard,38.721,7.21,7.01,8.8,7.5
 2018,February,3,GHSSRAS,Redwood HS Guard,35.321,7.68,6.34,8.4,6.3
+2026,March,28,IS,Lotus Performing Arts,72.6,14.545,14.505,14.75,14.45
+2026,March,28,IS,,72.6,14.545,14.505,14.75,14.45
 2025,March,15,SA,Western Frederick Guard A,80.41,16.67,15.94,15.3,16.7
 2026,February,7,IA,Towson University Guard,60.93,12.55,11.48,12.7,11.4
 2025,February,22,PIA,Albany,65.45,19.3,19.95,13.8,12.4
@@ -8414,6 +8522,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2025,February,15,GJHSA,Weaver Middle School Winterguard,58.41,124.1,127.0,10.3,11.3
 2025,February,15,GJHSA,Glacier Point MS Winter Guard,50.48,119.3,93.5,9.3,8.6
 2025,February,15,GJHSA,Sequoia MS Winterguard (Fresno),47.85,108.8,82.7,8.8,9.2
+2026,March,29,SP-SA,Lower Dauphin HS Percussion,89.6,46.6,45.1,43.4,44.1
+2026,March,29,SP-SA,Biglerville HS Percussion,80.6,42.0,41.6,38.1,39.5
 2024,February,10,SRA-E,Century HS Guard,65.09,14.01,13.88,13.0,10.9
 2016,February,13,PIA,Dundee Indoor Percussion,62.5,24.4,25.5,12.6,0.0
 2016,February,13,PIA,Midlakes Independent,0.0,0.0,0.0,0.0,0.0
@@ -9215,6 +9325,10 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2016,April,9,PRA,Upper Dublin,83.1,26.1,24.6,16.2,16.2
 2019,March,2,P-SG,Susquehannock HS Percussion,68.8,21.45,21.45,12.3,13.6
 2024,March,16,GIRA,Spin Academy,57.24,100.0,141.4,10.7,12.2
+2026,March,29,GJHSO,Abraham Lincoln MS Winterguard,74.72,14.46,14.86,14.8,15.2
+2026,March,29,GJHSO,Liberty MS Winterguard,72.08,14.06,14.52,14.0,14.7
+2026,March,29,GJHSO,Sundale Union Winterguard,68.2,13.18,13.12,14.5,12.8
+2026,March,29,GJHSO,Pioneer MS Winterguard,68.1,13.72,13.58,13.6,13.2
 2025,March,22,PHSSA,Monache HS Percussion,84.2,22.7,27.0,17.3,17.2
 2025,March,22,PHSSA,Golden West HS Percussion,81.3,21.6,24.6,17.1,18.0
 2016,March,19,PIA,Aftermath,78.5,24.9,22.8,15.8,15.0
@@ -10005,6 +10119,16 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2017,March,18,PSO,Springford,83.8,25.7,25.8,14.9,17.4
 2017,March,18,PSO,Cab Calloway,80.25,23.1,24.45,15.8,16.9
 2017,March,18,PSO,Upper Darby,74.65,21.7,23.25,14.0,15.7
+2026,March,28,SA,Hempfield HS Guard,85.488,16.6,16.788,17.6,17.25
+2026,March,28,SA,Greencastle-Antrim HS Indoor Guard,85.393,16.707,17.435,16.95,16.8
+2026,March,28,SA,Cumberland Valley HS Varsity Guard,85.075,16.835,16.84,17.25,17.0
+2026,March,28,SA,West Shore Varsity Colorguard,82.915,15.675,16.14,17.175,17.05
+2026,March,28,SA,Mechanicsburg HS Guard,82.195,16.135,16.935,16.45,16.15
+2026,March,28,SA,Camp Hill HS Guard,81.744,16.14,16.602,16.45,16.3
+2026,March,28,SA,Central Dauphin East HS Guard,79.506,15.335,15.67,16.4,15.75
+2026,March,28,SA,Western Frederick Guard A,77.561,14.245,14.94,16.15,16.2
+2026,March,28,SA,Northeastern HS Guard,74.311,14.57,15.24,15.05,14.65
+2026,March,28,SA,Linganore HS Guard,74.3,14.21,14.74,15.55,14.85
 2022,March,18,PSA,Victor Indoor Percussion Ensemble,77.7,23.2,24.0,15.7,14.8
 2022,March,18,PSA,Central Square High School,76.0,24.0,21.9,14.9,15.2
 2022,March,18,PSA,East Irondequoit,75.35,20.8,22.05,16.3,16.2
@@ -10397,6 +10521,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,April,6,GHSSAG,Lemoore HS A Winterguard,83.71,166.7,163.4,17.1,16.8
 2024,April,6,GHSSAG,Selma HS Winterguard,82.47,162.7,170.0,16.9,16.1
 2024,April,6,GHSSAG,Selma High School,82.47,162.7,170.0,16.9,16.1
+2026,March,28,PIW,United Percussion,87.75,26.55,18.2,25.7,17.3
 2025,February,1,P-SO,Mechanicsburg HS Percussion,72.2,20.4,23.1,14.4,14.3
 2016,February,13,PRA,Highland,76.4,22.8,22.8,15.3,15.5
 2023,February,4,PIA,Albany,59.3,18.1,18.0,11.9,11.3
@@ -10480,6 +10605,114 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,March,7,R1,Cesar E Chavez Winter Guard,65.18,12.84,13.64,13.0,12.5
 2026,March,7,R1,Sanger HS Winterguard,63.181,12.86,11.52,12.6,12.9
 2026,March,7,R1,Tulare Union HS Winterguard,62.041,12.32,11.12,13.9,12.2
+2026,March,28,PSA,Arcadia HS,92.45,27.15,18.9,28.0,18.4
+2026,March,28,PSA,Mira Costa HS,90.0,26.4,18.3,27.3,18.0
+2026,March,28,PSA,Glen A. Wilson HS,84.6,23.4,18.1,25.8,17.3
+2026,March,28,PSA,Palisades CHS,83.3,24.15,16.7,25.9,16.55
+2026,March,28,PSA,Canyon HS,83.15,24.45,14.9,27.0,16.8
+2026,March,28,PSA,Troy HS,82.901,24.0,17.6,24.8,16.5
+2026,March,28,PSA,Bolsa Grande HS,81.201,24.3,14.2,25.0,17.7
+2026,March,28,PSA,Chaffey HS,80.101,22.8,16.0,25.5,15.8
+2026,March,28,PSA,Serrano HS,81.801,25.05,15.3,24.1,17.35
+2026,March,28,PSA,Claremont HS,76.35,21.75,15.8,23.3,15.5
+2026,March,28,PSA,Lakewood HS,76.425,22.125,15.0,23.9,15.4
+2026,March,28,PSA,Oak Park HS,73.3,22.2,13.6,22.6,14.9
+2026,March,28,PSA,Glendora HS,71.2,21.0,14.0,22.4,13.8
+2026,March,28,PSA,Burbank HS,71.425,21.525,14.4,21.2,14.3
+2026,March,28,R1,Arcadia HS,92.45,27.15,18.9,28.0,18.4
+2026,March,28,R1,Mira Costa HS,90.0,26.4,18.3,27.3,18.0
+2026,March,28,R1,Glen A. Wilson HS,84.6,23.4,18.1,25.8,17.3
+2026,March,28,R1,Palisades CHS,83.3,24.15,16.7,25.9,16.55
+2026,March,28,R1,Canyon HS,83.15,24.45,14.9,27.0,16.8
+2026,March,28,R1,Troy HS,82.901,24.0,17.6,24.8,16.5
+2026,March,28,R1,Bolsa Grande HS,81.201,24.3,14.2,25.0,17.7
+2026,March,28,R1,Chaffey HS,80.101,22.8,16.0,25.5,15.8
+2026,March,28,R1,Serrano HS,81.801,25.05,15.3,24.1,17.35
+2026,March,28,R1,Claremont HS,76.35,21.75,15.8,23.3,15.5
+2026,March,28,R1,Lakewood HS,76.425,22.125,15.0,23.9,15.4
+2026,March,28,R1,Oak Park HS,73.3,22.2,13.6,22.6,14.9
+2026,March,28,R1,Glendora HS,71.2,21.0,14.0,22.4,13.8
+2026,March,28,R1,Burbank HS,71.425,21.525,14.4,21.2,14.3
+2026,March,28,PSA,Cypress HS,92.3,28.2,18.6,28.0,17.5
+2026,March,28,PSA,South Hills HS,91.0,27.3,18.3,26.9,18.5
+2026,March,28,PSA,Helix CHS,90.6,27.6,18.8,26.2,18.0
+2026,March,28,PSA,Thousand Oaks HS,86.3,26.85,18.2,23.8,17.45
+2026,March,28,PSA,St. Genevieve HS,85.6,27.0,16.8,24.6,17.2
+2026,March,28,PSA,Aliso Niguel HS,85.001,25.5,17.2,25.3,17.0
+2026,March,28,PSA,Warren HS,84.951,25.8,17.5,25.7,15.95
+2026,March,28,PSA,Alta Loma HS,83.276,25.875,15.2,25.6,16.6
+2026,March,28,PSA,Katella HS,82.351,24.3,17.7,24.3,16.05
+2026,March,28,PSA,Camarillo HS,82.125,25.425,14.7,26.8,15.2
+2026,March,28,PSA,Laguna Hills HS,78.95,23.25,15.5,24.7,15.5
+2026,March,28,PSA,Don Lugo HS,76.85,24.45,14.3,22.2,15.9
+2026,March,28,PSA,Simi Valley HS,74.15,23.85,14.4,21.8,14.1
+2026,March,28,PSA,Downey HS,74.1,22.2,14.6,22.6,14.7
+2026,March,28,R2,Cypress HS,92.3,28.2,18.6,28.0,17.5
+2026,March,28,R2,South Hills HS,91.0,27.3,18.3,26.9,18.5
+2026,March,28,R2,Helix CHS,90.6,27.6,18.8,26.2,18.0
+2026,March,28,R2,Thousand Oaks HS,86.3,26.85,18.2,23.8,17.45
+2026,March,28,R2,St. Genevieve HS,85.6,27.0,16.8,24.6,17.2
+2026,March,28,R2,Aliso Niguel HS,85.001,25.5,17.2,25.3,17.0
+2026,March,28,R2,Warren HS,84.951,25.8,17.5,25.7,15.95
+2026,March,28,R2,Alta Loma HS,83.276,25.875,15.2,25.6,16.6
+2026,March,28,R2,Katella HS,82.351,24.3,17.7,24.3,16.05
+2026,March,28,R2,Camarillo HS,82.125,25.425,14.7,26.8,15.2
+2026,March,28,R2,Laguna Hills HS,78.95,23.25,15.5,24.7,15.5
+2026,March,28,R2,Don Lugo HS,76.85,24.45,14.3,22.2,15.9
+2026,March,28,R2,Simi Valley HS,74.15,23.85,14.4,21.8,14.1
+2026,March,28,R2,Downey HS,74.1,22.2,14.6,22.6,14.7
+2026,March,28,PSA,Upland HS,91.925,27.825,17.5,28.0,18.6
+2026,March,28,PSA,Scripps Ranch HS,90.85,27.15,18.1,27.5,18.1
+2026,March,28,PSA,Bonita HS,89.875,26.775,18.2,27.3,17.6
+2026,March,28,PSA,Trabuco Hills HS,89.55,27.45,17.8,27.6,16.7
+2026,March,28,PSA,Vista HS,88.376,27.375,17.1,26.7,17.2
+2026,March,28,PSA,Buena Park HS,86.276,25.875,16.8,25.9,17.7
+2026,March,28,PSA,Westminster HS,83.351,25.65,17.3,25.0,15.4
+2026,March,28,PSA,Torrance HS,82.526,24.975,15.7,25.2,16.65
+2026,March,28,PSA,La Quinta HS,82.451,25.05,16.4,24.4,16.6
+2026,March,28,PSA,Crescenta Valley HS,80.7,25.2,15.2,25.3,15.0
+2026,March,28,PSA,Del Norte HS,81.45,23.25,16.5,24.7,17.0
+2026,March,28,PSA,Monrovia HS,82.4,24.3,16.1,26.2,15.8
+2026,March,28,PSA,Grossmont HS,70.95,21.45,14.1,20.8,14.6
+2026,March,28,R3,Upland HS,91.925,27.825,17.5,28.0,18.6
+2026,March,28,R3,Scripps Ranch HS,90.85,27.15,18.1,27.5,18.1
+2026,March,28,R3,Bonita HS,89.875,26.775,18.2,27.3,17.6
+2026,March,28,R3,Trabuco Hills HS,89.55,27.45,17.8,27.6,16.7
+2026,March,28,R3,Vista HS,88.376,27.375,17.1,26.7,17.2
+2026,March,28,R3,Buena Park HS,86.276,25.875,16.8,25.9,17.7
+2026,March,28,R3,Westminster HS,83.351,25.65,17.3,25.0,15.4
+2026,March,28,R3,Torrance HS,82.526,24.975,15.7,25.2,16.65
+2026,March,28,R3,La Quinta HS,82.451,25.05,16.4,24.4,16.6
+2026,March,28,R3,Crescenta Valley HS,80.7,25.2,15.2,25.3,15.0
+2026,March,28,R3,Del Norte HS,81.45,23.25,16.5,24.7,17.0
+2026,March,28,R3,Monrovia HS,82.4,24.3,16.1,26.2,15.8
+2026,March,28,R3,Grossmont HS,70.95,21.45,14.1,20.8,14.6
+2026,March,28,PSA,Temple City HS,91.85,28.35,18.3,27.0,18.2
+2026,March,28,PSA,North HS,89.15,27.45,18.0,25.3,18.4
+2026,March,28,PSA,Rancho Alamitos HS,86.6,26.4,17.1,26.4,16.7
+2026,March,28,PSA,Westlake HS,85.525,25.125,17.6,25.5,17.3
+2026,March,28,PSA,Golden Valley HS,84.35,26.55,17.4,24.6,15.8
+2026,March,28,PSA,Patriot HS,83.801,24.75,17.25,25.4,16.4
+2026,March,28,PSA,Los Alamitos HS,82.951,25.8,16.8,24.0,16.35
+2026,March,28,PSA,Temescal Canyon HS,81.501,24.6,16.3,23.2,17.4
+2026,March,28,PSA,Millikan HS,79.551,24.45,15.0,24.7,15.4
+2026,March,28,PSA,Santa Monica HS,79.525,24.825,16.5,23.3,14.9
+2026,March,28,PSA,Orange Vista HS,78.575,24.075,16.1,23.7,14.7
+2026,March,28,PSA,John Burroughs HS,77.5,24.3,14.3,23.8,15.1
+2026,March,28,PSA,Valley View HS,76.4,24.0,16.2,22.1,14.1
+2026,March,28,R4,Temple City HS,91.85,28.35,18.3,27.0,18.2
+2026,March,28,R4,North HS,89.15,27.45,18.0,25.3,18.4
+2026,March,28,R4,Rancho Alamitos HS,86.6,26.4,17.1,26.4,16.7
+2026,March,28,R4,Westlake HS,85.525,25.125,17.6,25.5,17.3
+2026,March,28,R4,Golden Valley HS,84.35,26.55,17.4,24.6,15.8
+2026,March,28,R4,Patriot HS,83.801,24.75,17.25,25.4,16.4
+2026,March,28,R4,Los Alamitos HS,82.951,25.8,16.8,24.0,16.35
+2026,March,28,R4,Temescal Canyon HS,81.501,24.6,16.3,23.2,17.4
+2026,March,28,R4,Millikan HS,79.551,24.45,15.0,24.7,15.4
+2026,March,28,R4,Santa Monica HS,79.525,24.825,16.5,23.3,14.9
+2026,March,28,R4,Orange Vista HS,78.575,24.075,16.1,23.7,14.7
+2026,March,28,R4,John Burroughs HS,77.5,24.3,14.3,23.8,15.1
+2026,March,28,R4,Valley View HS,76.4,24.0,16.2,22.1,14.1
 2022,February,12,P-SNB,Urbana HS (MD) Percussion,72.2,21.75,22.65,14.0,13.8
 2025,February,22,PSA,North Penn,80.5,24.8,24.6,15.6,15.5
 2025,February,22,PSA,Unionville HS,80.45,24.3,24.75,16.3,15.1
@@ -11318,6 +11551,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2014,February,15,PSW,Ayala HS,83.2,33.4,33.0,16.8,0.0
 2014,February,15,PSW,Rowland HS,78.95,32.2,30.75,16.0,0.0
 2014,February,15,PIW,Orange County Independent Percussion,84.2,34.2,33.4,16.6,0.0
+2026,March,29,SP-SO,Waynesboro HS Percussion,86.85,44.8,44.1,43.2,41.6
 2014,March,8,PSO,Upper Darby,85.65,33.6,34.45,17.6,0.0
 2014,March,8,PRA,Springfield,77.3,31.8,30.2,15.3,0.0
 2014,March,8,PRA,Chichester Drumguard,75.3,30.0,31.1,14.2,0.0
@@ -13773,6 +14007,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2015,March,14,PSO,King HS (Riverside),77.8,32.8,29.4,15.6,0.0
 2015,March,14,PIW,Pulse Percussion,91.35,36.4,37.45,17.5,-0.2
 2015,March,14,PIW,POW Percussion,83.5,33.0,34.2,16.3,0.0
+2026,March,29,CP-SJ,Martinsburg South Middle School Percussion Ensemble,84.6,45.6,42.1,40.9,40.6
+2026,March,29,CP-SJ,,84.6,45.6,42.1,40.9,40.6
 2024,April,13,PSA,Los Alamitos HS,91.75,27.15,18.7,27.35,18.55
 2024,April,13,PSA,Temple City HS,91.225,26.625,18.6,27.5,18.5
 2024,April,13,PSA,Arcadia HS,90.625,26.55,18.4,27.225,18.45
@@ -13998,6 +14234,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2018,April,7,PSA,Parkland,76.9,22.9,22.8,14.8,16.4
 2018,April,7,PSA,Coatesville,73.9,21.9,22.2,14.5,15.3
 2018,April,7,PSA,Owen J Roberts,73.2,22.2,21.6,14.3,15.1
+2026,March,28,PIO,United Percussion 2,82.4,23.7,17.4,25.4,15.9
 2017,April,22,PSW,Chino Hills HS,98.613,29.587,19.85,29.725,19.45
 2017,April,22,PSW,Arcadia HS,96.813,29.062,19.4,29.15,19.2
 2017,April,22,PSW,Ayala HS,96.075,28.95,19.35,28.5,19.275
@@ -14136,6 +14373,8 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2015,March,7,PSO,Hatboro-Horsham,85.05,33.4,33.35,18.3,0.0
 2015,March,7,PSO,Parkland,82.2,32.6,33.0,16.6,0.0
 2015,March,7,PSO,Springford,80.9,31.4,32.3,17.2,0.0
+2026,March,29,CP-SA,Linganore HS Percussion,89.45,43.9,44.4,44.7,45.9
+2026,March,29,CP-SA,Conestoga Valley HS Indoor Percussion,86.1,43.5,43.4,42.2,43.1
 2022,April,2,PHSSA-G,Selma High School Winter Percussion,77.75,22.1,22.35,17.2,16.1
 2022,April,2,PHSSA-G,Selma High School,77.75,22.1,22.35,17.2,16.1
 2022,April,2,PHSSA-G,Kingsburg HS Percussion,74.7,21.5,23.1,14.7,15.4
@@ -15020,6 +15259,14 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,February,17,P-SRA(,Dover Area HS Indoor Percussion,58.875,18.0,18.375,12.3,10.2
 2024,January,27,GHSSRAG,Torres HS Winterguard,70.52,155.5,158.7,12.4,12.3
 2024,January,27,GHSSRAG,Tulare Union HS Winterguard,62.32,125.1,132.1,12.5,12.1
+2026,March,28,SN,Hempfield HS JV Guard,84.05,16.34,16.41,17.8,17.4
+2026,March,28,SN,Frederick HS Guard,83.04,16.8,16.74,16.4,17.7
+2026,March,28,SN,Mechanicsburg MS Guard,81.05,16.14,15.81,17.2,16.4
+2026,March,28,SN,Cumberland Valley JV Guard,79.98,15.94,16.14,16.9,15.9
+2026,March,28,SN,Bowie HS  Guard,79.91,15.48,16.73,15.8,16.9
+2026,March,28,SN,Halifax HS Color Guard,77.351,15.61,15.34,16.5,15.5
+2026,March,28,SN,Seneca Valley HS Guard,77.331,15.54,15.54,16.0,15.6
+2026,March,28,SN,Quince Orchard Indoor Color Guard,77.151,15.21,15.14,15.7,16.3
 2023,February,18,SDS,Clarksburg HS Dance,66.625,15.5,15.25,18.25,17.625
 2017,April,1,PSA,Unionville,89.2,27.0,25.8,18.1,18.3
 2017,April,1,PSA,Downingtown,87.1,26.15,26.25,17.5,17.2
@@ -15280,6 +15527,78 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2025,February,15,PSA,East Syracuse Minoa,0.001,0.0,0.0,0.0,0.0
 2025,February,15,PSA,Liverpool,0.001,0.0,0.0,0.0,0.0
 2016,February,27,ME,Perkiomen Valley,81.725,25.9,23.925,15.7,16.2
+2026,March,28,ECG,Lebanon Little Arrows,90.1,19.0,17.3,17.5,17.1
+2026,March,28,ECG,The Belles and the Beaux,88.9,17.7,18.8,17.1,16.8
+2026,March,28,ECG,Miamisburg Elementary Guard,87.5,17.5,17.7,16.7,16.7
+2026,March,28,ECG,Franklin Elementary Wildkittens,87.1,18.2,16.9,17.0,16.6
+2026,March,28,ECG,Northmont Little Sparks,87.1,18.5,16.5,17.6,16.5
+2026,March,28,ECG,The Milton Minis,82.001,16.9,15.7,16.3,15.8
+2026,March,28,JHCG,Centerville Junior Guard,87.0,17.4,18.9,17.1,16.8
+2026,March,28,JHCG,Franklin Junior High Winter Guard,83.9,17.1,17.8,16.8,15.8
+2026,March,28,JHCG,Bellbrook Middle School,83.0,16.6,18.0,16.4,15.9
+2026,March,28,JHCG,West Clermont Middle School Winterguard,74.3,15.8,14.1,15.1,14.1
+2026,March,28,JHCG,Kettering Juniors,72.6,14.3,14.3,14.6,14.7
+2026,March,28,JHCG,Indian Lake Junior Guard,71.001,14.0,14.0,15.0,13.7
+2026,March,28,IRA,Pacer Independent Winter Guard,72.06,15.14,14.12,14.1,14.0
+2026,March,28,IRA,Saints Independent,68.04,13.92,13.52,13.3,13.2
+2026,March,28,SRA,West Clermont Winter Guard,87.58,18.46,17.32,18.0,16.8
+2026,March,28,SRA,Carroll High School Winter Guard,87.04,17.08,17.66,17.8,16.9
+2026,March,28,SRA,Milton-Union Varsity Winter Guard,86.18,19.0,15.18,16.8,17.3
+2026,March,28,SRA,Hamilton High School JV Winter Guard,86.02,18.08,16.34,18.4,16.3
+2026,March,28,SRA,Northeastern Damsels WG,85.501,18.48,15.72,17.7,16.5
+2026,March,28,SRA,Elder High School Winterguard,85.261,17.04,16.12,17.5,17.2
+2026,March,28,SRA,Piqua Winter Guard,84.421,17.3,16.92,17.1,16.7
+2026,March,28,SRA,Miamisburg A Guard,82.941,15.92,16.72,17.2,16.6
+2026,March,28,SRA,Winchester Community High School,82.281,16.84,15.04,16.6,17.1
+2026,March,28,SRA,Archbishop Alter High School Winterguard,80.92,15.94,16.18,17.0,16.0
+2026,March,28,SRA,Troy HS,80.8,16.08,15.52,16.5,16.4
+2026,March,28,SRA,Butler High School Winterguard,79.2,16.34,15.26,16.4,15.8
+2026,March,28,SRA,West Carrollton High School Color Guard,78.64,17.34,14.2,15.5,15.6
+2026,March,28,SRA,Kettering Junior Varsity,78.0,16.68,14.92,16.1,14.8
+2026,March,28,SRA,Finneytown Winter Guard,76.96,15.46,14.6,16.0,16.1
+2026,March,28,SRA,Eaton Winterguard,76.28,14.58,13.8,16.3,15.9
+2026,March,28,SRA,Simon Kenton Winter Guard,75.74,15.12,15.92,15.1,15.3
+2026,March,28,SRA,Lakota East JV Winter Guard,73.08,13.38,15.0,14.7,14.7
+2026,March,28,SRA,Oak Hills Junior Varsity Winter Guard,72.64,14.18,14.86,14.0,15.2
+2026,March,28,SRA,Waynesville High School Varsity Winter Guard,72.1,13.98,13.72,14.9,14.5
+2026,March,28,SRA,Indian Lake Winter Guard,71.4,12.78,15.12,15.3,13.6
+2026,March,28,SRA,Brookville High School Winterguard,71.26,14.8,13.46,14.6,13.9
+2026,March,28,SRA,Milford High School (A),70.1,12.98,14.12,14.8,14.3
+2026,March,28,SRA,Westerville Central Winterguard,64.42,12.3,13.12,13.0,12.5
+2026,March,28,N,Hilliard Bradley JV,82.36,17.0,16.26,16.7,16.4
+2026,March,28,N,William Henry Harrison Winter Guard,81.48,17.6,15.78,16.3,15.7
+2026,March,28,N,Kings Junior Varisty,79.18,16.32,15.46,16.1,15.8
+2026,March,28,N,Goshen High School Winterguard,77.18,15.12,15.86,15.2,15.2
+2026,March,28,N,Lebanon High School Junior Varsity Winterguard,75.621,15.94,15.38,15.0,14.3
+2026,March,28,N,Springboro High School Winterguard (JV),74.301,13.38,15.12,15.8,14.7
+2026,March,28,N,Carlisle High School,72.001,14.32,14.38,14.6,14.0
+2026,March,28,N,Valley View High School Winter Guard,66.821,12.3,13.72,13.8,13.3
+2026,March,28,SA,Hilliard Bradley Winter Guard,81.43,16.66,16.27,16.4,16.5
+2026,March,28,SA,Lebanon High School Winterguard,78.32,15.01,15.61,15.8,16.1
+2026,March,28,SA,Dublin Coffman Winter Guard,76.99,15.61,16.08,15.1,15.2
+2026,March,28,SA,Grant County High School Winter Guard,76.54,14.93,14.61,16.0,15.6
+2026,March,28,SA,Versailles Winter Guard,74.91,16.2,15.41,14.4,14.2
+2026,March,28,SA,Xenia Winterguard,74.821,14.61,15.81,14.7,14.5
+2026,March,28,SA,Clinton-Massie Winter Guard,73.381,14.27,14.21,15.2,14.8
+2026,March,28,SA,Oak Hills High School Winter Guard,70.821,12.88,15.14,14.5,14.3
+2026,March,28,NA,Franklin HS Winter Guard,88.88,17.74,17.94,17.7,17.7
+2026,March,28,NA,Hamilton High School Winter Guard,86.1,16.93,16.87,17.6,17.2
+2026,March,28,NA,Lakota East Varsity Winter Guard,85.98,16.94,17.74,17.2,17.1
+2026,March,28,NA,Springboro High School Winterguard,82.0,16.13,17.27,15.7,16.4
+2026,March,28,NA,Kings HS,79.65,15.94,16.01,15.6,16.0
+2026,March,28,NA,Northmont High School Varsity Guard,78.651,15.14,16.21,15.8,15.6
+2026,March,28,NA,Beavercreek High School,76.751,14.68,16.67,14.7,15.2
+2026,March,28,IA,Revival Winter Guard A,86.08,17.01,17.27,17.3,17.0
+2026,March,28,IA,Ascendance Independent,67.96,12.28,14.28,14.3,13.8
+2026,March,28,SO,Mason HS,85.5,16.8,17.3,16.8,17.1
+2026,March,28,SO,Kettering Fairmont High School,84.4,17.2,16.8,16.7,16.9
+2026,March,28,IO,Revival Winter Guard,90.7,18.7,18.2,17.9,18.0
+2026,March,28,IO,Kompass Winterguard,70.5,13.9,14.8,13.7,13.9
+2026,March,28,SW,Miamisburg World Guard,90.0,18.1,18.1,17.5,18.2
+2026,March,28,SW,Bellbrook High School,80.9,16.7,16.3,15.6,16.2
+2026,March,28,SW,Centerville HS,80.7,16.1,15.8,15.9,16.5
+2026,March,28,SW,Milford High School (World),72.3,14.4,14.4,14.3,14.6
+2026,March,28,IW,Juxtaposition,92.2,18.4,18.5,18.2,18.7
 2022,April,2,PSA,Old Bridge,89.65,26.9,26.25,17.8,18.7
 2022,April,2,PSA,Spring-Ford,87.3,25.8,26.1,18.0,17.4
 2022,April,2,PSA,Owen J Roberts,84.95,25.2,25.35,18.1,16.3
@@ -15681,6 +16000,11 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,March,23,P-SRA(,Central Anne Arundel County Percussion,76.55,24.0,25.35,13.2,14.0
 2017,March,11,PIA,Midlakes Independent,76.45,23.4,22.65,15.1,15.3
 2025,March,1,SA,Greencastle-Antrim HS Indoor Guard,80.35,16.14,15.41,15.9,16.7
+2026,March,29,SP-SRA,Thomas S. Wootton HS Percussion,84.2,42.0,41.6,42.4,42.4
+2026,March,29,SP-SRA,,84.2,42.0,41.6,42.4,42.4
+2026,March,29,SP-SRA,Chambersburg HS Percussion,82.925,41.75,41.1,41.4,41.6
+2026,March,29,SP-SRA,Milton Hershey School Percussion,81.9,41.5,40.6,40.6,41.1
+2026,March,29,SP-SRA,James Buchanan HS Percussion,78.8,40.1,39.6,39.1,38.8
 2025,February,15,GJHSA,Sequoia MS Winterguard (Porterville),50.43,112.1,110.2,9.0,9.8
 2025,February,15,GJHSA,Green Acres MS Winterguard,50.35,108.0,93.5,10.1,10.3
 2025,February,15,GJHSA,Wilson MS Winterguard,48.48,108.8,92.0,9.2,10.1
@@ -16140,6 +16464,17 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2025,March,22,GHSSRA,Independence HS Varsity,79.6,15.58,16.12,15.8,16.0
 2025,March,22,GHSSRA,Exeter Union HS Winterguard,74.5,15.32,15.38,14.8,13.9
 2025,March,22,GHSSRA,Mt Whitney HS Winterguard,71.74,14.92,14.92,15.6,13.2
+2026,March,28,SRA,Urbana HS Guard,83.28,16.61,15.87,17.7,16.6
+2026,March,28,SRA,Thomas S. Wootton HS Guard,79.775,16.6,15.175,16.3,16.0
+2026,March,28,SRA,The Collective Guard,79.43,16.06,14.97,16.5,15.7
+2026,March,28,SRA,Biglerville HS Guard,78.58,15.66,15.47,16.8,15.45
+2026,March,28,SRA,Eastern York HS Guard,77.981,15.74,14.74,16.1,16.1
+2026,March,28,SRA,Central Dauphin HS Guard,75.631,14.86,14.57,15.5,15.2
+2026,March,28,SRA,Hanover HS Guard,75.501,15.2,14.8,15.6,15.3
+2026,March,28,SRA,James Buchanan HS Guard,74.771,15.65,14.77,14.3,15.35
+2026,March,28,SRA,Shenandoah Valley Winter Guard,71.971,14.8,14.47,14.0,14.5
+2026,March,28,SRA,Susquehannock HS Guard,71.83,14.26,14.07,14.6,14.8
+2026,March,28,SRA,Chambersburg Trojan Guard,70.15,13.88,14.27,13.8,14.2
 2023,February,4,SJ,Northeastern MS Guard,58.49,10.61,10.28,11.1,13.8
 2023,February,4,SJ,Waynesboro MS Guard,55.76,10.21,10.95,9.7,13.2
 2023,February,4,SJ,Greencastle-Antrim MS Guard,64.62,11.54,11.88,12.9,14.4
@@ -16294,6 +16629,13 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2014,March,29,PSJ,Alvarado IS,85.975,34.0,35.775,16.2,0.0
 2014,March,29,PSJ,Chavez MS,85.3,35.0,31.5,18.8,0.0
 2014,March,29,PSJ,Woodcrest JHS,76.25,32.0,28.45,15.8,0.0
+2026,March,29,GJHSA,El Capitan MS Winterguard Gold,63.48,12.26,12.12,12.4,13.1
+2026,March,29,GJHSA,Divisadero MS Winterguard,59.88,11.72,11.66,11.0,12.8
+2026,March,29,GJHSA,Pixley MS Winterguard,58.72,10.86,10.86,11.4,12.2
+2026,March,29,GJHSA,El Capitan MS Winterguard Black,57.9,11.5,10.2,11.2,12.6
+2026,March,29,GJHSA,Green Acres MS Winterguard,55.42,10.46,10.46,11.8,11.0
+2026,March,29,GJHSA,La Joya MS Winterguard,54.761,10.84,10.12,10.8,11.8
+2026,March,29,GJHSA,Sequoia MS Winterguard B (Porterville),54.741,11.18,10.66,10.4,11.5
 2017,April,20,PIA,Unity Percussion,90.75,26.7,17.8,27.95,18.3
 2017,April,20,PIA,Resistance Indoor Percussion,90.325,26.925,17.85,28.8,16.75
 2017,April,20,PIA,G2,88.275,26.175,17.0,27.2,17.9
@@ -17780,6 +18122,7 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2019,March,2,PSW,James Logan HS,79.8,24.3,16.3,23.0,16.2
 2019,March,2,PSW,Leigh HS,75.45,22.65,14.8,23.5,14.5
 2024,March,9,PRA(,Methacton,77.925,21.225,24.3,15.2,17.2
+2026,March,29,P-SRA,Dover Area HS Indoor Percussion,77.75,23.175,22.425,15.6,16.55
 2025,February,1,P-IA,EPIC Indoor Percussion,73.6,20.7,23.7,15.9,13.3
 2025,February,1,P-IA,Williamsport PA,73.6,20.7,23.7,15.9,13.3
 2024,January,27,GJHSA,Sequoia MS Winterguard (Porterville),54.35,108.2,117.3,10.8,9.9
@@ -18049,6 +18392,11 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,March,14,SN,Hempfield HS JV Guard,77.91,15.07,14.94,16.4,15.8
 2026,March,14,SN,Cumberland Valley JV Guard,68.95,13.41,14.14,13.0,14.2
 2026,March,14,SN,Halifax HS Color Guard,68.35,13.14,13.41,14.1,13.8
+2026,March,28,PSO,North Penn,85.15,25.35,17.3,25.5,17.0
+2026,March,28,PSO,Old Bridge,82.875,24.975,16.9,24.5,16.5
+2026,March,28,PSO,Spring-Ford,81.95,25.05,17.5,23.0,16.4
+2026,March,28,PSO,Downingtown West HS,80.05,23.85,16.8,23.9,15.5
+2026,March,28,PSO,Kingsway Regional,78.35,23.55,15.9,23.3,15.6
 2026,March,21,SJ(,West Shore SD JV Guard,75.65,14.74,14.01,15.8,15.8
 2026,January,24,GHSSRA,Merced HS Winter Guard,68.32,16.3,14.52,11.9,12.2
 2026,January,24,GHSSRA,Torres HS Winterguard,58.24,12.18,12.86,12.2,10.0
@@ -20464,6 +20812,26 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2022,April,22,PIO,Breakthrough Indoor Percussion,82.288,24.938,16.0,25.1,16.25
 2022,April,22,PIO,United Percussion 2,82.15,24.675,16.15,25.825,15.5
 2022,April,22,PIO,Gold Spike Percussion,79.375,23.475,15.8,24.85,15.25
+2026,March,29,PRA,Red Devil Indoor Percussion,89.95,26.55,18.3,26.5,18.6
+2026,March,29,PRA,War Eagle Winterline,84.15,25.05,17.1,25.2,16.8
+2026,March,29,PRA,Lexington Winterline of Gold,83.7,24.9,17.5,24.1,17.2
+2026,March,29,PRA,Zanesville Indoor Percussion,82.8,24.0,16.8,25.5,16.5
+2026,March,29,PSA,Central Crossing HS,86.85,26.1,17.75,25.3,17.7
+2026,March,29,PSA,Olentangy Liberty High School Winterline,86.2,26.55,18.2,24.3,17.15
+2026,March,29,PSA,Copley HS Indoor Drumline,85.5,25.5,16.8,26.6,16.6
+2026,March,29,PSA,Springfield Indoor Drumline,84.85,25.8,17.6,24.4,17.05
+2026,March,29,PSA,Impulse,82.751,24.9,17.2,23.8,16.85
+2026,March,29,PSA,Dawson Bryant HS Indoor Percussion,82.651,24.45,16.75,24.8,16.65
+2026,March,29,PSA,Avon Lake Indoor Percussion,82.251,25.2,16.15,24.6,16.3
+2026,March,29,PSA,Cloverleaf Indoor Percussion,79.951,23.85,16.7,23.7,15.7
+2026,March,29,PSA,Nordonia Winter Percussion,79.676,24.375,16.3,23.1,15.9
+2026,March,29,PSA,Marion Harding Indoor Percussion,78.55,24.15,16.0,22.3,16.1
+2026,March,29,PSA,Maumee Indoor Percussion,77.65,23.7,15.95,22.6,15.4
+2026,March,29,PSA,Marietta Indoor,75.7,23.4,15.3,21.9,15.1
+2026,March,29,PIO,Cap City 2,93.05,27.75,19.1,27.5,18.7
+2026,March,29,PIO,Matrix Open,88.7,26.4,18.4,26.3,17.6
+2026,March,29,PIW,Matrix,92.2,28.2,19.4,26.3,18.3
+2026,March,29,PIW,Cap City,91.85,27.6,18.9,27.2,18.15
 2024,March,23,PIA,Horizon Percussion,82.45,23.85,17.4,24.0,17.2
 2024,March,23,PIA,Cornerstone Percussion,80.8,23.1,17.0,24.1,16.6
 2024,March,23,PIA,ECR Independent,80.05,22.95,17.3,23.9,15.9
@@ -20533,6 +20901,41 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,March,11,PSO,Lone Peak HS,78.55,23.55,15.4,25.2,14.4
 2023,March,11,PSO,Davis HS,76.65,22.95,14.5,24.6,14.6
 2023,March,11,PIO,Gold Spike Percussion,76.4,22.5,15.5,23.5,14.9
+2026,March,28,SRA,Papillion-La Vista South HS JV,72.3,13.52,13.98,15.7,14.2
+2026,March,28,SRA,Millard North HS JV,71.88,14.06,14.72,14.9,14.1
+2026,March,28,SRA,Gretna HS,69.24,12.72,14.92,14.1,13.8
+2026,March,28,SRA,Bellevue West HS JV,66.29,13.52,13.72,14.4,13.15
+2026,March,28,SRA,West Central HS,65.38,12.46,12.72,13.4,13.6
+2026,March,28,SRA,Bellevue East HS JV,64.741,12.52,12.52,12.8,13.1
+2026,March,28,SRA,Sioux Falls Roosevelt HS,64.341,12.12,12.12,13.7,13.3
+2026,March,28,SRA,Millard South HS JV,63.801,12.12,11.98,12.9,13.2
+2026,March,28,SRA,Brandon Valley HS,62.521,12.46,11.86,11.9,13.0
+2026,March,28,SRA,Lincoln Standing Bear HS,62.43,12.06,11.92,12.7,13.25
+2026,March,28,SRA,Papillion-La Vista HS,62.04,11.86,12.18,12.6,13.4
+2026,March,28,SRA,Westside HS JV,60.59,11.92,12.32,12.05,12.6
+2026,March,28,SRA,Waverly HS,60.38,12.32,12.46,11.5,12.9
+2026,March,28,SRA,Elkhorn North HS,60.2,11.78,11.72,12.85,12.95
+2026,March,28,SRA,Creston MS,59.04,11.66,11.58,12.4,12.3
+2026,March,28,SRA,Millard West HS JV,57.68,11.46,11.12,11.7,12.7
+2026,March,28,IRA,Supernova Winter Guard,61.48,12.86,12.32,12.1,12.2
+2026,March,28,IRA,Omaha Winter Arts Gold,56.2,10.92,11.38,11.7,11.9
+2026,March,28,SA,Bellevue West HS Varsity,82.18,16.74,16.94,16.7,15.6
+2026,March,28,SA,Papillion-La Vista South HS Varsity,78.66,15.67,16.74,15.5,14.85
+2026,March,28,SA,Millard North HS Varsity,78.28,15.34,15.94,16.8,15.3
+2026,March,28,SA,Sioux Falls Lincoln HS,78.08,14.94,16.34,15.8,15.9
+2026,March,28,SA,Gretna East HS,76.51,16.47,14.94,15.9,14.8
+2026,March,28,SA,Bellevue East HS Varsity,73.881,15.67,15.61,14.9,14.5
+2026,March,28,SA,Westside HS,72.811,14.67,15.34,14.7,14.7
+2026,March,28,SA,Millard West HS,72.781,14.67,14.61,15.7,14.3
+2026,March,28,SA,Creston HS,72.481,14.14,15.54,14.3,15.2
+2026,March,28,SA,Millard South HS Varsity,70.21,13.67,14.34,14.6,14.9
+2026,March,28,IA,University of Nebraska Omaha,83.71,16.87,16.94,16.5,16.8
+2026,March,28,IA,University of Nebraska Husker Winter Guard,74.38,15.14,14.94,15.2,14.8
+2026,March,28,IA,Omaha Winter Arts Scarlet,58.85,12.81,11.74,11.4,11.8
+2026,March,28,PSA,Lewis Central HS,69.3,21.3,14.4,21.3,12.3
+2026,March,28,PSA,Elkhorn HS,65.35,19.65,12.6,20.4,12.7
+2026,March,28,PIA,Bellevue Combined Schools,75.2,24.0,15.6,22.8,12.8
+2026,March,28,PSO,Papillion-La Vista South HS,83.9,25.5,17.1,25.1,16.2
 2024,March,2,PSA,Hudsonville HS,78.95,23.85,16.6,23.5,15.0
 2024,March,2,PSA,Dakota Combined Schools,78.1,23.4,15.7,24.4,14.6
 2024,March,2,PSA,Victor HS,77.75,22.65,16.1,24.7,14.3
@@ -20547,6 +20950,138 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,March,2,PSW,Walled Lake Consolidated Schools,78.9,23.7,16.1,23.5,15.6
 2024,March,2,PIW,Matrix,84.4,25.2,17.0,25.3,16.9
 2024,March,2,PIW,Redline,81.05,24.15,16.3,24.6,16.0
+2026,March,28,E,Floyds Knobs Elementary,85.56,17.0,17.06,17.2,17.2
+2026,March,28,E,Meridian Cadets,83.34,16.32,16.52,17.1,16.8
+2026,March,28,E,Washington Co Juniors,80.64,15.58,16.06,16.6,15.9
+2026,March,28,SJ,Highland Hills MS,80.32,16.0,15.52,16.2,16.6
+2026,March,28,SJ,Lloyd Memorial HS JV,71.66,13.86,13.8,14.1,15.5
+2026,March,28,SJ,Forest Hills Jr,67.8,13.32,12.78,13.2,14.7
+2026,March,28,SRA,Garrard Co HS,80.18,15.32,16.06,16.7,15.7
+2026,March,28,SRA,Madison Consolidated HS,77.74,15.72,15.12,15.9,15.5
+2026,March,28,SRA,Cumberland Co HS,76.4,15.12,15.38,15.8,14.3
+2026,March,28,SRA,New Albany HS,73.34,14.92,13.92,15.0,14.5
+2026,March,28,SRA,Mason Co HS,72.501,14.72,14.58,13.7,14.1
+2026,March,28,SRA,Williamstown HS,71.201,14.46,15.34,13.1,13.8
+2026,March,28,SRA,Louisville Male HS,70.281,13.92,14.26,13.5,14.7
+2026,March,28,SRA,Owen Co HS,69.821,14.12,13.9,13.8,13.6
+2026,March,28,SRA,Scottsburg HS,86.22,16.86,17.46,17.4,16.8
+2026,March,28,SRA,Highlands HS JV,84.72,16.46,17.66,16.8,16.3
+2026,March,28,SRA,Silver Creek HS,84.18,15.92,17.86,16.6,16.5
+2026,March,28,SRA,Eastern HS (IN),82.74,16.66,15.98,17.0,16.2
+2026,March,28,SRA,George Rogers Clark HS - JV,82.701,15.12,16.58,16.2,18.0
+2026,March,28,SRA,Conner HS,81.241,14.92,16.92,15.4,17.0
+2026,March,28,SRA,Corydon Central HS,80.681,16.26,17.12,15.0,15.7
+2026,March,28,SRA,Pulaski County HS,79.381,15.46,16.32,15.9,15.5
+2026,March,28,IRA,Wildcat Color Guard,68.98,14.04,13.44,13.4,14.2
+2026,March,28,IRA,Northern Kentucky University,63.18,10.82,12.76,12.4,13.7
+2026,March,28,SA,Larry A Ryle HS JV,80.69,15.17,16.87,15.05,17.2
+2026,March,28,SA,Ballard HS,80.24,15.27,16.67,15.8,16.2
+2026,March,28,SA,Dixie Heights HS,78.11,15.87,15.94,14.0,17.0
+2026,March,28,SA,duPont Manual HS Varsity,77.76,15.47,16.34,14.9,16.0
+2026,March,28,SA,Floyd Central HS JV,77.236,16.14,14.045,15.55,16.4
+2026,March,28,SA,Mercer Co HS,76.831,15.07,15.41,14.75,15.6
+2026,March,28,SA,,76.831,15.07,15.41,14.75,15.6
+2026,March,28,SA,Forest Hills,76.071,14.515,15.205,15.6,15.15
+2026,March,28,SA,,76.071,14.515,15.205,15.6,15.15
+2026,March,28,SA,Tates Creek HS,75.901,14.54,15.61,14.3,15.75
+2026,March,28,SA,Anderson Co,75.421,14.74,15.08,15.4,15.2
+2026,March,28,SA,Eastern HS (KY),72.24,14.21,14.48,14.95,14.8
+2026,March,28,SA,Sycamore HS,71.56,13.75,14.81,13.4,15.4
+2026,March,28,SA,Deer Park HS,68.475,13.48,14.595,12.6,14.3
+2026,March,28,SA,Madeira HS,68.27,13.28,13.34,13.0,15.05
+2026,March,28,PR,Larry A Ryle HS JV,80.69,15.17,16.87,15.05,17.2
+2026,March,28,PR,Ballard HS,80.24,15.27,16.67,15.8,16.2
+2026,March,28,PR,Dixie Heights HS,78.11,15.87,15.94,14.0,17.0
+2026,March,28,PR,duPont Manual HS Varsity,77.76,15.47,16.34,14.9,16.0
+2026,March,28,PR,Floyd Central HS JV,77.236,16.14,14.045,15.55,16.4
+2026,March,28,PR,Mercer Co HS,76.831,15.07,15.41,14.75,15.6
+2026,March,28,PR,,76.831,15.07,15.41,14.75,15.6
+2026,March,28,PR,Forest Hills,76.071,14.515,15.205,15.6,15.15
+2026,March,28,PR,,76.071,14.515,15.205,15.6,15.15
+2026,March,28,PR,Tates Creek HS,75.901,14.54,15.61,14.3,15.75
+2026,March,28,PR,Anderson Co,75.421,14.74,15.08,15.4,15.2
+2026,March,28,PR,Eastern HS (KY),72.24,14.21,14.48,14.95,14.8
+2026,March,28,PR,Sycamore HS,71.56,13.75,14.81,13.4,15.4
+2026,March,28,PR,Deer Park HS,68.475,13.48,14.595,12.6,14.3
+2026,March,28,PR,Madeira HS,68.27,13.28,13.34,13.0,15.05
+2026,March,28,SA,Lakota West HS Varsity,82.03,16.34,16.94,16.5,16.5
+2026,March,28,SA,Madison Central HS JV,81.29,16.07,16.27,16.45,16.3
+2026,March,28,SA,Perry Meridian HS,79.89,15.67,16.07,16.8,16.65
+2026,March,28,SA,North Hardin,78.94,15.17,16.67,15.7,16.0
+2026,March,28,SA,Daviess Co HS Varsity,78.26,15.01,15.4,15.9,16.25
+2026,March,28,SA,Paul Laurence Dunbar HS JV,77.671,15.87,15.6,14.6,15.8
+2026,March,28,SA,Madison Southern HS,76.411,14.81,15.8,15.4,15.6
+2026,March,28,SA,North Oldham HS,74.131,15.47,14.66,14.2,15.3
+2026,March,28,SA,John Hardin HS,72.511,14.15,14.06,15.0,15.1
+2026,March,28,SA,Lafayette HS - JV,71.8,14.34,14.46,14.8,14.5
+2026,March,28,SA,Washington Co HS,71.41,14.61,15.2,13.4,14.8
+2026,March,28,SA,Springfield. KY,71.41,14.61,15.2,13.4,14.8
+2026,March,28,SA,North Harrison,70.41,14.135,14.475,15.1,13.5
+2026,March,28,SA,Campbell Co HS - JV,69.01,13.74,13.47,13.8,14.2
+2026,March,28,SA,East Jessamine,67.86,13.75,14.21,13.1,13.9
+2026,March,28,BR,Lakota West HS Varsity,82.03,16.34,16.94,16.5,16.5
+2026,March,28,BR,Madison Central HS JV,81.29,16.07,16.27,16.45,16.3
+2026,March,28,BR,Perry Meridian HS,79.89,15.67,16.07,16.8,16.65
+2026,March,28,BR,North Hardin,78.94,15.17,16.67,15.7,16.0
+2026,March,28,BR,Daviess Co HS Varsity,78.26,15.01,15.4,15.9,16.25
+2026,March,28,BR,Paul Laurence Dunbar HS JV,77.671,15.87,15.6,14.6,15.8
+2026,March,28,BR,Madison Southern HS,76.411,14.81,15.8,15.4,15.6
+2026,March,28,BR,North Oldham HS,74.131,15.47,14.66,14.2,15.3
+2026,March,28,BR,John Hardin HS,72.511,14.15,14.06,15.0,15.1
+2026,March,28,BR,Lafayette HS - JV,71.8,14.34,14.46,14.8,14.5
+2026,March,28,BR,Washington Co HS,71.41,14.61,15.2,13.4,14.8
+2026,March,28,BR,Springfield. KY,71.41,14.61,15.2,13.4,14.8
+2026,March,28,BR,North Harrison,70.41,14.135,14.475,15.1,13.5
+2026,March,28,BR,Campbell Co HS - JV,69.01,13.74,13.47,13.8,14.2
+2026,March,28,BR,East Jessamine,67.86,13.75,14.21,13.1,13.9
+2026,March,28,PSRA,Stuart MS The Spartan Drumline Exhibition,57.05,16.65,11.1,18.1,11.2
+2026,March,28,PSA,Lebanon HS,76.1,22.5,15.9,22.3,15.4
+2026,March,28,PSA,,76.1,22.5,15.9,22.3,15.4
+2026,March,28,PSA,Scottsburg HS,69.35,20.55,14.2,20.9,13.7
+2026,March,28,PSA,Elizabethtown HS,68.5,19.8,14.4,20.0,14.3
+2026,March,28,PSA,Corydon Central HS,67.25,19.65,13.6,20.5,13.5
+2026,March,28,PSA,Henryville HS,63.3,18.6,13.3,18.6,12.8
+2026,March,28,PSA,Dixie Heights,82.05,25.05,16.1,24.2,16.7
+2026,March,28,SA,Larry A Ryle HS,91.6,18.27,18.73,17.8,18.6
+2026,March,28,SA,Floyd Central HS,87.87,17.27,18.0,17.5,17.9
+2026,March,28,SA,Elizabethtown HS,87.74,16.67,17.67,17.3,18.3
+2026,March,28,SA,Highlands HS Varsity,85.54,16.87,17.47,16.7,18.1
+2026,March,28,SA,Paul Laurence Dunbar HS,83.141,15.74,16.8,17.1,16.2
+2026,March,28,SA,Russell HS,80.571,15.94,16.33,15.8,15.8
+2026,March,28,BR,Larry A Ryle HS,91.6,18.27,18.73,17.8,18.6
+2026,March,28,BR,Floyd Central HS,87.87,17.27,18.0,17.5,17.9
+2026,March,28,BR,Elizabethtown HS,87.74,16.67,17.67,17.3,18.3
+2026,March,28,BR,Highlands HS Varsity,85.54,16.87,17.47,16.7,18.1
+2026,March,28,BR,Paul Laurence Dunbar HS,83.141,15.74,16.8,17.1,16.2
+2026,March,28,BR,Russell HS,80.571,15.94,16.33,15.8,15.8
+2026,March,28,SA,Campbell Co HS Varsity,93.04,18.67,18.87,18.4,19.0
+2026,March,28,SA,Madison Central HS,92.09,17.87,18.67,18.45,18.7
+2026,March,28,SA,South Oldham HS,85.545,16.81,17.035,16.4,17.5
+2026,March,28,SA,Lafayette HS,84.8,16.14,17.06,17.3,16.3
+2026,March,28,SA,George Rogers Clark HS - Varsity,83.081,15.87,17.01,17.0,16.5
+2026,March,28,SA,Woodford County HS,81.391,15.54,16.6,16.6,16.15
+2026,March,28,SA,Central Hardin HS,80.171,15.34,16.13,16.0,15.9
+2026,March,28,PR,Campbell Co HS Varsity,93.04,18.67,18.87,18.4,19.0
+2026,March,28,PR,Madison Central HS,92.09,17.87,18.67,18.45,18.7
+2026,March,28,PR,South Oldham HS,85.545,16.81,17.035,16.4,17.5
+2026,March,28,PR,Lafayette HS,84.8,16.14,17.06,17.3,16.3
+2026,March,28,PR,George Rogers Clark HS - Varsity,83.081,15.87,17.01,17.0,16.5
+2026,March,28,PR,Woodford County HS,81.391,15.54,16.6,16.6,16.15
+2026,March,28,PR,Central Hardin HS,80.171,15.34,16.13,16.0,15.9
+2026,March,28,IA,Forest Hills IA,82.04,16.14,16.4,16.3,16.3
+2026,March,28,IA,,82.04,16.14,16.4,16.3,16.3
+2026,March,28,IA,Onyx A,80.3,15.87,16.93,15.7,15.5
+2026,March,28,IA,Meridian Independent,79.95,15.01,16.94,15.9,16.1
+2026,March,28,IA,,79.95,15.01,16.94,15.9,16.1
+2026,March,28,IA,Elevate A,76.52,15.28,15.94,14.9,15.0
+2026,March,28,IA,Lyra Winterguard,76.251,14.74,15.61,14.6,15.2
+2026,March,28,IA,,76.251,14.74,15.61,14.6,15.2
+2026,March,28,IA,Meridian A,76.021,14.01,15.21,15.4,15.7
+2026,March,28,IA,Morehead State University,68.891,12.68,14.81,14.4,13.0
+2026,March,28,IO,Homage Independent,90.4,17.6,18.6,17.8,18.4
+2026,March,28,SW,Warren Central HS,89.5,17.2,18.1,18.4,18.0
+2026,March,28,IW,Lexis Winter Guard,89.8,17.7,18.5,18.1,17.9
+2026,March,28,IW,Elevate,83.4,16.7,16.9,17.0,16.4
 2023,March,11,PSA,Williams Field HS,80.65,24.15,16.6,25.4,14.5
 2023,March,11,PSA,Arcadia HS,78.55,23.85,14.6,25.7,14.4
 2023,March,11,PSA,Horizon HS (AZ),77.75,24.45,15.8,23.6,13.9
@@ -20565,6 +21100,11 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,March,11,PIO,Breakthrough Indoor Percussion,78.7,23.1,15.5,23.9,16.2
 2023,March,11,PIO,LINEA,62.8,18.3,13.4,18.7,12.4
 2023,March,11,PIW,Flux Indoor Percussion,82.35,24.45,16.2,24.7,17.0
+2026,February,21,SRA,Ft. Zumwalt Easth HS Junior Varsity,70.54,13.38,14.5,14.5,14.5
+2026,February,21,SRA,Windsor High School,67.92,13.06,13.7,13.7,14.2
+2026,February,21,SRA,Pattonville High School Junior Varsity,65.23,12.06,13.85,13.3,13.7
+2026,February,21,SRA,Mater Dei High School,56.74,10.26,12.3,12.0,11.6
+2026,February,21,SA,North Point High School,68.8,13.87,13.1,13.6,13.5
 2026,February,21,PSA,Lincoln-Way Community Schools,80.6,24.3,16.5,23.5,16.3
 2026,February,21,PSA,Minooka Community HS,78.9,23.1,15.7,24.0,16.1
 2026,February,21,PSA,Bay Port HS,70.75,21.15,14.6,20.3,14.7
@@ -20751,6 +21291,142 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,April,1,IA,Absolute Performing Arts,76.85,15.74,15.81,15.9,14.5
 2023,April,1,IA,Johnson City,76.85,15.74,15.81,15.9,14.5
 2023,April,1,SO,Seymour Varsity,85.5,17.2,17.3,16.7,17.1
+2026,March,28,SRA,Swansea HS,76.74,14.72,16.32,15.6,14.6
+2026,March,28,SRA,Union County HS,73.62,14.26,15.46,15.0,13.8
+2026,March,28,SRA,West-Oak HS,73.44,14.16,14.98,14.8,15.6
+2026,March,28,SRA,Enka HS JV,73.28,13.76,14.72,15.2,14.7
+2026,March,28,SRA,Ardrey Kell HS JV,71.6,15.06,13.84,14.6,13.5
+2026,March,28,SRA,Evans HS,70.621,14.74,13.88,13.6,15.5
+2026,March,28,SRA,Blue Ridge HS JV,68.361,13.78,12.98,14.1,13.0
+2026,March,28,SRA,Fort Dorchester JV,67.421,13.08,13.44,14.0,13.7
+2026,March,28,R1,Swansea HS,76.74,14.72,16.32,15.6,14.6
+2026,March,28,R1,Union County HS,73.62,14.26,15.46,15.0,13.8
+2026,March,28,R1,West-Oak HS,73.44,14.16,14.98,14.8,15.6
+2026,March,28,R1,Enka HS JV,73.28,13.76,14.72,15.2,14.7
+2026,March,28,R1,Ardrey Kell HS JV,71.6,15.06,13.84,14.6,13.5
+2026,March,28,R1,Evans HS,70.621,14.74,13.88,13.6,15.5
+2026,March,28,R1,Blue Ridge HS JV,68.361,13.78,12.98,14.1,13.0
+2026,March,28,R1,Fort Dorchester JV,67.421,13.08,13.44,14.0,13.7
+2026,March,28,SRA,T.L. Hanna HS JV,79.22,15.12,14.9,16.4,16.1
+2026,March,28,SRA,Chapman HS,78.16,14.46,14.8,15.9,16.5
+2026,March,28,SRA,Lake Norman Valor,76.22,13.8,15.42,15.5,15.3
+2026,March,28,SRA,Charlotte Catholic HS,75.42,15.14,15.38,14.4,14.9
+2026,March,28,SRA,Wren HS,74.88,14.68,15.4,15.2,14.4
+2026,March,28,SRA,Woodruff HS Gold,71.001,14.24,14.26,13.1,14.6
+2026,March,28,SRA,Midland Valley HS,67.641,12.98,14.06,13.6,13.7
+2026,March,28,SRA,Broome HS,66.981,12.64,14.04,13.4,14.2
+2026,March,28,R2,T.L. Hanna HS JV,79.22,15.12,14.9,16.4,16.1
+2026,March,28,R2,Chapman HS,78.16,14.46,14.8,15.9,16.5
+2026,March,28,R2,Lake Norman Valor,76.22,13.8,15.42,15.5,15.3
+2026,March,28,R2,Charlotte Catholic HS,75.42,15.14,15.38,14.4,14.9
+2026,March,28,R2,Wren HS,74.88,14.68,15.4,15.2,14.4
+2026,March,28,R2,Woodruff HS Gold,71.001,14.24,14.26,13.1,14.6
+2026,March,28,R2,Midland Valley HS,67.641,12.98,14.06,13.6,13.7
+2026,March,28,R2,Broome HS,66.981,12.64,14.04,13.4,14.2
+2026,March,28,SRA,Wando HS JV,76.76,14.08,15.58,16.1,14.9
+2026,March,28,SRA,Seneca HS Varsity,76.72,14.64,14.58,15.9,15.0
+2026,March,28,SRA,Dutch Fork HS Varsity,76.06,15.26,14.8,15.7,14.6
+2026,March,28,SRA,Spartanburg HS Blue,74.36,13.86,14.9,15.5,15.1
+2026,March,28,SRA,J.L. Mann HS,71.641,13.96,13.98,14.0,14.4
+2026,March,28,SRA,Dorman HS Sage,72.441,13.14,15.2,15.1,14.1
+2026,March,28,SRA,Cuthbertson HS JV,66.901,12.92,13.58,12.7,13.0
+2026,March,28,SRA,Central Academy of Technology & Arts,65.101,12.7,13.2,12.9,13.3
+2026,March,28,R3,Wando HS JV,76.76,14.08,15.58,16.1,14.9
+2026,March,28,R3,Seneca HS Varsity,76.72,14.64,14.58,15.9,15.0
+2026,March,28,R3,Dutch Fork HS Varsity,76.06,15.26,14.8,15.7,14.6
+2026,March,28,R3,Spartanburg HS Blue,74.36,13.86,14.9,15.5,15.1
+2026,March,28,R3,J.L. Mann HS,71.641,13.96,13.98,14.0,14.4
+2026,March,28,R3,Dorman HS Sage,72.441,13.14,15.2,15.1,14.1
+2026,March,28,R3,Cuthbertson HS JV,66.901,12.92,13.58,12.7,13.0
+2026,March,28,R3,Central Academy of Technology & Arts,65.101,12.7,13.2,12.9,13.3
+2026,March,28,SRA,Crescent HS JV,79.34,14.98,15.46,16.5,15.2
+2026,March,28,SRA,Marvin Ridge HS JV,78.2,15.34,15.76,15.4,15.3
+2026,March,28,SRA,Chapin HS JV,78.02,15.36,15.26,15.5,15.8
+2026,March,28,SRA,Fort Mill HS JV,75.68,14.2,14.58,16.1,14.8
+2026,March,28,SRA,Newberry County,71.841,14.82,14.32,14.3,13.8
+2026,March,28,SRA,Palmetto HS,69.381,13.76,13.12,13.5,14.5
+2026,March,28,SRA,Indian Land HS JV,68.481,12.84,14.54,13.8,13.5
+2026,March,28,SRA,Landrum HS,67.601,13.18,13.32,14.0,13.4
+2026,March,28,SRA,Cherryville HS,66.561,13.54,13.72,12.8,13.1
+2026,March,28,R4,Crescent HS JV,79.34,14.98,15.46,16.5,15.2
+2026,March,28,R4,Marvin Ridge HS JV,78.2,15.34,15.76,15.4,15.3
+2026,March,28,R4,Chapin HS JV,78.02,15.36,15.26,15.5,15.8
+2026,March,28,R4,Fort Mill HS JV,75.68,14.2,14.58,16.1,14.8
+2026,March,28,R4,Newberry County,71.841,14.82,14.32,14.3,13.8
+2026,March,28,R4,Palmetto HS,69.381,13.76,13.12,13.5,14.5
+2026,March,28,R4,Indian Land HS JV,68.481,12.84,14.54,13.8,13.5
+2026,March,28,R4,Landrum HS,67.601,13.18,13.32,14.0,13.4
+2026,March,28,R4,Cherryville HS,66.561,13.54,13.72,12.8,13.1
+2026,March,28,SA,Nation Ford HS JV,76.61,15.34,15.07,16.0,15.5
+2026,March,28,SA,East Lincoln HS B,73.38,13.94,14.14,15.4,14.8
+2026,March,28,SA,York Comprehensive HS Varsity,73.21,14.14,14.67,14.6,15.0
+2026,March,28,SA,Powdersville HS Varsity,72.21,14.34,14.47,15.2,14.0
+2026,March,28,SA,Dorman HS JV,69.71,14.54,14.87,12.6,14.2
+2026,March,28,SA,Clover HS JV,69.181,13.54,13.94,13.8,14.7
+2026,March,28,SA,Woodmont HS Varsity,67.451,13.74,13.01,13.6,13.7
+2026,March,28,SA,South Charlotte Winter Guard,64.181,13.34,13.34,12.4,12.4
+2026,March,28,R1,Nation Ford HS JV,76.61,15.34,15.07,16.0,15.5
+2026,March,28,R1,East Lincoln HS B,73.38,13.94,14.14,15.4,14.8
+2026,March,28,R1,York Comprehensive HS Varsity,73.21,14.14,14.67,14.6,15.0
+2026,March,28,R1,Powdersville HS Varsity,72.21,14.34,14.47,15.2,14.0
+2026,March,28,R1,Dorman HS JV,69.71,14.54,14.87,12.6,14.2
+2026,March,28,R1,Clover HS JV,69.181,13.54,13.94,13.8,14.7
+2026,March,28,R1,Woodmont HS Varsity,67.451,13.74,13.01,13.6,13.7
+2026,March,28,R1,South Charlotte Winter Guard,64.181,13.34,13.34,12.4,12.4
+2026,March,28,SA,Northwestern HS,75.68,14.94,14.94,15.3,15.2
+2026,March,28,SA,Ashley Ridge HS JV,74.58,14.54,15.14,15.5,14.5
+2026,March,28,SA,Lake Norman HS JV,73.98,15.14,14.74,15.2,14.1
+2026,March,28,SA,White Knoll HS JV,73.15,14.34,14.41,15.0,14.8
+2026,March,28,SA,Rowan County Combined Winterguard,72.38,13.74,15.34,14.6,14.2
+2026,March,28,SA,Lugoff-Elgin HS,68.751,14.14,13.61,14.0,13.4
+2026,March,28,SA,Fort Dorchester Varsity,67.251,13.34,13.41,13.6,13.1
+2026,March,28,SA,Jay M Robinson HS,65.601,13.54,13.66,12.5,12.6
+2026,March,28,SA,Westside HS,63.821,12.74,13.08,12.6,12.3
+2026,March,28,R2,Northwestern HS,75.68,14.94,14.94,15.3,15.2
+2026,March,28,R2,Ashley Ridge HS JV,74.58,14.54,15.14,15.5,14.5
+2026,March,28,R2,Lake Norman HS JV,73.98,15.14,14.74,15.2,14.1
+2026,March,28,R2,White Knoll HS JV,73.15,14.34,14.41,15.0,14.8
+2026,March,28,R2,Rowan County Combined Winterguard,72.38,13.74,15.34,14.6,14.2
+2026,March,28,R2,Lugoff-Elgin HS,68.751,14.14,13.61,14.0,13.4
+2026,March,28,R2,Fort Dorchester Varsity,67.251,13.34,13.41,13.6,13.1
+2026,March,28,R2,Jay M Robinson HS,65.601,13.54,13.66,12.5,12.6
+2026,March,28,R2,Westside HS,63.821,12.74,13.08,12.6,12.3
+2026,March,28,SA,Riverside HS Varsity,78.08,15.14,15.54,16.2,15.7
+2026,March,28,SA,Easley HS,75.28,14.74,15.34,15.3,14.8
+2026,March,28,SA,Clinton HS,73.55,13.94,14.21,15.6,15.2
+2026,March,28,SA,Tuscola High School,73.11,14.34,15.07,14.8,14.6
+2026,March,28,SA,Greer HS Varsity,70.871,14.54,14.13,14.1,14.7
+2026,March,28,SA,Stuart W. Cramer HS,70.181,14.14,14.54,14.3,13.3
+2026,March,28,SA,Colleton County HS JV,65.181,13.34,13.54,13.0,12.2
+2026,March,28,SA,Crest HS Gold,65.151,13.74,13.81,12.7,12.5
+2026,March,28,SA,Laurens District 55 HS,64.221,12.74,12.88,13.1,13.0
+2026,March,28,R3,Riverside HS Varsity,78.08,15.14,15.54,16.2,15.7
+2026,March,28,R3,Easley HS,75.28,14.74,15.34,15.3,14.8
+2026,March,28,R3,Clinton HS,73.55,13.94,14.21,15.6,15.2
+2026,March,28,R3,Tuscola High School,73.11,14.34,15.07,14.8,14.6
+2026,March,28,R3,Greer HS Varsity,70.871,14.54,14.13,14.1,14.7
+2026,March,28,R3,Stuart W. Cramer HS,70.181,14.14,14.54,14.3,13.3
+2026,March,28,R3,Colleton County HS JV,65.181,13.34,13.54,13.0,12.2
+2026,March,28,R3,Crest HS Gold,65.151,13.74,13.81,12.7,12.5
+2026,March,28,R3,Laurens District 55 HS,64.221,12.74,12.88,13.1,13.0
+2026,March,28,SA,South Mecklenburg HS,74.98,15.14,15.74,15.1,14.9
+2026,March,28,SA,Cheraw HS,74.17,14.94,14.53,15.6,14.1
+2026,March,28,SA,Enka HS Varsity,72.98,14.74,15.34,14.1,14.5
+2026,March,28,SA,Blue Ridge HS Varsity,71.78,13.94,14.54,15.0,14.7
+2026,March,28,SA,North Lincoln HS JV,70.21,14.14,14.87,13.0,14.0
+2026,March,28,SA,Lincolnton NC,70.21,14.14,14.87,13.0,14.0
+2026,March,28,SA,Palisades HS,69.651,13.34,14.21,14.0,13.5
+2026,March,28,SA,Byrnes HS Topaz,67.371,12.74,14.13,13.4,12.7
+2026,March,28,SA,Spring Valley HS,64.951,13.54,13.01,12.4,13.2
+2026,March,28,R4,South Mecklenburg HS,74.98,15.14,15.74,15.1,14.9
+2026,March,28,R4,Cheraw HS,74.17,14.94,14.53,15.6,14.1
+2026,March,28,R4,Enka HS Varsity,72.98,14.74,15.34,14.1,14.5
+2026,March,28,R4,Blue Ridge HS Varsity,71.78,13.94,14.54,15.0,14.7
+2026,March,28,R4,North Lincoln HS JV,70.21,14.14,14.87,13.0,14.0
+2026,March,28,R4,Lincolnton NC,70.21,14.14,14.87,13.0,14.0
+2026,March,28,R4,Palisades HS,69.651,13.34,14.21,14.0,13.5
+2026,March,28,R4,Byrnes HS Topaz,67.371,12.74,14.13,13.4,12.7
+2026,March,28,R4,Spring Valley HS,64.951,13.54,13.01,12.4,13.2
 2022,March,19,PSA,Rex Putnam HS,75.8,23.25,14.8,23.3,14.45
 2022,March,19,PSA,Glencoe HS,74.55,22.35,14.7,22.9,14.6
 2022,March,19,PSA,Sherwood Middle School,71.15,21.75,15.1,21.4,12.9
@@ -20763,6 +21439,23 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2022,March,19,PSO,Saratoga HS,79.95,24.75,15.7,24.4,15.1
 2022,March,19,PSO,Century HS,73.85,21.15,16.3,22.6,13.8
 2022,March,19,PIO,IMPACT Percussion,85.95,25.05,17.6,25.9,17.4
+2026,February,28,PIA,Modulation Z,83.55,25.35,17.0,24.5,16.7
+2026,February,28,PIA,Francis Howell Independent,80.35,23.85,16.3,24.2,16.0
+2026,February,28,PIA,Wentzville Independent,77.2,22.8,15.7,23.0,15.7
+2026,February,28,PIA,Fleur Winter Percussion,73.9,20.7,16.5,21.7,15.0
+2026,February,28,PIA,Belleville Indoor Percussion,70.65,20.25,14.3,22.3,13.8
+2026,February,28,PIO,Freedom Percussion,80.65,25.05,15.0,25.1,15.5
+2026,February,28,PIO,Heartland Indoor Percussion,68.65,18.15,12.8,23.6,14.1
+2026,March,14,SO,Belleville East High School Open,74.2,15.3,16.0,14.3,14.1
+2026,March,14,SA,Ft. Zumwalt East HS,75.76,14.68,16.08,15.0,14.6
+2026,March,14,SA,North Point High School,74.66,14.21,14.95,14.6,14.5
+2026,March,14,SA,Ft. Zumwalt North High School,72.05,14.41,16.74,13.7,13.7
+2026,March,14,SRA,Belleville East High School A,78.92,14.58,14.04,16.6,16.5
+2026,March,14,SRA,Ft. Zumwalt Easth HS Junior Varsity,71.7,12.78,13.12,15.7,14.4
+2026,March,14,SRA,Mascoutah High School,71.6,13.38,13.32,15.3,14.1
+2026,March,14,SRA,Windsor High School,69.3,12.98,12.52,14.3,14.2
+2026,March,14,SMS,Belleville Township District 201 Middle Schools,68.12,12.52,12.9,14.2,13.5
+2026,March,14,SMS,Belleville Township Middle School West,60.06,11.58,11.58,12.4,12.5
 2026,February,14,PSA,Lebanon HS,70.0,20.7,13.5,21.7,14.1
 2026,February,14,PSA,,70.0,20.7,13.5,21.7,14.1
 2026,February,14,PSA,Henryville HS,63.7,18.9,12.5,19.9,12.4
@@ -21158,6 +21851,15 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,February,3,IA,Meridian A,62.56,12.75,12.41,12.5,12.4
 2024,February,3,IA,Lyra Winterguard,60.13,12.22,12.81,11.7,11.5
 2024,February,3,IW,Lexis Winter Guard,72.6,14.5,14.6,14.8,14.7
+2026,March,28,PIA,Lake Effect Percussion,83.5,24.9,16.4,25.0,17.2
+2026,March,28,PIA,Breakwater Performing Arts,79.85,23.85,15.8,23.7,16.5
+2026,March,28,PIA,NorthCoast Academy,75.95,22.65,15.0,23.1,15.2
+2026,March,28,PSO,Hudsonville Winter Percussion,85.4,25.8,16.7,25.2,17.7
+2026,March,28,PIO,Motor City Percussion,88.05,26.25,17.9,26.0,17.9
+2026,March,28,PIO,Dakota High School,84.45,25.35,17.3,24.4,17.4
+2026,March,28,PIO,Grandville Independent,81.85,24.75,16.5,24.1,16.5
+2026,March,28,PSW,Walled Lake Consolidated Schools,85.55,25.65,17.8,24.5,17.6
+2026,March,28,PIW,Redline,89.85,26.85,17.8,27.2,18.0
 2022,February,19,PRA,Quakertown,83.3,25.9,25.8,15.3,16.3
 2022,February,19,PRA,Highland Regional,82.0,25.0,26.4,14.6,16.0
 2022,February,19,PRA,Parkland,79.7,25.4,24.0,15.2,15.1
@@ -21264,6 +21966,43 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2023,March,18,PSW,Old Bridge HS,88.15,26.25,17.8,26.2,17.9
 2023,March,18,PIW,George Mason University,89.85,26.25,18.7,26.6,18.3
 2023,March,18,PIW,United Percussion,89.75,26.85,18.4,26.9,17.6
+2026,March,28,PSA,Cheney Indoor Percussion Ensemble,84.85,25.0,25.95,16.8,17.1
+2026,March,28,PSA,Cheney High School,84.85,25.0,25.95,16.8,17.1
+2026,March,28,PSA,Golden Apple Indoor Percussion,81.3,24.5,25.5,15.9,15.4
+2026,March,28,PSA,Central Valley Winter Percussion,79.65,23.6,24.75,15.4,15.9
+2026,March,28,PSA,Spokane Valley,79.65,23.6,24.75,15.4,15.9
+2026,March,28,PSA,University HS Indoor Percussion,78.95,24.2,23.85,14.9,16.0
+2026,March,28,PSA,Spokane Valley,78.95,24.2,23.85,14.9,16.0
+2026,March,28,SRA,Kennewick Winter Guard,82.93,16.72,16.86,16.0,17.15
+2026,March,28,SRA,Hanford High School,82.255,16.32,17.06,16.2,17.25
+2026,March,28,SRA,Ridgeline High School JV,80.84,16.12,15.72,16.4,16.75
+2026,March,28,SRA,Cascade High School JV,77.61,15.44,15.52,14.8,16.9
+2026,March,28,SRA,University High School,75.451,14.16,14.44,15.8,15.85
+2026,March,28,SRA,Mead High School,76.145,14.9,16.32,12.9,16.45
+2026,March,28,SRA,Kamiakin High School,74.951,14.38,15.32,15.6,16.55
+2026,March,28,SRA,Central Valley High School,74.921,15.66,15.06,15.2,16.4
+2026,March,28,SRA,Oak Harbor HS,71.741,14.88,14.06,13.1,16.2
+2026,March,28,SRA,Peninsula Combined WG,70.93,14.22,14.46,12.4,15.3
+2026,March,28,SRA,Bonney Lake High School,68.76,11.34,13.32,13.8,15.6
+2026,March,28,SRA,Granite Falls HS,67.52,12.06,13.86,11.6,16.1
+2026,March,28,SRA,Mt Spokane High School Winterguard (B),65.45,12.72,12.18,10.8,15.1
+2026,March,28,SRA,The Pride of Clarkston Winter Guard,64.78,11.8,12.78,10.9,14.9
+2026,March,28,IRA,Kennedy Catholic Combined JV,70.2,13.38,15.52,13.7,13.4
+2026,March,28,IRA,Prelude,62.16,12.18,12.18,12.3,12.3
+2026,March,28,SA,Cascade High School Varsity,85.18,16.34,17.34,17.0,17.2
+2026,March,28,SA,Ridgeline High School Varsity,83.57,16.0,17.07,16.8,16.9
+2026,March,28,SA,Kamiak High School,81.25,16.01,16.74,16.1,15.8
+2026,March,28,SA,Wenatchee High School,80.38,15.34,16.34,16.2,16.1
+2026,March,28,SA,Tahoma High School,75.82,14.81,14.81,15.3,15.2
+2026,March,28,SA,Mt Spokane High School Winterguard (A),70.081,14.34,15.34,13.8,12.8
+2026,March,28,SA,Mt Spokane High School,70.081,14.34,15.34,13.8,12.8
+2026,March,28,SA,Cheney High School,65.861,12.68,12.68,12.5,13.4
+2026,March,28,SA,Cheney High School,65.861,12.68,12.68,12.5,13.4
+2026,March,28,IA,Rhapsody,84.15,16.41,16.74,17.3,17.9
+2026,March,28,IS,Rhapsody Senior Independent,78.64,14.27,14.67,16.3,17.0
+2026,March,28,IS,Kennedy Catholic Combined Varsity,66.91,12.6,12.61,13.2,14.3
+2026,March,28,IS,WSU Winterguard,64.31,11.87,12.14,12.9,13.8
+2026,March,28,IS,Pullman WA,64.31,11.87,12.14,12.9,13.8
 2024,April,19,PIA,M3,93.425,28.275,18.5,28.35,18.3
 2024,April,19,PIA,Charles Towne Percussion,93.038,28.688,18.55,27.9,17.9
 2024,April,19,PIA,Revelation,92.113,27.113,18.95,27.55,18.5
@@ -22411,6 +23150,15 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,February,21,PIW,Infinity,84.825,25.725,17.2,24.85,17.05
 2026,February,21,PIW,STRYKE Percussion,80.2,24.45,16.15,23.85,15.75
 2026,February,21,PIW,Infinity 2,78.825,23.775,16.4,22.4,16.25
+2026,March,28,PIA,Lake Effect Percussion,82.6,24.6,16.3,24.8,16.9
+2026,March,28,PIA,Breakwater Performing Arts,80.25,24.15,15.8,23.9,16.4
+2026,March,28,PIA,NorthCoast Academy,76.6,22.8,15.2,23.3,15.3
+2026,March,28,PSO,Hudsonville Winter Percussion,84.95,25.65,16.5,25.4,17.4
+2026,March,28,PIO,Motor City Percussion,86.5,26.1,17.7,25.3,17.4
+2026,March,28,PIO,Dakota High School,83.45,25.05,17.5,23.6,17.3
+2026,March,28,PIO,Grandville Independent,81.65,24.75,16.4,23.9,16.6
+2026,March,28,PSW,Walled Lake Consolidated Schools,84.35,25.35,17.7,24.2,17.1
+2026,March,28,PIW,Redline,88.85,26.25,17.8,26.9,17.9
 2025,April,11,PIA,M3,93.9,28.5,18.6,28.25,18.55
 2025,April,11,PIA,Nomad Indoor,92.65,28.275,18.525,27.7,18.15
 2025,April,11,PIA,Lake Effect Percussion,89.5,27.3,18.0,26.525,17.675
@@ -23260,6 +24008,58 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2024,March,16,IRA,Spin As One Independent,58.9,10.82,12.28,11.4,12.2
 2024,March,16,SA,Heritage Indoor Performance Ensemble  - HIPE BLUE,73.51,14.47,14.34,15.7,14.6
 2024,March,16,SA,Karns High School Varsity Winter Guard,72.83,14.28,14.15,15.5,14.4
+2026,March,27,C,Mauldin Cadets,72.64,14.52,14.32,15.0,14.5
+2026,March,27,C,York Comprehensive HS Cadet,67.34,12.52,13.72,13.9,13.7
+2026,March,27,C,Chapin Cadets,63.18,12.32,12.66,12.6,12.8
+2026,March,27,C,Catawba Ridge Cadets,63.1,12.12,13.68,12.5,12.1
+2026,March,27,C,Lakeside Cadets,61.1,11.72,12.18,13.1,11.7
+2026,March,27,C,Marvin Ridge Cadets,58.841,11.32,11.12,12.0,12.4
+2026,March,27,SRA,Chesnee HS JV,70.66,12.92,14.34,15.2,14.1
+2026,March,27,SRA,Pickens High School JV,69.66,12.72,13.84,14.8,14.5
+2026,March,27,SRA,Dutch Fork HS JV,66.48,11.92,13.06,14.4,13.4
+2026,March,27,SRA,Hillcrest HS JV,64.7,11.12,13.58,13.3,13.5
+2026,March,27,SRA,Lexington HS Spin Club,63.901,11.32,12.38,14.2,13.0
+2026,March,27,SRA,Woodruff HS Maroon,63.381,11.72,11.86,14.0,12.5
+2026,March,27,SRA,Crest HS Green,62.541,12.52,11.32,13.5,12.9
+2026,March,27,SRA,Midland Valley JV,61.181,12.32,11.66,12.9,11.6
+2026,March,27,SRA,ALA Lexington,61.161,10.92,11.64,13.1,11.9
+2026,March,27,SRA,Grovetown HS,59.64,12.12,11.12,12.5,12.2
+2026,March,27,SRA,Airport HS,59.0,11.52,12.18,11.6,11.3
+2026,March,27,R1,Chesnee HS JV,70.66,12.92,14.34,15.2,14.1
+2026,March,27,R1,Pickens High School JV,69.66,12.72,13.84,14.8,14.5
+2026,March,27,R1,Dutch Fork HS JV,66.48,11.92,13.06,14.4,13.4
+2026,March,27,R1,Hillcrest HS JV,64.7,11.12,13.58,13.3,13.5
+2026,March,27,R1,Lexington HS Spin Club,63.901,11.32,12.38,14.2,13.0
+2026,March,27,R1,Woodruff HS Maroon,63.381,11.72,11.86,14.0,12.5
+2026,March,27,R1,Crest HS Green,62.541,12.52,11.32,13.5,12.9
+2026,March,27,R1,Midland Valley JV,61.181,12.32,11.66,12.9,11.6
+2026,March,27,R1,ALA Lexington,61.161,10.92,11.64,13.1,11.9
+2026,March,27,R1,Grovetown HS,59.64,12.12,11.12,12.5,12.2
+2026,March,27,R1,Airport HS,59.0,11.52,12.18,11.6,11.3
+2026,March,27,SRA,Riverside HS JV,69.26,13.92,14.54,13.2,12.9
+2026,March,27,SRA,Lewisville HS,67.44,11.92,13.92,14.8,13.3
+2026,March,27,SRA,South Pointe HS Varsity,67.2,12.92,13.38,14.4,13.8
+2026,March,27,SRA,Gaffney Winterguard,66.94,12.72,13.72,13.7,12.7
+2026,March,27,SRA,Powdersville HS JV,66.6,12.12,13.18,14.2,13.4
+2026,March,27,SRA,Wade Hampton HS,65.201,11.72,14.18,12.6,12.5
+2026,March,27,SRA,Seneca HS JV,62.841,12.52,12.52,13.0,11.6
+2026,March,27,SRA,Rock Hill HS JV,61.461,12.32,12.14,13.1,12.2
+2026,March,27,SRA,Greenville HS,60.641,11.52,12.72,12.4,12.1
+2026,March,27,SRA,Boiling Springs HS JV,59.5,11.12,11.18,12.2,12.6
+2026,March,27,SRA,Pelion HS,55.8,10.92,10.98,11.1,10.6
+2026,March,27,SRA,Walhalla HS,55.1,11.32,10.78,10.6,11.1
+2026,March,27,R2,Riverside HS JV,69.26,13.92,14.54,13.2,12.9
+2026,March,27,R2,Lewisville HS,67.44,11.92,13.92,14.8,13.3
+2026,March,27,R2,South Pointe HS Varsity,67.2,12.92,13.38,14.4,13.8
+2026,March,27,R2,Gaffney Winterguard,66.94,12.72,13.72,13.7,12.7
+2026,March,27,R2,Powdersville HS JV,66.6,12.12,13.18,14.2,13.4
+2026,March,27,R2,Wade Hampton HS,65.201,11.72,14.18,12.6,12.5
+2026,March,27,R2,Seneca HS JV,62.841,12.52,12.52,13.0,11.6
+2026,March,27,R2,Rock Hill HS JV,61.461,12.32,12.14,13.1,12.2
+2026,March,27,R2,Greenville HS,60.641,11.52,12.72,12.4,12.1
+2026,March,27,R2,Boiling Springs HS JV,59.5,11.12,11.18,12.2,12.6
+2026,March,27,R2,Pelion HS,55.8,10.92,10.98,11.1,10.6
+2026,March,27,R2,Walhalla HS,55.1,11.32,10.78,10.6,11.1
 2024,February,17,PSA,Grant Co HS,61.15,18.5,18.75,12.5,11.4
 2024,February,17,SJ,Forest Hills,51.45,8.41,9.34,10.7,11.6
 2024,February,17,SJ,Deer Park Junior HS,45.95,6.21,8.94,10.0,10.7
@@ -23345,6 +24145,13 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,February,28,IA,Evergreen Independent,63.17,12.29,12.68,13.3,12.0
 2026,February,28,IS,Kennedy Catholic Combined Varsity,51.08,9.9,10.88,11.8,7.8
 2026,February,28,C,Pacificaires Cadet,50.32,9.3,12.32,8.6,8.7
+2026,March,14,PSA,Lee's Summit High School,78.5,24.0,15.5,23.6,15.4
+2026,March,14,PSA,Odessa High School,59.0,17.1,12.1,18.2,11.6
+2026,March,14,PIA,Modulation Z,86.1,25.5,17.4,25.7,17.5
+2026,March,14,PIA,Francis Howell Independent,84.15,25.65,17.3,24.8,16.4
+2026,March,14,PIA,Wentzville Independent,83.0,24.3,16.3,25.3,17.1
+2026,March,14,PIA,Belleville Indoor Percussion,75.1,21.9,14.8,23.0,15.4
+2026,March,14,PIO,Heartland Indoor Percussion,72.45,21.75,14.1,21.5,15.1
 2023,February,11,PSA,Hudsonville Winter Percussion,69.3,20.4,14.1,21.5,13.3
 2023,February,11,PIA,Ascension Percussion,70.75,21.15,12.7,22.7,14.2
 2023,February,11,PIA,Fruitport Independent,64.8,19.8,11.6,20.4,13.0
@@ -24283,6 +25090,12 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2026,February,28,PSW,Bridgeland HS,85.0,25.95,16.85,25.55,16.65
 2026,February,28,PIW,Rhythmic Force Percussion,87.0,26.7,17.15,26.15,17.0
 2026,February,28,PIW,Monarch Independent,84.1,26.1,16.75,25.0,16.25
+2026,February,21,SRA,Belleville West HS Junior Varsity,70.33,14.72,14.1,13.9,14.15
+2026,February,21,SRA,Ft. Zumwalt Easth HS Junior Varsity,68.09,13.18,14.4,14.1,13.95
+2026,February,21,SRA,Windsor High School,67.16,12.92,13.8,13.6,13.9
+2026,February,21,SRA,Pattonville High School Junior Varsity,63.28,11.66,14.0,12.9,13.2
+2026,February,21,SRA,Mater Dei High School,55.48,10.32,10.06,11.6,11.8
+2026,February,21,SA,North Point High School,68.01,13.54,13.3,13.5,13.2
 2024,April,18,PSA,Pearl HS,92.25,27.0,18.75,27.75,18.75
 2024,April,18,PSA,Greenfield-Central HS,91.5,27.3,18.65,26.85,18.7
 2024,April,18,PSA,Central Dauphin HS,89.1,27.0,17.8,26.3,18.0
@@ -26082,6 +26895,43 @@ year,month,day,class,name,overall score,music effect,visual effect,music,visual
 2025,April,10,PIA,Legacy Percussion,83.201,24.75,16.5,24.925,17.025
 2025,April,10,PIA,Carolina Storm Indoor Percussion,77.3,23.7,14.9,23.95,14.75
 2025,April,10,PIA,Quad City Percussion,76.475,23.25,15.6,23.325,14.3
+2026,March,28,PSA,Cheney Indoor Percussion Ensemble,86.45,25.3,26.55,17.6,17.0
+2026,March,28,PSA,Cheney High School,86.45,25.3,26.55,17.6,17.0
+2026,March,28,PSA,Golden Apple Indoor Percussion,80.975,24.6,24.75,15.7,15.925
+2026,March,28,PSA,Central Valley Winter Percussion,79.7,23.85,23.85,16.3,15.7
+2026,March,28,PSA,Spokane Valley,79.7,23.85,23.85,16.3,15.7
+2026,March,28,PSA,University HS Indoor Percussion,79.25,24.45,24.3,15.4,15.1
+2026,March,28,PSA,Spokane Valley,79.25,24.45,24.3,15.4,15.1
+2026,March,28,SRA,Kennewick Winter Guard,85.71,17.4,17.66,16.9,17.3
+2026,March,28,SRA,Hanford High School,83.485,16.8,17.26,16.7,17.4
+2026,March,28,SRA,Ridgeline High School JV,81.935,16.4,15.86,16.5,17.1
+2026,March,28,SRA,Cascade High School JV,79.66,15.5,16.06,15.4,17.0
+2026,March,28,SRA,Mead High School,77.811,15.1,16.46,14.5,16.6
+2026,March,28,SRA,University High School,75.586,14.84,14.92,15.0,16.35
+2026,March,28,SRA,Kamiakin High School,74.991,14.58,15.46,15.2,16.5
+2026,March,28,SRA,Central Valley High School,74.771,15.86,15.26,14.3,16.55
+2026,March,28,SRA,Oak Harbor HS,72.451,14.94,14.06,13.8,16.2
+2026,March,28,SRA,Peninsula Combined WG,71.915,13.88,14.46,12.9,15.5
+2026,March,28,SRA,Bonney Lake High School,70.68,12.12,14.26,13.4,15.95
+2026,March,28,SRA,Granite Falls HS,67.98,12.72,13.46,11.8,15.9
+2026,March,28,SRA,Mt Spokane High School Winterguard (B),65.465,12.32,12.52,11.1,14.9
+2026,March,28,SRA,The Pride of Clarkston Winter Guard,65.14,11.92,12.92,11.0,15.05
+2026,March,28,IRA,Kennedy Catholic Combined JV,71.04,13.38,15.66,13.9,13.7
+2026,March,28,IRA,Prelude,63.7,12.18,12.72,12.8,12.6
+2026,March,28,SA,Cascade High School Varsity,86.32,16.6,17.47,17.3,17.5
+2026,March,28,SA,Ridgeline High School Varsity,84.58,16.26,17.07,17.0,17.2
+2026,March,28,SA,Kamiak High School,83.58,16.41,17.27,16.7,16.4
+2026,March,28,SA,Wenatchee High School,80.51,15.14,16.47,16.1,16.2
+2026,March,28,SA,Tahoma High School,78.51,15.34,15.87,15.6,15.8
+2026,March,28,SA,Mt Spokane High School Winterguard (A),71.471,14.27,15.6,14.0,13.6
+2026,March,28,SA,Mt Spokane High School,71.471,14.27,15.6,14.0,13.6
+2026,March,28,SA,Cheney High School,67.391,12.68,13.41,12.8,13.7
+2026,March,28,SA,Cheney High School,67.391,12.68,13.41,12.8,13.7
+2026,March,28,IA,Rhapsody,84.95,16.41,17.14,17.6,17.8
+2026,March,28,IS,Rhapsody Senior Independent,78.48,14.61,15.07,16.5,16.4
+2026,March,28,IS,Kennedy Catholic Combined Varsity,68.68,12.94,12.94,13.5,14.7
+2026,March,28,IS,WSU Winterguard,65.18,11.94,12.34,13.0,14.1
+2026,March,28,IS,Pullman WA,65.18,11.94,12.34,13.0,14.1
 2023,March,25,PSA,Hudsonville HS,83.1,24.6,16.8,25.4,16.3
 2023,March,25,PSA,Dakota Combined Schools,81.3,24.9,16.2,24.4,15.8
 2023,March,25,PSA,Grand Blanc HS,78.95,24.15,15.7,24.6,14.5
@@ -28516,6 +29366,91 @@ BHROEIFHSWFTCWGCTHSVWTHSWTCHSVKWTCHSWGTHSWGTHSJGTCHSVWTHJWGT",East Hamilton JV W
 2024,March,16,PIO,River City Rhythm,86.35,26.55,18.0,24.3,17.5
 2024,March,16,PIO,Crossroads Percussion,85.25,25.35,17.1,25.9,16.9
 2024,March,16,PIW,MBI Indoor Percussion,83.9,25.2,17.0,25.1,16.6
+2026,March,28,PSRA,East Hamilton Indoor Percussion,81.25,24.3,24.45,16.4,16.1
+2026,March,28,PSRA,East Hamilton High School,81.25,24.3,24.45,16.4,16.1
+2026,March,28,PSRA,Soddy Daisy Indoor Percussion,76.25,22.4,22.65,15.5,15.7
+2026,March,28,PSRA,Jefferson County High School Indoor Percussion,75.6,22.8,22.5,14.8,15.5
+2026,March,28,PSRA,West High School Indoor Percussion,74.2,21.2,23.4,14.4,15.2
+2026,March,28,PSRA,Gibbs Winter Drumline,74.05,21.7,23.25,14.5,14.6
+2026,March,28,PSRA,Gibbs High School,74.05,21.7,23.25,14.5,14.6
+2026,March,28,PSA,Oak Ridge Indoor Percussion,89.15,25.9,26.25,18.9,18.1
+2026,March,28,PSA,Hardin Valley Percussion,86.4,25.3,25.8,17.4,17.9
+2026,March,28,PSA,Hardin Valley Academy,86.4,25.3,25.8,17.4,17.9
+2026,March,28,PSA,Lakeway Christian Academy Percussion,85.0,24.7,25.2,18.0,17.1
+2026,March,28,PSA,Karns Indoor Percussion,83.7,23.5,24.6,18.1,17.5
+2026,March,28,PSA,Seymour Percussion,82.65,24.4,23.85,17.1,17.3
+2026,March,28,PSA,Alcoa Indoor Percussion,79.251,22.6,23.25,16.9,16.5
+2026,March,28,PSA,Heritage Indoor Percussion Ensemble,79.001,21.7,24.0,16.4,16.9
+2026,March,28,PSA,Greeneville High School Percussion,74.001,21.4,22.2,15.2,15.2
+2026,March,28,PSO,Halls Indoor Percussion Ensemble,82.65,24.5,25.35,16.8,16.0
+2026,March,28,C,Grace Christian Fierce Minis,78.47,13.35,15.02,16.9,17.3
+2026,March,28,C,Grace Baptist Church,78.47,13.35,15.02,16.9,17.3
+2026,March,28,P,Clinton City Blaze,84.27,16.6,16.07,17.0,17.3
+2026,March,28,P,Clinton TN,84.27,16.6,16.07,17.0,17.3
+2026,March,28,P,Hardin Valley Middle School Winter Guard,83.46,16.48,16.08,16.5,17.2
+2026,March,28,P,Oak Ridge Prep,79.72,15.61,15.41,16.0,16.1
+2026,March,28,P,Clinton Prep,79.18,16.4,15.08,15.8,15.2
+2026,March,28,P,Avery Trace Cavalier Winterguard,79.13,16.28,15.35,15.6,15.6
+2026,March,28,SRA,Seymour JV,78.38,15.98,15.4,15.9,15.8
+2026,March,28,SRA,Cumberland County High School Winterguard,75.84,15.52,16.12,14.7,15.4
+2026,March,28,SRA,Gibbs JV Winter Guard,72.9,15.32,15.78,14.5,13.9
+2026,March,28,SRA,Anderson County Winter Guard,72.76,14.52,15.44,14.3,14.3
+2026,March,28,SRA,Grainger High School Winterguard,72.421,14.3,14.72,15.4,14.9
+2026,March,28,SRA,Lenoir City High School Junior Varsity,71.061,13.64,14.32,14.1,14.7
+2026,March,28,SRA,West High School Winterguard,70.841,14.92,14.52,14.9,13.3
+2026,March,28,SRA,Heritage Indoor Performance Ensemble - HIPE RED,69.741,14.32,13.92,13.2,14.5
+2026,March,28,SRA,Carter JV Guard,69.001,13.98,14.12,13.8,14.1
+2026,March,28,SRA,WB Orange,68.3,13.38,14.92,13.5,13.7
+2026,March,28,SRA,Soddy-Daisy Winterguard,88.46,18.2,16.66,17.6,18.0
+2026,March,28,SRA,Powell Bijoux,80.48,15.56,16.92,16.0,17.0
+2026,March,28,SRA,Campbell County High School,79.12,17.0,15.92,14.7,14.8
+2026,March,28,SRA,Bearden JV,79.06,16.06,16.4,15.4,16.3
+2026,March,28,SRA,Claiborne High School Winterguard,76.421,16.04,15.58,15.3,15.0
+2026,March,28,SRA,Northview Academy,73.721,13.98,14.84,15.6,14.2
+2026,March,28,SRA,Pigeon Forge High School Winterguard,72.781,14.98,15.1,13.9,14.6
+2026,March,28,R1,Soddy-Daisy Winterguard,88.46,18.2,16.66,17.6,18.0
+2026,March,28,R1,Powell Bijoux,80.48,15.56,16.92,16.0,17.0
+2026,March,28,R1,Campbell County High School,79.12,17.0,15.92,14.7,14.8
+2026,March,28,R1,Bearden JV,79.06,16.06,16.4,15.4,16.3
+2026,March,28,R1,Claiborne High School Winterguard,76.421,16.04,15.58,15.3,15.0
+2026,March,28,R1,Northview Academy,73.721,13.98,14.84,15.6,14.2
+2026,March,28,R1,Pigeon Forge High School Winterguard,72.781,14.98,15.1,13.9,14.6
+2026,March,28,SRA,Clinton High School Winterguard,86.68,16.92,16.46,17.9,17.5
+2026,March,28,SRA,Gibbs Varsity Winterguard,83.16,17.14,16.72,16.3,16.9
+2026,March,28,SRA,Ooltewah High School Winter Guard,81.66,16.24,16.12,16.6,17.1
+2026,March,28,SRA,Knoxville Central High School Varisty Winterguard,79.66,16.84,15.72,15.4,16.4
+2026,March,28,SRA,Karns High School JV Guard,78.981,16.26,15.12,16.0,16.2
+2026,March,28,SRA,First Baptist Academy,76.561,15.18,15.38,15.2,16.0
+2026,March,28,R2,Clinton High School Winterguard,86.68,16.92,16.46,17.9,17.5
+2026,March,28,R2,Gibbs Varsity Winterguard,83.16,17.14,16.72,16.3,16.9
+2026,March,28,R2,Ooltewah High School Winter Guard,81.66,16.24,16.12,16.6,17.1
+2026,March,28,R2,Knoxville Central High School Varisty Winterguard,79.66,16.84,15.72,15.4,16.4
+2026,March,28,R2,Karns High School JV Guard,78.981,16.26,15.12,16.0,16.2
+2026,March,28,R2,First Baptist Academy,76.561,15.18,15.38,15.2,16.0
+2026,March,28,SA,Halls Winter Guard,81.14,16.0,16.14,16.5,16.6
+2026,March,28,SA,Rhea County High School Winter Guard,80.48,15.34,16.54,16.1,16.4
+2026,March,28,SA,Roane County High School Winterguard,78.22,15.88,15.74,15.7,16.0
+2026,March,28,SA,Kingston,78.22,15.88,15.74,15.7,16.0
+2026,March,28,SA,Alcoa High School Winter Guard,77.12,14.61,15.01,15.9,16.2
+2026,March,28,SA,WB Blue,75.16,14.68,15.5,15.6,15.1
+2026,March,28,SA,Cookeville High School Winterguard,74.891,15.01,14.48,16.3,15.4
+2026,March,28,SA,Jefferson County Winter Guard,74.651,15.54,15.21,15.1,15.2
+2026,March,28,SA,Lakeway Christian Academy Winterguard,73.861,14.08,14.08,15.3,15.8
+2026,March,28,SA,Greeneville High School Winter Guard,73.011,13.88,14.53,14.6,15.0
+2026,March,28,SA,Lenoir City Winter Guard,70.56,13.28,14.28,14.9,14.6
+2026,March,28,SA,Hardin Valley A,85.57,18.33,16.34,16.6,17.2
+2026,March,28,SA,Heritage Indoor Performance Ensemble  - HIPE BLUE,82.82,17.6,15.02,16.5,17.0
+2026,March,28,SA,Karns High School Varsity Winter Guard,81.85,16.87,16.28,15.8,16.5
+2026,March,28,SA,Bearden Varsity,81.45,16.54,16.61,15.7,16.7
+2026,March,28,SA,Oak Ridge High School Winter Guard,80.141,17.2,15.94,15.3,16.3
+2026,March,28,SA,Carter Varsity Guard,76.191,16.01,15.08,14.6,15.8
+2026,March,28,SA,Farragut High School,73.231,15.28,14.75,14.1,15.4
+2026,March,28,IA,Beau Monde Independent,89.78,17.41,18.27,18.1,17.9
+2026,March,28,IA,Grace Christian Independent Fierce IA,75.93,14.75,15.08,15.1,15.7
+2026,March,28,IA,Grace Baptist Church,75.93,14.75,15.08,15.1,15.7
+2026,March,28,SO,Hardin Valley Open,80.1,15.7,16.5,16.3,16.0
+2026,March,28,SO,Maryville Winter Guard,71.2,14.5,14.5,14.3,14.2
+2026,March,28,SO,Maryville High School,71.2,14.5,14.5,14.3,14.2
 2022,March,19,PSA,Elk River Combined Schools,82.5,26.7,15.9,24.7,15.2
 2022,March,19,PSA,Burnsville HS,81.25,25.95,15.5,24.0,15.8
 2022,March,19,PSA,Osseo Area Combined Schools,79.85,24.45,16.5,22.3,16.6
@@ -29715,6 +30650,44 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2026,February,7,PSA,Henryville HS,60.6,17.1,13.2,18.2,12.1
 2026,February,7,PSA,Corydon Central HS,58.65,15.75,12.8,18.4,11.7
 2026,February,7,PSA,Mount Vernon Sr. HS,57.35,16.65,12.2,17.3,11.2
+2026,March,29,SA,Spartanburg HS Gold,81.21,15.54,15.87,16.3,17.0
+2026,March,29,SA,Irmo HS Varsity,77.96,14.99,15.27,15.2,16.8
+2026,March,29,SA,Lakeside HS Varsity,77.94,15.07,15.07,15.1,17.2
+2026,March,29,SA,Lucy Beckham Varsity,76.07,14.88,14.69,15.0,16.3
+2026,March,29,SA,Mt Pleasant SC,76.07,14.88,14.69,15.0,16.3
+2026,March,29,SA,Rock Hill HS,75.731,14.26,14.47,15.9,15.5
+2026,March,29,SA,River Bluff JV,75.421,14.66,15.26,15.5,14.2
+2026,March,29,SA,Porter Ridge HS A,73.021,13.94,13.88,15.7,14.6
+2026,March,29,SA,Hillcrest HS Varsity,70.261,14.35,13.61,13.9,13.7
+2026,March,29,SA,West Forsyth HS,68.511,13.89,13.42,13.4,13.6
+2026,March,29,R1,Spartanburg HS Gold,81.21,15.54,15.87,16.3,17.0
+2026,March,29,R1,Irmo HS Varsity,77.96,14.99,15.27,15.2,16.8
+2026,March,29,R1,Lakeside HS Varsity,77.94,15.07,15.07,15.1,17.2
+2026,March,29,R1,Lucy Beckham Varsity,76.07,14.88,14.69,15.0,16.3
+2026,March,29,R1,Mt Pleasant SC,76.07,14.88,14.69,15.0,16.3
+2026,March,29,R1,Rock Hill HS,75.731,14.26,14.47,15.9,15.5
+2026,March,29,R1,River Bluff JV,75.421,14.66,15.26,15.5,14.2
+2026,March,29,R1,Porter Ridge HS A,73.021,13.94,13.88,15.7,14.6
+2026,March,29,R1,Hillcrest HS Varsity,70.261,14.35,13.61,13.9,13.7
+2026,March,29,R1,West Forsyth HS,68.511,13.89,13.42,13.4,13.6
+2026,March,29,SA,Pendleton HS,82.48,15.74,16.54,16.1,17.6
+2026,March,29,SA,Boiling Springs HS Elite,79.66,14.75,15.61,16.5,16.5
+2026,March,29,SA,Stratford HS,78.54,15.33,15.21,15.9,16.3
+2026,March,29,SA,Newton Conover High School,77.37,14.67,15.2,15.1,16.7
+2026,March,29,SA,Cox Mill HS,75.331,14.14,14.59,15.4,16.0
+2026,March,29,SA,Chesnee HS Varsity,73.861,15.08,14.48,14.7,15.0
+2026,March,29,SA,Silver Bluff HS,72.331,14.22,14.01,14.2,15.4
+2026,March,29,SA,Travelers Rest HS,72.071,14.51,14.26,13.8,14.7
+2026,March,29,SA,Forestview HS,71.231,14.06,14.67,14.0,13.8
+2026,March,29,R2,Pendleton HS,82.48,15.74,16.54,16.1,17.6
+2026,March,29,R2,Boiling Springs HS Elite,79.66,14.75,15.61,16.5,16.5
+2026,March,29,R2,Stratford HS,78.54,15.33,15.21,15.9,16.3
+2026,March,29,R2,Newton Conover High School,77.37,14.67,15.2,15.1,16.7
+2026,March,29,R2,Cox Mill HS,75.331,14.14,14.59,15.4,16.0
+2026,March,29,R2,Chesnee HS Varsity,73.861,15.08,14.48,14.7,15.0
+2026,March,29,R2,Silver Bluff HS,72.331,14.22,14.01,14.2,15.4
+2026,March,29,R2,Travelers Rest HS,72.071,14.51,14.26,13.8,14.7
+2026,March,29,R2,Forestview HS,71.231,14.06,14.67,14.0,13.8
 2024,February,17,PSA,Dobyns-Bennett HS,79.75,23.25,16.0,24.2,16.3
 2024,February,17,PSA,Mt. Juliet Combined Schools,79.55,22.65,16.3,24.5,16.1
 2024,February,17,PSA,Halls HS,76.9,21.9,15.1,23.7,16.2
@@ -31257,6 +32230,48 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,February,22,SA,Farragut High School Varsity,63.91,13.01,13.0,12.1,13.0
 2025,February,22,IA,Beau Monde Independent,72.52,14.01,14.61,14.3,14.8
 2025,February,22,SO,Hardin Valley Academy Varsity Winter Guard,63.8,12.3,12.3,13.6,12.7
+2026,March,28,SRA,Vermilion HS Winter Guard,81.94,13.92,15.12,14.6,15.5
+2026,March,28,SRA,Red Devil Indoor B,80.85,14.32,14.18,14.1,15.55
+2026,March,28,SRA,Central Crossing Winterguard,80.72,12.7,14.72,15.5,14.6
+2026,March,28,SRA,Middletown JV Winterguard,79.06,14.12,13.64,15.2,14.1
+2026,March,28,SRA,Wapakoneta HS Winter Guard,78.371,13.1,14.52,14.3,14.25
+2026,March,28,SRA,Zanesville HS Winter Guard,75.751,13.44,12.46,14.8,13.2
+2026,March,28,SRA,Avon JV,75.161,14.58,13.38,13.1,12.4
+2026,March,28,SRA,Firestone High School,74.651,12.02,12.33,14.5,14.2
+2026,March,28,SRA,Norton High School Jr. Varsity Winter Guard,73.781,12.9,13.48,13.6,12.9
+2026,March,28,SRA,Maysville Winter Guard,71.22,12.5,12.72,12.5,13.0
+2026,March,28,SRA,Worthington Kilbourne JV,90.65,16.78,17.57,18.8,19.0
+2026,March,28,SRA,New London Winter Guard,89.72,16.8,16.92,18.7,18.7
+2026,March,28,SRA,Reynoldsburg Winterguard Varsity,88.12,18.06,16.46,17.8,18.2
+2026,March,28,SRA,Hilliard Davidson Winterguard,87.93,17.86,16.12,17.6,18.35
+2026,March,28,SRA,Bloom Carroll Winter Guard,86.68,17.32,17.26,17.2,17.5
+2026,March,28,SRA,Cloverleaf Winter Guard,83.721,15.64,17.88,16.1,16.9
+2026,March,28,SRA,Marion Harding Indoor Guard,81.521,17.0,15.42,16.6,17.3
+2026,March,28,SRA,Lancaster High School,77.051,15.98,14.32,16.0,15.35
+2026,March,28,SRA,Hiland High School,75.441,14.1,15.34,15.1,15.4
+2026,March,28,SRA,London High School Winter Guard,74.15,15.3,14.15,15.4,15.7
+2026,March,28,SRA,Lexington High School,73.56,14.36,15.8,14.7,14.9
+2026,March,28,SRA,Maumee HS Winterguard,72.84,14.7,14.84,14.6,14.6
+2026,March,28,SRA,Crestwood Winterguard,69.74,13.76,13.98,13.8,14.2
+2026,March,28,IRA,Rangerettes,85.5,17.26,17.34,16.6,17.8
+2026,March,28,IRA,Olentangy Independent,84.14,16.38,17.66,16.5,17.2
+2026,March,28,IRA,Westerville City School District,82.06,15.58,16.88,16.4,17.5
+2026,March,28,IRA,Grove City High School,79.31,15.78,16.68,14.6,16.35
+2026,March,28,IRA,MOV Winter Guard,77.581,14.36,16.72,15.1,16.2
+2026,March,28,IRA,Mosaic Guard,77.141,15.04,15.1,15.4,16.3
+2026,March,28,SA,Avon High School Winterguard,85.05,17.86,17.59,16.5,16.7
+2026,March,28,SA,Springfield Holland High School,79.32,15.21,16.41,15.6,16.2
+2026,March,28,SA,Wadsworth HS Winter Guard,74.26,14.08,14.68,14.7,15.2
+2026,March,28,SA,Westland High School Winter Guard,68.57,12.89,13.48,14.0,14.1
+2026,March,28,SNA,Middletown High School,89.54,17.2,18.34,17.9,18.1
+2026,March,28,SNA,Worthington Kilbourne HS,86.68,16.74,17.54,17.3,17.7
+2026,March,28,SNA,Red Devil Indoor Guard A,82.34,15.81,17.13,15.9,16.9
+2026,March,28,SNA,Central Crossing HS,81.9,15.41,16.94,16.4,16.95
+2026,March,28,SNA,Norton High School Varsity Winter Guard,79.29,14.68,16.21,16.2,16.3
+2026,March,28,IA,Rangerettes,86.47,18.2,17.67,17.0,17.2
+2026,March,28,IA,Phoenix Independent,84.94,16.01,17.13,17.2,17.5
+2026,March,28,IO,Collage Winter Guard,87.5,17.0,17.9,17.3,17.5
+2026,March,28,IW,Phoenix Independent,87.3,17.3,18.1,17.2,17.5
 2026,March,21,PSA,Columbus HS,83.35,24.45,15.5,26.3,17.1
 2026,March,21,PIA,Spark Percussion,82.65,25.05,16.4,24.3,16.9
 2026,March,21,PIA,Bellevue Combined Schools,80.0,23.4,15.7,25.0,15.9
