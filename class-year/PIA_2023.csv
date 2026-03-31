@@ -1,0 +1,89 @@
+year,week,class,name,overall score,music effect,visual effect,music,visual
+2023,2,PIA,Albany,59.3,18.1,18.0,11.9,11.3
+2023,3,PIA,Albany,62.65,18.6,19.05,12.4,12.6
+2023,10,PIA,Albany,71.45,24.5,19.05,13.7,14.2
+2023,8,PIA,Albany Indoor Percussion Ensemble,73.05,22.35,15.6,20.6,14.5
+2023,3,PIA,Ascension Percussion,70.75,21.15,12.7,22.7,14.2
+2023,5,PIA,Ascension Percussion,73.9,21.9,14.7,23.0,14.3
+2023,7,PIA,Buckhorn Indoor Percussion,85.5,26.7,17.4,24.6,16.8
+2023,5,PIA,Central Bucks School District,67.45,20.6,19.05,14.2,13.6
+2023,7,PIA,Central Bucks School District,69.3,20.1,21.3,13.7,14.2
+2023,10,PIA,Central Bucks School District,71.5,21.5,21.0,14.5,14.5
+2023,6,PIA,Charles Towne Percussion,77.25,22.95,14.9,24.3,15.1
+2023,5,PIA,Conflux Percussion,69.5,21.3,14.2,20.4,13.6
+2023,7,PIA,Convergence Indoor Percussion,68.9,21.0,13.0,22.4,12.5
+2023,8,PIA,Cornell University,64.65,20.6,19.65,12.2,12.2
+2023,9,PIA,Cornell University,69.05,22.5,20.85,13.0,12.7
+2023,10,PIA,Cornell University,73.45,25.0,20.55,14.3,13.6
+2023,3,PIA,Cornerstone Percussion,68.9,19.5,14.4,20.5,14.5
+2023,5,PIA,Cornerstone Percussion,75.6,23.7,15.1,21.8,15.0
+2023,7,PIA,Cornerstone Percussion,75.65,22.05,15.2,23.4,15.0
+2023,8,PIA,Cornerstone Percussion,74.0,23.4,14.0,22.1,14.5
+2023,9,PIA,Cornerstone Percussion,77.45,22.65,17.2,22.9,14.7
+2023,11,PIA,Cornerstone Percussion,78.4,23.7,15.6,23.6,15.5
+2023,7,PIA,Creekside Independent,86.1,27.0,17.9,24.1,17.1
+2023,6,PIA,Crystal Lake Thunder,74.85,22.65,14.9,23.6,13.7
+2023,13,PIA,Crystal Lake Thunder,86.064,26.062,16.7,26.75,16.55
+2023,7,PIA,DV Indoor Percussion,78.75,22.05,17.8,23.4,15.5
+2023,3,PIA,ECR Independent,69.7,20.7,15.0,20.0,14.0
+2023,6,PIA,ECR Independent,73.25,23.55,14.4,20.5,14.8
+2023,11,PIA,ECR Independent,81.9,24.6,16.3,24.7,16.3
+2023,12,PIA,ECR Independent,84.0,25.5,16.3,25.4,16.8
+2023,3,PIA,Fruitport Independent,64.8,19.8,11.6,20.4,13.0
+2023,5,PIA,Fruitport Independent,68.4,18.9,14.3,20.3,14.9
+2023,8,PIA,Fruitport Independent,68.4,20.1,12.5,22.6,13.2
+2023,10,PIA,Fruitport Independent,76.175,23.175,15.35,22.9,14.75
+2023,9,PIA,Fruitport Independent Percussion,76.0,23.1,15.7,23.0,14.2
+2023,7,PIA,Horizon Percussion,75.6,23.7,14.4,22.8,14.7
+2023,4,PIA,Huron Valley Percussion,69.15,20.85,13.3,21.0,14.0
+2023,7,PIA,Huron Valley Percussion,73.45,23.25,14.3,21.8,14.1
+2023,9,PIA,Huron Valley Percussion,83.0,25.2,16.3,25.3,16.2
+2023,10,PIA,Huron Valley Percussion,81.75,24.9,16.55,24.1,16.2
+2023,13,PIA,Huron Valley Percussion,89.389,26.962,17.9,26.825,17.7
+2023,2,PIA,Impulse,71.7,21.9,12.7,22.9,14.2
+2023,8,PIA,Impulse,76.45,23.85,13.2,23.0,16.4
+2023,11,PIA,Impulse,82.95,24.45,16.2,25.2,17.1
+2023,12,PIA,Impulse,86.65,26.1,17.0,25.6,17.95
+2023,5,PIA,Infinity 3,77.15,23.85,15.7,22.6,15.0
+2023,6,PIA,Kannapolis Independent,71.6,21.9,14.1,21.8,13.8
+2023,13,PIA,Kannapolis Independent,81.85,25.05,16.1,24.9,15.8
+2023,4,PIA,Lake Effect Percussion,72.0,21.3,15.1,20.9,14.7
+2023,7,PIA,Lake Effect Percussion,82.35,24.75,17.0,24.7,15.9
+2023,6,PIA,Lincoln-Way Indoor Drumline,74.4,21.9,14.3,22.8,15.4
+2023,4,PIA,MidMichigan Impact,66.6,20.4,12.9,20.0,13.3
+2023,5,PIA,MidMichigan Impact,66.95,18.75,14.1,20.8,13.3
+2023,8,PIA,MidMichigan Impact,75.4,23.4,13.2,23.8,15.0
+2023,10,PIA,MidMichigan Impact,75.075,22.575,15.25,22.2,15.05
+2023,5,PIA,Modulation Z,85.45,25.05,17.1,26.4,16.9
+2023,13,PIA,Modulation Z,96.05,29.55,19.225,28.375,18.9
+2023,7,PIA,North Star Independent,84.4,25.5,17.7,25.1,16.1
+2023,4,PIA,Pace Percussion Ensemble,70.55,21.45,14.7,19.5,14.9
+2023,7,PIA,Pace Percussion Ensemble,78.6,22.5,16.3,23.7,16.1
+2023,9,PIA,Pace Percussion Ensemble,81.3,24.0,16.7,24.6,16.0
+2023,11,PIA,Pace Percussion Ensemble,83.15,25.65,16.4,24.2,16.9
+2023,12,PIA,Pace Percussion Ensemble,85.3,26.1,16.25,25.5,17.45
+2023,5,PIA,Pi Percussion Inc.,78.85,23.25,15.2,25.5,14.9
+2023,13,PIA,Pi Percussion Inc.,89.8,27.45,17.3,27.7,17.35
+2023,7,PIA,Pinnacle Percussion,75.325,22.125,15.4,23.0,14.8
+2023,8,PIA,Quad City Percussion,70.45,20.85,14.2,21.7,13.7
+2023,5,PIA,RPT PERCUSSION,70.75,21.15,14.6,21.0,14.0
+2023,6,PIA,Revelation,75.2,22.5,14.6,22.1,16.0
+2023,7,PIA,Rift Percussion,81.45,24.75,16.9,25.2,14.6
+2023,9,PIA,Rift Percussion,83.4,24.9,17.8,24.9,15.8
+2023,8,PIA,Rochester Lourdes Drumline,74.3,22.5,14.7,22.1,15.0
+2023,6,PIA,Shelby County IGNITE Winter Percussion,69.1,21.9,13.7,20.6,12.9
+2023,9,PIA,Shockwave,62.4,18.3,12.2,19.8,12.1
+2023,13,PIA,Shockwave,70.05,21.75,14.5,20.1,13.7
+2023,5,PIA,Southeastern Connecticut Winter Percussion,70.2,20.4,13.3,22.4,14.1
+2023,8,PIA,St. Ambrose University Indoor Percussion,70.0,20.4,13.7,22.0,13.9
+2023,13,PIA,St. Ambrose University Indoor Percussion,83.925,25.575,16.2,25.7,16.45
+2023,7,PIA,St. Martin Independent,75.6,23.7,15.0,22.1,14.8
+2023,13,PIA,St. Martin Independent,94.025,28.35,18.875,28.25,18.55
+2023,7,PIA,Sun City Independent,75.6,21.3,14.5,25.5,14.3
+2023,6,PIA,Trilogy Independent,80.95,24.45,15.8,24.7,16.0
+2023,6,PIA,UTRGV Percussion,79.05,22.65,15.2,24.2,17.0
+2023,9,PIA,Viking Independent Percussion,70.6,22.5,14.5,19.9,13.7
+2023,5,PIA,Vortex Percussion,69.6,20.4,15.0,19.8,14.4
+2023,9,PIA,Vortex Percussion,80.0,24.6,15.0,24.8,15.6
+2023,10,PIA,Vortex Percussion,77.825,23.625,14.6,24.2,15.4
+2023,5,PIA,West Broward Independent,74.1,22.8,15.0,21.2,15.1

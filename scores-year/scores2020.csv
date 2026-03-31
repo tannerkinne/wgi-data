@@ -1,0 +1,560 @@
+year,week,class,name,overall score,music effect,visual effect,music,visual
+2020,1,IA,Absolute A Winterguard,63.95,12.61,13.54,12.2,12.8
+2020,5,IA,Absolute Blue Winterguard,68.25,14.01,14.14,13.5,13.6
+2020,0,IRA,Absolute RA Winterguard,66.05,14.14,14.21,12.9,12.6
+2020,1,IRA,Absolute RA Winterguard,70.51,14.94,14.47,13.5,13.8
+2020,4,PIA,Aftermath,67.0,19.0,19.95,14.6,13.45
+2020,5,PIA,Albany Indoor Percussion,68.6,19.6,20.7,14.2,14.1
+2020,6,PIA,Albany Indoor Percussion,66.3,20.5,18.0,13.9,13.9
+2020,0,N,Alcoa High School Winterguard,53.91,12.07,11.1,8.7,10.3
+2020,1,N,Alcoa High School Winterguard,61.45,13.81,12.74,13.1,11.0
+2020,6,N,Alcoa High School Winterguard,63.72,11.74,13.08,13.3,12.8
+2020,5,B2,Aliso Niguel HS,76.15,21.45,15.4,23.8,15.5
+2020,3,PSJ,Alvarado IS,73.55,21.15,14.1,24.0,14.3
+2020,5,PSJ,Alvarado IS,78.7,24.0,15.1,23.6,16.0
+2020,1,SRA,Anderson County Blue,55.07,11.9,11.87,10.8,10.5
+2020,6,SRA,Anderson County Blue,63.371,14.01,14.06,12.0,12.1
+2020,1,N,Anderson County Gray,59.28,14.14,12.54,11.4,10.7
+2020,6,N,Anderson County Gray,66.42,13.01,13.41,13.7,13.2
+2020,6,PSA,Appoquinimink High School,80.525,24.6,24.825,16.5,14.6
+2020,1,PSW,Arcadia HS,78.75,24.15,16.2,22.7,15.7
+2020,3,PSW,Arcadia HS,81.25,24.75,16.2,24.6,15.7
+2020,5,PSW,Arcadia HS,82.95,25.05,16.5,24.6,16.8
+2020,1,PSA,Arroyo HS,73.65,20.85,15.7,23.5,13.6
+2020,3,PSA,Arroyo HS,74.75,21.6,15.15,23.9,14.1
+2020,6,B2,Arroyo HS,79.85,23.55,15.5,25.3,15.5
+2020,1,GHSSRAS,Arvin HS JV,64.75,12.82,13.53,11.9,14.2
+2020,1,GHSSW,Arvin World,63.4,13.7,12.2,12.7,12.3
+2020,5,PSA,Avon Grove,68.751,19.9,22.35,13.7,12.8
+2020,6,PSA,Avon Grove,67.25,18.8,21.15,14.3,13.0
+2020,2,PSW,Ayala HS,80.15,24.45,15.6,24.1,16.0
+2020,3,PSW,Ayala HS,80.8,23.7,16.5,24.1,16.5
+2020,6,PSW,Ayala HS,87.2,26.1,18.1,25.6,17.4
+2020,3,PSA,Baldwin Park HS,75.275,22.725,16.0,21.45,15.1
+2020,5,B2,Baldwin Park HS,74.35,22.95,15.6,21.0,14.8
+2020,0,P,Bearden Prep,59.78,11.47,11.21,12.1,12.2
+2020,1,P,Bearden Prep,58.95,12.01,11.34,13.8,10.9
+2020,0,SA,Bearden Varsity,61.41,13.07,13.54,11.6,11.9
+2020,1,SA,Bearden Varsity,65.88,13.81,14.27,12.8,12.4
+2020,5,SA,Bearden Varsity,70.18,14.54,14.54,13.8,13.9
+2020,2,PSA,Bonita HS,72.626,22.125,14.9,21.2,14.4
+2020,5,B1,Bonita HS,70.551,20.85,14.2,21.6,13.9
+2020,6,PSA,Bonita Vista HS,65.8,20.4,13.4,19.1,12.9
+2020,2,PIW,Broken City,83.45,25.35,16.8,24.8,16.5
+2020,3,PIW,Broken City,83.45,25.05,17.3,25.1,16.0
+2020,3,PSO,Buena HS,74.001,22.5,14.7,23.2,13.6
+2020,5,PSO,Buena HS,75.501,23.4,15.2,22.9,14.0
+2020,1,GHSSRAS,Bullard HS Guard,58.25,11.29,13.26,11.5,11.9
+2020,3,GHSSRAS,Bullard HS Guard,59.95,120.8,112.7,12.7,12.2
+2020,6,GHSSRAS,Bullard HS Guard,69.94,147.4,142.0,12.6,14.1
+2020,5,PSA,Cab Calloway,78.4,24.7,24.0,15.9,13.8
+2020,6,PSA,Cab Calloway,81.15,24.8,25.35,16.3,14.7
+2020,3,PSA,Camarillo HS,71.951,21.9,13.7,23.35,13.0
+2020,5,B2,Camarillo HS,77.65,22.35,14.8,24.5,16.0
+2020,6,PIA,Camden County NJ,82.25,25.0,23.25,17.1,16.9
+2020,3,PSA,Canyon HS (AH),77.65,22.65,16.3,23.0,15.7
+2020,6,PSA,Canyon HS (AH),81.7,23.7,16.7,24.4,16.9
+2020,3,PSA,Canyon HS (CC),67.25,18.75,14.8,20.4,13.3
+2020,5,B1,Canyon HS (CC),71.15,21.45,15.3,21.1,13.3
+2020,3,PSJ,Canyon Hills JHS,73.4,19.8,14.9,24.3,14.4
+2020,5,PSJ,Canyon Hills JHS,78.55,23.85,15.4,24.2,15.1
+2020,2,PSA,Canyon Springs HS,74.15,23.85,14.2,21.1,15.0
+2020,5,B2,Canyon Springs HS,74.25,21.0,16.0,22.75,14.5
+2020,1,P-SNB,Carlisle HS Percussion,65.2,18.9,18.6,13.8,13.9
+2020,3,PSO,Carlsbad HS,73.076,22.275,15.3,21.5,14.0
+2020,6,PSO,Carlsbad HS,76.85,22.95,16.6,21.8,15.5
+2020,0,PSN,Carter Drumline,62.4,18.5,18.9,12.2,12.8
+2020,0,SRA,Carter High School Winterguard,56.261,12.35,12.21,9.9,10.7
+2020,6,P,Carter Prep,64.54,12.27,12.27,13.3,13.0
+2020,5,PIO,Catalyst Percussion,74.45,22.65,15.1,21.7,15.0
+2020,6,PIO,Catalyst Percussion,77.45,23.25,16.2,22.9,15.1
+2020,2,PSA,Cathedral City HS,71.001,21.3,15.2,19.7,14.8
+2020,3,PSA,Centennial HS,64.95,19.95,13.3,18.6,13.1
+2020,4,PRA,Central Bucks West,70.55,22.2,19.65,15.0,13.7
+2020,6,PRA,Central Bucks West,75.1,22.5,22.8,14.8,15.0
+2020,1,P-SP,Central Dauphin HS Percussion,67.15,18.15,21.3,13.6,14.1
+2020,3,P-SP,Central Dauphin HS Percussion,72.0,21.6,20.4,15.8,14.2
+2020,4,P-SP,Central Dauphin HS Percussion,72.4,21.15,23.25,14.1,13.9
+2020,0,SRA,Central High School Winterguard,56.181,11.67,11.61,10.6,11.0
+2020,1,SRA,Central High School Winterguard,67.24,13.47,14.67,13.0,13.2
+2020,2,PSA,Central Square High School,63.751,19.4,19.65,12.9,11.8
+2020,3,PSA,Central Square High School,69.35,21.2,20.85,13.8,13.5
+2020,4,PSA,Central Square High School,71.5,20.5,22.5,14.1,14.4
+2020,6,PSA,Central Square High School,75.15,22.7,21.75,15.6,15.1
+2020,2,P-SNB,Century HS Percussion,80.4,25.35,25.05,15.3,14.7
+2020,4,P-SNB,Century HS Percussion,75.1,22.2,22.8,15.1,15.0
+2020,6,P-SNB,Century HS Percussion,79.675,24.75,24.225,15.5,15.2
+2020,3,PSO,Cesar E. Chavez HS,82.0,24.3,16.9,24.5,16.3
+2020,2,PSA,Chaffey HS,69.001,20.4,14.8,19.3,14.5
+2020,6,PSA,Chaffey HS,72.5,21.6,14.1,22.9,13.9
+2020,2,PSA,Chaparral HS,64.4,18.9,12.7,20.1,12.7
+2020,5,B2,Chaparral HS,71.101,21.9,14.1,21.8,13.3
+2020,6,B1,Chaparral HS,72.601,22.8,12.8,22.0,15.0
+2020,5,PRA,Cheltenham,77.751,22.7,23.85,15.8,15.4
+2020,6,PRA,Cheltenham,80.3,25.1,23.7,16.1,15.4
+2020,1,PSO,Chino HS,76.45,24.15,16.2,22.2,13.9
+2020,3,PSO,Chino HS,82.05,25.05,15.9,25.2,15.9
+2020,6,PSO,Chino HS,84.55,25.65,17.0,25.2,16.7
+2020,3,PSW,Chino Hills HS,83.9,25.2,17.0,25.3,16.4
+2020,6,N,Claiborne County High School Winterguard,63.25,12.68,13.07,12.6,12.4
+2020,1,P,Clinton Middle Winterguard,53.37,11.16,11.01,11.6,10.1
+2020,6,P,Clinton Middle Winterguard,62.28,12.21,12.5,12.2,12.9
+2020,0,SRA,Clinton Winterguard,50.42,9.41,10.01,10.5,10.9
+2020,6,SRA,Clinton Winterguard,64.941,12.07,13.47,12.8,13.8
+2020,3,PRA,Coatesville,72.3,20.0,22.5,14.7,15.1
+2020,4,PRA,Coatesville,77.75,22.8,23.85,15.4,15.7
+2020,5,PRA,Coatesville,78.15,23.4,22.95,15.3,16.5
+2020,6,PRA,Coatesville,79.3,23.3,24.0,16.2,15.8
+2020,1,P-SG,Conestoga Valley HS Percussion,63.4,18.9,17.7,13.1,13.7
+2020,1,N,Cookeville High School Winterguard,57.27,13.56,12.21,11.0,10.4
+2020,6,PIA,Cornell Indoor Drumline,59.45,19.6,16.95,11.4,11.5
+2020,6,PIA,Cornerstone Percussion,76.05,22.65,15.6,22.4,15.4
+2020,2,PSA,Corning-Painted Post,67.1,19.8,20.1,14.6,12.6
+2020,3,PSA,Corning-Painted Post,69.6,20.3,20.4,14.9,14.0
+2020,6,PSA,Corning-Painted Post,71.15,22.4,20.85,14.1,13.8
+2020,3,PSA,Crescenta Valley HS,68.1,21.6,12.4,21.6,12.5
+2020,6,PSA,Crescenta Valley HS,63.15,19.35,12.0,19.6,12.2
+2020,0,PSN,Cumberland Gap Indoor Percussion,62.85,19.3,18.45,12.6,12.5
+2020,2,PSA,Cypress HS,78.55,25.05,15.9,21.8,15.8
+2020,3,PSA,Cypress HS,78.15,22.35,16.0,24.5,15.3
+2020,6,B1,Cypress HS,84.0,25.8,16.7,24.9,16.6
+2020,3,PSA,Damien HS,69.951,22.35,12.9,21.55,13.15
+2020,3,PIW,Dark Sky Percussion,81.35,24.15,16.6,25.0,15.6
+2020,5,PIW,Dark Sky Percussion,83.1,25.5,16.8,24.6,16.2
+2020,2,PSA,Desert Mirage HS,59.1,16.8,12.6,18.0,11.7
+2020,3,PSW,Diamond Bar HS,76.15,22.95,15.4,23.2,14.6
+2020,5,PSW,Diamond Bar HS,77.15,23.55,15.7,23.6,14.3
+2020,3,PSA,Don Lugo HS,74.4,22.5,15.7,22.05,14.15
+2020,5,B2,Don Lugo HS,71.65,20.55,16.0,20.6,14.5
+2020,6,PSA,Don Lugo HS,70.101,20.7,13.3,21.9,14.2
+2020,2,PSJ,Dorothy McElhinney MS,75.35,22.35,15.0,21.5,16.5
+2020,6,PSJ,Dorothy McElhinney MS,83.85,25.65,16.8,24.7,16.7
+2020,4,PIO,Downingtown Area SD,79.25,23.6,24.45,16.5,14.7
+2020,5,ME,Downingtown Area SD,83.25,25.0,25.05,16.6,16.6
+2020,6,PIO,Downingtown Area SD,81.95,24.3,25.35,16.2,16.1
+2020,3,PIA,ECR Independent,70.85,21.45,16.8,19.0,13.6
+2020,5,PIA,ECR Independent,75.1,24.0,15.8,21.2,14.1
+2020,5,PJHSA,Earlimart MS Percussion,67.95,23.1,21.75,11.1,12.0
+2020,6,SRA,East Hamilton High School Winterguard,58.61,11.21,13.0,11.6,11.7
+2020,2,PSO,East Irondequoit,68.25,23.6,18.75,12.9,13.0
+2020,3,PSO,East Irondequoit,74.15,23.4,21.75,14.4,14.6
+2020,6,PSO,East Irondequoit,77.35,21.7,23.25,16.1,16.3
+2020,2,PSO,East Syracuse Minoa,70.0,22.7,20.1,13.6,13.6
+2020,4,PSO,East Syracuse Minoa,78.55,23.3,24.15,15.5,15.6
+2020,5,PSO,East Syracuse Minoa,81.1,24.2,24.3,16.3,16.3
+2020,6,PSO,East Syracuse Minoa,82.6,25.9,24.9,15.8,16.0
+2020,6,PSA,Eastlake HS,71.001,21.3,14.6,20.7,14.4
+2020,2,PSA,Edison HS,66.4,21.9,13.0,18.7,12.8
+2020,6,B1,Edison HS,69.751,20.4,14.05,20.5,14.8
+2020,1,GHSSRAS,Edison HS Guard,65.89,12.42,14.07,15.7,12.9
+2020,5,GHSSRAG,Edison HS Guard,76.24,150.7,158.7,15.6,15.8
+2020,6,GHSSRAG,Edison HS Guard,76.01,153.4,162.7,14.9,14.9
+2020,1,PHSSRA,Edison HS Percussion,53.401,18.1,16.5,9.2,9.6
+2020,5,PHSSRA,Edison HS Percussion,67.15,20.0,21.3,13.6,12.25
+2020,6,PHSSRA,Edison HS Percussion,70.0,21.1,19.8,14.3,14.8
+2020,3,PRA,Egg Harbor Township HS,75.4,22.0,23.4,14.4,15.6
+2020,4,PRA,Egg Harbor Township HS,81.5,25.2,25.2,16.2,14.9
+2020,5,PRA,Egg Harbor Township HS,82.25,24.2,26.25,15.0,16.8
+2020,2,PSA,El Camino HS,70.301,22.35,14.3,19.5,14.15
+2020,6,GJHSA,El Capitan MS Guard,51.115,101.65,115.5,9.7,10.2
+2020,1,GHSSRAS,El Diamante HS Guard,57.511,11.47,13.54,10.1,12.3
+2020,3,GHSSRAS,El Diamante HS Guard,63.01,116.7,109.4,13.7,13.4
+2020,5,GHSSRAS,El Diamante HS Guard,67.99,131.5,135.4,13.2,14.5
+2020,6,GHSSRAS,El Diamante HS Guard,72.91,144.7,145.4,14.6,14.8
+2020,5,PSO,El Dorado HS,80.9,24.3,16.6,23.1,16.9
+2020,3,PSA,El Toro HS,67.45,19.65,13.3,20.7,13.8
+2020,5,B1,El Toro HS,66.001,19.8,13.1,20.3,12.8
+2020,3,PSA,Escondido HS,69.951,22.8,13.0,21.1,13.05
+2020,6,PSA,Escondido HS,67.201,20.1,12.8,20.6,13.7
+2020,5,PSW,Etiwanda HS,79.5,23.4,16.8,24.2,15.1
+2020,6,PSW,Etiwanda HS,84.2,25.5,17.4,24.2,17.1
+2020,1,GHSSRAS,Exeter Union HS Guard,55.551,12.08,13.27,10.5,10.4
+2020,3,GHSSRAS,Exeter Union HS Guard,56.581,120.1,106.7,9.8,12.6
+2020,5,GHSSRAS,Exeter Union HS Guard,65.73,143.9,133.4,11.8,13.3
+2020,6,GHSSRAS,Exeter Union HS Guard,65.68,141.4,127.4,12.9,13.7
+2020,5,PHSSRA,Exeter Union HS Percussion,69.2,22.5,22.2,12.0,12.5
+2020,6,PHSSRA,Exeter Union HS Percussion,67.9,22.1,20.1,12.8,12.9
+2020,3,PSO,Fair Lawn,69.6,20.5,20.1,15.2,13.8
+2020,0,SRA,Farragut High School Winterguard,56.75,12.01,11.74,9.9,11.1
+2020,6,SRA,Farragut High School Winterguard,75.45,15.61,15.54,14.4,15.3
+2020,6,P,Farragut Middle School,63.83,12.22,13.0,12.6,13.2
+2020,0,N,First Baptist Academy Winterguard,53.481,11.69,10.8,9.7,10.6
+2020,1,N,First Baptist Academy Winterguard,63.09,14.15,13.14,13.4,11.4
+2020,6,SRA,First Baptist Academy Winterguard,60.781,10.61,12.07,12.7,13.1
+2020,5,PSO,Fountain Valley HS,79.55,24.15,14.8,23.8,16.8
+2020,3,GHSSRAB,Fresno Christian HS Guard,51.4,94.2,84.8,11.1,10.8
+2020,6,GHSSRAB,Fresno Christian HS Guard,55.5,120.2,102.8,9.7,11.8
+2020,3,GIA,Fresno State Independent,68.85,138.8,118.7,12.9,12.8
+2020,2,PSO,Gahr HS,73.65,24.15,13.6,22.4,13.5
+2020,5,PSO,Gahr HS,77.35,23.55,15.1,23.7,15.0
+2020,0,SRA,Gibbs High School Winterguard,50.47,10.29,9.48,9.0,10.6
+2020,6,SRA,Gibbs High School Winterguard,59.74,11.27,12.27,11.8,12.6
+2020,2,PSA,Glen A. Wilson HS,72.351,23.55,14.5,20.6,13.7
+2020,5,B1,Glen A. Wilson HS,74.4,22.5,15.0,22.4,14.5
+2020,6,B1,Glen A. Wilson HS,77.15,24.75,15.0,22.5,14.9
+2020,5,B2,Glendora HS,70.751,22.05,13.8,21.5,13.4
+2020,6,PSA,Glendora HS,65.826,19.575,11.6,21.0,13.65
+2020,1,GHSSRAG,Golden West HS Guard,54.74,10.7,12.54,11.0,9.1
+2020,3,GHSSRAG,Golden West HS Guard,60.14,116.3,126.1,11.4,11.6
+2020,5,GHSSRAG,Golden West HS Guard,67.51,136.7,139.4,13.5,13.6
+2020,1,PHSSA-G,Golden West HS Percussion,67.65,20.0,22.05,12.7,12.9
+2020,6,PHSSA-G,Golden West HS Percussion,78.3,23.8,24.0,15.3,15.2
+2020,1,P-SP,Gov. Thomas Johnson HS Percussion,66.15,19.05,20.1,13.1,13.9
+2020,3,P-SP,Gov. Thomas Johnson HS Percussion,73.55,22.35,20.7,16.0,14.5
+2020,1,PSO,Granada Hills CHS,67.1,20.1,13.8,19.6,13.6
+2020,3,PSO,Granada Hills CHS,74.651,23.25,15.1,22.5,13.8
+2020,6,PSO,Great Oak HS,85.375,25.575,17.2,25.3,17.3
+2020,0,P-SG,Greencastle-Antrim HS Percussion,64.025,19.8,20.325,12.5,11.4
+2020,2,P-SG,Greencastle-Antrim HS Percussion,66.0,19.8,20.1,13.6,12.5
+2020,4,P-SG,Greencastle-Antrim HS Percussion,71.35,22.5,21.15,14.0,13.7
+2020,5,P-SG,Greencastle-Antrim HS Percussion,72.025,22.5,22.125,14.1,13.3
+2020,6,P-SG,Greencastle-Antrim HS Percussion,74.375,22.8,22.875,14.2,14.5
+2020,0,N,Greeneville Varsity,58.37,12.29,10.7,11.8,10.7
+2020,0,SA,HIPE Blue,52.651,11.74,11.61,10.7,11.0
+2020,1,SA,HIPE Blue,59.35,11.81,13.94,11.0,11.1
+2020,6,SA,HIPE Blue,68.75,13.21,12.94,14.2,14.4
+2020,0,PSO,Halls Indoor Percussion Ensemble,71.15,22.1,20.25,14.4,14.4
+2020,0,N,Halls JV,60.01,13.67,11.8,11.1,11.3
+2020,6,SRA,Halls JV,68.3,13.54,13.46,13.7,14.0
+2020,0,SRA,Halls Varsity,66.24,13.87,14.07,12.4,13.0
+2020,6,SA,Halls Varsity,70.44,14.01,13.73,14.7,13.5
+2020,1,GHSSRAS,Hanford HS Guard,55.831,11.62,13.21,11.0,11.0
+2020,5,GHSSRAS,Hanford HS Guard,65.451,131.4,130.1,13.7,12.9
+2020,6,GHSSRAS,Hanford HS Guard,66.12,137.4,132.8,12.3,13.0
+2020,1,GHSSRAS,Hanford West HS Guard,61.06,13.09,13.07,11.3,12.5
+2020,5,GHSSRAG,Hanford West HS Guard,70.51,139.4,136.7,15.0,13.4
+2020,1,PHSSRA,Hanford West HS Percussion,66.75,22.6,19.65,11.6,12.9
+2020,0,PSA,Hardin Valley Academy Indoor Percussion Ensemble,70.1,21.5,20.7,14.3,13.6
+2020,0,SRA,Hardin Valley Academy JV,58.55,12.74,12.41,11.5,11.2
+2020,0,SA,Hardin Valley Academy Varsity,61.21,12.87,12.94,12.7,12.4
+2020,0,P,Hardin Valley Prep,52.08,11.07,10.21,10.1,10.8
+2020,6,PSA,Hatboro-Horsham High School,78.076,23.7,23.775,15.3,15.3
+2020,0,PSA,Heritage Indoor Percussion Ensemble,63.85,19.4,19.05,13.2,12.2
+2020,3,PIA,High Desert Independent,71.1,21.9,15.6,19.5,14.1
+2020,5,PIA,High Desert Independent,71.0,21.3,14.8,21.3,13.6
+2020,3,PRA,Highland Regional,74.65,21.1,22.65,15.2,15.7
+2020,5,PRA,Highland Regional,79.0,22.3,24.6,16.1,16.0
+2020,6,PRA,Highland Regional,82.1,23.7,25.2,16.8,16.4
+2020,2,PSO,Hilton HS Percussion,67.9,23.7,18.9,13.3,12.0
+2020,3,PSO,Hilton HS Percussion,75.35,23.0,22.95,14.7,14.7
+2020,6,PSO,Hilton HS Percussion,79.95,23.9,24.75,15.6,15.7
+2020,3,PSO,Hoover HS,79.05,23.4,15.8,24.9,14.95
+2020,5,PSO,Hoover HS,78.95,23.25,15.4,24.4,15.9
+2020,6,GHSSRAB,Hoover HS Guard,58.77,134.1,106.6,9.6,12.2
+2020,3,PSA,Hopewell Valley Central,67.0,19.5,20.1,14.2,13.2
+2020,4,PSA,Hopewell Valley Central,68.301,21.9,20.1,13.9,12.4
+2020,5,PSA,Hopewell Valley Central,69.651,22.5,21.75,13.1,12.3
+2020,4,PIO,Imperial Dynasty,78.1,23.3,23.4,16.2,15.2
+2020,3,PIO,Instinct,77.4,24.0,16.5,22.8,14.1
+2020,5,PIO,Instinct,75.9,22.5,16.2,22.5,14.7
+2020,4,P-SNB,James Buchanan HS Percussion,70.9,21.0,21.3,14.4,14.2
+2020,5,P-SNB,James Buchanan HS Percussion,71.9,22.2,22.2,13.4,14.1
+2020,6,P-SNB,James Buchanan HS Percussion,77.4,22.95,24.15,15.4,14.9
+2020,0,PSA,Jefferson County High School Indoor Drumline,64.95,19.7,18.15,13.6,13.5
+2020,0,SRA,Jefferson County High School Winterguard,52.271,12.86,12.01,9.3,8.3
+2020,1,SRA,Jefferson County High School Winterguard,60.81,13.87,12.74,12.0,11.2
+2020,6,SRA,Jefferson County High School Winterguard,66.75,14.39,14.46,12.2,13.2
+2020,2,PSA,Jordan Elbridge Indoor Percussion,63.401,20.3,19.5,12.2,11.4
+2020,3,PSA,Jordan Elbridge Indoor Percussion,68.55,21.3,20.55,13.5,13.2
+2020,5,PSA,Jordan Elbridge Indoor Percussion,73.2,22.3,21.3,14.9,14.7
+2020,0,PSA,Karns High School,67.0,20.3,18.9,14.0,13.8
+2020,6,N,Karns High School Blue,67.27,12.67,13.4,13.9,13.5
+2020,6,SA,Karns High School Gold,65.43,13.01,13.02,13.5,12.7
+2020,1,P,Karns Middle School,57.68,10.94,11.54,12.2,11.3
+2020,1,GHSSRAG,Kingsburg HS Guard,60.03,12.62,12.81,12.6,10.8
+2020,3,GHSSRAG,Kingsburg HS Guard,61.43,127.5,128.8,12.3,11.2
+2020,5,GHSSRAG,Kingsburg HS Guard,67.59,142.8,136.1,12.8,12.7
+2020,3,PSA,La Canada HS,66.25,18.9,12.8,21.4,13.15
+2020,6,B2,La Canada HS,72.85,21.0,14.8,22.7,14.35
+2020,2,PSA,La Habra HS,75.45,24.15,14.0,21.7,15.6
+2020,6,B2,La Habra HS,81.175,24.075,16.8,23.8,16.5
+2020,6,PSO,La Quinta HS (W),84.2,25.2,17.1,24.8,17.1
+2020,1,GHSSAG,Lemoore HS A Guard,62.73,12.49,12.74,13.3,12.0
+2020,3,GHSSAG,Lemoore HS A Guard,68.89,130.2,130.7,13.7,12.9
+2020,5,GHSSAG,Lemoore HS A Guard,72.94,159.4,156.0,14.6,13.4
+2020,6,GHSSAG,Lemoore HS A Guard,78.04,174.7,168.7,14.8,14.2
+2020,1,GHSSRAG,Lemoore HS B Guard,62.32,12.02,13.6,12.3,12.7
+2020,3,GHSSRAG,Lemoore HS B Guard,65.52,129.5,136.7,12.6,13.0
+2020,5,GHSSRAG,Lemoore HS B Guard,67.311,141.4,12.7,13.0,13.2
+2020,6,GHSSRAG,Lemoore HS B Guard,71.15,146.1,149.4,13.0,14.2
+2020,1,PHSSO,Lemoore HS Percussion,67.4,20.6,20.4,13.0,13.4
+2020,5,PHSSO,Lemoore HS Percussion,78.05,25.4,23.85,14.4,14.4
+2020,1,PHSSRA,Liberty HS Percussion,57.9,20.1,17.4,10.4,10.0
+2020,5,PHSSRA,Liberty HS Percussion,66.1,22.45,20.25,11.3,12.1
+2020,6,PHSSRA,Liberty HS Percussion,62.15,18.8,19.05,11.9,12.4
+2020,3,GJHSO,Liberty JHS Guard,51.43,98.2,88.1,11.5,10.1
+2020,1,PJHSO,Liberty JHS Percussion,62.3,19.0,19.2,11.2,12.9
+2020,2,PSO,Liverpool Indoor Percussion,67.35,22.8,19.05,12.7,12.8
+2020,3,PSO,Liverpool Indoor Percussion,72.5,22.4,21.9,14.0,14.2
+2020,4,PSO,Liverpool Indoor Percussion,74.85,21.4,23.85,14.8,14.8
+2020,6,PSO,Liverpool Indoor Percussion,78.8,24.0,24.0,15.3,15.5
+2020,2,PSO,Los Alamitos HS,73.95,23.55,14.1,22.3,14.0
+2020,3,P-SNB,Lower Dauphin Percussion,71.05,21.9,19.65,14.7,14.8
+2020,4,P-SNB,Lower Dauphin Percussion,70.95,20.85,21.3,14.9,13.9
+2020,1,GHSSAS,Madera HS Guard,52.01,11.07,11.1,10.1,10.0
+2020,5,GHSSRAG,Madera HS Guard,70.29,145.9,146.0,13.6,13.9
+2020,1,PHSSO,Madera HS Percussion,66.85,21.3,19.65,12.6,13.3
+2020,5,PHSSO,Madera HS Percussion,76.45,24.2,24.15,13.9,14.2
+2020,3,GHSSRAS,Madera South HS Guard,59.15,112.1,121.4,11.7,11.4
+2020,5,GHSSRAS,Madera South HS Guard,69.07,143.3,143.4,13.1,14.2
+2020,3,PSA,Marcus Whitman,54.201,18.7,15.3,10.2,10.0
+2020,6,PSA,Marcus Whitman,60.6,19.8,17.7,11.6,11.5
+2020,4,PSA,Marple Newtown,66.051,19.1,20.55,13.8,12.6
+2020,5,PSA,Marple Newtown,71.801,22.8,22.5,13.4,13.1
+2020,0,SRA,Maryville Winterguard,51.41,10.07,10.14,10.2,11.4
+2020,1,SRA,Maryville Winterguard,61.41,12.54,13.47,12.2,11.8
+2020,6,SRA,Maryville Winterguard,72.25,14.21,14.54,14.1,15.1
+2020,3,P-SP,Mechanicsburg HS Percussion,71.05,22.8,19.65,15.1,13.5
+2020,6,GHSSRAB,Mendota HS Guard,50.961,100.1,93.5,10.1,11.2
+2020,5,PIO,Meraki Percussion,78.75,22.05,16.6,24.8,15.3
+2020,6,PIO,Meraki Percussion,78.85,23.55,15.7,24.0,15.6
+2020,3,PSA,Methacton,61.6,18.8,16.8,13.5,12.5
+2020,5,PSA,Methacton,63.5,19.7,20.4,12.3,11.1
+2020,5,B1,Mira Costa HS,74.65,23.4,14.4,22.3,14.55
+2020,6,B1,Mira Costa HS,70.301,20.55,13.4,22.6,13.75
+2020,6,PSO,Mission Hills HS,78.7,24.9,16.2,21.7,15.9
+2020,3,GHSSRAS,Mission Oak HS Guard,55.861,104.2,123.4,10.0,10.6
+2020,5,GHSSRAS,Mission Oak HS Guard,61.291,124.8,128.1,11.3,12.5
+2020,6,GHSSRAS,Mission Oak HS Guard,64.511,139.4,132.7,11.8,12.7
+2020,1,PHSSA-G,Mission Oak HS Percussion,72.85,22.5,22.65,14.2,13.5
+2020,5,PHSSO,Mission Oak HS Percussion,78.25,25.6,24.45,13.6,14.6
+2020,6,PHSSO,Mission Oak HS Percussion,74.0,24.1,22.5,13.8,13.6
+2020,5,PSO,Mission Viejo HS,76.951,23.25,16.0,22.8,14.9
+2020,6,PSO,Mission Viejo HS,78.25,24.3,15.6,22.8,15.55
+2020,3,PSA,Mohonasen,66.501,20.0,19.5,13.7,13.3
+2020,3,PSA,Monrovia HS,65.175,21.525,12.8,18.5,12.35
+2020,5,B1,Monrovia HS,70.001,21.6,13.6,21.7,13.1
+2020,5,GHSSRAB,Mt Whitney HS Guard,50.23,93.5,98.8,11.4,10.0
+2020,6,GHSSRAB,Mt Whitney HS Guard,55.39,112.8,112.1,11.2,10.6
+2020,2,PSA,Mt. Carmel HS,67.3,21.6,13.3,19.0,13.4
+2020,6,B1,Mt. Carmel HS,70.301,20.7,14.2,21.1,14.3
+2020,2,PSA,New Hartford,70.75,21.6,21.75,13.8,13.6
+2020,3,PSA,New Hartford,73.25,22.5,21.45,14.7,14.6
+2020,5,PSA,New Hartford,79.1,23.3,23.7,16.1,16.0
+2020,6,PSA,New Hartford,79.2,24.4,22.5,16.3,16.0
+2020,2,PSJ,Nobel MS,67.3,19.2,13.2,20.0,14.9
+2020,4,PSA,North Penn,71.75,22.7,21.15,15.4,12.5
+2020,5,PSA,North Penn,76.975,24.9,23.475,15.1,13.5
+2020,6,PSA,North Penn,80.25,25.1,24.75,15.9,14.5
+2020,3,P-SG,Northern York HS Percussion,70.75,21.45,20.1,14.9,14.3
+2020,3,PSA,Oak Park HS,69.65,23.25,12.6,20.0,13.8
+2020,5,B2,Oak Park HS,65.301,19.5,13.0,19.9,12.9
+2020,0,PSA,Oak Ridge Indoor Percussion,67.1,20.9,19.8,13.4,13.0
+2020,4,P-SG,Oakdale HS Percussion,69.075,21.9,20.775,13.2,13.2
+2020,5,P-SG,Oakdale HS Percussion,69.425,21.45,20.175,13.7,14.1
+2020,6,P-SG,Oakdale HS Percussion,71.675,22.05,22.425,14.1,13.1
+2020,3,ME,Old Bridge,70.3,20.3,20.7,14.6,14.7
+2020,4,PSO,Old Bridge,78.7,22.7,24.6,15.8,15.6
+2020,6,PSO,Old Bridge,82.95,24.4,24.75,16.8,17.0
+2020,5,PIA,Onondaga Community College,77.1,23.8,23.4,14.9,15.0
+2020,3,PSA,Ontario HS,66.55,19.95,12.4,21.7,12.5
+2020,5,B1,Ontario HS,69.101,22.5,12.8,21.1,12.7
+2020,1,PSA,Orange Vista HS,56.25,15.45,12.0,18.2,10.6
+2020,6,B1,Orange Vista HS,65.5,20.1,13.3,20.0,12.1
+2020,1,GHSSRAS,Orosi HS Guard,56.521,10.35,13.87,10.3,11.3
+2020,3,GHSSRAS,Orosi HS Guard,58.85,117.4,126.1,10.5,11.7
+2020,5,GHSSRAS,Orosi HS Guard,67.91,147.4,154.7,11.6,14.0
+2020,1,PHSSRA,Orosi HS Percussion,65.7,21.7,19.8,12.2,12.0
+2020,5,PHSSRA,Orosi HS Percussion,71.6,23.1,22.8,12.9,12.8
+2020,4,PSA,Owen J Roberts,71.201,19.6,22.2,15.5,13.9
+2020,5,PSA,Owen J Roberts,76.951,22.0,23.55,15.7,15.7
+2020,6,PSA,Owen J Roberts,79.9,23.2,23.7,16.9,16.1
+2020,3,PIW,POW Percussion,82.35,24.45,16.7,24.9,16.3
+2020,6,PIW,POW Percussion,84.45,25.05,17.2,25.1,17.1
+2020,1,PIA,Pace Percussion Ensemble,64.55,18.45,12.4,21.0,12.7
+2020,2,PIA,Pace Percussion Ensemble,66.6,19.5,13.2,19.0,14.9
+2020,6,PIA,Pace Percussion Ensemble,73.4,24.0,13.3,21.2,14.9
+2020,3,PSA,Pacifica HS,70.301,21.3,14.0,21.8,13.2
+2020,5,B1,Pacifica HS,75.15,23.25,14.0,23.5,14.4
+2020,6,B2,Pacifica HS,76.75,25.05,14.0,23.6,14.1
+2020,6,B2,Palisades CHS,70.851,21.15,14.4,21.8,13.5
+2020,6,PSJ,Palm Desert CMS,77.15,23.55,15.7,22.4,15.5
+2020,6,PSA,Palm Desert HS,73.9,22.5,14.4,21.8,15.2
+2020,2,PSA,Paloma Valley HS,62.75,19.05,11.7,18.2,13.8
+2020,6,B2,Paloma Valley HS,62.851,18.15,12.6,19.3,12.8
+2020,4,PRA,Parkland,77.7,24.2,23.1,15.8,14.6
+2020,5,PRA,Parkland,81.1,23.8,25.5,16.0,15.8
+2020,6,GJHSA,Parkview MS Guard,56.68,123.4,129.4,9.9,11.7
+2020,6,PSA,Patrick Henry HS,70.151,19.8,14.8,21.4,14.15
+2020,3,PSO,Patriot HS,74.85,22.2,14.5,23.25,14.9
+2020,5,PSO,Patriot HS,79.35,24.6,15.5,24.3,14.95
+2020,3,PSA,Penncrest,62.4,18.7,18.3,12.6,12.8
+2020,4,PRA,Pennridge,79.9,23.1,24.0,17.3,15.5
+2020,5,PRA,Pennridge,79.25,23.2,23.25,16.4,16.4
+2020,6,PRA,Pennridge,80.25,23.2,24.75,16.6,15.7
+2020,3,PSA,Perkiomen Valley,71.1,20.3,21.0,15.0,14.8
+2020,4,PSA,Perkiomen Valley,70.101,21.1,21.6,13.4,14.0
+2020,2,PSA,Phoenix Indoor Percussion,71.4,23.2,21.3,14.5,12.4
+2020,3,PSA,Phoenix Indoor Percussion,76.1,23.9,22.2,15.5,14.5
+2020,4,PSA,Phoenix Indoor Percussion,76.85,23.0,23.55,15.3,15.0
+2020,4,PSA,Phoenixville,71.151,21.4,22.05,14.4,13.3
+2020,5,PSA,Phoenixville,74.451,23.7,22.95,14.5,13.3
+2020,5,GJHSA,Pioneer MS Guard,59.34,134.0,147.4,11.0,10.5
+2020,6,GJHSA,Pioneer MS Guard,59.18,131.4,147.4,10.8,10.5
+2020,1,PJHSA,Pixley MS Percussion,56.45,18.4,16.95,10.9,10.2
+2020,5,PJHSA,Pixley MS Percussion,63.7,21.3,20.4,10.3,11.7
+2020,6,PJHSA,Pixley MS Percussion,61.25,17.6,19.35,11.9,12.4
+2020,1,SA,Powell Bijoux,55.19,10.35,13.14,10.3,10.6
+2020,0,PSN,Powell Indoor Drumlime,62.3,20.3,17.4,12.4,12.2
+2020,6,SRA,Pulaski County Maroon Winterguard,62.811,13.14,12.87,12.4,12.4
+2020,2,PIW,Pulse Percussion,85.4,25.8,17.3,25.0,17.3
+2020,6,PIW,Pulse Percussion,91.55,27.45,18.8,27.1,18.2
+2020,4,PSA,Quakertown,71.95,20.4,22.95,15.0,13.6
+2020,6,PSA,Quakertown,77.201,22.7,23.1,16.0,15.4
+2020,2,PIW,RCC,83.7,25.2,16.7,25.1,16.7
+2020,3,PSO,Rancho Cucamonga HS,79.85,24.0,16.6,24.55,14.7
+2020,5,PSO,Rancho Cucamonga HS,82.95,25.05,16.9,25.1,15.9
+2020,5,B1,Rancho Verde HS,74.5,21.9,15.3,22.4,14.9
+2020,6,PSA,Rancho Verde HS,78.75,22.65,15.9,23.4,16.8
+2020,0,SRA,Red Regiment Performing Ensemble,52.491,10.15,10.54,11.0,11.6
+2020,6,SRA,Red Regiment Performing Ensemble,71.0,13.34,14.6,14.6,14.7
+2020,5,B2,Redondo Union HS,68.951,19.65,14.7,21.1,13.5
+2020,5,GHSSRAB,Reedley HS Guard,59.04,128.2,112.2,12.0,12.5
+2020,4,PSA,Ridley,75.15,22.3,23.85,14.7,14.3
+2020,5,PSA,Ridley,77.4,24.6,22.8,15.2,14.8
+2020,3,PSA,Riverside Poly HS,70.351,21.0,13.05,22.3,14.0
+2020,0,N,Roane County High School Winterguard,54.79,13.26,10.6,10.0,8.4
+2020,6,SRA,Roane County High School Winterguard,64.441,12.8,12.54,13.2,13.0
+2020,5,GHSSRAB,Roosevelt HS Guard,54.23,111.5,110.8,10.7,9.5
+2020,6,GHSSRAB,Roosevelt HS Guard,60.56,130.8,116.8,10.8,12.7
+2020,3,PSW,Rowland HS,75.701,22.8,14.9,23.1,14.9
+2020,6,PSW,Rowland HS,77.95,22.95,15.0,24.5,15.5
+2020,3,PSA,San Clemente HS,67.35,20.55,13.5,18.7,14.6
+2020,5,B2,San Clemente HS,70.301,21.3,14.6,20.0,14.4
+2020,3,PSO,San Marcos HS,75.251,23.25,15.3,22.4,14.3
+2020,5,PSO,San Marcos HS,70.801,21.3,15.0,20.5,14.0
+2020,6,PSO,San Marcos HS,67.15,20.85,12.8,20.4,13.1
+2020,3,PSO,San Marino HS,80.05,24.6,16.3,24.0,15.15
+2020,5,B1,Savanna HS,65.151,19.35,13.0,19.9,12.9
+2020,6,B2,Savanna HS,67.901,20.4,12.8,21.6,13.1
+2020,5,GJHSA,Sequoia MS Guard,56.75,124.8,132.7,10.4,10.1
+2020,6,GJHSA,Sequoia MS Guard,55.77,125.4,131.3,10.3,10.9
+2020,2,PSA,Serrano HS,74.0,22.8,15.7,20.2,15.3
+2020,5,B1,Serrano HS,69.501,20.4,13.7,21.6,13.8
+2020,0,PSA,Seymour Indoor Percussion,66.7,20.0,19.5,14.0,13.2
+2020,0,SRA,Seymour JV,59.1,12.2,11.6,10.8,12.1
+2020,1,SRA,Seymour JV,67.24,14.07,14.87,13.3,12.6
+2020,0,SA,Seymour Varsity,65.08,13.74,13.94,13.0,12.7
+2020,1,SA,Seymour Varsity,69.68,14.94,14.94,13.6,13.2
+2020,5,SA,Seymour Varsity,75.08,15.14,14.94,15.1,14.8
+2020,1,GHSSAG,Sierra Pacific HS Guard,58.52,11.35,11.87,12.4,11.4
+2020,3,GHSSAG,Sierra Pacific HS Guard,62.79,122.8,110.1,12.1,11.6
+2020,5,GHSSAG,Sierra Pacific HS Guard,65.05,120.1,123.4,13.5,13.6
+2020,6,GHSSAG,Sierra Pacific HS Guard,69.15,133.4,132.1,13.9,14.4
+2020,6,PHSSRA,Sierra Pacific HS Percussion,61.9,17.4,18.0,13.4,13.1
+2020,3,PSO,Sierra Vista HS,75.85,24.15,14.3,23.7,13.7
+2020,5,PSO,Sierra Vista HS,74.201,22.8,14.9,22.7,13.8
+2020,0,SRA,Soddy-Daisy JV,51.62,9.21,9.61,9.6,11.3
+2020,6,SRA,Soddy-Daisy JV,69.98,13.81,13.87,14.1,14.2
+2020,6,SA,Soddy-Daisy Varsity,71.56,14.82,14.14,14.6,14.0
+2020,1,PSA,South Hills HS,71.6,20.4,14.8,22.0,14.4
+2020,5,B1,South Hills HS,74.1,22.65,14.5,22.35,14.6
+2020,1,PSA,South Pasadena HS,66.651,19.65,13.5,20.6,12.9
+2020,3,PSA,South Pasadena HS,69.051,19.35,13.05,22.6,14.05
+2020,6,B1,South Pasadena HS,77.0,24.6,14.8,23.9,13.7
+2020,3,PSA,South Torrance HS,73.65,22.2,13.35,23.8,14.3
+2020,3,PSA,Southern Regional,71.2,20.4,20.7,15.2,14.9
+2020,6,PSA,Southern Regional,82.1,24.0,24.9,16.7,16.5
+2020,4,PSO,Spring-Ford,75.2,22.0,23.1,15.3,14.8
+2020,5,PSO,Spring-Ford,77.25,23.4,22.95,15.4,15.5
+2020,1,PSA,St. Genevieve HS,72.2,21.3,13.9,22.7,14.3
+2020,3,PSA,St. Genevieve HS,71.951,20.25,14.5,22.7,14.5
+2020,5,B2,St. Genevieve HS,74.6,23.7,14.5,22.5,13.9
+2020,0,SRA,Stone Memorial High School Winterguard,56.181,11.01,12.07,11.2,11.7
+2020,1,SRA,Stone Memorial High School Winterguard,64.85,13.01,15.14,12.7,12.1
+2020,6,SRA,Stone Memorial High School Winterguard,72.45,15.21,14.94,13.9,14.4
+2020,0,PSA,Sullivan South Indoor Percussion,65.25,20.6,19.65,12.4,12.6
+2020,5,GJHSO,Sundale Union Guard A,58.94,130.6,146.8,11.2,10.8
+2020,6,GJHSO,Sundale Union Guard A,58.95,133.4,150.1,10.5,10.3
+2020,1,PJHSA,Sundale Union Percussion,60.0,20.2,18.6,10.6,10.6
+2020,5,PJHSA,Sundale Union Percussion,70.85,23.2,23.25,12.2,12.2
+2020,6,PJHSA,Sundale Union Percussion,61.4,18.0,18.6,12.2,12.6
+2020,2,PSW,Sunny Hills HS,74.5,22.65,14.2,23.3,14.35
+2020,5,PSW,Sunny Hills HS,77.35,22.35,16.2,23.4,15.4
+2020,3,P-SG,Susquehannock HS Percussion,65.65,19.8,19.35,13.4,13.1
+2020,6,P-SG,Susquehannock HS Percussion,74.425,22.5,22.125,14.7,15.1
+2020,6,B1,Temecula Valley HS,73.4,22.5,14.0,23.3,13.6
+2020,6,B1,Temescal Canyon HS,62.05,18.45,11.9,19.8,11.9
+2020,3,PSA,Temple City HS,80.2,24.0,16.5,24.2,15.5
+2020,5,B1,Temple City HS,77.4,22.8,16.4,22.3,15.9
+2020,1,PSA,Thousand Oaks HS,68.951,19.95,13.7,21.5,13.8
+2020,5,B2,Thousand Oaks HS,72.85,23.55,13.7,21.9,13.7
+2020,2,PSJ,Toro Canyon MS,57.7,15.3,11.8,18.5,12.1
+2020,3,PSA,Torrance HS,74.0,21.15,14.75,23.5,14.6
+2020,5,B1,Torrance HS,72.701,22.2,14.8,21.0,14.7
+2020,3,PSJ,Townsend JHS,76.55,20.85,15.4,25.3,15.0
+2020,5,PSO,Trabuco Hills HS,76.451,22.05,15.8,23.5,15.1
+2020,6,PSO,Trabuco Hills HS,73.9,21.0,15.8,21.1,16.0
+2020,1,GHSSRAS,Tulare Union HS Guard,52.871,9.42,10.95,11.4,11.5
+2020,3,GHSSRAS,Tulare Union HS Guard,57.99,101.5,115.4,12.2,10.9
+2020,5,GHSSRAS,Tulare Union HS Guard,64.231,138.1,132.2,12.2,13.5
+2020,6,GHSSRAS,Tulare Union HS Guard,65.82,135.4,138.8,12.4,13.3
+2020,1,PHSSA-G,Tulare Union HS Percussion,66.05,20.5,20.55,12.3,12.7
+2020,5,PHSSA-G,Tulare Union HS Percussion,74.4,24.9,24.45,11.7,13.35
+2020,3,GHSSRAS,Tulare Western HS Guard,52.411,91.6,103.5,10.4,10.5
+2020,5,GHSSRAS,Tulare Western HS Guard,61.161,122.8,124.8,11.0,13.1
+2020,6,GHSSRAS,Tulare Western HS Guard,63.881,128.1,134.7,11.7,13.4
+2020,1,PHSSO,Tulare Western Percussion,65.55,20.5,18.75,13.4,12.9
+2020,5,PHSSO,Tulare Western Percussion,72.05,23.2,22.65,13.0,13.2
+2020,4,PSO,Unionville,75.45,22.1,23.25,15.0,15.1
+2020,5,PSO,Unionville,76.7,22.9,23.4,15.3,15.1
+2020,6,PSOE,Unionville,79.1,22.7,24.0,15.9,16.5
+2020,3,PIA,United 2,75.35,22.8,21.15,15.7,15.7
+2020,6,PIA,United 2,82.25,25.0,23.25,17.1,16.9
+2020,6,PIW,United Percussion,83.4,24.6,25.8,16.3,16.7
+2020,2,PSO,Upland HS,73.55,22.35,14.8,21.5,14.9
+2020,3,PSO,Upland HS,74.801,21.3,14.4,23.9,15.2
+2020,4,PSA,Upper Darby,73.75,23.0,23.55,14.2,13.0
+2020,5,PSA,Upper Darby,78.8,25.2,23.4,15.8,14.4
+2020,4,PSA,Upper Moreland,65.7,20.7,20.4,12.9,11.7
+2020,6,PSA,Upper Moreland,74.901,21.3,24.0,15.6,14.0
+2020,2,P-SP,Urbana HS Percussion,77.3,21.3,26.1,15.3,14.6
+2020,6,P-SP,Urbana HS Percussion,79.775,24.15,24.525,16.6,14.5
+2020,1,PSA,Valhalla HS,64.101,19.2,12.7,20.7,11.5
+2020,6,B2,Valhalla HS,70.701,21.3,14.6,20.4,14.4
+2020,6,PIA,Vegas Vanguard,74.45,22.95,14.8,22.2,14.5
+2020,3,PIW,Vessel,76.45,22.05,15.6,23.9,14.9
+2020,6,PIW,Vessel,82.5,24.9,16.8,24.3,16.5
+2020,2,PSO,Victor Indoor Percussion Ensemble,64.501,23.2,17.7,12.4,11.2
+2020,5,PSO,Victor Indoor Percussion Ensemble,73.7,21.0,22.5,15.2,15.0
+2020,6,PSO,Victor Indoor Percussion Ensemble,72.951,21.0,22.35,14.7,14.9
+2020,2,PSW,Vista Murrieta HS,80.9,24.6,16.0,24.0,16.3
+2020,6,PSW,Vista Murrieta HS,85.15,25.65,16.8,25.5,17.2
+2020,5,PSJ,Warm Springs MS,76.35,22.95,14.6,22.6,16.2
+2020,6,PSJ,Warm Springs MS,82.75,25.35,16.6,24.3,16.5
+2020,2,P-SB,Warren County HS Percussion,58.825,18.3,17.325,11.5,11.7
+2020,4,P-SB,Warren County HS Percussion,61.6,18.6,18.3,12.4,12.3
+2020,5,P-SB,Warren County HS Percussion,62.85,18.3,19.05,12.9,12.6
+2020,3,PSA,Warren HS,73.501,22.65,15.0,21.0,14.85
+2020,5,B2,Warren HS,77.4,24.3,15.7,22.3,15.1
+2020,1,GHSSAS,Washington Union HS Guard,58.52,11.94,11.9,11.6,11.4
+2020,3,GHSSAG,Washington Union HS Guard,59.66,113.5,118.1,11.2,12.2
+2020,6,GHSSAG,Washington Union HS Guard,65.42,129.4,122.8,13.3,13.5
+2020,1,PHSSRA,Washington Union HS Percussion,66.65,21.1,20.55,12.5,12.5
+2020,2,PSA,Webster Percussion Theater,65.9,19.1,20.4,14.1,12.3
+2020,5,PSA,Webster Percussion Theater,76.7,23.0,22.8,15.6,15.3
+2020,6,PSA,Webster Percussion Theater,76.65,24.0,22.65,15.2,14.8
+2020,1,PSA,West Covina HS,65.251,18.75,13.1,21.0,12.4
+2020,3,PSA,West Covina HS,73.6,23.85,15.4,20.5,13.85
+2020,5,B1,West Covina HS,67.201,19.5,14.6,20.3,12.8
+2020,1,PSA,West HS (T),72.825,20.925,15.8,21.6,14.5
+2020,3,PSA,West HS (T),70.601,21.45,13.5,22.3,13.35
+2020,5,B2,West HS (T),76.85,22.65,15.3,23.3,15.6
+2020,6,B1,West HS (T),80.35,24.45,15.6,24.6,15.7
+2020,0,N,West High School Winterguard,55.68,13.14,11.5,10.4,8.3
+2020,1,PSO,West Ranch HS,72.1,21.9,14.9,20.9,14.4
+2020,2,PSO,West Ranch HS,74.45,22.65,15.1,22.0,14.7
+2020,5,PSO,West Ranch HS,79.7,24.0,15.3,24.6,15.8
+2020,4,P-SNB,Western Frederick Indoor Percussion (Blue),72.8,21.45,22.35,14.5,14.5
+2020,5,P-SNB,Western Frederick Indoor Percussion (Blue),76.3,23.4,22.8,15.1,15.0
+2020,1,PSA,Westlake HS,72.45,22.35,14.4,22.6,13.1
+2020,5,B1,Westlake HS,76.45,22.65,15.7,23.2,14.9
+2020,3,PSO,Westminster HS,72.0,21.0,14.3,23.1,13.6
+2020,5,PSO,Westminster HS,73.601,22.8,14.6,22.5,13.7
+2020,1,SRA,William Blount High School Winterguard,57.23,12.22,12.21,11.0,11.0
+2020,6,SRA,William Blount High School Winterguard,66.04,12.27,13.27,13.5,13.6
+2020,6,PSA,William Penn,74.401,23.5,23.4,13.7,13.8
+2020,3,PSO,William S. Hart HS,73.801,22.65,14.55,23.2,13.4
+2020,5,PSO,William S. Hart HS,75.65,22.35,15.1,22.6,15.6
+2020,5,PIO,Élan Percussion,80.3,23.1,16.7,24.2,16.3
+2020,6,PIO,Élan Percussion,80.4,24.0,16.1,24.2,16.1

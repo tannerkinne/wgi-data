@@ -1,0 +1,80 @@
+year,week,class,name,overall score,music effect,visual effect,music,visual
+2025,10,PIO,Auburn Purple Lancers,76.35,24.2,21.75,16.1,14.3
+2025,8,PIO,BKO,72.55,21.15,14.4,22.1,14.9
+2025,10,PIO,Bakersfield College,88.75,26.25,17.5,27.1,17.9
+2025,11,PIO,Bakersfield College,89.175,26.325,17.6,27.6,17.65
+2025,6,PIO,Breakthrough Indoor Percussion,83.15,24.75,16.0,25.8,16.6
+2025,6,PIO,Cap City 2,86.95,26.55,17.1,25.9,17.4
+2025,12,PIO,Cap City 2,94.826,28.65,18.675,28.8,18.7
+2025,6,PIO,Civitas Independent,86.35,25.95,16.8,26.8,16.8
+2025,12,PIO,Civitas Independent,96.775,29.325,19.35,29.05,19.05
+2025,6,PIO,Convergence Indoor Percussion,76.5,23.7,14.8,23.3,14.7
+2025,4,PIO,Crystal Lake Thunder,70.85,21.15,14.9,21.0,13.8
+2025,6,PIO,Crystal Lake Thunder,73.951,22.95,15.0,21.6,14.4
+2025,9,PIO,EPIC Indoor Percussion,84.6,25.6,25.2,15.9,17.9
+2025,10,PIO,EPIC Indoor Percussion,79.4,25.2,23.7,15.8,14.7
+2025,5,PIO,Elan Percussion,79.15,24.75,16.2,23.4,14.8
+2025,9,PIO,Elan Percussion,83.626,25.725,16.85,24.95,16.1
+2025,4,PIO,Flower City Percussion,65.25,19.8,21.15,12.7,11.6
+2025,6,PIO,Flower City Percussion,66.0,19.8,18.6,12.7,14.9
+2025,10,PIO,Flower City Percussion,77.0,23.8,22.8,15.0,15.4
+2025,6,PIO,Freedom Percussion,82.85,24.45,16.0,26.6,15.8
+2025,12,PIO,Freedom Percussion,95.113,28.612,18.9,29.2,18.4
+2025,7,PIO,Gold Spike Percussion,80.75,24.45,16.6,23.2,16.5
+2025,6,PIO,Huron Valley Percussion,78.4,24.3,15.2,23.5,15.4
+2025,7,PIO,Huron Valley Percussion,78.9,23.7,16.4,23.2,15.6
+2025,10,PIO,Huron Valley Percussion,83.75,25.65,18.1,23.7,16.3
+2025,11,PIO,Huron Valley Percussion,87.0,27.0,17.65,25.2,17.15
+2025,6,PIO,Imperial Dynasty,77.05,22.2,24.75,15.1,15.0
+2025,7,PIO,Imperial Dynasty,82.7,25.6,25.8,15.3,16.0
+2025,9,PIO,Imperial Dynasty,90.05,27.3,18.15,26.95,17.65
+2025,11,PIO,Imperial Dynasty,89.95,28.3,25.65,17.5,18.5
+2025,5,PIO,Infinity 3,77.4,22.8,15.2,24.3,15.1
+2025,6,PIO,LINEA,74.25,22.35,14.4,22.1,15.4
+2025,10,PIO,Linea,82.7,24.6,16.3,25.1,16.7
+2025,4,PIO,Lotus,76.8,22.2,16.5,23.2,14.9
+2025,8,PIO,Lotus,82.4,25.5,16.1,24.9,15.9
+2025,9,PIO,Lotus,82.8,24.9,16.8,24.5,16.6
+2025,6,PIO,Lotus Indoor Percussion,76.6,24.9,14.7,22.6,14.4
+2025,7,PIO,Matrix Open,84.4,24.9,17.1,25.3,17.1
+2025,6,PIO,Motor City Percussion,81.0,24.9,15.7,24.3,16.1
+2025,7,PIO,Motor City Percussion,82.0,24.3,16.9,24.0,16.8
+2025,10,PIO,Motor City Percussion,86.6,25.5,18.5,25.7,16.9
+2025,11,PIO,Motor City Percussion,90.025,27.375,18.35,27.1,17.2
+2025,2,PIO,OCI,79.9,24.9,16.7,22.4,15.9
+2025,4,PIO,OCI,83.45,25.35,16.8,25.0,16.3
+2025,9,PIO,OCI,89.575,27.375,18.0,26.5,17.7
+2025,10,PIO,OCI,90.9,27.6,18.5,26.6,18.2
+2025,11,PIO,OCI,90.9,27.45,17.85,27.6,18.0
+2025,12,PIO,OCI,94.701,28.65,19.225,28.25,18.575
+2025,9,PIO,Old Line Independent Percussion,85.2,26.4,17.3,25.6,15.9
+2025,6,PIO,Palmetto Indoor Theatre,78.45,25.35,14.8,24.0,14.3
+2025,12,PIO,Paradigm Percussion,91.163,27.562,18.5,26.85,18.25
+2025,9,PIO,Paragon,81.75,24.45,16.5,24.4,16.4
+2025,4,PIO,Pi Percussion Inc.,75.4,22.8,14.7,23.2,14.7
+2025,6,PIO,Pi Percussion Inc.,78.9,23.4,15.9,24.8,14.8
+2025,6,PIO,Q2,83.8,25.2,16.6,25.3,16.7
+2025,12,PIO,Q2,93.951,28.575,19.0,27.825,18.55
+2025,7,PIO,Rift Percussion,78.2,23.1,16.4,22.4,16.3
+2025,7,PIO,River City Rhythm,83.7,26.1,16.3,24.8,16.5
+2025,5,PIO,Siege Percussion,77.05,23.25,13.8,24.6,15.4
+2025,8,PIO,Sparta Indoor Percussion,83.95,24.75,16.6,25.9,16.7
+2025,7,PIO,Spectre Percussion,88.7,27.3,17.5,26.5,17.4
+2025,12,PIO,Spectre Percussion,94.925,28.95,19.35,27.475,19.15
+2025,9,PIO,Sun City Independent,80.5,24.0,16.8,24.0,15.7
+2025,9,PIO,Synergy,84.35,25.65,16.9,24.5,17.3
+2025,8,PIO,Tri-City Percussion,79.9,22.5,16.2,25.2,16.0
+2025,9,PIO,UTSA,88.2,26.4,17.8,26.3,17.7
+2025,12,PIO,UTSA,95.388,28.987,18.7,28.75,18.95
+2025,7,PIO,United Percussion 2,80.95,24.15,15.6,25.6,15.6
+2025,8,PIO,United Percussion 2,84.0,26.5,26.1,15.6,15.8
+2025,9,PIO,United Percussion 2,88.95,26.85,17.9,26.8,17.4
+2025,10,PIO,United Percussion 2,88.75,27.6,25.65,17.7,17.8
+2025,6,PIO,Veritas,83.85,24.75,17.3,25.4,16.4
+2025,12,PIO,Veritas,97.85,29.775,19.75,28.65,19.675
+2025,6,PIO,Vision Percussion,79.75,23.85,15.6,24.3,16.0
+2025,9,PIO,Vision Percussion,85.1,25.5,17.25,26.2,16.15
+2025,4,PIO,Élan Percussion,76.1,23.4,14.8,23.6,14.3
+2025,8,PIO,Élan Percussion,85.5,27.0,16.5,25.0,17.0
+2025,10,PIO,Élan Percussion,85.35,25.95,16.6,26.0,16.8
+2025,11,PIO,Élan Percussion,85.1,25.35,16.8,26.25,16.7
