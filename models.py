@@ -18,6 +18,7 @@ import joblib
 import random
 import shap
 from itertools import combinations
+from sklearn.metrics import mean_absolute_error
 
 
 from sklearn.inspection import PartialDependenceDisplay
@@ -87,14 +88,17 @@ if __name__ == '__main__':
 
     df = df.drop(df[df['current_overall_average'] <=50].index)
     df = df.drop(df[df['show_count'] <= 1].index)
+    #df = df.drop(df[df['year'] == 2014].index)
     df = df.drop(df[df['year'] == 2020].index)
     df = df.drop(df[df['year'] == 2021].index)
 
 
     df_train= df[df['year'] < 2026]
 
+    class_to_number = {'PSA': 0, 'PIA': 1, 'PSO':2, 'PIO':3, 'PSW':4, 'PIW': 5}
+    df_train['class'] = df_train['class'].map(class_to_number)
 
-    x = df_train.drop(['name', 'class', 'year', 'overall score', 'me score', 've score', 'm score', 'v score'], axis = 1)
+    x = df_train.drop(['name', 'overall score', 'me score', 've score', 'm score', 'v score'], axis = 1)
     y = df_train['overall score']
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
@@ -150,17 +154,40 @@ if __name__ == '__main__':
 
     residuals = y_test - lr_model.predict(x_test)
 
-    df["residual"] = residuals
-    df.groupby("show_count")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
-    plt.title("MAE by show count")
-    plt.show()
+    # df["residual"] = residuals
+    # df.groupby("show_count")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    # plt.title("MAE by show count")
+    # plt.show()
+    #
+    # # 2. Residuals by class — is one class dragging you down?
+    # df.groupby("class")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    # plt.title("MAE by class")
+    # plt.show()
+    #
+    # # 3. Residuals by year — model degrading over time?
+    # df.groupby("year")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
+    # plt.title("MAE by year")
+    # plt.show()
 
-    # 2. Residuals by class — is one class dragging you down?
-    df.groupby("class")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
-    plt.title("MAE by class")
-    plt.show()
+    # plt.scatter(lr_model.predict(x_test), residuals)
+    # plt.show()
+    #
+    # plt.scatter(x_test['current_overall_average'], residuals)
+    # plt.show()
+    #
+    # plt.scatter(x_test['show_count'], residuals)
+    # plt.show()
+    #
+    # plt.scatter(x_test['week'], residuals)
+    # plt.show()
 
-    # 3. Residuals by year — model degrading over time?
-    df.groupby("year")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
-    plt.title("MAE by year")
-    plt.show()
+    print('For Gradient Boosting Regressor:')
+    mae = mean_absolute_error(y_test, gb_model.predict(x_test))
+    within_1 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 1.0)
+    within_2 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 2.0)
+    within_3 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 3.0)
+
+    print(f"MAE:           {mae:.2f} pts")
+    print(f"Within 1 pt:   {within_1:.1%}")
+    print(f"Within 2 pts:  {within_2:.1%}")
+    print(f"Within 3 pts:  {within_3:.1%}")
