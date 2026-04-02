@@ -5,9 +5,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,PIA,Albany Indoor Percussion,66.65,19.1,21.45,12.5,13.6
 2019,4,PIA,Albany Indoor Percussion,63.6,21.3,17.4,12.2,12.7
 2019,10,PIA,Albany Indoor Percussion,72.35,21.9,21.75,14.4,14.3
-2019,4,PIO,Alchemy Percussion presented by Carolina Gold,72.35,22.35,14.9,20.0,15.1
-2019,7,PIO,Alchemy Percussion presented by Carolina Gold,78.65,24.15,14.2,23.7,16.6
-2019,11,R1,Alchemy Percussion presented by Carolina Gold,80.15,24.9,16.3,23.15,15.8
 2019,3,N,Alcoa High School Winterguard,50.78,10.87,9.61,10.3,9.8
 2019,5,N,Alcoa High School Winterguard,54.151,10.68,11.87,10.8,10.8
 2019,8,N,Alcoa High School Winterguard,64.99,12.02,11.87,14.7,12.9
@@ -22,22 +19,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,PSJ,Alvarado IS,82.65,25.35,16.8,23.6,16.9
 2019,7,PSJ,Alvarado IS,85.85,25.95,15.6,27.2,17.1
 2019,9,PSJ,Alvarado IS,94.025,28.575,18.95,27.45,19.05
-2019,8,PSO,Amador Valley HS,80.5,23.85,13.7,27.6,15.35
-2019,4,PIO,Ancient City Ensemble,80.8,24.3,15.9,24.3,16.3
-2019,11,R2,Ancient City Ensemble,91.4,27.45,18.75,26.55,18.65
 2019,5,SRA,Anderson County High School,62.271,12.79,13.28,11.5,11.4
-2019,4,PSA,Arbor View HS,71.6,20.7,13.4,23.8,13.7
-2019,8,PSA,Arbor View HS,82.6,24.45,16.45,25.1,16.6
+2019,3,PSB,Angola Indoor Percussion,72.6,20.85,13.7,24.15,13.9
+2019,5,PSA,Angola Indoor Percussion,71.451,21.45,13.8,21.9,14.3
+2019,6,PSA,Angola Indoor Percussion,73.35,23.4,14.2,22.45,13.3
+2019,7,RA,Angola Indoor Percussion,75.113,22.988,14.475,23.7,13.95
 2019,1,PSW,Arcadia HS,79.7,24.3,15.8,22.9,16.7
 2019,3,PSW,Arcadia HS,82.85,24.45,16.1,25.6,16.7
-2019,4,PSO,Arcadia HS,78.45,23.85,14.6,24.4,15.6
 2019,5,PSW,Arcadia HS,85.05,25.35,16.9,25.9,16.9
-2019,6,PSA,Arcadia HS,80.75,24.45,16.0,24.9,15.4
-2019,8,PSW,Arcadia HS,92.7,28.05,18.625,27.125,18.9
 2019,9,PSW,Arcadia HS,94.0,28.2,18.85,27.55,19.4
 2019,10,PSW,Arcadia HS,94.663,28.462,18.85,28.45,18.9
-2019,11,PSW,Arcadia HS,97.338,29.137,19.6,29.05,19.55
-2019,7,PSA,Ardrey Kell HS,84.65,25.8,16.55,25.2,17.1
 2019,6,GHSSRAS,Arroyo Grande HS Guard,60.8,11.82,12.48,11.8,13.0
 2019,7,GHSSRAS,Arroyo Grande HS Guard,62.021,12.15,13.07,12.0,13.5
 2019,9,GHSSRAS,Arroyo Grande HS Guard,65.891,12.75,13.14,13.2,13.8
@@ -55,36 +46,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PHSSA-G,Arvin HS Percussion,81.85,27.0,24.75,15.3,14.8
 2019,6,PHSSA-G,Arvin HS Percussion,84.15,25.3,26.85,16.2,15.8
 2019,9,PHSSA-G,Arvin HS Percussion,87.85,27.1,25.35,18.0,17.4
-2019,7,PSA,Athens Drive HS,68.1,20.1,13.8,19.7,14.5
-2019,11,R4,Athens Drive HS,83.113,24.863,16.45,24.75,17.05
-2019,7,PIW,Atlanta Quest,84.8,25.05,16.4,25.95,17.4
-2019,8,PIW,Atlanta Quest,86.875,25.875,16.9,26.85,17.25
-2019,11,R2,Atlanta Quest,88.113,25.387,16.775,28.05,17.9
-2019,5,PSA,Atwater HS,68.301,19.8,14.4,20.05,14.05
-2019,7,PIO,Audio Theater,89.15,28.05,18.7,24.3,18.1
-2019,11,R1,Audio Theater,85.188,25.913,17.425,24.55,17.3
-2019,3,PIA,Avant Garde,63.3,19.5,12.5,18.8,12.5
-2019,5,PIA,Avant Garde,66.35,21.75,12.3,20.4,11.9
 2019,3,PSA,Avon Grove,66.251,21.2,19.35,12.9,12.8
 2019,4,PSA,Avon Grove,70.051,22.65,20.7,13.4,13.3
 2019,6,PSA,Avon Grove,72.6,21.9,23.1,13.5,14.1
 2019,9,PSA,Avon Grove,75.4,22.7,23.1,15.3,14.3
 2019,10,PSA,Avon Grove,72.15,22.8,20.85,14.9,13.6
-2019,6,PSW,Avon HS,86.05,25.65,16.6,26.4,17.4
-2019,11,PSW,Avon HS,95.163,28.837,19.35,27.85,19.125
+2019,4,PSW,Avon High School,77.6,22.8,15.4,24.4,15.0
+2019,5,PSW,Avon High School,84.25,24.75,17.0,25.0,17.5
+2019,7,PSW,Avon High School,88.513,25.913,17.95,26.65,18.0
+2019,9,PSW,Avon High School,91.2,27.0,18.9,27.25,18.05
+2019,3,PSA,"Avon High School ""A""",68.4,20.55,12.7,21.95,13.2
+2019,4,PSA,"Avon High School ""A""",67.675,20.625,14.35,20.0,12.7
+2019,5,PSA,"Avon High School ""A""",75.001,20.85,16.0,21.35,16.8
+2019,7,RB,"Avon High School ""A""",77.776,23.55,15.675,23.25,15.3
+2019,9,PSA,"Avon High School ""A""",74.95,21.225,15.225,23.4,15.1
 2019,2,PSW,Ayala HS,79.7,24.0,16.4,22.8,16.5
 2019,3,PSW,Ayala HS,81.15,24.75,16.4,24.3,15.7
 2019,5,PSW,Ayala HS,85.225,25.425,17.2,25.4,17.2
 2019,7,PSW,Ayala HS,88.05,26.4,18.05,26.0,17.6
-2019,8,PSW,Ayala HS,91.75,27.45,18.3,27.3,18.7
 2019,9,PSW,Ayala HS,91.7,27.3,18.7,27.5,18.2
 2019,10,PSW,Ayala HS,92.563,27.712,18.65,27.55,18.65
-2019,11,PSW,Ayala HS,93.963,28.163,19.05,28.1,18.65
-2019,4,PSW,Azle HS,75.75,24.45,14.3,22.8,14.2
-2019,11,R2,BMZ Indoor Percussion,72.9,21.3,14.6,21.9,15.1
-2019,4,PIO,Bakersfield College,79.7,24.9,14.8,24.1,15.9
-2019,8,PIO,Bakersfield College,89.55,26.325,17.85,27.275,18.1
-2019,11,PIO,Bakersfield College,96.725,29.175,19.55,28.925,19.075
 2019,3,R2,Baldwin Park HS,75.45,22.95,15.6,22.6,14.3
 2019,5,R2,Baldwin Park HS,77.8,22.5,16.6,23.0,15.7
 2019,7,PSA,Baldwin Park HS,80.7,24.45,15.4,24.5,16.35
@@ -96,9 +77,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSA,Baldwinsville indoor Percussion,75.9,22.4,23.1,15.2,15.2
 2019,9,PSA,Baldwinsville indoor Percussion,81.4,26.2,24.0,15.6,15.6
 2019,10,PSA,Baldwinsville indoor Percussion,75.101,22.4,22.8,15.3,14.6
-2019,6,PSA,Barry Goldwater HS,67.6,20.4,14.2,18.5,14.5
-2019,4,PSA,Basha HS,73.9,21.6,13.4,24.9,14.0
-2019,6,PSA,Basha HS,83.3,24.6,16.8,25.4,16.5
 2019,0,PSN,Bearden High School Indoor Percussion,64.7,19.4,18.9,12.9,13.5
 2019,3,PSN,Bearden High School Indoor Percussion,71.35,24.0,20.55,13.2,13.6
 2019,5,PSA,Bearden High School Indoor Percussion,76.2,24.5,21.9,14.7,15.1
@@ -107,72 +85,49 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,1,SA,Bearden High School Winterguard,64.25,14.01,14.54,12.0,12.5
 2019,3,SA,Bearden High School Winterguard,68.19,13.81,13.68,13.8,13.3
 2019,5,SA,Bearden High School Winterguard,73.24,14.94,15.2,13.8,14.0
-2019,3,PSA,Beavercreek HS,80.025,24.825,16.1,23.2,15.9
-2019,11,R1,Beavercreek HS,90.25,27.75,18.175,27.725,16.6
-2019,8,PSA,Beaverton HS,73.276,21.975,14.9,21.9,14.5
-2019,6,PSA,Bel Air HS,76.75,23.55,16.4,21.5,15.3
-2019,3,PSA,Bellbrook HS,75.901,23.25,15.4,21.7,15.55
-2019,11,R1,Bellbrook HS,88.05,25.575,17.175,27.15,18.15
-2019,3,PSA,Belleville East HS,79.4,24.0,16.3,22.8,16.3
-2019,8,PSA,Belleville East HS,90.95,28.65,18.0,26.2,18.1
-2019,11,R1,Belleville East HS,89.3,27.15,18.45,25.45,18.25
-2019,11,R3,Bellevue West HS,84.488,25.763,16.35,25.175,17.2
-2019,6,PSO,Ben Davis HS,72.251,21.15,13.1,22.6,15.4
-2019,11,R4,Ben Davis HS,82.575,25.125,16.85,24.55,16.05
-2019,7,PSA,Bergenfield HS,78.3,22.2,16.0,23.6,16.5
-2019,6,PIO,Black Diamond Percussion,80.05,24.45,15.0,24.7,15.9
-2019,11,R2,Black Diamond Percussion,81.238,24.788,16.1,24.6,15.75
-2019,5,PSA,Bloomington HS,70.1,22.5,13.6,20.7,13.3
-2019,6,PIW,Blue Knights,83.1,24.3,16.2,25.8,16.8
-2019,11,R1,Blue Knights,87.238,25.837,17.4,26.75,17.25
-2019,7,PSA,Bob Jones HS,84.85,26.25,16.5,26.2,15.9
-2019,11,R2,Bob Jones HS,89.538,26.212,18.225,27.45,17.65
+2019,3,PSB,Bedford North Lawrence Winter Percussion,65.6,21.75,12.5,19.5,11.85
+2019,5,PSB,Bedford North Lawrence Winter Percussion,63.651,20.25,12.6,19.2,11.6
+2019,6,PSB,Bedford North Lawrence Winter Percussion,69.563,20.888,14.225,21.5,12.95
+2019,7,PSB,Bedford North Lawrence Winter Percussion,71.251,21.525,14.65,21.225,13.85
+2019,7,RA,Beech Grove Indoor Percussion Ensemble,79.451,42.5,42.8,36.4,37.2
+2019,3,PSO,Ben Davis High School,68.05,21.45,13.1,20.2,13.3
+2019,5,PSO,Ben Davis High School,70.4,21.9,14.4,21.3,12.8
+2019,7,PSO,Ben Davis High School,73.325,21.825,14.35,22.75,14.4
+2019,9,PSO,Ben Davis High School,77.3,22.95,15.4,24.2,14.75
+2019,2,PSB,Bishop Dwenger Winter Percussion,72.1,20.7,14.4,23.2,13.8
+2019,4,PSB,Bishop Dwenger Winter Percussion,66.3,20.4,13.4,19.0,13.5
+2019,5,PSB,Bishop Dwenger Winter Percussion,73.7,21.3,14.8,22.0,15.6
+2019,6,PSB,Bishop Dwenger Winter Percussion,77.463,22.837,15.875,24.05,14.7
+2019,7,PSB,Bishop Dwenger Winter Percussion,79.088,23.438,16.05,24.45,15.15
+2019,7,RB,Bloomington High School North,75.775,37.85,41.1,36.4,36.2
 2019,3,P-SB,Boonsboro HS Percussion,65.05,18.45,21.6,12.4,12.6
 2019,5,P-SB,Boonsboro HS Percussion,72.35,23.4,20.85,14.2,13.9
 2019,6,P-SB,Boonsboro HS Percussion,75.65,23.7,24.15,13.1,14.7
 2019,7,P-SB,Boonsboro HS Percussion,79.85,24.15,24.6,15.6,15.5
 2019,8,P-SB,Boonsboro HS Percussion,82.35,24.6,25.65,16.5,15.6
 2019,9,P-SB,Boonsboro HS Percussion,77.301,22.275,24.675,15.4,14.95
-2019,4,PSO,Boswell HS,78.55,24.15,15.3,24.1,15.0
-2019,6,PSO,Boswell HS,80.4,24.3,15.8,24.5,15.8
-2019,11,R1,Boswell HS,86.351,26.475,16.85,25.775,17.25
-2019,7,PSA,Brandon HS,76.175,22.575,15.3,23.0,15.3
-2019,6,PIO,Brazos Valley Independent Percussion,68.5,20.4,13.1,21.4,13.6
-2019,4,PIW,Breakthrough Indoor Percussion,77.8,24.0,15.1,23.0,15.7
-2019,6,PIW,Breakthrough Indoor Percussion,81.9,24.9,17.2,23.6,16.2
-2019,8,PIW,Breakthrough Indoor Percussion,79.851,23.85,16.3,23.4,16.3
-2019,11,R2,Breakthrough Indoor Percussion,81.875,24.3,17.275,24.075,16.225
-2019,6,PSW,Broken Arrow HS,82.975,25.275,16.0,25.3,16.4
+2019,7,RA,Borden Winter Percussion,69.376,34.35,38.5,33.4,32.5
 2019,3,PIW,Broken City,85.75,25.95,17.4,24.6,17.8
 2019,6,PIW,Broken City,89.65,27.45,18.1,26.1,18.0
-2019,8,PIW,Broken City,94.75,28.95,19.0,28.3,18.5
 2019,9,PIW,Broken City,95.5,28.5,19.4,28.8,18.8
 2019,10,PIW,Broken City,96.95,29.1,19.3,29.1,19.45
-2019,11,PIW,Broken City,98.85,29.775,19.9,29.325,19.85
-2019,4,PSA,Brookville HS,79.55,23.85,16.5,22.7,16.5
-2019,6,PSA,Brownsburg HS,81.175,24.975,16.4,24.6,15.2
+2019,4,PSA,Brownsburg Movement Percussion,74.8,22.95,14.9,22.25,14.7
+2019,5,PSA,Brownsburg Movement Percussion,82.425,24.825,17.8,23.2,16.6
+2019,7,RA,Brownsburg Movement Percussion,87.75,26.325,17.475,26.75,17.2
+2019,9,PSA,Brownsburg Movement Percussion,88.701,26.175,18.375,26.5,17.65
 2019,6,PSA,Buena HS,78.3,23.7,14.9,23.5,16.2
 2019,7,R2,Buena HS,79.3,24.6,14.8,25.9,14.0
 2019,9,R1,Buena HS,93.325,28.125,18.2,27.9,19.1
 2019,10,PSA,Buena HS,92.138,27.262,18.225,28.5,18.15
-2019,4,PSW,Burleson Centennial HS,85.9,26.4,16.8,25.4,17.3
-2019,6,PSW,Burleson Centennial HS,83.35,24.75,17.2,24.5,16.9
-2019,11,PSW,Burleson Centennial HS,93.063,28.462,18.5,27.7,18.4
-2019,4,PSO,Burleson HS,76.0,22.5,15.1,23.5,14.9
-2019,11,R2,Burleson HS,88.013,26.212,16.925,26.7,18.175
-2019,6,PSA,C.E. King HS,71.15,18.75,15.0,23.0,14.4
 2019,5,PSO,Cab Calloway,74.15,21.7,22.95,14.8,14.7
 2019,6,PSO,Cab Calloway,78.2,23.3,24.0,15.4,15.5
 2019,8,PSO,Cab Calloway,77.15,23.4,22.35,15.3,16.1
 2019,9,PSO,Cab Calloway,78.8,23.1,25.5,14.7,15.5
 2019,10,PSO,Cab Calloway,74.85,24.5,20.55,14.5,15.3
-2019,7,PSO,Cab Calloway HS,75.351,22.65,15.8,21.8,15.1
 2019,3,PSA,Camarillo HS,76.325,22.425,15.1,23.65,15.15
 2019,5,R2,Camarillo HS,77.2,23.7,15.3,22.7,15.5
 2019,7,R1,Camarillo HS,81.65,23.85,17.4,24.1,16.3
 2019,9,R1,Camarillo HS,86.551,25.35,17.6,26.1,17.5
-2019,6,PSO,Campo Verde HS,75.6,21.6,15.3,23.3,15.4
-2019,8,PSO,Campo Verde HS,77.5,23.7,15.2,23.6,15.0
 2019,3,PSA,Canyon HS (AH),76.3,21.9,15.7,23.6,15.1
 2019,5,R2,Canyon HS (AH),72.85,19.95,16.1,23.0,13.8
 2019,7,PSA,Canyon HS (AH),79.001,23.7,14.9,25.6,14.8
@@ -189,8 +144,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,R1,Canyon Springs HS,71.35,20.85,13.9,22.3,14.3
 2019,7,R1,Canyon Springs HS,72.951,21.9,14.55,21.9,14.6
 2019,9,R2,Canyon Springs HS,83.101,24.45,15.5,26.0,17.15
-2019,6,PIW,Cap City Percussion,82.05,24.75,16.5,25.6,15.2
-2019,11,PIW,Cap City Percussion,89.663,27.038,17.975,26.35,18.3
 2019,0,P-SB,Carlisle HS Percussion,65.25,18.6,20.85,12.3,13.5
 2019,3,P-SB,Carlisle HS Percussion,70.8,20.4,22.2,13.7,14.5
 2019,6,P-SB,Carlisle HS Percussion,77.8,22.8,23.1,16.2,15.7
@@ -199,29 +152,23 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,2,PSO,Carlsbad HS,72.15,22.35,14.2,20.9,14.7
 2019,6,PSO,Carlsbad HS,77.35,22.05,15.2,24.0,16.1
 2019,7,PSO,Carlsbad HS,79.701,23.25,16.0,24.5,15.95
-2019,8,PSO,Carlsbad HS,79.9,22.95,16.8,24.5,15.65
 2019,9,R2,Carlsbad HS,83.801,25.8,16.0,24.55,17.45
-2019,6,PSA,Carroll HS,82.95,25.05,15.8,26.0,16.1
+2019,3,PSA,Carroll High School Indoor Percussion Ensemble,72.375,22.275,14.2,22.2,13.7
+2019,5,PSA,Carroll High School Indoor Percussion Ensemble,78.75,23.7,15.25,24.5,15.3
+2019,6,PSA,Carroll High School Indoor Percussion Ensemble,80.85,25.05,14.7,24.3,16.8
+2019,7,RB,Carroll High School Indoor Percussion Ensemble,85.213,26.062,16.7,25.95,16.5
+2019,9,PSA,Carroll High School Indoor Percussion Ensemble,88.925,26.25,17.725,26.9,18.05
 2019,3,SRA,Carter High School Winterguard,56.81,11.54,12.47,10.1,11.5
 2019,5,SRA,Carter High School Winterguard,64.32,13.27,13.95,10.7,13.4
-2019,6,PSO,Casa Grande HS,82.75,23.25,17.5,25.6,16.4
-2019,8,PSO,Casa Grande HS,86.213,26.062,17.35,25.275,17.525
-2019,6,PSA,Casteel HS,68.601,21.6,13.7,19.8,13.5
-2019,8,PIO,Catalyst,76.001,23.1,15.2,22.9,14.8
 2019,5,PIO,Catalyst Percussion,72.9,21.3,13.9,23.4,14.3
 2019,6,PIO,Catalyst Percussion,74.5,22.5,14.4,22.7,14.9
 2019,9,PIO,Catalyst Percussion,79.7,24.0,15.7,23.8,16.2
 2019,10,PIO,Catalyst Percussion,80.225,24.375,16.4,23.45,16.0
-2019,6,PSA,Centaurus HS,78.75,23.25,15.5,24.4,15.6
-2019,4,PSA,Centennial HS,64.501,18.9,11.8,21.4,12.4
-2019,6,PSW,Center Grove HS,80.15,25.05,15.7,23.1,16.3
-2019,11,PSW,Center Grove HS,87.675,26.775,16.825,27.15,16.925
-2019,3,PSW,Centerville HS,75.5,23.1,15.6,21.0,15.8
-2019,6,PSW,Centerville HS,78.85,24.45,15.5,23.2,15.7
-2019,8,PSW,Centerville HS,84.05,25.5,16.9,25.15,16.5
-2019,11,PSW,Centerville HS,83.2,25.5,16.55,24.55,16.6
-2019,8,PSO,Central Crossing HS,82.5,24.9,16.8,24.5,16.3
-2019,11,R3,Central Crossing HS,81.95,25.05,16.65,24.15,16.1
+2019,3,PSW,Center Grove High School,73.15,22.35,15.0,21.5,14.3
+2019,5,PSW,Center Grove High School,81.4,25.2,16.2,23.4,16.6
+2019,7,PSW,Center Grove High School,82.9,25.05,16.35,25.0,16.5
+2019,9,PSW,Center Grove High School,83.325,25.425,16.8,25.2,15.9
+2019,10,PSW,Center Grove High School,88.2,28.05,17.3,25.35,17.5
 2019,1,P-SG,Central Dauphin SD JV Percussion,60.625,18.15,17.175,12.8,12.5
 2019,6,P-SG,Central Dauphin SD JV Percussion,72.626,22.05,19.875,15.7,15.0
 2019,8,P-SG,Central Dauphin SD JV Percussion,73.151,21.3,23.85,14.1,13.9
@@ -233,12 +180,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,P-SP,Central Dauphin SD Percussion,81.6,24.3,24.6,16.5,16.2
 2019,8,P-SP,Central Dauphin SD Percussion,87.3,25.35,27.15,17.8,17.0
 2019,9,P-SP,Central Dauphin SD Percussion,88.725,26.25,27.225,17.55,17.7
-2019,4,PSA,Central Dauphin School District,83.6,25.5,16.9,24.3,16.9
-2019,11,R3,Central Dauphin School District,86.638,27.188,17.775,24.875,16.8
-2019,8,PSO,Central HS,73.1,21.9,13.4,23.3,14.5
 2019,4,PHSSO,Central HS Percussion,84.45,27.7,25.95,15.6,15.2
-2019,7,PSO,Central Lafourche HS,82.95,25.2,15.85,25.5,16.4
-2019,11,R4,Central Lafourche HS,90.126,26.4,18.05,27.95,17.725
 2019,3,PSA,Central Square High School,71.451,21.6,22.65,12.6,14.6
 2019,4,PSA,Central Square High School,69.65,21.5,20.55,13.4,14.2
 2019,6,PSA,Central Square High School,76.451,22.1,23.85,15.1,15.4
@@ -246,30 +188,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSA,Central Square High School,74.7,23.0,22.2,14.7,14.8
 2019,9,PSA,Central Square High School,84.4,25.9,26.55,15.85,16.1
 2019,10,PSA,Central Square High School,81.75,24.9,24.45,16.1,16.3
-2019,8,PSO,Century HS,76.45,23.55,15.1,23.6,14.2
 2019,4,P-SB,Century HS Percussion,64.05,20.85,21.6,11.0,10.6
 2019,5,P-SB,Century HS Percussion,69.65,21.45,19.8,15.2,13.2
 2019,6,P-SB,Century HS Percussion,75.35,24.3,23.55,13.5,14.0
 2019,7,P-SB,Century HS Percussion,79.55,24.45,23.7,16.3,15.1
 2019,8,P-SB,Century HS Percussion,82.2,25.05,24.45,16.8,15.9
 2019,9,P-SB,Century HS Percussion,82.813,23.513,25.95,16.55,16.8
-2019,5,PSO,Cesar E Chavez HS,84.7,25.8,17.0,25.0,16.9
-2019,11,PSW,Cesar E Chavez HS,84.075,25.425,16.35,24.95,17.35
 2019,1,PSO,Cesar E. Chavez HS,74.85,23.25,14.8,22.2,14.6
 2019,9,PSW,Cesar E. Chavez HS,82.951,25.05,17.1,23.8,17.0
 2019,5,R2,Chaffey HS,77.55,23.25,15.5,23.8,15.0
 2019,7,R1,Chaffey HS,80.375,22.875,14.8,25.6,17.1
 2019,9,R2,Chaffey HS,88.05,25.95,18.1,26.7,17.3
 2019,10,PSA,Chaffey HS,85.563,25.087,17.35,25.6,17.525
-2019,4,PSO,Chantilly HS,76.0,23.1,15.2,22.4,15.3
-2019,11,R3,Chantilly HS,84.263,24.562,17.375,24.85,17.475
 2019,2,PSA,Chaparral HS,65.176,20.475,13.1,18.8,12.8
-2019,4,PSA,Chaparral HS,65.501,18.3,12.8,21.7,12.7
 2019,6,PSA,Chaparral HS,71.451,21.45,14.6,20.3,15.1
 2019,9,R1,Chaparral HS,84.075,25.275,17.2,24.6,17.0
-2019,5,PIA,Charles Towne Percussion,70.2,19.5,15.0,20.2,15.5
-2019,11,R2,Charles Towne Percussion,81.826,23.025,17.275,25.6,15.925
-2019,7,PSA,Chattahoochee HS,80.401,25.2,16.3,23.8,15.1
 2019,4,PRA,Cheltenham,74.15,21.8,23.55,15.5,13.3
 2019,5,PRA,Cheltenham,75.65,23.4,22.95,15.7,13.6
 2019,6,PRA,Cheltenham,73.251,22.1,22.05,15.0,14.1
@@ -278,21 +211,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,10,PRA,Cheltenham,82.8,25.6,24.0,17.2,16.0
 2019,3,PSO,Chino HS,77.05,23.85,16.4,22.1,14.7
 2019,5,PSO,Chino HS,81.9,24.3,16.0,25.3,16.3
-2019,8,PSO,Chino HS,86.563,26.062,17.25,26.05,17.2
 2019,9,R1,Chino HS,88.1,25.2,17.8,28.2,16.9
 2019,10,PSO,Chino HS,89.063,26.362,17.35,27.15,18.2
 2019,3,PSW,Chino Hills HS,84.3,25.8,16.9,25.1,16.5
-2019,4,PSW,Chino Hills HS,86.05,25.95,16.9,26.0,17.2
 2019,7,PSW,Chino Hills HS,89.7,26.7,18.4,26.9,17.7
-2019,8,PSW,Chino Hills HS,94.375,28.5,19.05,28.25,18.575
 2019,9,PSW,Chino Hills HS,94.55,28.35,19.2,28.4,18.6
 2019,10,PSW,Chino Hills HS,95.525,28.725,19.125,28.9,18.775
-2019,11,PSW,Chino Hills HS,97.975,29.325,19.8,29.45,19.4
-2019,7,PSO,Choctawhatchee HS,82.1,24.9,15.8,25.0,16.4
-2019,11,R2,Choctawhatchee HS,90.063,27.788,18.45,25.825,18.0
-2019,5,PIO,Civitas Independent,80.85,23.55,15.7,25.5,16.1
-2019,7,PIO,Civitas Independent,83.15,25.35,16.3,25.2,16.3
-2019,11,PIO,Civitas Independent,92.688,28.238,18.5,27.7,18.25
 2019,5,N,Claiborne County High School Winterguard,50.411,9.27,11.54,9.5,10.3
 2019,3,P-SB,Clarke County HS Percussion,62.0,17.85,20.25,12.5,11.4
 2019,5,P-SB,Clarke County HS Percussion,69.001,21.9,20.1,14.0,13.0
@@ -300,19 +224,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,P-SB,Clarke County HS Percussion,76.85,22.05,22.8,16.7,15.3
 2019,8,P-SB,Clarke County HS Percussion,79.9,22.8,23.7,17.1,16.3
 2019,9,P-SB,Clarke County HS Percussion,78.001,22.65,23.4,16.0,15.95
-2019,4,PSO,Clear Brook HS,84.55,25.95,16.5,25.7,16.4
-2019,11,PSO,Clear Brook HS,96.05,28.425,18.975,29.025,19.625
-2019,6,PSA,Clear Springs HS,74.751,21.75,14.3,24.5,14.2
+2019,7,RB,Clay City Percussion Ensemble,68.8,36.0,37.5,32.9,31.2
 2019,3,PRA,Clearview Regional,75.35,22.7,23.25,13.8,15.6
 2019,5,PRA,Clearview Regional,74.8,23.7,23.7,14.3,13.1
 2019,6,PRA,Clearview Regional,75.201,23.8,22.5,14.5,14.4
 2019,9,PRA,Clearview Regional,76.951,24.1,22.95,15.1,14.8
-2019,7,PSA,Clinton HS,82.701,25.95,15.5,26.0,15.25
 2019,8,P,Clinton Middle Winterguard,61.61,10.34,9.67,16.5,12.1
-2019,5,PSA,Clover HS,81.8,25.35,15.1,25.6,15.75
-2019,7,PSA,Clover HS,83.901,24.9,16.8,25.3,16.9
-2019,8,PSO,Clovis HS,78.0,24.0,15.4,22.6,16.0
-2019,5,PSO,Clovis West HS,79.65,23.85,16.1,23.7,16.0
 2019,3,PSA,Coatesville,60.601,20.2,16.8,12.1,11.5
 2019,4,PSA,Coatesville,62.9,19.5,17.7,12.7,13.0
 2019,5,PSA,Coatesville,67.051,20.3,19.95,13.2,13.6
@@ -320,25 +237,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSA,Coatesville,73.775,21.4,21.975,15.0,15.4
 2019,9,PSA,Coatesville,81.501,23.9,25.5,14.9,17.2
 2019,10,PSA,Coatesville,70.4,22.2,20.4,14.6,13.2
-2019,8,PSA,Colerain HS,70.7,23.1,14.0,19.6,14.0
-2019,11,R2,Colerain HS,78.6,24.075,16.425,22.75,15.35
-2019,5,PSO,Collins Hill HS,76.25,22.35,15.6,24.7,13.6
-2019,7,PSO,Collins Hill HS,79.65,23.85,16.0,23.6,16.2
 2019,0,P-SG,Conestoga Valley HS Percussion,64.25,19.65,18.9,12.7,13.0
 2019,2,P-SG,Conestoga Valley HS Percussion,65.075,19.8,21.375,11.7,12.2
 2019,3,P-SG,Conestoga Valley HS Percussion,65.4,20.1,19.8,12.6,12.9
 2019,8,P-SG,Conestoga Valley HS Percussion,81.425,24.15,25.575,15.5,16.2
 2019,9,P-SG,Conestoga Valley HS Percussion,81.975,24.113,25.763,16.55,15.55
-2019,3,PIW,ConneXus,78.15,24.45,15.9,22.2,15.6
-2019,8,PIW,ConneXus,85.85,26.25,16.75,25.65,17.2
-2019,11,R2,ConneXus,87.088,26.212,17.625,26.15,17.1
-2019,6,PSA,Copper Hills HS,65.55,19.35,14.3,19.4,12.5
+2019,7,RA,Connersville Winter Percussion Ensemble,65.725,33.85,36.0,30.9,30.7
 2019,6,PIA,Cornell Indoor Drumline,65.2,19.3,19.2,13.2,13.5
 2019,10,PIA,Cornell Indoor Drumline,68.5,20.2,21.0,13.5,13.8
 2019,2,R1,Cornerstone Percussion,67.65,21.75,13.8,18.9,13.2
-2019,4,PIA,Cornerstone Percussion,62.7,18.0,12.2,20.1,12.4
 2019,6,PIA,Cornerstone Percussion,70.15,21.45,14.7,19.4,14.6
-2019,8,PIA,Cornerstone Percussion,75.95,23.55,15.4,22.2,14.8
 2019,9,PIA,Cornerstone Percussion,79.8,24.6,14.4,23.7,17.1
 2019,10,PIA,Cornerstone Percussion,78.7,24.3,15.25,23.9,15.25
 2019,3,PSA,Corning-Painted Post,69.901,21.1,21.3,13.3,14.2
@@ -346,27 +254,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PSA,Corning-Painted Post,73.301,20.8,22.5,15.0,15.0
 2019,9,PSA,Corning-Painted Post,80.15,24.8,25.35,14.9,15.1
 2019,10,PSA,Corning-Painted Post,78.626,23.4,23.625,15.9,15.7
-2019,7,PSA,Creekview HS,81.151,25.05,16.0,23.4,16.7
-2019,3,PIA,Crossroads Percussion,72.4,21.9,14.7,20.8,15.0
-2019,11,R2,Crossroads Percussion,83.563,25.087,16.55,25.9,16.025
-2019,5,PIA,Crystal Lake Thunder,74.55,23.25,14.5,22.6,14.2
-2019,6,PIA,Crystal Lake Thunder,79.5,24.3,15.6,25.0,14.6
-2019,11,PIA,Crystal Lake Thunder,84.375,25.2,16.525,25.7,16.95
 2019,2,P-SB,Cumberland Valley HS Percussion,60.35,17.1,19.65,12.0,11.6
 2019,7,P-SB,Cumberland Valley HS Percussion,79.85,24.45,23.1,16.2,16.1
 2019,8,P-SB,Cumberland Valley HS Percussion,79.75,23.1,24.15,16.2,16.3
 2019,9,P-SB,Cumberland Valley HS Percussion,78.176,22.425,23.7,16.1,15.95
-2019,8,PSW,Cupertino HS,80.55,24.45,15.8,24.1,16.2
-2019,6,PSO,Cypress Falls HS,79.875,24.075,15.5,24.7,15.6
-2019,11,R2,Cypress Falls HS,86.85,26.55,17.6,25.45,17.25
 2019,1,PSA,Cypress HS,67.9,19.8,13.9,21.4,12.8
 2019,3,PSA,Cypress HS,73.051,20.7,15.35,22.4,14.6
 2019,6,PSA,Cypress HS,76.75,22.05,15.8,23.2,15.7
 2019,7,PSA,Cypress HS,77.876,23.175,16.2,23.6,14.9
 2019,9,R1,Cypress HS,83.4,25.2,16.2,25.8,16.2
-2019,6,PSA,Cypress Lakes HS,73.601,22.05,14.2,22.3,15.05
-2019,2,PSA,Dakota HS,68.5,20.4,12.4,22.3,13.4
-2019,11,R3,Dakota HS,84.526,24.9,16.4,26.6,16.625
 2019,3,R2,Damien HS,63.7,18.3,12.2,20.3,12.9
 2019,5,R1,Damien HS,67.301,19.5,13.1,21.6,13.1
 2019,7,PSA,Damien HS,69.9,21.0,13.9,21.8,13.2
@@ -374,37 +270,35 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,R1,Dana Hills HS,67.801,19.5,12.9,21.4,14.0
 2019,6,PSA,Dana Hills HS,69.601,22.2,13.5,19.5,14.4
 2019,9,R2,Dana Hills HS,76.6,23.7,14.0,23.5,15.4
+2019,7,RA,Danville Community High School Indoor Percussion Ensemble,68.451,35.1,37.6,32.7,31.5
 2019,3,PIW,Dark Sky Percussion,82.15,24.15,16.6,24.9,16.5
 2019,5,PIW,Dark Sky Percussion,84.85,25.65,16.9,25.0,17.3
-2019,8,PIW,Dark Sky Percussion,86.975,25.575,17.0,27.15,17.25
 2019,9,PIW,Dark Sky Percussion,89.8,27.3,18.5,26.4,17.6
 2019,10,PIW,Dark Sky Percussion,89.1,27.075,17.6,27.225,17.2
-2019,11,PIW,Dark Sky Percussion,90.613,26.737,18.175,27.15,18.55
-2019,7,PSW,Dartmouth HS,90.4,27.3,18.55,26.4,18.15
-2019,11,PSW,Dartmouth HS,94.888,28.837,19.15,28.4,18.5
-2019,11,R3,Dassel-Cokato HS,88.263,26.962,18.35,26.15,16.8
-2019,8,PSA,Daviess County Public Schools,83.451,27.75,16.0,24.0,15.7
-2019,11,R1,Daviess County Public Schools,82.413,25.988,16.25,24.025,16.15
-2019,6,PSA,Decatur Central HS,72.0,21.6,14.0,23.2,13.2
-2019,11,R4,Decatur Central HS,80.05,23.85,16.075,24.15,15.975
-2019,7,PSA,Denmark HS,69.4,21.15,14.15,21.1,13.0
+2019,4,PSA,DeKalb Winter Percussion Ensemble,69.9,21.15,14.05,22.2,12.5
+2019,5,PSA,DeKalb Winter Percussion Ensemble,72.85,21.6,14.55,21.6,15.1
+2019,6,PSA,DeKalb Winter Percussion Ensemble,74.426,23.625,14.3,22.7,13.8
+2019,7,RB,DeKalb Winter Percussion Ensemble,75.713,21.863,15.35,23.4,15.1
+2019,9,PSA,DeKalb Winter Percussion Ensemble,73.925,21.075,15.05,22.5,15.3
+2019,2,PSA,Decatur Central Winter Percussion Ensemble,67.401,19.5,13.0,21.2,13.7
+2019,3,PSA,Decatur Central Winter Percussion Ensemble,70.176,21.375,12.95,22.1,13.75
+2019,5,PSA,Decatur Central Winter Percussion Ensemble,72.35,23.55,13.0,21.9,13.9
+2019,7,RA,Decatur Central Winter Percussion Ensemble,75.0,22.8,14.95,23.3,13.95
+2019,10,PSA,Decatur Central Winter Percussion Ensemble,82.5,25.95,16.5,24.05,16.0
+2019,3,PIA,Decatur County Indoor,61.8,20.7,11.6,18.5,11.0
+2019,4,PIA,Decatur County Indoor,62.2,18.3,13.0,18.7,12.2
+2019,7,PIA,Decatur County Indoor,71.25,22.65,13.6,20.8,14.2
+2019,9,PIA,Decatur County Indoor,70.775,19.725,14.35,22.0,14.7
 2019,3,R1,Diamond Bar HS,76.65,23.25,14.9,23.7,14.8
 2019,5,R2,Diamond Bar HS,79.2,24.3,16.3,22.6,16.0
 2019,7,PSW,Diamond Bar HS,81.1,24.3,15.7,25.1,16.0
-2019,8,PSW,Diamond Bar HS,82.651,24.75,16.7,24.55,16.65
 2019,9,PSW,Diamond Bar HS,83.576,25.125,17.0,23.85,17.6
 2019,10,PSW,Diamond Bar HS,84.501,25.725,16.8,25.575,16.4
-2019,2,PIO,Divergent,68.65,21.45,12.3,21.1,13.8
-2019,11,R2,Divergent,85.738,25.762,17.15,25.575,17.25
 2019,5,R2,Don Lugo HS,66.251,19.35,12.9,20.9,13.1
 2019,6,PSA,Don Lugo HS,67.901,20.55,14.05,19.2,14.1
 2019,7,R2,Don Lugo HS,71.151,20.85,14.4,22.0,13.9
 2019,9,R1,Don Lugo HS,77.1,24.6,14.5,22.4,15.6
-2019,5,PSA,Dorman HS,78.9,23.1,16.9,24.3,14.6
-2019,7,PSA,Dorman HS,86.725,26.175,16.85,26.9,16.8
-2019,11,PSA,Dorman HS,89.713,27.263,17.375,27.975,17.1
 2019,2,PSJ,Dorothy McElhinney MS,70.25,21.45,14.1,21.2,13.5
-2019,4,PSA,Dorothy McElhinney MS,70.05,19.05,14.9,23.3,12.8
 2019,6,PSJ,Dorothy McElhinney MS,84.35,25.35,17.1,24.7,17.2
 2019,7,PSJ,Dorothy McElhinney MS,89.25,27.15,16.7,27.8,17.6
 2019,9,PSJ,Dorothy McElhinney MS,96.525,29.175,18.7,29.45,19.2
@@ -412,12 +306,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PSA,Downingtown,82.55,24.9,24.45,16.2,17.0
 2019,9,PSO,Downingtown,86.6,26.0,27.0,16.6,17.0
 2019,10,PSO,Downingtown,88.05,27.9,25.05,17.3,17.8
-2019,7,PSA,Downingtown Area School District,90.7,27.75,17.95,26.0,19.0
-2019,11,R2,Downingtown Area School District,88.101,26.7,17.325,26.825,17.25
-2019,6,PSA,Dripping Springs HS,75.1,22.5,14.6,22.8,15.2
-2019,7,PSA,E.D. White HS,90.6,27.3,17.85,27.55,17.9
-2019,11,PSA,E.D. White HS,95.925,29.1,19.5,29.1,18.225
-2019,7,PIA,ELITE A,78.6,23.55,15.15,24.2,15.7
 2019,6,PIA-C,EPIC Cadets,83.95,25.0,27.15,16.0,15.8
 2019,0,PSN,East Hamilton High School Percussion Ensemble,56.85,17.8,16.05,11.2,11.8
 2019,3,PSN,East Hamilton High School Percussion Ensemble,61.15,20.1,16.65,11.8,12.6
@@ -430,9 +318,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,PSRO,East Irondequoit,83.9,24.3,26.4,16.7,16.5
 2019,9,PSRO,East Irondequoit,86.75,25.7,26.25,17.1,17.7
 2019,10,PSRO,East Irondequoit,86.05,26.4,25.05,17.2,17.4
-2019,3,PSA,East Irondequoit HS,74.351,22.8,15.7,21.0,14.85
+2019,2,PSA,East Noble High School Indoor Percussion Ensemble,64.601,18.45,12.5,21.3,12.35
+2019,4,PSA,East Noble High School Indoor Percussion Ensemble,66.05,18.75,13.9,20.35,13.05
+2019,5,PSA,East Noble High School Indoor Percussion Ensemble,73.1,19.2,14.1,24.1,15.7
+2019,6,PSA,East Noble High School Indoor Percussion Ensemble,79.25,23.85,16.2,23.6,15.6
+2019,7,RB,East Noble High School Indoor Percussion Ensemble,79.126,22.65,15.675,24.9,15.9
+2019,9,PSA,East Noble High School Indoor Percussion Ensemble,76.525,21.675,15.275,23.45,16.125
 2019,6,PSA,East Pennsboro,82.2,23.7,25.5,16.5,16.5
-2019,7,PSA,East Pennsboro HS,85.075,25.725,17.0,24.8,17.55
 2019,1,P-SB,East Pennsboro HS Percussion,66.6,18.9,20.7,13.6,13.4
 2019,2,P-SB,East Pennsboro HS Percussion,68.15,20.7,22.05,12.8,12.6
 2019,8,P-SB,East Pennsboro HS Percussion,85.65,24.75,27.0,17.2,16.7
@@ -444,11 +336,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSO,East Syracuse Minoa,85.55,25.5,25.35,17.2,17.5
 2019,9,PSO,East Syracuse Minoa,89.2,28.0,27.9,16.4,16.9
 2019,10,PSO,East Syracuse Minoa,86.55,26.1,25.65,17.8,17.0
-2019,6,PSA,East view HS,82.35,24.75,16.0,26.3,15.3
-2019,7,PSA,Eastern Regional HS,75.6,24.6,14.5,21.9,14.6
-2019,11,PSW,Eden Prairie HS,77.625,24.075,15.5,22.65,15.4
-2019,4,PSO,Edinburg HS,74.35,22.95,14.1,23.2,14.1
-2019,6,PSO,Edinburg HS,72.351,21.75,13.9,22.2,14.5
+2019,2,PSB,Eastside Junior/Senior High School,62.051,19.65,12.1,17.8,12.5
+2019,3,PSB,Eastside Junior/Senior High School,58.351,18.15,12.4,15.3,12.5
+2019,5,PSB,Eastside Junior/Senior High School,60.95,17.55,12.8,17.6,13.0
+2019,6,PSB,Eastside Junior/Senior High School,62.713,18.263,13.175,18.9,12.375
+2019,2,PSA,Edgewood High School,65.901,19.95,12.25,20.4,13.3
+2019,3,PSA,Edgewood High School,71.125,21.525,13.9,21.7,14.0
+2019,6,PSA,Edgewood High School,73.8,22.2,15.1,22.2,14.3
+2019,7,RB,Edgewood High School,80.713,23.962,16.0,25.8,14.95
+2019,9,PSA,Edgewood High School,81.0,22.5,16.6,25.2,16.7
 2019,2,GHSSRAS,Edison HS Guard,56.26,9.95,10.21,13.3,11.4
 2019,4,GHSSRAS,Edison HS Guard,58.81,12.02,10.69,12.0,11.6
 2019,7,GHSSRAS,Edison HS Guard,74.98,14.54,14.94,15.4,14.7
@@ -457,38 +353,30 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PHSSRA,Edison HS Percussion,71.5,24.3,22.2,12.8,12.2
 2019,7,PHSSRA,Edison HS Percussion,78.15,25.3,23.85,14.6,14.4
 2019,9,PHSSRA,Edison HS Percussion,80.65,23.9,25.35,16.8,14.6
-2019,5,PSA,El Capitan HS,71.651,22.35,14.2,20.8,14.3
 2019,6,GHSSA,El Diamante HS Guard,59.52,10.68,11.14,12.8,12.0
 2019,7,GHSSA,El Diamante HS Guard,65.01,12.14,13.07,13.0,12.5
 2019,9,GHSSAG,El Diamante HS Guard,71.21,12.74,15.07,13.5,14.9
 2019,3,PSO,El Dorado HS,82.25,24.15,17.1,24.2,16.8
 2019,5,PSO,El Dorado HS,84.5,26.1,17.1,24.0,17.3
 2019,7,PSO,El Dorado HS,85.35,26.25,17.8,24.2,17.1
-2019,8,PSO,El Dorado HS,91.725,28.05,18.4,26.85,18.425
 2019,9,R1,El Dorado HS,93.175,27.675,19.0,27.5,19.0
 2019,10,PSO,El Dorado HS,93.413,28.012,19.05,27.525,18.825
 2019,3,PSA,El Toro HS,76.15,22.2,15.25,23.9,14.8
 2019,5,R1,El Toro HS,75.55,22.65,14.7,22.8,15.4
 2019,7,PSA,El Toro HS,77.051,23.25,15.8,22.7,15.3
 2019,9,R2,El Toro HS,85.076,25.275,16.7,26.4,16.7
-2019,4,PIO,Elan Percussion,78.2,24.0,14.9,24.0,15.3
-2019,8,PIO,Elan Percussion,85.525,25.2,16.4,26.675,17.25
-2019,7,PIO,Elite Independent Percussion,82.55,24.6,16.6,24.6,16.75
-2019,11,R1,Elite Independent Percussion,86.063,25.913,17.2,25.475,17.475
-2019,6,PSA,Elkhart Central HS,70.825,21.225,14.05,21.6,13.95
-2019,8,PSA,Enochs HS,86.175,25.95,17.25,25.375,17.6
-2019,5,PIW,Equinox Percussion,75.55,23.85,13.0,24.3,14.4
-2019,7,PIW,Equinox Percussion,80.35,24.45,14.8,25.2,15.9
-2019,11,R1,Equinox Percussion,83.063,24.488,18.1,24.4,16.075
-2019,7,PSO,Escambia HS,85.513,25.612,16.95,25.45,17.5
-2019,11,R2,Escambia HS,87.163,25.837,18.225,25.425,17.675
-2019,4,PSW,Etiwanda HS,82.65,25.05,16.0,24.9,16.7
+2019,2,PSA,Elkhart Central Blazeline,62.951,17.85,13.2,20.1,11.8
+2019,3,PSA,Elkhart Central Blazeline,69.25,20.85,13.1,22.5,12.8
+2019,5,PSA,Elkhart Central Blazeline,72.551,22.2,14.85,20.6,14.9
+2019,7,RA,Elkhart Central Blazeline,70.05,20.25,14.45,21.95,13.4
+2019,2,PSA,Elkhart Memorial Winter Percussion,62.65,17.55,12.1,21.4,11.6
+2019,4,PSA,Elkhart Memorial Winter Percussion,65.3,18.3,13.5,21.2,12.3
+2019,5,PSA,Elkhart Memorial Winter Percussion,69.001,19.35,13.65,22.3,13.7
+2019,6,PSA,Elkhart Memorial Winter Percussion,73.125,21.825,13.6,21.7,16.0
+2019,7,RB,Elkhart Memorial Winter Percussion,72.5,21.15,14.4,23.6,13.35
 2019,6,PSW,Etiwanda HS,81.7,24.6,17.0,23.7,16.4
-2019,8,PSW,Etiwanda HS,87.65,26.25,18.1,25.2,18.1
 2019,9,PSW,Etiwanda HS,91.126,26.925,18.9,26.9,18.4
 2019,10,PSW,Etiwanda HS,92.175,28.125,18.7,26.8,18.55
-2019,11,PSW,Etiwanda HS,92.676,27.825,18.55,27.325,18.975
-2019,11,R3,Everett HS,85.663,25.762,17.05,26.675,16.175
 2019,2,GHSSRAS,Exeter Union HS Guard,50.311,9.14,9.27,10.9,11.5
 2019,4,GHSSRAS,Exeter Union HS Guard,50.331,9.88,8.75,11.2,10.6
 2019,6,GHSSRAS,Exeter Union HS Guard,61.07,12.16,11.61,12.3,12.7
@@ -496,18 +384,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,GHSSRAS,Exeter Union HS Guard,64.62,13.41,12.61,12.9,13.5
 2019,7,PHSSRA,Exeter Union HS Percussion,69.5,23.7,21.0,12.6,12.2
 2019,9,PHSSRA,Exeter Union HS Percussion,71.15,21.3,20.85,15.5,13.5
-2019,4,PIO,FIU Indoor Percussion,80.05,24.75,16.4,23.1,15.8
-2019,7,PIO,FIU Indoor Percussion,80.9,24.9,15.4,24.6,16.0
-2019,11,R2,FIU Indoor Percussion,89.276,26.475,18.1,27.225,17.475
+2019,7,RB,F. J. Reitz Indoor Percussion Ensemble,77.925,38.7,40.85,38.6,37.7
 2019,3,PSO,Fair Lawn,71.9,22.4,21.6,13.3,14.6
-2019,7,PSO,Fair Lawn HS,89.625,26.925,18.1,27.15,17.45
-2019,11,PSO,Fair Lawn HS,93.925,27.975,18.45,28.35,19.15
-2019,3,PSA,Fairborn HS,72.001,22.5,14.7,20.7,14.1
-2019,11,R2,Fairborn HS,87.876,26.625,17.65,26.625,16.975
-2019,2,PIA,Farmington United Percussion Ensemble,71.95,21.75,13.6,22.8,13.8
-2019,11,R1,Farmington United Percussion Ensemble,82.863,25.087,16.25,24.9,16.625
-2019,5,PSA,Farragut HS,81.375,24.675,16.5,24.7,15.5
-2019,8,PSA,Farragut HS,81.701,25.2,15.5,25.0,16.0
 2019,0,PSA,Farragut High School Indoor Percussion Ensemble,67.6,20.8,19.8,13.3,13.7
 2019,3,PSA,Farragut High School Indoor Percussion Ensemble,77.55,24.5,22.95,15.0,15.1
 2019,9,PSA,Farragut High School Indoor Percussion Ensemble,86.85,27.1,26.4,16.9,16.45
@@ -516,63 +394,36 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,SA,Farragut High School Winterguard,66.44,13.47,13.47,12.5,12.1
 2019,5,P,Farragut Middle School,51.21,9.67,9.34,9.4,11.8
 2019,9,PE-IB,First Capital Drumline,85.9,42.1,44.4,41.9,43.4
-2019,6,PIO,Flux Indoor Percussion,78.5,22.8,15.2,24.8,15.7
-2019,8,PIO,Flux Indoor Percussion,79.801,23.7,16.0,24.9,15.2
-2019,11,R1,Flux Indoor Percussion,84.6,26.1,16.7,25.825,15.975
-2019,8,PSO,Foothill HS,83.588,25.163,16.5,24.8,17.125
-2019,4,PSO,Foothill HS (NV),75.151,22.35,14.9,22.4,15.5
-2019,6,PSO,Foothill HS (NV),81.75,24.15,16.8,25.1,15.7
-2019,8,PSO,Foothill HS (NV),87.075,26.325,17.825,25.975,16.95
-2019,8,PSA,Forest Hills School District,82.801,25.5,16.1,24.4,16.8
-2019,11,R4,Forest Hills School District,84.101,24.525,17.4,25.85,16.325
-2019,4,PSA,Forney HS,74.65,21.75,14.2,22.3,16.4
-2019,7,PSA,Fort Walton Beach HS,74.05,22.35,15.9,21.4,14.4
+2019,7,RB,Fishers High School Concert A,85.3,44.2,43.8,42.4,40.2
 2019,0,IA,Forte Winterguard,69.39,15.48,15.41,12.6,13.1
 2019,1,IA,Forte Winterguard,70.18,15.54,15.74,12.9,14.5
 2019,3,IA,Forte Winterguard,74.35,14.21,14.54,15.4,14.8
 2019,5,IA,Forte Winterguard,72.65,14.88,13.27,15.1,14.7
 2019,8,IA,Forte Winterguard,76.32,15.28,13.34,15.6,16.0
 2019,3,PSO,Fountain Valley HS,75.701,21.6,16.3,22.5,15.3
-2019,4,PSO,Fountain Valley HS,75.6,23.7,13.7,24.1,14.1
 2019,5,PSO,Fountain Valley HS,81.1,25.2,16.3,23.0,16.6
 2019,7,PSO,Fountain Valley HS,83.45,24.75,17.2,25.4,16.1
 2019,9,R2,Fountain Valley HS,89.325,26.175,17.8,27.95,17.4
 2019,10,PSO,Fountain Valley HS,89.65,26.7,17.75,27.55,17.65
-2019,11,PSO,Fountain Valley HS,92.451,27.525,18.475,27.725,18.725
-2019,3,PSO,Francis Howell HS,71.6,21.9,13.8,21.4,14.5
-2019,6,PSO,Francis Howell HS,75.501,22.5,14.9,22.9,15.2
-2019,11,R4,Francis Howell HS,85.6,27.0,16.75,24.95,16.9
-2019,6,PSW,Franklin Central HS,83.825,25.425,16.2,25.2,17.0
-2019,11,PSW,Franklin Central HS,90.288,27.488,18.0,26.5,18.3
-2019,6,PSA,Franklin Community HS,75.601,24.0,15.1,22.7,13.8
-2019,11,R4,Franklin Community HS,85.526,25.275,16.625,25.775,17.85
-2019,7,PSO,Fred J Page HS,81.0,24.6,16.6,24.1,15.7
-2019,11,R3,Fred J Page HS,85.826,25.875,17.25,25.85,16.85
-2019,4,PSO,Freedom HS,75.85,23.25,14.8,23.1,14.7
-2019,3,PIW,Freedom Percussion,71.65,21.75,13.9,21.1,14.9
-2019,11,R1,Freedom Percussion,80.0,23.85,16.15,23.55,16.45
+2019,2,PSW,Franklin Central Indoor Percussion Ensemble,72.55,21.75,14.4,22.8,13.6
+2019,3,PSW,Franklin Central Indoor Percussion Ensemble,74.8,22.2,15.6,21.9,15.1
+2019,5,PSW,Franklin Central Indoor Percussion Ensemble,83.5,24.3,16.6,24.5,18.1
+2019,7,PSW,Franklin Central Indoor Percussion Ensemble,86.275,25.575,17.3,26.0,17.4
+2019,9,PSW,Franklin Central Indoor Percussion Ensemble,88.125,26.475,18.55,25.9,17.2
+2019,10,PSW,Franklin Central Indoor Percussion Ensemble,90.1,28.2,18.0,25.3,18.6
+2019,3,PSA,Franklin Community High School Indoor Percussion,70.8,22.05,12.75,21.8,14.2
+2019,4,PSA,Franklin Community High School Indoor Percussion,73.05,22.5,15.35,21.5,13.7
+2019,5,PSA,Franklin Community High School Indoor Percussion,75.901,22.8,16.1,21.9,15.1
+2019,7,RA,Franklin Community High School Indoor Percussion,80.751,23.775,15.975,25.5,15.5
+2019,9,PSA,Franklin Community High School Indoor Percussion,81.125,23.775,16.125,24.75,16.475
+2019,10,PSA,Franklin Community High School Indoor Percussion,86.85,27.15,18.1,23.7,17.9
 2019,2,GIO,Frente,56.2,11.7,11.0,10.2,10.5
 2019,4,GIO,Frente,70.6,14.1,14.8,13.4,13.7
 2019,9,GIO,Frente,84.5,17.1,17.5,17.4,16.6
-2019,5,PIA,Fusion Percussion,75.85,21.75,14.8,24.7,14.6
-2019,11,PIA,Fusion Percussion,86.738,25.837,17.75,25.575,17.575
-2019,5,PIA,G2,76.2,23.7,15.2,22.0,15.3
-2019,11,PIA,G2,88.251,26.775,17.425,26.525,17.525
-2019,5,PSA,Gaffney HS,70.75,21.45,13.8,20.9,14.6
-2019,7,PSA,Gaffney HS,69.95,21.0,14.05,21.5,13.4
 2019,3,R2,Gahr HS,78.1,22.35,14.95,25.7,15.1
 2019,6,PSO,Gahr HS,80.15,25.35,14.8,24.6,15.4
 2019,7,PSO,Gahr HS,82.15,23.55,17.1,24.5,17.0
 2019,9,R2,Gahr HS,80.925,24.825,15.8,23.4,16.9
-2019,4,PSA,Gaither HS,76.25,22.95,15.3,23.2,14.8
-2019,4,PIA,Gate City Percussion,70.5,21.0,14.6,20.1,14.8
-2019,2,PIW,Genesis,70.55,20.55,13.7,22.8,13.5
-2019,5,PIW,Genesis,74.75,23.25,14.5,22.4,14.6
-2019,11,R2,Genesis,81.763,24.863,16.6,23.4,16.9
-2019,4,PIW,George Mason University,80.15,23.85,16.1,24.8,15.4
-2019,7,PIW,George Mason University,88.65,26.55,18.3,25.75,18.05
-2019,11,PIW,George Mason University,91.476,28.2,18.525,26.875,17.875
-2019,6,PSO,George Ranch HS,75.001,22.2,15.3,21.6,15.9
 2019,0,SRA,Gibbs High School Winterguard,52.44,10.8,10.34,11.9,11.0
 2019,1,SRA,Gibbs High School Winterguard,52.65,10.14,10.21,11.2,10.0
 2019,5,SRA,Gibbs High School Winterguard,67.331,13.87,13.26,13.3,12.9
@@ -580,8 +431,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,1,PSN,Gibbs Indoor Drumline,57.65,18.0,15.15,12.4,12.1
 2019,5,PSN,Gibbs Indoor Drumline,69.55,22.2,20.85,12.7,13.8
 2019,9,PSN,Gibbs Indoor Drumline,71.675,22.4,21.075,13.75,14.45
-2019,6,PSA,Gilbert HS,76.55,22.65,15.0,23.4,15.5
-2019,8,PSA,Gilbert HS,76.776,23.775,15.3,22.2,15.5
 2019,2,PJHSA,Glacier Point Middle School,64.85,20.6,19.95,13.6,10.7
 2019,7,PJHSA,Glacier Point Middle School,74.2,21.9,24.3,13.0,15.0
 2019,9,PJHSA,Glacier Point Middle School,84.45,26.8,25.65,16.2,15.8
@@ -589,21 +438,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,R1,Glen A. Wilson HS,65.75,19.95,12.3,20.2,13.3
 2019,5,R1,Glen A. Wilson HS,67.001,19.2,13.0,22.2,12.6
 2019,9,R3,Glen A. Wilson HS,75.875,23.475,14.3,22.5,15.6
-2019,8,PSA,Glencoe HS,76.55,23.25,15.7,22.7,14.9
 2019,3,R1,Glendora HS,74.05,22.95,14.6,22.1,14.4
 2019,5,R1,Glendora HS,73.25,22.05,15.1,21.1,15.0
 2019,7,R2,Glendora HS,81.5,23.7,17.8,23.7,16.3
 2019,9,R2,Glendora HS,91.05,28.05,17.65,27.45,17.9
 2019,10,PSA,Glendora HS,91.113,26.812,18.875,26.625,18.8
 2019,3,PIO,Gold Indoor Percussion,72.5,21.3,15.0,22.3,13.9
-2019,4,PIO,Gold Indoor Percussion,73.6,21.6,14.2,23.0,14.8
 2019,6,PIO,Gold Indoor Percussion,76.7,22.8,14.5,24.4,15.0
-2019,8,PIO,Gold Indoor Percussion,81.076,25.275,15.1,23.7,17.0
 2019,9,PIO,Gold Indoor Percussion,84.0,25.8,16.8,24.6,16.8
 2019,10,PIO,Gold Indoor Percussion,86.3,26.1,16.8,26.0,17.4
-2019,11,PIO,Gold Indoor Percussion,88.05,26.7,17.2,26.525,17.625
-2019,11,R2,Gold Spike Percussion,85.125,25.125,16.95,25.6,17.45
-2019,5,PSA,Golden Valley HS,77.5,24.0,15.1,23.8,14.6
 2019,2,GHSSRAG,Golden West HS Guard,63.801,13.13,13.87,14.1,11.4
 2019,4,GHSSRAG,Golden West HS Guard,63.55,12.94,12.61,13.6,12.0
 2019,7,GHSSRAG,Golden West HS Guard,73.27,14.54,15.13,14.8,14.6
@@ -615,21 +458,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,1,P-SP,Gov. Thomas Johnson HS Percussion,64.45,19.05,20.4,12.5,12.5
 2019,6,P-SP,Gov. Thomas Johnson HS Percussion,79.3,22.5,24.3,15.7,16.8
 2019,9,P-SP,Gov. Thomas Johnson HS Percussion,84.775,25.125,25.8,16.9,16.95
-2019,4,PSO,Governor Thomas Johnson HS,79.35,24.45,16.1,22.7,16.1
 2019,3,PSO,Granada Hills CHS,67.451,19.65,14.3,20.9,12.6
 2019,6,PSO,Granada Hills CHS,76.451,21.75,14.6,24.2,15.9
 2019,9,R1,Granada Hills CHS,79.701,23.7,16.4,23.9,15.7
-2019,8,PSO,Granada Hills Charter HS,72.5,21.15,14.2,22.3,14.85
-2019,2,PSA,Grand Blanc HS,76.95,23.25,14.4,23.8,15.5
-2019,11,PSA,Grand Blanc HS,96.075,29.175,19.1,28.6,19.2
 2019,2,PSO,Great Oak HS,76.65,23.55,15.4,22.5,15.2
-2019,4,PSO,Great Oak HS,77.4,24.15,14.2,23.85,15.2
 2019,6,PSO,Great Oak HS,83.4,25.35,16.6,24.45,17.0
 2019,7,R1,Great Oak HS,70.551,21.45,14.0,21.8,13.3
 2019,9,R1,Great Oak HS,90.5,27.3,16.6,27.8,18.8
 2019,10,PSO,Great Oak HS,91.825,27.6,18.35,27.775,18.1
-2019,4,PSA,Green Hope HS,79.75,24.45,16.2,23.1,16.0
-2019,11,R1,Green Hope HS,83.976,25.2,17.325,25.65,15.8
 2019,0,P-SG,Greencastle-Antrim HS Percussion,61.85,18.6,18.45,12.3,12.5
 2019,3,P-SG,Greencastle-Antrim HS Percussion,65.45,20.55,20.1,12.5,12.3
 2019,4,P-SG,Greencastle-Antrim HS Percussion,69.25,21.3,21.15,13.3,13.5
@@ -637,19 +473,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,P-SG,Greencastle-Antrim HS Percussion,80.8,24.15,25.35,15.3,16.0
 2019,9,P-SG,Greencastle-Antrim HS Percussion,81.188,24.15,25.837,15.5,15.7
 2019,9,PE-SJ,Greencastle-Antrim MS Percussion,78.95,37.8,41.3,40.0,38.8
-2019,6,PSO,Greenfield-Central HS,82.8,23.7,16.9,26.0,16.2
-2019,11,R1,Greenfield-Central HS,85.826,26.1,16.75,25.95,17.025
-2019,6,PSA,Greenwood HS,83.275,25.575,16.9,25.0,15.8
-2019,7,PSA,Gulf Breeze HS,74.775,23.325,16.25,20.2,15.0
-2019,11,R2,Gulf Breeze HS,82.65,24.975,16.525,24.85,16.3
-2019,4,PSA,H.B. Plant HS,74.1,24.0,13.8,22.3,14.0
+2019,2,PSO,Greenfield-Central Indoor Percussion Ensemble,69.95,19.35,13.7,23.4,13.5
+2019,4,PSO,Greenfield-Central Indoor Percussion Ensemble,72.6,21.3,14.5,22.4,14.4
+2019,7,PSO,Greenfield-Central Indoor Percussion Ensemble,79.4,22.5,15.2,25.1,16.6
+2019,9,PSO,Greenfield-Central Indoor Percussion Ensemble,82.325,24.075,16.8,25.7,15.75
+2019,2,PSA,Greenwood Indoor Percussion,69.7,19.2,13.9,22.4,14.2
+2019,3,PSA,Greenwood Indoor Percussion,73.8,21.6,14.6,23.1,14.5
+2019,5,PSA,Greenwood Indoor Percussion,76.95,21.9,16.9,22.85,15.3
+2019,7,RB,Greenwood Indoor Percussion,85.138,25.837,16.95,25.6,16.75
+2019,9,PSA,Greenwood Indoor Percussion,85.263,24.488,18.1,25.175,17.5
 2019,0,SA,HIPE Blue,56.88,11.87,11.81,10.5,11.8
 2019,1,SA,HIPE Blue,58.35,12.41,12.54,11.1,11.0
 2019,5,SA,HIPE Blue,68.41,14.54,14.47,12.7,12.5
 2019,8,SA,HIPE Blue,74.21,14.74,14.67,13.8,15.5
-2019,5,PSA,Halls HS,86.95,26.25,17.2,26.2,17.3
-2019,7,PSO,Halls HS,83.8,25.35,16.7,24.85,16.9
-2019,11,R3,Halls HS,89.125,27.45,17.9,25.625,18.15
+2019,7,RA,Hagerstown Indoor  Percussion Ensemble,64.15,32.7,34.4,30.4,30.8
 2019,0,SRA,Halls High School Winterguard,55.31,10.94,10.67,12.4,12.1
 2019,5,SRA,Halls High School Winterguard,73.43,15.4,14.13,15.1,14.1
 2019,8,SRA,Halls High School Winterguard,78.35,15.28,13.87,15.6,16.8
@@ -658,12 +495,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,PSO,Halls Indoor Percussion Ensemble,89.65,26.4,27.0,17.9,18.35
 2019,5,P,Halls Middle School,56.24,10.67,9.67,11.8,12.3
 2019,8,P,Halls Middle School,67.93,11.39,10.14,17.3,14.7
-2019,3,PSA,Hamilton HS,72.651,22.05,14.4,21.1,15.1
-2019,6,PSA,Hamilton HS,74.05,22.05,15.4,22.1,14.5
-2019,6,PSA,Hamilton Southeastern HS,85.725,26.325,17.1,26.2,16.1
-2019,11,PSA,Hamilton Southeastern HS,93.788,28.387,18.7,27.925,18.775
-2019,7,PSA,Hancock HS,76.75,24.9,14.2,22.2,15.45
-2019,5,PSA,Hanford HS,68.25,21.45,14.5,18.9,13.4
+2019,2,PSA,Hamilton Southeastern High School,71.15,18.75,14.4,23.7,14.3
+2019,4,PSA,Hamilton Southeastern High School,77.725,23.025,15.95,23.95,14.8
+2019,7,RA,Hamilton Southeastern High School,87.413,26.513,17.375,26.7,16.825
+2019,9,PSA,Hamilton Southeastern High School,88.888,26.138,17.75,26.95,18.05
 2019,4,GHSSRAS,Hanford HS Guard,57.33,12.29,12.74,9.0,12.3
 2019,4,GHSSRAS,Hanford West HS Guard,51.251,10.34,9.61,10.6,11.0
 2019,6,GHSSRAS,Hanford West HS Guard,60.531,11.42,12.21,12.5,12.4
@@ -673,9 +508,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PHSSRA,Hanford West HS Percussion,78.5,24.7,26.1,14.5,13.2
 2019,9,PHSSRA,Hanford West HS Percussion,77.9,23.6,23.7,16.6,14.0
 2019,2,GHSSRAS,Hanford West HS Varisty Guard,51.941,9.8,9.54,11.5,10.7
-2019,8,PSA,Harbour Pointe Middle School,71.101,21.6,13.3,22.2,14.0
-2019,5,PSA,Hardin Valley Academy,80.15,24.45,16.3,23.8,15.6
-2019,7,PSA,Hardin Valley Academy,85.825,25.875,17.2,26.3,16.45
 2019,0,PSA,Hardin Valley Academy Indoor Percussion Ensemble,70.4,21.0,21.3,13.8,14.3
 2019,1,PSA,Hardin Valley Academy Indoor Percussion Ensemble,71.6,22.2,19.8,14.8,14.8
 2019,9,PSA,Hardin Valley Academy Indoor Percussion Ensemble,89.75,26.8,27.525,17.575,17.85
@@ -688,24 +520,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,SA,Hardin Valley Academy Varsity,67.76,13.15,13.21,14.5,13.0
 2019,5,SA,Hardin Valley Academy Varsity,73.01,15.34,14.27,14.4,14.0
 2019,5,P,Hardin Valley Prep,52.5,10.0,9.4,10.4,11.9
-2019,5,PSO,Harrison HS,74.85,22.65,14.6,23.8,13.8
-2019,11,R3,Harrison HS,87.263,26.587,17.8,25.6,17.275
 2019,3,PSA,Hatboro-Horsham,72.05,21.8,20.85,14.9,14.5
 2019,4,PSA,Hatboro-Horsham,74.8,23.5,21.9,15.2,14.2
 2019,8,PSA,Hatboro-Horsham,85.05,25.3,25.95,16.9,16.9
 2019,9,PSA,Hatboro-Horsham,85.85,25.35,26.4,17.3,16.8
 2019,10,PSA,Hatboro-Horsham,86.275,25.9,24.075,18.0,18.3
-2019,7,PSA,Hatboro-Horsham HS,86.951,26.25,18.15,25.95,16.6
-2019,11,R4,Hatboro-Horsham HS,85.85,25.2,17.05,26.25,17.35
-2019,3,PSA,Hazelwood Central HS,66.1,20.7,13.2,18.9,13.3
 2019,3,PSA,Hempfield,70.15,21.9,20.55,14.5,13.2
 2019,4,PSA,Hempfield,71.651,22.4,21.45,13.9,13.9
 2019,9,PSA,Hempfield,80.275,25.8,25.125,15.15,14.2
 2019,10,PSA,Hempfield,83.101,26.3,24.0,16.8,16.0
-2019,7,PSA,Hempfield HS,75.05,22.35,14.9,21.6,16.2
-2019,11,R3,Hempfield HS,80.75,24.15,15.85,24.45,16.3
-2019,5,PSA,Heritage HS,73.575,22.575,14.6,22.4,14.0
-2019,8,PSA,Heritage HS,77.0,24.9,15.0,22.4,14.7
 2019,0,PSA,Heritage Indoor Percussion Ensemble,64.3,19.9,19.2,12.1,13.1
 2019,1,PSA,Heritage Indoor Percussion Ensemble,65.701,20.1,18.6,14.3,12.7
 2019,9,PSA,Heritage Indoor Percussion Ensemble,81.126,24.9,24.825,16.85,14.55
@@ -716,19 +539,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PRA,Highland Regional,83.45,24.1,25.35,17.0,17.0
 2019,9,PRA,Highland Regional,85.4,24.8,26.4,17.3,16.9
 2019,10,PRA,Highland Regional,88.2,25.5,25.5,18.6,18.6
-2019,6,PSA,Hilliard Bradley HS,72.3,21.9,14.3,22.4,13.7
-2019,11,R4,Hilliard Bradley HS,79.313,23.962,15.85,23.3,16.2
-2019,7,PSA,Hilton HS,90.875,26.925,17.45,27.3,19.2
-2019,11,R1,Hilton HS,85.526,25.95,17.425,25.475,16.675
 2019,2,PSA,Hilton HS Percussion,68.15,20.4,20.55,13.9,13.3
 2019,3,PSA,Hilton HS Percussion,77.7,23.4,24.0,14.3,16.0
 2019,5,PSA,Hilton HS Percussion,80.0,23.8,24.0,16.5,15.7
 2019,6,PSA,Hilton HS Percussion,83.15,24.9,25.35,16.1,16.8
 2019,9,PSO,Hilton HS Percussion,89.75,27.6,28.05,16.9,17.2
 2019,10,PSO,Hilton HS Percussion,85.4,25.8,25.5,17.4,16.7
-2019,4,PSW,Homestead HS,79.5,23.4,15.8,25.2,15.1
 2019,10,PSW,Homestead HS,86.601,26.25,16.75,26.2,17.4
-2019,11,PSW,Homestead HS,91.438,27.263,18.45,27.55,18.175
 2019,5,PSO,Hoover HS,74.75,22.65,14.5,23.2,14.4
 2019,9,R2,Hoover HS,83.451,25.05,15.4,26.8,16.2
 2019,3,PSA,Hopewell Valley Central,62.101,20.3,17.4,12.5,11.9
@@ -737,47 +554,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSA,Hopewell Valley Central,77.901,25.0,22.2,15.1,15.6
 2019,9,PSA,Hopewell Valley Central,82.8,25.2,25.8,16.7,15.1
 2019,10,PSA,Hopewell Valley Central,82.901,25.35,23.1,16.85,17.6
-2019,7,PSA,Hopewell Valley Central HS,72.15,21.75,14.3,21.7,14.4
-2019,6,PSA,Hudsonville HS,68.95,20.55,13.9,21.0,13.5
-2019,2,PIA,Huron Valley Percussion,71.5,20.4,13.3,23.3,14.5
-2019,11,PIA,Huron Valley Percussion,89.901,27.375,18.525,26.45,17.55
-2019,8,PIO,IMPACT Percussion,85.7,25.5,17.2,25.6,17.4
-2019,11,PIO,IMPACT Percussion,89.388,26.513,17.925,26.825,18.125
-2019,3,PIW,INov8 Winter Percussion,78.8,24.0,16.0,22.5,16.3
-2019,6,PIW,INov8 Winter Percussion,81.55,24.75,16.1,23.9,16.8
-2019,8,PIW,INov8 Winter Percussion,85.525,26.025,17.05,25.25,17.2
-2019,11,R1,INov8 Winter Percussion,83.913,25.087,17.0,24.675,17.15
-2019,11,PIA,Impact Percussion UT,90.076,27.9,17.5,26.375,18.3
 2019,4,PIO,Imperial Dynasty,70.15,21.2,20.55,14.1,14.3
 2019,6,PIO,Imperial Dynasty,80.35,24.7,25.95,14.4,15.3
-2019,7,PIO,Imperial Dynasty,78.275,23.175,14.8,25.75,14.55
 2019,10,PIO,Imperial Dynasty,82.4,24.5,26.1,16.2,15.6
-2019,11,R2,Imperial Dynasty,84.6,25.575,16.0,27.075,15.95
-2019,4,PIA,Incognito,67.55,18.15,13.2,22.3,13.9
 2019,7,PIA,Incognito,66.5,19.2,13.1,20.4,13.8
 2019,9,PIA,Incognito,75.8,22.5,15.4,21.8,16.1
 2019,7,PSO,Independence HS,75.301,21.3,16.1,22.0,15.9
-2019,8,PSO,Independence HS (Bakersfield),82.575,24.825,16.85,24.3,16.6
-2019,4,PIW,Infinity,82.75,25.65,16.7,24.3,16.1
-2019,7,PIW,Infinity,87.45,26.85,17.4,26.0,17.2
-2019,11,PIW,Infinity,92.213,28.163,18.6,27.1,18.35
-2019,4,PIO,Infinity 2,79.75,25.05,15.2,24.4,15.1
-2019,7,PIO,Infinity 2,85.5,25.8,16.3,25.9,17.5
-2019,11,PIO,Infinity 2,95.375,28.2,19.15,29.075,18.95
-2019,4,PIA,Infinity 3,75.5,23.1,15.5,22.5,14.4
-2019,11,R4,Irondale HS,90.813,27.788,18.625,26.35,18.05
-2019,6,PSA,Ironwood Ridge HS,70.951,21.15,15.0,21.5,13.3
-2019,8,PSA,Ironwood Ridge HS,80.001,24.45,15.4,23.8,16.35
 2019,3,P-SB,James Buchanan HS Percussion,62.1,17.4,20.7,11.8,12.2
 2019,5,P-SB,James Buchanan HS Percussion,71.55,22.8,19.65,15.4,13.7
 2019,6,P-SB,James Buchanan HS Percussion,76.9,23.85,23.85,14.0,15.2
 2019,8,P-SB,James Buchanan HS Percussion,80.65,25.2,23.85,16.2,15.4
 2019,9,P-SB,James Buchanan HS Percussion,79.376,23.55,23.475,16.1,16.25
-2019,5,PSW,James Logan HS,79.8,24.9,15.6,23.5,15.8
-2019,11,R2,James Logan HS,81.626,24.375,16.25,25.1,15.9
-2019,4,PSA,James Pace Early College HS,71.701,22.8,13.8,21.5,13.6
-2019,6,PSA,James Pace Early College HS,67.1,19.65,13.3,20.85,13.3
-2019,4,PSA,James River HS,66.101,19.5,13.8,19.2,13.6
+2019,7,RB,Jay County High School,66.2,34.7,35.9,31.1,30.7
 2019,0,PSN,Jefferson County High School Indoor Drumline,62.8,19.0,18.3,12.6,12.9
 2019,1,PSN,Jefferson County High School Indoor Drumline,62.85,19.6,18.15,12.8,12.3
 2019,5,PSN,Jefferson County High School Indoor Drumline,68.45,21.7,21.15,12.4,13.2
@@ -785,14 +573,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,SRA,Jefferson County High School Winterguard,55.08,12.61,11.47,10.4,11.0
 2019,5,SRA,Jefferson County High School Winterguard,62.49,12.87,13.62,12.1,11.5
 2019,8,SRA,Jefferson County High School Winterguard,70.21,13.47,12.34,14.6,14.3
+2019,7,RA,Jeffersonville Percussion Esnsemble,82.15,45.0,44.5,36.6,38.2
 2019,2,PSA,Jordan Elbridge Indoor Percussion,60.401,18.2,18.3,12.0,11.9
 2019,4,PSA,Jordan Elbridge Indoor Percussion,74.1,21.2,22.8,14.3,15.8
 2019,6,PSA,Jordan Elbridge Indoor Percussion,76.701,22.4,22.8,15.7,15.8
 2019,9,PSA,Jordan Elbridge Indoor Percussion,84.05,25.3,27.15,15.2,16.4
 2019,10,PSA,Jordan Elbridge Indoor Percussion,81.6,25.4,23.7,16.0,16.5
-2019,8,PSA,Kamiak HS,86.5,26.1,17.7,25.9,16.8
-2019,11,PSA,Kamiak HS,92.613,28.013,18.05,28.475,18.075
-2019,5,PSA,Kaneland HS,72.25,22.35,14.2,21.6,14.1
+2019,4,PSA,Kaneland High School,69.025,21.075,14.0,21.2,12.75
 2019,0,PSA,Karns High School,63.3,19.0,18.9,12.3,13.1
 2019,1,PSA,Karns High School,65.35,20.2,19.05,13.6,12.5
 2019,3,PSA,Karns High School,68.5,21.9,19.5,13.2,13.9
@@ -807,17 +594,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,1,PPM,Karns Middle Percussion Ensemble,56.1,18.4,15.6,11.3,10.8
 2019,5,PPM,Karns Middle Percussion Ensemble,62.0,19.7,18.0,12.6,11.7
 2019,9,PPM,Karns Middle Percussion Ensemble,67.475,20.85,20.775,12.85,13.0
-2019,3,PSA,Kettering Fairmont HS,72.5,21.9,14.2,21.6,14.8
-2019,8,PSA,Kettering Fairmont HS,79.9,24.75,15.9,23.45,15.8
-2019,11,R4,Kettering Fairmont HS,85.813,25.688,17.05,26.125,16.95
-2019,3,PSO,Kickapoo HS,75.6,22.8,14.5,23.0,15.3
-2019,11,R4,Kickapoo HS,88.45,27.225,17.725,25.5,18.0
-2019,3,PSA,Kings HS,76.376,23.625,15.2,22.3,15.25
-2019,11,R3,Kings HS,87.425,25.425,17.5,26.9,17.6
 2019,2,GHSSRAG,Kingsburg HS Guard,67.5,14.13,14.07,14.7,12.5
 2019,4,GHSSRAG,Kingsburg HS Guard,66.45,14.34,13.61,14.0,12.3
 2019,7,GHSSRAG,Kingsburg HS Guard,78.74,15.74,15.6,17.1,15.2
 2019,9,GHSSRAG,Kingsburg HS Guard,79.54,16.01,16.13,16.9,16.0
+2019,3,PSB,Knox Percussion Ensemble,62.8,18.9,12.3,18.8,12.8
+2019,4,PSB,Knox Percussion Ensemble,65.676,19.275,13.9,19.75,12.75
+2019,5,PSB,Knox Percussion Ensemble,69.3,20.1,14.2,21.0,14.0
+2019,6,PSB,Knox Percussion Ensemble,72.988,22.312,14.7,22.3,13.675
+2019,7,PSB,Knox Percussion Ensemble,72.551,21.45,14.65,22.7,13.75
+2019,3,PSA,Kokomo Indoor Percussion Ensemble,72.9,22.5,13.8,21.9,14.7
+2019,5,PSA,Kokomo Indoor Percussion Ensemble,74.1,20.4,17.4,20.8,15.5
+2019,6,PSA,Kokomo Indoor Percussion Ensemble,73.0,21.0,14.8,21.3,15.9
+2019,7,RA,Kokomo Indoor Percussion Ensemble,75.476,22.575,15.375,22.425,15.1
 2019,3,PSA,La Canada HS,68.6,20.4,14.0,20.7,13.5
 2019,5,R1,La Canada HS,72.35,21.75,14.0,22.3,14.3
 2019,6,PSA,La Canada HS,71.251,21.15,14.3,21.9,13.9
@@ -827,33 +616,24 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,R1,La Habra HS,81.551,24.45,16.4,24.0,16.7
 2019,7,GJHSA,La Joya JH Guard,52.44,11.07,10.27,9.5,9.3
 2019,9,GJHSA,La Joya JH Guard,61.58,11.74,11.74,10.5,13.4
-2019,4,PSO,La Quinta HS,80.65,23.55,16.2,25.2,15.7
-2019,8,PSW,La Quinta HS,87.251,26.4,17.35,26.25,17.25
 2019,6,PSO,La Quinta HS (W),82.0,24.9,16.4,24.5,16.2
 2019,7,PSW,La Quinta HS (W),83.95,25.35,17.5,24.5,16.6
 2019,9,PSW,La Quinta HS (W),87.726,26.625,17.8,26.4,16.9
 2019,10,PSW,La Quinta HS (W),88.276,26.775,17.4,26.65,17.45
-2019,2,PIA,Lake Effect Percussion,66.5,18.9,13.4,20.6,13.6
-2019,11,PIA,Lake Effect Percussion,82.925,24.15,17.475,24.95,16.35
+2019,4,PSA,Lake Central High School,68.15,20.25,14.4,20.5,13.0
+2019,6,PSA,Lake Central High School,72.8,21.9,15.6,21.3,14.0
+2019,7,RA,Lake Central High School,74.0,22.125,14.925,22.0,14.95
 2019,6,PSA,Lake Lehman,78.3,22.6,23.7,15.8,16.2
-2019,2,PSA,Lake Orion HS,75.65,23.55,14.0,23.5,14.6
-2019,11,R1,Lake Orion HS,86.55,26.1,17.15,26.35,16.95
 2019,4,PJHSO,Lakeside School Percussion,66.35,19.8,22.05,12.4,12.1
 2019,6,PJHSO,Lakeside School Percussion,74.6,22.8,25.5,13.7,12.6
 2019,9,PJHSO,Lakeside School Percussion,78.8,24.9,23.4,16.4,14.1
 2019,9,PPC,Lakeway Christian Academy,74.3,40.4,37.6,35.7,34.9
-2019,7,PSW,Lambert HS,75.1,21.0,13.6,24.9,15.6
-2019,11,PSW,Lambert HS,82.725,25.275,16.55,24.9,16.0
-2019,6,PSO,Lawrence Township,83.7,24.9,16.5,25.9,16.4
-2019,8,PSO,Lawrence Township,87.55,26.55,17.6,26.4,17.0
-2019,11,R3,Lawrence Township,90.025,27.15,18.525,25.6,18.75
-2019,3,PSW,Lebanon HS,82.35,25.95,16.9,22.9,16.6
-2019,8,PSW,Lebanon HS,89.15,27.15,17.45,26.95,17.6
-2019,11,PSW,Lebanon HS,89.013,26.887,17.45,26.65,18.025
-2019,5,PSW,Leigh HS,76.3,23.7,14.6,23.6,14.4
+2019,2,PSO,Lawrence Township Winter Percussion,71.2,20.4,14.4,22.8,13.6
+2019,5,PSO,Lawrence Township Winter Percussion,82.6,24.0,15.9,26.3,16.4
+2019,7,PSO,Lawrence Township Winter Percussion,82.075,23.625,16.1,25.55,16.8
+2019,9,PSO,Lawrence Township Winter Percussion,86.075,25.725,17.9,25.45,17.0
+2019,7,RB,Lebanon Percussion Ensemble,70.126,36.85,38.3,32.4,32.7
 2019,10,PSW,Leigh HS,80.75,24.45,15.7,25.05,15.55
-2019,5,PSA,Lemoore HS,80.45,24.75,15.7,24.6,15.4
-2019,8,PSA,Lemoore HS,82.825,24.525,16.55,24.9,16.85
 2019,2,GHSSA,Lemoore HS A Guard,68.27,14.13,14.94,12.5,12.5
 2019,4,GHSSA,Lemoore HS A Guard,73.32,15.41,15.01,13.9,14.8
 2019,7,GHSSA,Lemoore HS A Guard,79.88,16.54,16.74,16.7,14.6
@@ -866,27 +646,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PHSSO,Lemoore HS Percussion,83.85,27.6,24.75,16.6,14.9
 2019,7,PHSSO,Lemoore HS Percussion,82.9,26.8,23.7,16.0,16.4
 2019,9,PHSSO,Lemoore HS Percussion,84.55,24.4,25.05,18.4,16.7
-2019,4,PSA,Lewisville HS,79.1,24.6,15.5,23.9,15.1
-2019,6,PSA,Lewisville HS,85.45,25.2,17.1,26.45,16.7
-2019,8,PSO,Liberty HS,75.175,22.275,13.6,24.6,14.7
 2019,7,PHSSRA,Liberty HS Percussion,69.35,24.0,21.75,11.5,12.1
 2019,7,GJHSO,Liberty JHS Guard,66.85,14.01,14.14,12.4,12.4
 2019,9,GJHSO,Liberty JHS Guard,69.15,14.21,13.74,13.1,13.7
 2019,2,PJHSO,Liberty JHS Percussion,65.95,22.1,19.65,13.6,10.6
 2019,7,PJHSO,Liberty JHS Percussion,76.1,23.7,24.3,13.5,14.6
 2019,9,PJHSO,Liberty JHS Percussion,79.0,25.2,22.8,16.1,14.9
-2019,4,PIO,Liberty University Indoor Drumline,76.55,23.25,15.1,22.8,15.4
-2019,5,PIO,Liberty University Indoor Drumline,77.7,23.1,15.3,23.6,15.7
-2019,11,PIO,Liberty University Indoor Drumline,93.538,28.688,17.95,29.0,17.9
-2019,8,PSA,Lincoln HS,73.9,22.2,14.6,22.5,14.6
 2019,0,P-SG,Littlestown HS Percussion,62.425,18.9,17.325,13.7,12.5
 2019,3,P-SG,Littlestown HS Percussion,68.575,20.7,19.275,13.7,14.9
 2019,4,P-SG,Littlestown HS Percussion,71.2,22.65,20.55,14.0,14.0
 2019,7,P-SG,Littlestown HS Percussion,77.55,24.9,22.95,14.4,15.3
 2019,8,P-SG,Littlestown HS Percussion,80.175,24.0,24.975,14.6,16.6
 2019,9,P-SG,Littlestown HS Percussion,84.375,24.675,26.55,16.45,16.7
-2019,7,PSA,Liverpool HS,82.4,23.55,15.6,27.0,16.25
-2019,11,R2,Liverpool HS,84.713,25.837,16.95,25.175,16.75
 2019,2,PSA,Liverpool Indoor Percussion,69.45,21.4,21.3,13.35,13.4
 2019,3,PSA,Liverpool Indoor Percussion,77.8,23.8,24.3,14.1,15.6
 2019,4,PSA,Liverpool Indoor Percussion,77.75,23.7,22.95,15.6,15.5
@@ -894,23 +665,23 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PSO,Liverpool Indoor Percussion,81.05,24.0,23.55,16.5,17.0
 2019,9,PSO,Liverpool Indoor Percussion,85.25,26.8,26.55,15.7,16.2
 2019,10,PSO,Liverpool Indoor Percussion,81.85,25.3,23.85,16.5,16.2
-2019,6,PSO,Longmont HS,74.55,22.35,14.5,22.4,15.3
+2019,7,RB,Logansport Winter Percussion Ensemble,73.601,36.5,39.4,37.4,33.9
 2019,3,PSO,Los Alamitos HS,78.05,21.75,16.4,23.7,16.2
-2019,4,PSO,Los Alamitos HS,79.5,23.1,15.6,24.7,16.1
 2019,7,PSO,Los Alamitos HS,87.1,26.55,17.75,25.5,17.3
-2019,8,PSO,Los Alamitos HS,91.0,27.6,18.125,27.4,17.875
 2019,9,R2,Los Alamitos HS,91.45,28.05,17.0,28.4,18.0
 2019,10,PSO,Los Alamitos HS,93.488,27.788,18.5,28.5,18.7
-2019,11,PSO,Los Alamitos HS,93.35,28.05,18.1,27.975,19.225
-2019,8,PSO,Los Gatos HS,74.0,22.35,14.3,22.1,15.25
 2019,2,P-SG,Loudoun County HS Percussion,66.5,19.65,20.55,12.5,13.8
 2019,4,P-SG,Loudoun County HS Percussion,65.45,20.85,19.8,13.0,11.8
 2019,7,P-SG,Loudoun County HS Percussion,73.425,22.35,23.475,13.8,13.8
 2019,8,P-SG,Loudoun County HS Percussion,74.65,21.9,24.45,14.0,14.3
 2019,9,P-SG,Loudoun County HS Percussion,78.563,22.875,24.337,15.9,15.45
 2019,8,PSA,Lower Dauphin,82.3,24.5,24.3,16.2,17.3
-2019,11,R2,MBI Indoor Percussion,80.7,23.475,16.425,24.65,16.15
-2019,5,PSA,Madera HS,75.25,23.25,14.5,22.7,14.8
+2019,2,PSB,Maconaquah Indoor Percussion,70.85,20.25,14.1,22.6,13.9
+2019,3,PSB,Maconaquah Indoor Percussion,66.15,20.25,13.1,19.4,13.4
+2019,4,PSB,Maconaquah Indoor Percussion,65.851,20.25,13.5,18.9,13.2
+2019,5,PSB,Maconaquah Indoor Percussion,69.9,22.35,16.7,18.9,11.95
+2019,6,PSB,Maconaquah Indoor Percussion,75.45,23.025,15.05,22.8,14.575
+2019,7,PSB,Maconaquah Indoor Percussion,77.225,23.025,15.65,23.95,14.6
 2019,2,GHSSRAG,Madera HS Guard,66.44,14.4,13.14,15.3,11.7
 2019,4,GHSSRAG,Madera HS Guard,64.15,14.01,13.14,13.0,11.4
 2019,7,GHSSRAG,Madera HS Guard,80.01,15.94,15.87,17.2,15.5
@@ -920,57 +691,33 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PHSSA-G,Madera HS Percussion,80.7,23.6,25.8,15.7,15.6
 2019,7,PHSSA-G,Madera HS Percussion,80.95,25.4,24.45,15.6,15.5
 2019,9,PHSSA-G,Madera HS Percussion,83.0,24.6,24.3,17.1,17.0
-2019,5,PSA,Madera South HS,67.4,20.7,13.9,18.95,13.85
-2019,7,PSA,Mansfield HS,87.901,27.6,16.5,26.1,17.7
-2019,11,R2,Mansfield HS,87.601,27.375,16.85,26.425,16.95
 2019,3,PSA,Marcus Whitman,57.301,16.0,18.0,11.7,11.6
 2019,5,PSA,Marcus Whitman,60.1,17.3,18.0,12.3,12.5
 2019,7,PSA,Marcus Whitman,62.5,18.1,19.8,12.2,12.4
 2019,8,PSA,Marcus Whitman,63.35,19.8,18.45,12.7,12.4
 2019,10,PSA,Marcus Whitman,68.251,20.8,20.55,13.6,13.3
-2019,8,PSA,Mars Area HS,86.0,27.0,18.6,23.9,16.5
-2019,8,PSA,Martin Luther King HS,77.051,24.75,14.7,22.5,15.1
+2019,2,PSB,Martinsville Indoor Percussion,72.15,21.75,14.9,20.5,15.0
+2019,3,PSB,Martinsville Indoor Percussion,68.05,22.35,13.4,20.4,11.9
+2019,5,PSA,Martinsville Indoor Percussion,75.901,22.05,16.2,21.75,15.9
+2019,6,PSA,Martinsville Indoor Percussion,73.9,21.0,15.2,22.9,14.8
+2019,7,RB,Martinsville Indoor Percussion,75.613,22.613,15.825,23.075,14.1
+2019,9,PSA,Martinsville Indoor Percussion,72.225,20.625,14.85,21.8,14.95
 2019,3,SRA,Maryville Winterguard,50.081,10.01,11.67,9.6,9.8
 2019,5,SRA,Maryville Winterguard,55.051,10.34,11.81,10.4,10.5
 2019,8,SRA,Maryville Winterguard,66.15,10.81,11.54,14.2,14.4
-2019,3,PSA,Mascoutah HS,68.8,21.9,13.6,19.6,13.7
-2019,3,PSA,Mater Dei Catholic HS,71.85,21.45,14.9,21.2,14.3
-2019,11,R3,Mater Dei Catholic HS,83.325,25.05,17.0,24.1,17.175
-2019,6,PIW,Matrix,84.85,25.05,16.8,26.1,16.9
-2019,11,PIW,Matrix,93.801,28.125,19.0,27.75,18.925
-2019,6,PIO,Matrix Open,82.3,23.4,17.2,25.0,16.7
-2019,11,PIO,Matrix Open,96.138,28.462,19.325,29.075,19.275
-2019,2,PSA,Maumee HS,66.001,19.5,13.2,20.4,12.9
-2019,6,PSA,McGavock HS,84.4,24.9,18.2,25.1,16.2
-2019,11,R3,McGavock HS,87.951,26.85,17.9,24.9,18.3
-2019,7,PSA,Mechanicsburg HS,90.925,27.675,18.3,26.55,18.4
-2019,11,R4,Mechanicsburg HS,89.901,27.3,18.1,26.7,17.8
 2019,3,P-SB,Mechanicsburg HS Percussion,74.3,22.2,24.3,14.1,13.7
 2019,6,GHSSRAB,Mendota HS Guard,51.221,11.34,10.28,10.6,11.0
 2019,7,GHSSRAB,Mendota HS Guard,57.01,11.67,11.14,10.6,11.3
-2019,5,PSA,Merced HS,71.876,23.175,14.3,20.3,14.1
-2019,8,PSA,Merced HS,75.05,23.25,15.6,21.7,14.5
 2019,3,PSA,Methacton,67.451,20.8,19.65,13.3,13.7
 2019,5,PSA,Methacton,71.55,21.2,22.35,15.0,13.0
 2019,6,PSA,Methacton,73.951,22.2,22.95,14.3,14.5
 2019,9,PSA,Methacton,77.35,23.4,24.15,14.8,15.0
 2019,10,PSA,Methacton,78.5,25.0,23.4,15.7,14.4
-2019,7,PSA,Methacton HS,73.35,21.15,14.4,22.9,14.9
 2019,6,PSA,Middletown,73.05,20.6,23.55,14.5,14.4
-2019,3,PSA,Milford HS (OH),79.9,24.75,15.85,23.5,15.8
-2019,8,PSA,Milford HS (OH),89.075,27.75,17.4,26.025,17.9
-2019,11,R1,Milford HS (OH),92.2,27.3,19.0,28.05,17.85
-2019,7,PSW,Milton HS,84.5,25.5,16.4,25.5,17.1
-2019,11,PSW,Milton HS,87.55,26.475,17.55,26.025,17.5
-2019,5,PSA,Minooka Community HS,72.6,21.3,14.6,22.4,14.3
-2019,6,PSA,Minooka Community HS,78.651,24.45,15.4,23.5,15.3
-2019,11,R2,Minooka Community HS,85.351,24.9,17.35,25.1,18.0
 2019,2,PSO,Mission Hills HS,70.5,21.9,13.7,21.3,13.6
-2019,4,PSO,Mission Hills HS,70.751,20.55,14.1,22.4,13.7
 2019,6,PSO,Mission Hills HS,77.45,23.25,15.8,23.3,15.1
 2019,7,PSO,Mission Hills HS,80.501,23.1,16.3,24.4,16.7
 2019,9,R1,Mission Hills HS,80.601,22.95,15.4,25.8,16.45
-2019,5,PSA,Mission Oak HS,68.351,20.55,14.0,18.6,15.2
 2019,2,GHSSRAS,Mission Oak HS Guard,52.9,9.68,10.22,12.3,10.2
 2019,4,GHSSRAS,Mission Oak HS Guard,56.26,11.41,10.75,11.1,11.2
 2019,7,GHSSRAS,Mission Oak HS Guard,68.651,14.14,14.01,14.6,13.3
@@ -980,14 +727,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,PHSSA-G,Mission Oak HS Percussion,80.35,25.1,22.95,16.9,15.4
 2019,9,PHSSA-G,Mission Oak HS Percussion,79.201,24.1,21.3,17.4,16.4
 2019,3,PSO,Mission Viejo HS,73.45,22.05,14.6,22.2,14.6
-2019,4,PSO,Mission Viejo HS,74.701,22.8,13.1,24.1,14.7
 2019,6,PSO,Mission Viejo HS,78.95,23.85,15.0,24.2,15.9
-2019,8,PSO,Mission Viejo HS,83.313,24.938,16.325,25.7,16.35
 2019,9,R2,Mission Viejo HS,83.226,25.725,16.2,25.7,15.6
-2019,11,R4,Mission Viejo HS,89.926,27.375,17.8,27.15,17.6
-2019,3,PIA,Modulation Z,72.8,23.1,14.5,21.9,13.3
-2019,6,PIA,Modulation Z,84.4,25.8,16.8,26.6,15.2
-2019,11,PIA,Modulation Z,92.85,27.825,18.225,28.2,18.6
 2019,6,PSA,Mohonasen,71.301,20.7,21.3,14.6,14.7
 2019,7,PSA,Mohonasen,72.35,21.3,23.25,14.0,13.8
 2019,10,PSA,Mohonasen,74.351,22.5,21.45,15.4,15.0
@@ -1000,18 +741,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,GHSSRAS,Monache HS Varsity Guard,64.39,12.35,13.74,13.1,13.7
 2019,7,GHSSRAS,Monache HS Varsity Guard,67.831,12.68,14.2,13.8,13.75
 2019,9,GHSSRAS,Monache HS Varsity Guard,73.816,13.545,15.27,14.8,15.7
-2019,6,PSA,Monarch HS,77.95,22.95,15.1,24.5,15.4
-2019,6,PIW,Monarch Independent,83.3,24.9,17.1,24.5,16.8
-2019,11,PIW,Monarch Independent,93.426,28.5,18.625,28.125,18.175
+2019,7,RB,Monroe Central Golden Bear Percussion Ensemble,75.751,40.7,40.2,35.4,35.2
 2019,3,PSA,Monrovia HS,66.55,19.65,12.8,20.8,13.3
 2019,5,R2,Monrovia HS,71.351,21.75,14.1,21.7,13.8
 2019,9,R2,Monrovia HS,75.375,23.775,14.5,21.9,15.2
-2019,4,PSA,Morton Ranch HS,74.451,22.05,15.6,21.8,15.0
-2019,6,PSA,Morton Ranch HS,75.0,22.65,15.1,22.35,14.9
-2019,2,PIO,Motor City Percussion,73.05,21.15,14.1,23.3,14.5
-2019,8,PIO,Motor City Percussion,81.875,25.425,16.15,23.65,16.65
-2019,11,R1,Motor City Percussion,84.888,25.612,17.45,24.775,17.05
-2019,4,PSA,Mountain View HS,71.75,20.85,14.0,23.3,13.6
+2019,2,PIA,Montgomery County United,55.4,16.5,11.3,17.0,10.6
+2019,4,PIA,Montgomery County United,58.65,17.25,12.4,17.0,12.0
+2019,6,PIA,Montgomery County United,64.45,19.95,12.8,19.2,12.5
+2019,7,PIA,Montgomery County United,63.325,18.675,13.35,18.2,13.1
+2019,9,PIA,Montgomery County United,62.675,18.525,12.65,18.85,12.65
+2019,7,RA,Mooresville Percussion Ensemble,81.125,43.5,42.85,38.2,37.7
 2019,6,GHSSRAB,Mt Whitney HS Guard,58.13,12.42,11.21,12.2,12.1
 2019,7,GHSSRAB,Mt Whitney HS Guard,62.05,13.08,11.47,12.1,12.4
 2019,9,GHSSRAB,Mt Whitney HS Guard,66.75,13.88,12.87,12.6,13.7
@@ -1019,11 +758,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PHSSO,Mt Whitney HS Percussion,76.5,24.2,23.4,14.9,14.0
 2019,6,PHSSO,Mt Whitney HS Percussion,71.0,20.1,23.4,13.6,13.9
 2019,9,PHSSO,Mt Whitney HS Percussion,74.6,20.9,21.3,17.0,15.4
-2019,8,PSO,Mt. Juliet HS,85.65,25.95,16.4,26.6,16.7
-2019,11,R1,Mt. Juliet HS,89.838,26.587,18.15,27.05,18.05
-2019,3,PIW,Music City Mystique,84.9,26.1,17.1,24.5,17.2
-2019,7,PIW,Music City Mystique,90.075,27.225,18.4,26.55,17.9
-2019,11,PIW,Music City Mystique,97.513,29.438,19.375,29.2,19.5
+2019,7,RA,Mt. Vernon Indoor Percussion,85.35,44.25,43.55,41.4,41.5
 2019,0,P-SB,Musselman HS Percussion,60.8,18.3,18.9,11.6,12.0
 2019,1,P-SB,Musselman HS Percussion,61.7,18.0,19.2,12.2,12.3
 2019,2,P-SB,Musselman HS Percussion,64.0,18.6,19.8,11.8,13.8
@@ -1031,64 +766,68 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,P-SG,Musselman HS Percussion,79.2,24.45,25.65,14.8,14.3
 2019,8,P-SG,Musselman HS Percussion,83.025,24.9,25.725,15.6,16.8
 2019,9,P-SG,Musselman HS Percussion,85.188,25.125,26.812,16.2,17.05
-2019,5,PSA,Nation Ford HS,75.901,21.9,16.3,21.8,15.9
-2019,4,PSO,Nease HS,69.35,20.55,13.3,21.3,14.2
-2019,11,R4,Nease HS,83.25,24.6,16.75,25.15,16.75
 2019,2,PSA,New Hartford,64.3,19.2,19.05,13.25,12.8
 2019,5,PSA,New Hartford,73.3,21.2,21.9,16.0,14.2
 2019,6,PSA,New Hartford,76.451,23.4,22.65,15.2,15.2
 2019,8,PSA,New Hartford,78.1,23.9,24.3,14.9,15.0
 2019,10,PSA,New Hartford,83.075,25.7,24.375,16.6,16.4
-2019,7,PSA,New Milford HS,77.6,23.1,15.1,25.2,14.2
 2019,9,PE-SB,New Oxford HS Percussion,85.05,38.6,43.9,42.2,45.4
-2019,7,PSA,Newtown HS,90.338,27.488,18.95,26.25,17.65
-2019,11,R4,Newtown HS,92.325,28.725,18.475,26.65,18.475
-2019,5,PSA,Ninety Six HS,77.251,21.0,14.9,24.85,16.5
-2019,7,PSA,Ninety Six HS,85.425,25.275,17.15,26.4,16.6
-2019,11,R1,Ninety Six HS,88.225,25.875,18.55,26.4,17.4
+2019,2,PSA,New Palestine Audio Theater,76.15,22.65,14.9,22.9,15.7
+2019,3,PSA,New Palestine Audio Theater,70.9,20.7,14.3,21.25,14.65
+2019,5,PSA,New Palestine Audio Theater,76.701,24.3,14.9,22.7,14.8
+2019,7,RB,New Palestine Audio Theater,75.475,22.125,15.2,23.25,14.9
+2019,4,PSB,New Prairie High School,65.925,21.075,12.4,20.45,12.0
+2019,5,PSB,New Prairie High School,71.7,23.4,14.9,20.9,12.5
+2019,6,PSB,New Prairie High School,76.55,23.775,14.15,24.75,13.875
+2019,7,PSB,New Prairie High School,77.063,23.212,14.7,24.9,14.25
 2019,3,PSJ,Nobel MS,69.35,20.25,13.2,22.7,13.2
 2019,5,PSJ,Nobel MS,71.3,20.7,14.4,22.1,14.1
 2019,7,PSJ,Nobel MS,76.601,23.7,14.1,24.6,14.2
 2019,9,PSJ,Nobel MS,83.376,26.175,16.25,24.55,16.4
+2019,3,PSA,Noblesville Indoor Percussion Ensemble,68.851,20.85,13.8,20.9,13.3
+2019,4,PSA,Noblesville Indoor Percussion Ensemble,71.626,21.225,14.75,21.65,14.0
+2019,5,PSA,Noblesville Indoor Percussion Ensemble,75.576,21.975,15.6,22.2,15.8
+2019,6,PSA,Noblesville Indoor Percussion Ensemble,76.851,23.25,14.0,23.2,16.4
+2019,7,RA,Noblesville Indoor Percussion Ensemble,81.251,24.15,16.475,25.05,15.575
+2019,9,PSA,Noblesville Indoor Percussion Ensemble,81.226,23.85,16.625,24.575,16.175
 2019,3,PSA,Nogales HS,79.05,23.55,15.9,23.8,15.8
 2019,5,R1,Nogales HS,76.8,23.1,15.2,23.4,15.1
 2019,7,PSA,Nogales HS,83.7,24.9,17.4,24.6,16.8
 2019,9,R2,Nogales HS,91.3,28.5,18.5,25.8,18.5
 2019,10,PSA,Nogales HS,90.963,26.962,18.7,26.8,18.5
-2019,8,PIA,Nomad Indoor,79.85,25.05,15.55,23.7,15.55
-2019,11,PIA,Nomad Indoor,88.076,26.55,17.85,26.25,17.425
-2019,8,PSA,North Allegheny HS,86.863,26.663,17.35,25.85,17.0
-2019,7,PSA,North Forsyth HS,75.5,22.5,15.35,23.0,14.65
-2019,11,R1,North Forsyth HS,83.726,25.425,17.55,25.6,15.15
-2019,7,PSW,North Gwinnett HS,82.25,24.45,16.6,24.9,16.3
-2019,11,R2,North Gwinnett HS,81.05,24.9,15.9,23.8,16.45
 2019,6,GHSSRAB,North HS Guard JV,57.38,11.63,11.95,12.6,12.5
 2019,6,GHSSA,North HS Guard Varsity,66.73,11.88,13.75,14.2,13.6
 2019,9,PE-SB,North Hagerstown HS Percussion,85.55,40.7,43.4,42.4,44.6
+2019,3,PSB,North Harrison Winter Drumline,60.251,19.05,11.4,18.3,11.5
+2019,4,PSB,North Harrison Winter Drumline,62.301,18.9,12.6,18.4,12.4
+2019,6,PSB,North Harrison Winter Drumline,62.125,18.525,13.225,18.2,12.175
 2019,5,SRA,North Laurel High School Winterguard,54.92,9.94,11.28,10.3,11.6
 2019,8,SRA,North Laurel High School Winterguard,65.911,11.87,12.14,12.2,15.0
 2019,8,P,North Laurel Middle School,57.98,10.54,7.54,15.0,12.5
-2019,5,PSA,North Lincoln HS,76.751,23.55,14.5,24.0,14.7
-2019,7,PSO,North Paulding HS,71.201,20.1,13.6,23.2,14.3
 2019,5,PSA,North Penn,66.501,20.2,19.8,14.8,11.7
 2019,6,PSA,North Penn,72.75,20.2,22.05,15.0,15.5
 2019,8,PSA,North Penn,76.6,23.2,21.9,16.0,15.5
 2019,9,PSA,North Penn,78.65,22.6,23.85,16.8,15.4
 2019,10,PSA,North Penn,80.55,23.8,23.85,15.6,17.3
-2019,8,PIA,North Star Independent,75.0,24.0,16.2,19.5,15.3
-2019,3,PSA,Northeastern HS,69.8,21.6,14.3,20.3,13.6
-2019,11,R1,Northeastern HS,82.951,25.2,16.85,24.1,16.8
+2019,7,RA,NorthWood Percussion Ensemble,81.525,43.85,43.3,37.2,38.7
+2019,7,RA,Northeast Dubois Percussion Ensemble,69.726,35.45,38.1,33.9,32.0
+2019,2,PSB,Northeastern Indoor Percussion,73.65,22.65,13.8,21.8,15.4
+2019,3,PSB,Northeastern Indoor Percussion,64.3,19.8,12.7,18.1,13.7
+2019,4,PSB,Northeastern Indoor Percussion,68.75,21.9,13.25,20.0,13.6
+2019,5,PSB,Northeastern Indoor Percussion,71.925,23.025,15.7,20.2,13.0
+2019,6,PSB,Northeastern Indoor Percussion,76.025,23.475,15.05,23.35,14.15
+2019,7,PSB,Northeastern Indoor Percussion,73.563,21.938,15.3,22.025,14.3
 2019,6,P-SG,Northern York HS Percussion,81.6,24.6,23.4,17.0,16.6
-2019,6,PSO,Norton HS,75.951,21.45,15.1,23.4,16.0
-2019,11,R3,Norton HS,83.175,25.125,16.9,24.6,16.55
-2019,7,PSO,Norwalk HS,89.2,26.475,17.975,27.0,17.75
-2019,11,PSO,Norwalk HS,95.1,28.575,19.025,28.275,19.225
-2019,2,PSA,Novi HS,61.251,17.25,11.4,20.2,12.4
-2019,7,PSA,Nutley HS,86.201,25.2,18.4,24.6,18.0
-2019,7,PSA,Oak Grove HS,79.701,22.8,16.4,24.8,15.7
-2019,7,PSO,Oak Grove HS (MS),76.05,24.45,14.8,22.1,14.7
-2019,11,R2,Oak Grove HS (MS),83.288,25.762,16.25,24.875,16.4
-2019,5,PSA,Oak Ridge HS,74.85,20.85,15.5,23.4,15.1
+2019,4,PSA,Northview Indoor Percussion,74.95,21.6,15.15,23.0,15.2
+2019,5,PSA,Northview Indoor Percussion,82.95,25.65,15.2,24.2,17.9
+2019,6,PSA,Northview Indoor Percussion,88.25,26.85,17.9,25.4,18.1
+2019,7,RA,Northview Indoor Percussion,87.288,26.288,17.3,26.425,17.275
+2019,9,PSA,Northview Indoor Percussion,89.25,26.775,18.325,26.0,18.15
+2019,4,PSA,Norwell Winter Percussion,71.101,21.9,14.3,20.7,14.2
+2019,5,PSA,Norwell Winter Percussion,74.5,21.9,15.6,22.8,14.2
+2019,6,PSA,Norwell Winter Percussion,74.926,23.175,14.8,22.55,14.4
+2019,7,RA,Norwell Winter Percussion,78.976,23.175,15.6,24.55,15.65
+2019,9,PSA,Norwell Winter Percussion,78.775,22.425,16.125,23.25,16.975
 2019,0,PSA,Oak Ridge Indoor Percussion,70.05,20.2,21.45,14.3,14.1
 2019,1,PSA,Oak Ridge Indoor Percussion,68.0,20.5,18.9,14.5,14.1
 2019,3,PSA,Oak Ridge Indoor Percussion,77.15,23.6,23.85,14.7,15.0
@@ -1105,17 +844,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,P-SG,Oakdale HS Percussion,77.225,23.7,24.225,14.8,14.5
 2019,8,P-SG,Oakdale HS Percussion,80.775,24.3,25.275,15.7,15.5
 2019,9,P-SG,Oakdale HS Percussion,80.513,23.25,25.312,15.85,16.1
-2019,4,PSA,Ocean Lakes HS,70.551,20.85,14.7,20.4,14.6
 2019,4,PSO,Old Bridge,76.0,22.1,24.6,14.7,14.6
 2019,6,PSO,Old Bridge,84.95,24.7,27.15,16.6,16.5
 2019,9,PSO,Old Bridge,88.35,27.1,28.05,16.7,16.5
 2019,10,PSO,Old Bridge,90.85,27.8,26.25,18.3,18.5
-2019,7,PSO,Old Bridge HS,83.388,25.762,16.825,24.7,16.1
-2019,11,R1,Old Bridge HS,86.176,25.875,16.45,27.1,16.75
-2019,3,PSA,Olentangy Liberty HS,72.626,22.425,15.0,20.0,15.2
-2019,8,PSA,Olentangy Liberty HS,83.576,24.525,16.75,25.45,16.85
-2019,11,R3,Olentangy Liberty HS,85.601,25.2,16.4,26.475,17.525
-2019,4,PSA,Olympia HS,64.801,19.5,12.6,20.1,12.6
 2019,4,PIA,Onondaga Community College,72.1,23.4,22.5,13.2,13.0
 2019,8,PIA,Onondaga Community College,73.85,24.3,21.15,13.8,14.6
 2019,10,PIA,Onondaga Community College,78.525,25.5,22.725,15.3,15.0
@@ -1123,8 +855,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,R2,Ontario HS,70.151,21.75,13.2,20.6,14.6
 2019,7,PSA,Ontario HS,72.95,21.15,14.5,23.1,14.2
 2019,9,R1,Ontario HS,77.675,24.075,15.5,22.3,15.8
-2019,7,PSO,Orange County HS,80.15,24.15,16.1,24.4,15.5
-2019,11,R3,Orange County HS,84.25,26.25,17.5,24.0,16.5
 2019,4,GHSSRAG,Orosi HS A Guard,54.741,11.6,11.14,11.0,10.4
 2019,7,GHSSRAS,Orosi HS A Guard,70.47,14.44,15.0,13.5,13.63
 2019,7,GHSSRAB,Orosi HS B Guard,54.891,11.14,10.15,11.6,10.0
@@ -1133,23 +863,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PHSSRA,Orosi HS Percussion,59.1,23.3,19.8,6.0,10.0
 2019,7,PHSSRA,Orosi HS Percussion,70.0,23.4,22.8,11.8,12.0
 2019,9,PHSSRA,Orosi HS Percussion,69.3,20.8,19.2,15.6,13.7
-2019,11,R4,Osseo Area Schools ISD 279,85.613,25.163,17.0,25.7,17.75
-2019,8,PSA,Othello HS,64.35,20.55,12.0,19.8,12.0
 2019,3,PSA,Owen J Roberts,69.05,22.3,19.95,14.1,12.7
 2019,5,PSA,Owen J Roberts,75.95,23.2,21.75,15.7,15.3
 2019,6,PSA,Owen J Roberts,80.076,22.35,25.725,15.9,16.1
 2019,8,PSA,Owen J Roberts,78.851,22.2,22.95,16.6,17.1
 2019,9,PSA,Owen J Roberts,82.651,24.4,25.95,16.2,16.1
 2019,10,PSA,Owen J Roberts,81.551,26.35,22.8,16.5,15.9
+2019,7,RB,Owen Valley High School Winter Percussion,69.201,35.5,36.8,34.4,31.7
 2019,1,PIW,POW Percussion,80.2,24.6,16.2,23.1,16.3
-2019,4,PIW,POW Percussion,81.35,24.15,16.4,24.3,16.5
 2019,5,PIW,POW Percussion,83.95,25.35,16.8,25.1,16.7
-2019,8,PIW,POW Percussion,88.15,26.175,17.2,27.375,17.4
 2019,9,PIW,POW Percussion,89.326,26.925,17.7,27.2,17.5
 2019,10,PIW,POW Percussion,90.688,27.337,17.85,27.6,17.9
-2019,11,PIW,POW Percussion,92.626,27.975,18.4,27.7,18.55
-2019,7,PSA,Pace HS,88.25,27.45,16.55,26.05,18.2
-2019,11,R1,Pace HS,89.863,27.562,17.95,26.15,18.2
 2019,3,R2,Pacifica HS,77.65,24.0,15.85,23.4,14.4
 2019,5,R1,Pacifica HS,77.6,23.7,14.7,23.0,16.2
 2019,7,PSA,Pacifica HS,82.65,25.05,16.0,25.1,16.5
@@ -1161,19 +885,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,R1,Palm Desert HS,71.451,20.1,15.1,22.35,13.9
 2019,7,R1,Palm Desert HS,73.651,20.85,15.2,22.6,15.0
 2019,9,R4,Palm Desert HS,80.876,24.375,14.6,24.5,17.4
-2019,5,PSO,Panther Creek HS,78.2,23.4,15.9,24.2,14.7
-2019,11,R2,Papillion-La Vista South HS,81.425,24.975,17.325,23.875,15.25
-2019,5,PIA,Paradigm Percussion,80.15,23.25,17.0,24.4,15.5
-2019,11,PIA,Paradigm Percussion,93.35,28.2,19.075,27.575,18.5
-2019,6,PSA,Paris HS,66.45,19.05,12.4,21.1,13.9
-2019,4,PSA,Park Vista Community HS,78.6,24.3,15.9,23.5,14.9
 2019,6,GJHSA,Parkview MS Guard,51.72,10.68,10.74,11.2,9.8
 2019,9,GJHSA,Parkview MS Guard,56.48,11.54,10.34,10.3,12.3
 2019,7,PIA,Pasadena City College,75.0,22.2,15.4,22.8,14.6
-2019,8,PIA,Pasadena City College,71.05,20.55,14.9,19.8,15.8
 2019,9,PIA,Pasadena City College,80.25,23.25,15.7,24.1,17.2
 2019,10,PIA,Pasadena City College,81.175,24.075,16.2,24.85,16.05
-2019,6,PSW,Pasadena Memorial HS,74.45,22.95,15.0,22.1,14.4
 2019,2,PSA,Patrick Henry HS,65.251,20.85,12.6,18.7,13.1
 2019,3,PSA,Patrick Henry HS,67.55,18.75,13.5,21.4,13.9
 2019,6,PSA,Patrick Henry HS,71.151,22.95,13.7,20.2,14.3
@@ -1183,8 +899,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,PSO,Patriot HS,81.6,24.6,16.9,23.8,16.3
 2019,9,R1,Patriot HS,87.425,26.625,18.6,25.7,16.5
 2019,10,PSO,Patriot HS,84.426,24.825,17.375,25.1,17.125
-2019,7,PSA,Pearl HS,79.651,23.55,15.0,25.1,16.0
-2019,11,R2,Pearl HS,87.463,25.312,17.55,27.85,16.75
 2019,8,PSA,Penncrest,71.2,21.5,21.3,14.1,14.3
 2019,4,PRA,Pennridge,76.15,22.9,23.85,16.2,13.2
 2019,6,PRA,Pennridge,77.95,22.9,22.65,15.9,16.5
@@ -1195,34 +909,30 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PSO,Perkiomen Valley,69.1,20.8,20.1,14.0,14.2
 2019,9,PSO,Perkiomen Valley,83.15,25.4,26.85,15.1,15.8
 2019,10,PSO,Perkiomen Valley,81.7,23.9,24.6,16.8,16.4
-2019,7,PSO,Perkiomen Valley HS,78.201,23.1,16.0,23.4,15.7
-2019,11,R1,Perkiomen Valley HS,82.8,24.525,16.75,24.8,16.725
-2019,6,PSA,Perry HS,76.75,23.25,15.2,22.1,16.2
-2019,8,PSA,Perry HS,72.95,19.05,16.9,20.6,16.4
-2019,6,PSA,Perry Meridian HS,81.25,25.35,15.8,24.5,15.6
-2019,11,R2,Perry Meridian HS,88.626,26.4,16.875,28.0,17.35
-2019,4,PSW,Petal HS,81.65,25.35,15.8,24.5,16.0
-2019,7,PSW,Petal HS,85.8,26.1,17.2,25.6,16.9
-2019,11,PSW,Petal HS,89.738,26.663,17.65,27.4,18.025
+2019,2,PSA,Perry Meridian Indoor Percussion,68.65,20.55,13.1,22.6,12.4
+2019,4,PSA,Perry Meridian Indoor Percussion,71.551,21.0,14.65,22.5,13.4
+2019,7,RA,Perry Meridian Indoor Percussion,83.875,24.75,16.475,26.5,16.15
+2019,9,PSA,Perry Meridian Indoor Percussion,83.388,24.413,16.6,24.875,17.5
 2019,8,PSA,Phoenix,79.551,22.7,24.15,16.5,16.2
-2019,11,R1,Phoenix Drumline,75.375,22.8,16.375,21.2,15.0
 2019,2,PSA,Phoenix Indoor Percussion,61.476,18.6,18.225,12.55,12.1
 2019,3,PSA,Phoenix Indoor Percussion,71.051,21.4,21.45,13.1,15.1
 2019,4,PSA,Phoenix Indoor Percussion,74.2,21.1,22.5,15.1,15.5
 2019,7,PSA,Phoenix Indoor Percussion,79.15,23.1,24.75,15.4,15.9
 2019,9,PSA,Phoenix Indoor Percussion,83.8,24.8,26.1,16.3,16.6
 2019,10,PSA,Phoenix Indoor Percussion,82.475,24.6,24.675,16.4,16.8
-2019,6,PIA,Phoenix Union Indoor,71.15,22.05,14.7,21.1,13.3
 2019,4,PSA,Phoenixville,68.451,21.1,20.25,13.1,14.0
 2019,5,PSA,Phoenixville,73.75,21.7,23.55,15.1,13.4
 2019,6,PSA,Phoenixville,75.301,22.7,22.5,14.8,15.3
 2019,9,PSA,Phoenixville,79.45,24.3,23.55,15.0,16.6
 2019,10,PSA,Phoenixville,78.5,23.2,22.65,16.4,16.25
-2019,3,PIO,Pi Percussion Inc.,69.55,20.85,13.2,22.5,13.0
-2019,5,PIO,Pi Percussion Inc.,76.4,23.1,15.4,22.5,15.4
-2019,11,R2,Pi Percussion Inc.,83.438,25.013,17.1,24.75,16.575
-2019,6,PIA,Pinnacle Percussion,77.25,22.65,16.3,23.4,14.9
-2019,8,PIA,Pinnacle Percussion,83.65,25.05,16.6,25.9,16.1
+2019,2,PSB,Pike Central Indoor,62.826,19.425,11.9,18.4,13.1
+2019,4,PSB,Pike Central Indoor,61.45,18.3,12.5,17.7,12.95
+2019,5,PSB,Pike Central Indoor,61.151,18.45,12.7,18.0,12.0
+2019,6,PSB,Pike Central Indoor,63.463,18.637,13.425,18.75,12.65
+2019,2,PSA,Pike High School/Red Devil Percussion,62.7,16.5,12.6,20.5,13.1
+2019,3,PSA,Pike High School/Red Devil Percussion,68.45,21.6,13.9,18.55,14.4
+2019,5,PSA,Pike High School/Red Devil Percussion,70.65,21.75,13.3,21.2,14.4
+2019,7,RB,Pike High School/Red Devil Percussion,69.825,20.1,14.25,21.675,13.8
 2019,7,GJHSA,Pioneer MS Guard,50.49,10.54,10.35,9.8,8.2
 2019,9,GJHSA,Pioneer MS Guard,57.51,11.07,10.74,11.3,11.4
 2019,6,GJHSO,Pixley MS Guard,53.68,12.01,10.67,11.4,10.6
@@ -1233,56 +943,33 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PJHSA,Pixley MS Percussion,71.0,20.2,26.1,13.1,11.6
 2019,7,PJHSA,Pixley MS Percussion,71.0,22.4,21.6,12.2,14.8
 2019,9,PJHSA,Pixley MS Percussion,75.05,22.1,23.55,14.6,14.8
-2019,6,PSO,Plainfield HS,81.75,25.35,15.5,24.9,16.0
-2019,11,PSO,Plainfield HS,92.338,28.237,17.575,27.5,19.025
-2019,8,PSA,Pleasant Grove HS,75.1,22.2,15.5,21.6,15.8
-2019,3,PSO,Plymouth Canton Community Schools,75.5,22.8,15.3,22.1,15.3
-2019,11,R2,Plymouth Canton Community Schools,92.763,28.688,18.05,27.9,18.125
-2019,8,PSA,Poca HS,69.5,22.2,13.4,20.5,13.4
-2019,11,PIA,Point Indoor Percussion,83.35,24.75,16.45,25.7,16.45
-2019,7,PIA,Points Indoor Percussion,75.95,22.35,15.2,24.5,13.9
-2019,4,PSA,Poteet HS,75.05,22.95,14.6,23.2,14.3
+2019,5,PSO,Plainfield High School Winter Percussion Ensemble,83.5,24.9,16.3,24.6,17.7
+2019,6,PSO,Plainfield High School Winter Percussion Ensemble,83.75,25.35,16.6,24.5,17.3
+2019,7,PSO,Plainfield High School Winter Percussion Ensemble,84.75,24.6,16.55,26.3,17.3
+2019,9,PSO,Plainfield High School Winter Percussion Ensemble,88.375,26.775,17.5,26.8,17.3
 2019,1,SRA,Powell JV,52.04,10.67,10.67,12.2,9.7
 2019,5,SRA,Powell JV,65.96,13.6,13.06,13.0,12.5
 2019,0,SRA,Powell Varsity,57.19,10.74,10.75,13.0,10.6
 2019,1,SRA,Powell Varsity,57.85,11.01,11.54,12.4,11.5
 2019,5,SRA,Powell Varsity,73.3,14.87,14.33,14.9,13.7
-2019,4,PSO,Powhatan HS,79.4,24.0,15.5,24.9,15.0
-2019,11,R2,Powhatan HS,88.238,27.788,16.7,26.65,17.1
-2019,4,PSA,Powhatan MS,64.401,18.6,13.2,19.4,13.2
 2019,8,N,Pulaski County Maroon Winterguard,73.05,14.48,9.87,17.4,15.5
 2019,1,PIW,Pulse Percussion,85.65,26.25,17.2,24.6,17.6
-2019,4,PIW,Pulse Percussion,86.3,25.8,17.6,25.5,17.4
 2019,6,PIW,Pulse Percussion,89.25,27.15,18.3,25.7,18.1
-2019,8,PIW,Pulse Percussion,93.5,27.825,18.3,28.5,18.875
 2019,9,PIW,Pulse Percussion,94.775,28.575,18.9,28.6,18.7
 2019,10,PIW,Pulse Percussion,95.675,28.725,19.1,28.75,19.1
-2019,11,PIW,Pulse Percussion,97.6,29.475,19.6,29.125,19.4
-2019,5,PIO,Q2,73.7,21.6,14.6,22.4,15.1
-2019,7,PIO,Q2,78.6,24.6,15.6,22.6,15.8
-2019,11,R1,Q2,84.613,25.987,17.075,24.7,16.85
 2019,4,PSA,Quakertown,70.751,20.6,21.3,14.4,14.45
 2019,6,PSA,Quakertown,76.626,22.5,23.925,15.3,14.9
 2019,8,PSA,Quakertown,78.551,24.8,23.4,15.25,15.1
 2019,9,PSA,Quakertown,80.401,25.3,24.9,15.4,14.8
 2019,10,PSA,Quakertown,79.75,25.2,23.55,15.4,15.6
-2019,6,PSA,Queen Creek HS,65.8,20.7,13.6,19.0,12.5
 2019,1,PIW,RCC,84.0,25.8,17.1,24.0,17.1
 2019,3,PIW,RCC,84.75,25.35,17.1,24.8,17.5
-2019,8,PIW,RCC,92.4,28.2,18.4,27.7,18.1
 2019,9,PIW,RCC,93.1,27.9,18.7,28.3,18.2
 2019,10,PIW,RCC,93.938,28.388,18.7,28.25,18.6
-2019,11,PIW,RCC,95.525,29.1,19.05,28.6,18.775
-2019,4,PIA,RPT PERCUSSION,71.55,21.15,14.7,22.4,13.3
-2019,11,R1,RPT PERCUSSION,85.188,25.012,16.65,27.65,15.875
-2019,8,PIA,Railmen Indoor Percussion,85.9,27.9,16.8,24.6,16.6
-2019,11,PIA,Railmen Indoor Percussion,94.1,28.65,18.55,27.85,19.05
 2019,6,PSA,Ramona HS,74.65,21.45,16.5,21.5,15.2
-2019,6,PSA,Rampart HS,74.2,21.6,14.6,23.9,14.1
 2019,3,PSO,Rancho Cucamonga HS,78.3,23.7,15.9,24.0,14.7
 2019,5,PSO,Rancho Cucamonga HS,75.651,23.55,14.8,22.1,15.2
 2019,7,PSO,Rancho Cucamonga HS,85.0,25.5,17.1,25.5,16.9
-2019,8,PSO,Rancho Cucamonga HS,83.963,25.688,16.85,24.6,16.825
 2019,9,R1,Rancho Cucamonga HS,86.05,27.0,15.8,25.15,18.1
 2019,10,PSO,Rancho Cucamonga HS,86.376,26.1,17.2,26.5,16.575
 2019,5,R2,Rancho Verde HS,77.451,22.95,15.6,23.5,15.4
@@ -1294,14 +981,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,PSJ,Rancho-Starbuck IS,75.5,22.5,14.8,23.0,15.2
 2019,7,PSJ,Rancho-Starbuck IS,80.751,24.75,14.5,26.2,15.3
 2019,9,PSJ,Rancho-Starbuck IS,86.226,27.225,16.6,25.7,16.7
-2019,7,PSA,Ravenwood HS,83.376,24.375,16.4,25.2,17.4
 2019,5,SRA,Red Regiment Performing Ensemble,62.441,10.94,12.6,13.2,12.1
 2019,8,SRA,Red Regiment Performing Ensemble,71.02,12.08,12.74,13.7,16.2
-2019,5,PIO,Red Wave Indoor,80.65,24.75,15.8,24.9,15.2
-2019,8,PIO,Red Wave Indoor,88.0,26.1,17.9,26.75,17.25
-2019,11,PIO,Red Wave Indoor,91.425,27.6,18.45,27.45,17.925
-2019,3,PIW,Redline,73.35,22.65,14.8,21.2,14.7
-2019,11,R1,Redline,82.3,24.45,16.35,25.325,16.175
 2019,3,R1,Redondo Union HS,70.701,20.1,13.8,23.1,13.7
 2019,7,PSA,Redondo Union HS,75.701,21.9,14.6,24.2,15.0
 2019,9,R1,Redondo Union HS,78.101,23.4,14.6,24.1,16.0
@@ -1314,11 +995,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,PHSSA-G,Redwood HS Percussion,80.85,26.2,21.75,17.6,15.3
 2019,6,GHSSRAB,Reedley HS Guard,50.431,11.88,9.95,10.3,9.4
 2019,9,GHSSRAB,Reedley HS Guard,63.76,13.48,10.68,13.0,12.4
-2019,4,PIA,Resistance Indoor Percussion,78.4,23.4,15.0,25.0,15.0
-2019,11,PIO,Resistance Indoor Percussion,86.063,25.763,16.925,26.225,17.15
-2019,5,PIO,Revelation,73.5,22.2,15.0,21.9,14.4
-2019,11,R1,Revelation,83.7,24.825,17.35,24.05,17.475
-2019,8,PSA,Rex Putnam HS,76.35,22.95,15.4,22.1,15.9
 2019,0,PSA,Rhea County Percussion,61.15,18.1,18.45,11.9,12.7
 2019,3,PSA,Rhea County Percussion,68.65,20.7,19.35,14.2,14.4
 2019,5,PSA,Rhea County Percussion,70.8,22.0,20.7,14.0,14.1
@@ -1326,51 +1002,23 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,0,SA,Rhea County Winterguard,53.441,11.33,11.61,10.8,10.6
 2019,3,SA,Rhea County Winterguard,60.5,11.22,11.68,12.5,12.4
 2019,5,SA,Rhea County Winterguard,66.6,12.86,12.94,12.9,12.6
-2019,6,PIA,Rhythm Armada,74.5,19.5,15.5,24.2,15.3
-2019,3,PIW,Rhythm X,85.55,26.25,17.1,25.0,17.2
-2019,6,PIW,Rhythm X,89.4,27.0,18.0,27.1,17.3
-2019,8,PIW,Rhythm X,91.775,27.675,18.1,27.6,18.4
-2019,11,PIW,Rhythm X,97.225,29.475,19.35,28.8,19.6
-2019,4,PIO,Rhythmic Force Percussion,79.7,25.2,14.2,25.1,15.2
-2019,6,PIO,Rhythmic Force Percussion,73.1,21.6,14.8,22.4,14.3
-2019,11,PIO,Rhythmic Force Percussion,91.738,27.562,17.775,28.05,18.35
-2019,8,PSA,Ridgeview HS,78.401,24.15,16.7,23.0,14.55
 2019,4,PSA,Ridley,74.0,22.6,21.75,15.25,14.4
 2019,5,PSA,Ridley,79.6,24.8,22.5,16.2,16.1
 2019,8,PSA,Ridley,86.125,26.2,26.025,17.4,16.5
 2019,9,PSA,Ridley,85.425,25.1,25.125,17.6,17.6
 2019,10,PSA,Ridley,87.15,27.4,24.45,17.3,18.0
-2019,7,PSA,Ridley HS,88.363,26.962,18.4,25.3,17.7
-2019,6,PIW,Rise Percussion,80.15,24.15,15.6,24.6,15.8
-2019,11,R1,Rise Percussion,82.9,24.375,16.7,25.15,16.675
-2019,6,PIO,Rise2,79.25,22.95,16.3,23.8,16.2
-2019,11,PIO,River City Rhythm,87.638,26.362,17.175,26.875,17.225
 2019,2,PSA,Riverside Poly HS,69.85,20.25,14.9,20.3,14.4
 2019,6,PSA,Riverside Poly HS,73.175,21.825,15.45,21.0,14.9
 2019,9,R3,Riverside Poly HS,82.151,25.65,15.2,24.4,16.9
 2019,3,N,Roane County High School Winterguard,54.36,13.0,11.86,9.4,10.4
 2019,5,N,Roane County High School Winterguard,57.76,13.26,11.6,10.6,11.9
-2019,4,PSO,Robert Vela HS,67.201,19.8,12.9,21.7,12.8
-2019,11,R1,Rochester Lourdes,80.5,24.3,16.1,24.1,16.0
-2019,4,PSA,Rockwall Heath HS,75.95,23.25,14.1,24.0,14.6
-2019,7,PSA,Roswell HS,68.8,21.3,14.2,20.2,13.1
 2019,3,PSW,Rowland HS,74.05,21.75,15.2,23.7,13.4
 2019,5,PSW,Rowland HS,80.95,24.45,16.5,23.5,16.5
-2019,8,PSW,Rowland HS,85.126,25.725,16.5,25.5,17.4
 2019,9,PSW,Rowland HS,87.151,25.95,18.1,25.1,18.0
 2019,10,PSW,Rowland HS,89.076,27.225,17.85,26.45,17.55
 2019,6,PSA,Roxbury,84.25,24.2,25.95,16.9,17.2
 2019,5,PIA,SB Percussion,74.8,22.8,14.7,22.8,14.5
 2019,6,PIA,SB Percussion,71.55,22.05,15.2,20.9,13.4
-2019,7,PIW,STRYKE Percussion,84.2,26.4,17.1,24.7,16.0
-2019,11,R1,STRYKE Percussion,88.513,26.888,17.425,26.6,17.6
-2019,4,PIA,STRYKE Percussion 2,78.875,23.175,15.8,24.0,15.9
-2019,11,PIA,STRYKE Percussion 2,93.25,27.825,18.95,28.1,18.375
-2019,5,PIA,Sacramento State Indoor Percussion Ensemble,76.75,23.55,14.9,23.4,14.9
-2019,4,PSA,Saginaw HS,75.8,22.5,15.7,22.6,15.0
-2019,5,PIA,Saints Percussion,72.65,21.45,14.2,23.1,13.9
-2019,11,PIA,Saints Percussion,83.763,24.938,16.225,26.65,15.95
-2019,11,R1,Salem HS,80.25,23.85,16.95,23.65,15.8
 2019,3,R2,San Clemente HS,67.05,19.65,12.8,21.4,13.2
 2019,6,PSA,San Clemente HS,66.75,20.55,13.1,19.7,13.4
 2019,7,R2,San Clemente HS,70.301,20.55,14.55,22.3,12.9
@@ -1380,32 +1028,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,R4,San Marcos HS,81.976,24.975,16.4,24.7,15.9
 2019,3,PSO,San Marino HS,77.675,22.275,15.6,24.4,15.4
 2019,7,PSO,San Marino HS,83.1,25.65,16.85,24.6,16.0
-2019,8,PSO,San Marino HS,86.725,26.175,16.75,26.8,17.0
 2019,9,R1,San Marino HS,85.851,25.35,17.0,26.2,17.3
 2019,10,PSO,San Marino HS,83.3,24.525,16.75,25.375,16.65
 2019,3,R1,Santa Fe HS,69.101,20.4,13.3,21.1,14.3
 2019,7,PSA,Santa Fe HS,72.2,22.5,14.0,22.2,13.5
 2019,9,R4,Santa Fe HS,76.2,24.3,13.6,23.0,15.3
-2019,5,PSA,Selma HS,69.101,20.25,14.75,19.4,14.7
+2019,7,RA,Scottsburg High School Winter Percussion,77.776,39.2,41.2,37.7,37.45
 2019,6,PSA,Serrano HS,53.35,15.45,10.8,16.5,10.6
 2019,9,R4,Serrano HS,70.2,21.3,13.0,21.1,14.8
-2019,5,PSA,Seymour HS,75.55,22.35,14.4,24.5,14.3
-2019,8,PSA,Seymour HS,80.45,26.55,16.9,22.2,14.8
 2019,0,SA,Seymour High School Winterguard,66.62,15.28,14.74,11.7,12.6
 2019,1,SA,Seymour High School Winterguard,69.25,15.48,15.27,12.9,13.8
 2019,5,SA,Seymour High School Winterguard,76.08,15.54,15.54,14.8,14.5
 2019,0,PSA,Seymour Indoor Percussion,67.7,20.9,19.5,13.7,13.6
 2019,1,PSA,Seymour Indoor Percussion,67.95,21.2,19.95,13.7,13.1
 2019,9,PSA,Seymour Indoor Percussion,87.775,27.5,26.325,17.1,16.85
-2019,5,PIA,Shadow Indoor Percussion,74.0,23.1,14.1,22.6,14.2
-2019,11,PIA,Shadow Indoor Percussion,85.338,25.688,16.975,25.775,16.9
-2019,6,PSA,Shadow Mountain HS,70.876,21.975,15.5,20.0,13.4
-2019,4,PSO,Sharyland HS,72.001,21.9,14.0,22.5,13.6
-2019,6,PSO,Sharyland HS,77.0,23.7,15.7,22.7,14.9
-2019,8,PSO,Sherwood HS,86.85,25.35,18.1,26.0,17.4
-2019,8,PSA,Sherwood Middle School,76.875,22.725,16.1,22.05,16.0
-2019,2,PIA,Shockwave,60.3,18.6,12.0,18.1,11.6
-2019,11,R2,Shockwave,70.3,19.875,15.525,19.8,15.1
 2019,2,GHSSA,Sierra Pacific HS Guard,58.09,12.21,11.88,10.6,11.0
 2019,4,GHSSA,Sierra Pacific HS Guard,66.85,13.87,12.88,13.3,13.9
 2019,6,GHSSA,Sierra Pacific HS Guard,67.79,12.41,13.48,14.8,13.1
@@ -1420,12 +1056,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,P-SG,Skyline HS Percussion,64.875,19.65,20.325,12.3,12.6
 2019,7,P-SG,Skyline HS Percussion,67.326,20.1,21.225,13.0,13.0
 2019,9,P-SG,Skyline HS Percussion,70.363,21.0,21.562,13.65,14.15
-2019,8,PSO,Skyview HS,79.4,24.0,14.7,25.7,15.0
 2019,9,PSJ,Solano MS,88.626,27.375,17.5,25.8,17.95
-2019,4,PSW,South County HS,75.75,22.35,14.5,24.3,14.6
-2019,11,PSW,South County HS,85.325,25.275,16.95,26.15,16.95
-2019,7,PSA,South Forsyth HS,78.451,24.15,17.1,22.0,15.2
-2019,4,PSA,South Granville HS,73.051,22.35,14.6,21.0,15.1
 2019,3,P-SG,South Hagerstown HS Percussion,59.375,19.05,19.125,10.7,10.5
 2019,4,P-SG,South Hagerstown HS Percussion,59.126,17.7,19.425,11.0,11.0
 2019,7,P-SG,South Hagerstown HS Percussion,68.626,21.0,21.825,12.5,13.3
@@ -1435,7 +1066,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,R2,South Hills HS,70.501,21.3,13.5,21.2,14.5
 2019,7,PSA,South Hills HS,74.901,22.2,13.8,23.2,15.7
 2019,9,R2,South Hills HS,86.375,25.125,17.0,26.2,18.05
-2019,7,PSA,South Jones HS,74.8,22.5,14.8,22.7,14.8
 2019,2,PSA,South Pasadena HS,61.25,19.65,12.2,17.1,12.3
 2019,6,PSA,South Pasadena HS,68.75,20.7,13.8,21.05,13.2
 2019,7,PSA,South Pasadena HS,72.9,22.8,14.7,22.3,13.1
@@ -1444,28 +1074,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,3,PSO,South Torrance HS,71.051,21.15,15.4,21.0,13.5
 2019,6,PSO,South Torrance HS,73.351,22.35,14.8,21.9,14.3
 2019,9,R1,South Torrance HS,78.3,23.1,16.2,23.2,15.8
-2019,7,PSA,Southaven HS,87.275,26.025,17.15,26.95,17.15
 2019,3,PSA,Southern Regional,75.2,22.8,21.3,15.9,15.2
 2019,6,PSA,Southern Regional,80.55,23.95,25.2,15.4,16.0
 2019,8,PSA,Southern Regional,87.65,25.9,26.25,17.9,17.6
 2019,9,PSA,Southern Regional,87.35,26.7,26.7,17.25,16.7
 2019,10,PSA,Southern Regional,88.75,27.9,24.75,17.6,18.5
-2019,7,PSA,Southern Regional HS,87.25,26.775,16.925,26.3,17.25
-2019,2,PSA,Southgate Anderson HS,63.901,18.9,12.1,20.9,12.0
-2019,6,PSA,Southport HS,76.751,23.55,15.9,22.3,15.0
-2019,11,R1,Southport HS,85.251,25.05,16.1,27.7,16.4
-2019,7,PIA,Southwest Independent Percussion,70.95,21.0,13.8,21.6,14.55
-2019,11,R1,Southwest Independent Percussion,73.275,21.525,14.75,22.35,14.65
-2019,7,PSO,Sparkman HS,86.8,26.4,17.9,26.4,16.1
-2019,11,PSO,Sparkman HS,96.2,29.175,19.3,28.425,19.3
-2019,7,PIO,Spirit Winter Percussion,89.175,26.775,18.5,26.5,17.4
-2019,11,PIO,Spirit Winter Percussion,95.738,28.913,19.1,28.8,18.925
+2019,3,PSA,Southport Indoor Percussion Ensemble,68.951,21.9,12.9,21.45,12.7
+2019,5,PSA,Southport Indoor Percussion Ensemble,77.05,22.5,15.15,23.4,16.0
+2019,7,RA,Southport Indoor Percussion Ensemble,81.538,24.788,16.15,25.15,15.45
+2019,9,PSA,Southport Indoor Percussion Ensemble,79.575,22.725,16.0,24.95,15.9
+2019,10,PSA,Southport Indoor Percussion Ensemble,82.75,25.05,17.1,23.8,16.8
 2019,0,P-SG,Spring Grove HS Percussion,69.5,20.1,19.8,15.1,14.5
 2019,3,P-SG,Spring Grove HS Percussion,69.475,21.3,21.975,13.3,12.9
 2019,6,P-SG,Spring Grove HS Percussion,77.2,23.55,21.75,15.8,16.1
 2019,9,P-SG,Spring Grove HS Percussion,82.475,23.775,26.1,16.35,16.25
-2019,3,PSA,Springboro HS,68.05,20.55,13.8,19.1,14.6
-2019,11,R1,Springboro HS,79.7,23.85,16.5,23.4,15.95
 2019,4,PSO,Springford,71.65,20.7,23.25,13.8,13.9
 2019,5,PSO,Springford,78.0,23.4,24.3,15.1,15.2
 2019,6,PSO,Springford,82.3,24.0,25.8,16.3,16.2
@@ -1476,13 +1098,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,5,R2,St. Genevieve HS,78.65,24.15,15.2,23.7,15.6
 2019,9,R2,St. Genevieve HS,88.325,28.275,17.6,25.35,17.1
 2019,10,PSA,St. Genevieve HS,83.35,25.5,16.8,24.9,16.15
-2019,8,PSA,St. Helens HS,75.001,22.2,13.8,23.2,15.8
-2019,7,PSA,St. Martin HS,78.9,22.2,16.6,23.9,16.2
-2019,7,PIA,StarCross Percussion Ensemble,64.925,18.825,12.55,21.5,12.05
 2019,1,SRA,Stone Memorial High School Winterguard,51.74,9.67,10.87,11.7,9.6
 2019,3,SRA,Stone Memorial High School Winterguard,58.75,12.14,10.61,12.2,12.3
 2019,5,SRA,Stone Memorial High School Winterguard,66.66,13.19,11.87,13.5,13.2
-2019,6,PIA,Sun City Sound,77.3,22.8,15.7,24.0,14.8
 2019,6,GJHSO,Sundale Union Guard,56.28,12.41,10.47,11.9,11.9
 2019,7,GJHSO,Sundale Union Guard,63.65,13.15,12.6,12.1,12.2
 2019,9,GJHSO,Sundale Union Guard A,68.11,13.68,13.73,12.5,13.4
@@ -1490,15 +1108,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PJHSO,Sundale Union Percussion,69.0,20.2,24.6,12.3,11.9
 2019,7,PJHSO,Sundale Union Percussion,69.3,22.2,21.0,12.0,14.1
 2019,9,PJHSO,Sundale Union Percussion,72.15,22.8,20.55,15.5,13.3
-2019,4,PSA,Sunlake HS,82.225,25.725,17.0,23.0,16.5
 2019,3,PSO,Sunny Hills HS,76.9,23.1,15.3,23.1,15.4
 2019,5,PSO,Sunny Hills HS,79.5,24.3,15.0,24.7,15.5
 2019,6,PSW,Sunny Hills HS,77.2,23.7,15.6,22.6,15.3
 2019,7,PSW,Sunny Hills HS,79.45,22.95,15.8,24.2,16.5
-2019,8,PSW,Sunny Hills HS,81.751,24.15,16.3,25.1,16.2
 2019,9,PSW,Sunny Hills HS,82.675,25.425,17.3,23.55,16.4
 2019,10,PSW,Sunny Hills HS,83.6,25.35,16.3,25.4,16.55
-2019,5,PSA,Sunnyside HS,72.45,22.95,14.1,21.4,14.0
 2019,2,GHSSRAB,Sunnyside HS Guard,53.71,10.27,9.94,10.8,12.4
 2019,4,GHSSRAB,Sunnyside HS Guard,59.31,11.47,11.14,12.6,11.8
 2019,7,GHSSRAS,Sunnyside HS Guard,71.71,15.14,15.27,14.4,14.3
@@ -1508,10 +1123,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,P-SG,Susquehannock HS Percussion,77.775,23.55,23.625,15.1,15.5
 2019,8,P-SG,Susquehannock HS Percussion,80.375,22.8,26.175,15.4,16.0
 2019,9,P-SG,Susquehannock HS Percussion,82.138,23.587,26.85,16.05,15.65
-2019,3,PSA,Sycamore HS,77.95,23.7,15.6,22.8,15.85
-2019,11,PSA,Sycamore HS,89.638,26.663,18.05,26.675,18.25
-2019,7,PIA,Tar River Independent Percussion,61.675,18.225,11.8,20.2,11.45
-2019,11,R2,Tar River Independent Percussion,68.575,19.275,14.1,21.0,14.2
 2019,2,PSA,Temecula Valley HS,63.575,20.175,12.0,19.3,12.1
 2019,6,PSA,Temecula Valley HS,70.951,22.35,15.0,20.9,12.7
 2019,7,R1,Temecula Valley HS,73.9,22.2,16.2,20.7,14.8
@@ -1522,20 +1133,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,R3,Temescal Canyon HS,80.576,25.575,15.5,23.3,16.2
 2019,3,R1,Temple City HS,81.2,24.3,15.6,25.4,15.9
 2019,5,R2,Temple City HS,84.0,25.5,17.1,24.5,16.9
-2019,8,PSO,Temple City HS,81.475,23.325,17.0,24.95,16.2
 2019,9,R2,Temple City HS,86.4,26.25,16.8,27.1,16.25
 2019,10,PSO,Temple City HS,84.35,24.525,16.85,26.15,16.825
-2019,11,R1,Temple City HS,85.325,25.875,17.15,25.3,17.0
-2019,6,PSA,Temple HS,63.55,18.15,12.2,20.6,12.6
-2019,7,PSA,Thomas Jefferson HS,87.276,26.625,18.85,23.0,18.8
+2019,7,RA,Terre Haute North Winter Percussion,65.75,33.5,36.1,31.9,30.0
+2019,2,PSB,Terre Haute South Indoor Percussion,73.5,21.6,15.2,22.1,14.6
+2019,4,PSB,Terre Haute South Indoor Percussion,68.5,21.15,13.85,20.6,12.9
+2019,5,PSA,Terre Haute South Indoor Percussion,68.55,21.0,13.1,21.45,13.0
+2019,6,PSA,Terre Haute South Indoor Percussion,76.151,22.65,14.4,23.7,15.4
+2019,7,RB,Terre Haute South Indoor Percussion,73.188,21.337,14.65,23.5,13.7
+2019,3,PSB,The Orleans Winter Percussion Ensemble,59.401,17.85,12.0,18.2,11.35
+2019,6,PSB,The Orleans Winter Percussion Ensemble,61.65,18.0,13.15,18.55,11.95
 2019,6,PSA,Thousand Oaks HS,69.3,21.9,14.5,20.0,12.9
 2019,9,R1,Thousand Oaks HS,78.001,23.55,15.1,22.55,16.8
-2019,4,PSO,Timber Creek HS,81.65,25.05,15.8,25.0,15.8
-2019,6,PSO,Timber Creek HS,86.2,25.8,17.4,25.6,17.4
-2019,3,PSA,Tippecanoe HS,68.1,21.0,13.5,20.1,13.5
 2019,3,R2,Torrance HS,72.601,20.1,15.5,21.8,15.2
 2019,5,R2,Torrance HS,70.351,20.85,13.3,21.5,14.7
-2019,8,PSA,Torrance HS,75.251,23.55,15.9,21.0,14.8
 2019,9,R2,Torrance HS,79.576,24.075,15.2,24.65,15.65
 2019,3,PSJ,Townsend JHS,77.7,22.5,15.4,25.5,14.3
 2019,6,PSJ,Townsend JHS,82.2,24.9,16.9,24.1,16.3
@@ -1546,14 +1157,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,PSO,Trabuco Hills HS,80.2,24.3,16.7,22.5,16.7
 2019,9,R1,Trabuco Hills HS,84.326,25.125,16.8,26.1,16.3
 2019,10,PSO,Trabuco Hills HS,81.325,23.775,16.05,25.05,16.45
-2019,5,PIO,Tri-City Percussion,76.35,23.25,14.9,22.7,15.5
-2019,8,PIO,Tri-City Percussion,77.901,22.5,17.0,23.2,15.2
-2019,11,R1,Tri-City Percussion,83.15,25.425,16.4,24.975,16.35
-2019,3,PIO,Triple Crown,77.5,23.7,16.1,22.5,15.2
-2019,8,PIO,Triple Crown,86.9,27.15,17.35,25.35,17.05
-2019,11,PIO,Triple Crown,93.763,27.863,19.05,28.0,18.85
-2019,7,PSO,Trumbull HS,85.95,26.175,17.125,26.05,16.6
-2019,11,R2,Trumbull HS,90.213,27.488,17.7,27.1,17.925
+2019,2,PSB,Tri-West High School,67.401,19.2,15.1,20.2,12.9
+2019,3,PSB,Tri-West High School,58.851,18.75,11.2,17.9,11.0
+2019,4,PSB,Tri-West High School,60.225,18.825,13.0,17.2,11.2
+2019,5,PSB,Tri-West High School,61.901,18.75,12.8,18.15,12.2
+2019,6,PSB,Tri-West High School,65.888,19.013,13.875,19.75,13.25
+2019,7,PSB,Tri-West High School,65.0,18.9,13.3,19.7,13.1
+2019,3,PSB,Triton Central Indoor Percussion,61.85,19.35,12.6,18.6,11.3
+2019,4,PSB,Triton Central Indoor Percussion,64.001,19.8,12.7,17.8,13.7
+2019,5,PSB,Triton Central Indoor Percussion,66.85,20.85,14.4,18.8,12.8
+2019,6,PSB,Triton Central Indoor Percussion,69.576,21.15,14.0,20.95,13.475
+2019,7,PSB,Triton Central Indoor Percussion,68.176,20.025,14.2,20.4,13.55
 2019,2,GHSSRAS,Tulare Union HS Guard,54.79,10.28,10.81,13.0,10.6
 2019,4,GHSSRAS,Tulare Union HS Guard,55.681,11.94,10.74,10.8,11.0
 2019,6,GHSSRAS,Tulare Union HS Guard,67.15,13.61,14.14,12.9,13.5
@@ -1577,25 +1191,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,PHSSO,Tulare Western Percussion,73.55,19.4,24.75,15.0,14.4
 2019,7,PHSSO,Tulare Western Percussion,79.05,24.6,23.25,15.2,16.0
 2019,9,PHSSO,Tulare Western Percussion,78.0,22.7,21.6,17.6,16.1
-2019,6,PIO,UTSA,79.5,24.3,16.2,23.3,15.7
-2019,11,PIO,UTSA,92.763,27.413,18.8,28.15,18.4
+2019,7,RB,Twin Lakes Winter Drumline,76.475,40.2,41.15,34.9,36.7
 2019,4,PSA,Unionville,75.2,22.5,22.95,14.95,14.8
 2019,5,PSA,Unionville,80.95,25.3,23.85,16.1,15.7
 2019,9,PSA,Unionville,88.6,25.0,27.6,17.8,18.2
 2019,10,PSA,Unionville,89.95,27.95,25.95,17.9,18.15
-2019,7,PSA,Unionville HS,88.626,26.775,18.35,25.3,18.2
-2019,11,R2,Unionville HS,92.125,26.925,19.3,27.15,18.75
 2019,3,PIA,United 2,69.6,22.4,19.8,14.3,13.1
 2019,8,PIA,United 2,81.45,25.0,22.95,16.8,16.7
 2019,10,PIA,United 2,80.6,24.9,22.8,16.3,16.6
-2019,6,PSA,United HS,73.276,21.525,13.5,23.75,14.5
 2019,3,PIW,United Percussion,77.9,24.2,23.1,15.6,15.0
-2019,7,PIW,United Percussion,87.7,26.55,17.7,25.9,17.55
 2019,10,PIW,United Percussion,88.25,25.6,27.15,17.6,17.9
-2019,11,PIW,United Percussion,90.288,27.188,17.9,27.25,17.95
-2019,7,PIA,United Percussion 2,82.625,23.625,16.9,25.6,16.5
-2019,4,PIA,Unity Percussion,77.9,22.2,16.4,23.5,15.8
-2019,11,PIA,Unity Percussion,96.15,29.175,19.45,28.3,19.225
 2019,3,PSA,Upland HS,73.201,21.15,14.6,22.15,15.3
 2019,5,R2,Upland HS,78.1,24.0,15.6,22.6,15.9
 2019,7,R2,Upland HS,78.75,24.15,15.5,25.4,13.7
@@ -1619,70 +1224,57 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,6,P-SB,Urbana HS Percussion,72.9,22.2,24.9,13.0,12.8
 2019,7,P-SB,Urbana HS Percussion,78.2,23.4,25.5,14.5,14.8
 2019,9,P-SB,Urbana HS Percussion,82.65,25.425,25.425,15.95,15.85
+2019,2,PSA,VIctor J Andrew HS,77.45,22.95,14.9,24.5,15.1
+2019,6,PSO,VIctor J Andrew HS,80.65,24.75,15.5,23.4,17.0
 2019,3,R2,Valencia HS (V),67.251,19.35,14.8,19.8,13.3
 2019,6,PSA,Valencia HS (V),71.501,22.2,13.7,22.3,13.3
 2019,2,PSA,Valhalla HS,72.9,21.3,15.2,21.2,15.2
-2019,4,PSA,Valhalla HS,70.5,20.7,14.8,21.9,13.1
 2019,6,PSA,Valhalla HS,76.1,23.55,15.35,20.6,16.6
-2019,8,PSA,Valhalla HS,83.025,24.975,16.75,24.45,16.85
 2019,9,R1,Valhalla HS,87.051,27.0,17.05,25.4,17.6
-2019,7,PSA,Vandebilt Catholic HS,83.438,24.337,16.95,25.4,16.75
-2019,11,R2,Vandebilt Catholic HS,90.55,27.375,18.775,26.3,18.1
-2019,4,PIA,Vegas Vanguard,68.85,18.75,13.8,22.6,13.7
-2019,8,PIA,Vegas Vanguard,83.25,25.95,16.7,25.6,15.0
 2019,9,PIA,Vegas Vanguard,84.35,24.9,16.9,25.4,17.15
 2019,10,PIA,Vegas Vanguard,84.6,25.5,16.45,26.55,16.1
-2019,6,PIW,Veritas,84.45,25.65,17.1,25.0,16.7
-2019,11,R2,Veritas,87.913,26.288,17.2,27.225,17.2
+2019,5,PIW,Veritas,85.8,24.6,18.0,25.6,17.6
+2019,7,PIW,Veritas,84.25,25.2,16.9,25.45,16.7
+2019,9,PIW,Veritas,84.825,25.575,17.05,25.45,16.75
 2019,1,PIW,Vessel,75.85,22.65,15.4,22.5,15.3
 2019,3,PIW,Vessel,81.3,24.3,16.2,24.5,16.3
 2019,5,PIW,Vessel,82.2,25.8,16.2,23.8,16.4
-2019,8,PIW,Vessel,84.676,24.825,16.45,26.45,16.95
 2019,9,PIW,Vessel,89.001,26.7,18.3,26.9,17.1
 2019,10,PIW,Vessel,87.001,26.7,16.9,26.25,17.15
-2019,11,R2,Vessel,88.051,26.4,18.05,26.45,17.15
-2019,3,PSO,Victor HS,66.1,19.8,13.8,18.9,13.6
 2019,2,PSO,Victor Indoor Percussion Ensemble,61.95,18.9,18.45,12.2,12.4
 2019,5,PSO,Victor Indoor Percussion Ensemble,68.0,19.9,20.7,13.5,13.9
 2019,7,PSO,Victor Indoor Percussion Ensemble,75.7,21.9,24.6,14.8,14.4
 2019,8,PSO,Victor Indoor Percussion Ensemble,78.9,24.1,22.2,16.0,16.6
 2019,9,PSO,Victor Indoor Percussion Ensemble,79.35,23.1,24.45,15.5,16.3
 2019,10,PSO,Victor Indoor Percussion Ensemble,77.4,23.7,22.5,15.9,15.3
-2019,3,PSA,Victor J. Andrew HS,85.5,26.1,17.6,23.9,17.9
-2019,5,PSA,Victor J. Andrew HS,88.25,26.85,17.9,25.7,17.8
-2019,6,PSO,Victor J. Andrew HS,79.05,23.25,15.9,23.7,16.2
-2019,11,R4,Victor J. Andrew HS,90.676,27.525,18.5,26.05,18.6
-2019,4,PIW,Vigilantes Indoor Percussion,77.75,23.55,14.7,24.5,15.0
-2019,6,PIW,Vigilantes Indoor Percussion,77.85,23.55,16.2,22.8,15.3
-2019,11,R2,Vigilantes Indoor Percussion,86.95,26.4,17.15,26.35,17.05
-2019,6,PIO,Violet Crown Independent,80.95,23.85,17.2,23.8,16.1
-2019,11,PIO,Violet Crown Independent,96.488,28.913,19.825,28.1,19.65
-2019,4,PIO,Vision Percussion,74.45,22.65,14.0,21.7,16.1
-2019,6,PIO,Vision Percussion,80.15,23.55,16.4,24.2,16.0
-2019,8,PIO,Vision Percussion,83.05,24.3,16.8,25.25,16.7
+2019,3,PSA,Vincennes Indoor Percussion,69.951,21.15,12.6,23.3,12.9
+2019,4,PSA,Vincennes Indoor Percussion,72.576,21.825,14.7,22.7,13.35
+2019,5,PSA,Vincennes Indoor Percussion,74.25,22.65,14.1,23.0,14.5
+2019,6,PSA,Vincennes Indoor Percussion,78.576,24.975,14.5,24.4,14.7
+2019,7,RB,Vincennes Indoor Percussion,83.2,24.975,16.025,26.55,15.65
+2019,9,PSA,Vincennes Indoor Percussion,81.776,24.075,15.15,25.95,16.6
 2019,2,PSA,Vista HS,66.001,19.2,12.8,20.6,13.4
 2019,6,PSA,Vista HS,70.351,21.75,12.8,21.5,14.3
 2019,9,R4,Vista HS,80.2,24.0,15.0,25.7,15.5
-2019,4,PSW,Vista Murrieta HS,80.9,24.0,15.9,25.1,15.9
 2019,6,PSW,Vista Murrieta HS,81.2,24.9,16.2,24.2,15.9
-2019,8,PSW,Vista Murrieta HS,88.6,26.925,17.875,25.7,18.1
 2019,9,PSW,Vista Murrieta HS,92.35,27.0,18.6,27.65,19.1
 2019,10,PSW,Vista Murrieta HS,92.775,27.975,18.475,27.85,18.475
-2019,5,PSA,Wade Hampton HS,79.0,24.6,17.3,21.8,15.3
-2019,3,PSW,Walled Lake Central HS,81.55,25.05,16.4,24.0,16.1
-2019,8,PSW,Walled Lake Central HS,86.05,26.55,16.4,26.3,16.8
-2019,11,PSW,Walled Lake Central HS,85.95,25.95,17.15,26.1,16.75
-2019,6,PSA,Waller HS,75.25,22.05,14.1,24.2,14.9
-2019,3,PSA,Wapakoneta HS,64.4,20.1,13.1,18.8,12.4
-2019,11,R4,Wapakoneta HS,77.225,23.325,15.8,22.55,15.55
 2019,2,PSJ,Warm Springs MS,67.05,20.25,14.3,19.5,13.0
 2019,7,PSJ,Warm Springs MS,82.05,23.55,15.8,25.9,16.8
 2019,9,PSJ,Warm Springs MS,91.388,27.488,18.4,27.0,18.5
-2019,7,PSA,Warren Central HS,84.9,25.05,17.5,26.1,16.25
+2019,5,PSA,Warren Central High School,65.7,20.25,12.8,20.35,12.3
+2019,6,PSA,Warren Central High School,67.9,19.8,13.1,22.4,12.6
+2019,7,RA,Warren Central High School,69.675,21.075,14.0,21.25,13.35
 2019,3,R2,Warren HS,69.451,19.05,14.6,20.8,15.0
 2019,5,R1,Warren HS,70.901,21.3,14.1,21.4,14.1
 2019,7,R1,Warren HS,69.951,20.1,14.45,21.4,14.0
 2019,9,R2,Warren HS,80.451,23.55,16.4,23.3,17.2
+2019,7,RB,Warsaw Community High School Winter Percussion Ensemble,80.3,43.0,41.0,37.9,38.7
+2019,3,PSB,Washington Indoor Percussion,64.45,21.3,12.8,18.4,11.95
+2019,4,PSB,Washington Indoor Percussion,69.775,21.825,14.25,19.3,14.4
+2019,5,PSB,Washington Indoor Percussion,72.85,22.95,16.2,19.9,13.8
+2019,6,PSB,Washington Indoor Percussion,75.376,23.475,15.65,21.9,14.35
+2019,7,PSB,Washington Indoor Percussion,74.875,22.575,15.7,22.2,14.4
 2019,2,GHSSRAG,Washington Union HS Guard,67.58,14.21,13.47,14.4,12.8
 2019,4,GHSSRAG,Washington Union HS Guard,67.72,14.48,14.14,14.4,12.7
 2019,6,GHSSRAG,Washington Union HS Guard,83.88,16.34,17.94,18.1,16.3
@@ -1694,9 +1286,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,8,PIA,Webster Percussion Theater,70.6,22.1,21.9,13.4,13.2
 2019,9,PIA,Webster Percussion Theater,82.3,25.6,26.55,14.95,15.2
 2019,10,PIA,Webster Percussion Theater,72.8,21.8,21.6,14.9,14.5
-2019,2,PSA,West Bloomfield HS,71.3,21.0,13.7,22.4,14.2
-2019,8,PSA,West Bloomfield HS,81.151,24.3,15.55,25.55,15.75
-2019,11,R2,West Bloomfield HS,87.088,25.988,17.675,26.55,16.875
 2019,3,PSA,West HS (T),74.051,21.3,15.0,22.9,14.85
 2019,5,R1,West HS (T),74.75,21.75,16.0,22.4,14.6
 2019,6,PSA,West HS (T),77.35,23.1,15.45,23.2,15.6
@@ -1704,27 +1293,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,9,R1,West HS (T),87.851,25.65,17.5,26.7,18.0
 2019,10,PSA,West HS (T),82.35,24.0,16.55,25.25,16.55
 2019,5,N,West High School Winterguard,55.77,11.01,10.86,11.3,11.2
-2019,7,PSA,West Milford HS,82.6,27.0,17.9,22.0,15.7
-2019,11,R2,West Milford HS,84.801,25.5,18.75,23.4,17.15
 2019,6,PSO,West Ranch HS,83.3,24.9,16.9,24.9,16.6
 2019,7,PSO,West Ranch HS,76.851,21.75,16.8,22.6,15.7
-2019,8,PSO,West Ranch HS,84.288,25.988,17.2,24.475,16.625
 2019,9,R2,West Ranch HS,82.201,24.6,16.6,23.7,17.3
 2019,5,P-SB,Western Frederick Percussion,77.05,24.45,22.2,14.8,15.6
 2019,7,P-SB,Western Frederick Percussion,82.35,25.35,23.4,17.0,16.6
 2019,8,P-SB,Western Frederick Percussion,85.4,25.8,25.8,17.4,16.4
 2019,9,P-SB,Western Frederick Percussion,84.85,23.925,26.925,16.5,17.5
-2019,7,PSA,Westhill HS,84.925,27.375,17.4,24.55,15.6
-2019,11,R4,Westhill HS,84.263,25.538,16.9,24.775,17.05
 2019,5,R1,Westlake HS,80.4,24.6,15.0,24.0,16.8
 2019,7,R2,Westlake HS,78.1,23.25,15.55,23.8,15.5
 2019,9,R1,Westlake HS,90.4,27.75,18.1,26.25,18.3
 2019,10,PSA,Westlake HS,87.851,26.55,17.35,26.25,17.7
 2019,3,PSO,Westminster HS,66.05,19.35,13.0,21.2,12.5
-2019,4,PSO,Westminster HS,69.251,22.05,12.0,20.7,14.5
 2019,6,PSO,Westminster HS,76.001,21.9,15.5,23.9,14.7
 2019,7,PSO,Westminster HS,77.001,23.4,15.4,21.9,16.3
-2019,8,PSO,Westminster HS,75.425,23.025,15.0,21.9,15.5
 2019,9,R1,Westminster HS,79.25,23.4,15.0,24.7,16.15
 2019,5,SRA,William Blount High School Winterguard,56.761,10.61,11.75,11.3,10.8
 2019,8,SRA,William Blount High School Winterguard,68.15,11.01,11.94,13.3,16.0
@@ -1734,24 +1316,25 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,7,PSO,William S. Hart HS,80.951,24.45,15.6,24.7,16.2
 2019,9,R2,William S. Hart HS,89.4,26.1,17.2,28.0,18.1
 2019,10,PSO,William S. Hart HS,87.888,26.887,17.725,26.025,17.25
-2019,6,PSO,Williams Field HS,78.8,22.5,16.2,24.8,15.3
-2019,8,PSO,Williams Field HS,76.625,23.775,14.95,22.5,15.4
-2019,6,PSA,Willow Canyon HS,76.101,23.4,15.9,22.6,14.2
 2019,7,GJHSA,Wilson MS Guard,50.14,10.87,9.87,9.4,8.9
 2019,9,GJHSA,Wilson MS Guard,54.21,11.27,10.14,10.2,11.0
-2019,7,PIA,Winfield Independent,79.6,24.0,15.9,24.0,15.7
-2019,11,R1,Winfield Independent,82.113,24.863,15.6,25.2,16.45
-2019,4,PSA,Wiregrass Ranch HS,79.35,25.2,15.35,23.3,15.5
+2019,3,PSB,Winchester Community High School,62.45,17.85,12.5,19.05,13.05
+2019,5,PSB,Winchester Community High School,66.55,19.65,13.5,19.3,14.1
+2019,6,PSB,Winchester Community High School,67.738,19.988,14.15,20.65,12.95
+2019,7,PSB,Winchester Community High School,67.151,19.5,14.25,20.2,13.2
 2019,3,PRA,Woodbridge,75.45,23.4,22.95,14.0,15.1
-2019,4,PSA,Woodbridge Senior HS,80.65,24.75,15.7,23.8,16.4
 2019,3,PSJ,Woodcrest JHS,72.5,21.6,13.4,22.9,14.6
 2019,5,PSJ,Woodcrest JHS,77.2,23.7,15.3,22.0,16.2
 2019,9,PSJ,Woodcrest JHS,86.051,26.7,17.05,25.0,17.3
 2019,9,GHSSRAB,Woodlake HS Guard,55.261,10.42,10.34,10.8,12.0
-2019,8,PSA,Worthington City School District,79.7,25.35,15.2,23.2,15.95
-2019,4,PSA,Yorktown HS,74.451,22.05,15.1,21.7,15.6
-2019,6,PSA,Zionsville Community HS,85.3,26.4,17.4,25.6,15.9
-2019,11,PSA,Zionsville Community HS,95.05,28.65,19.45,28.525,18.425
+2019,2,PSA,Zionsville Indoor Percussion,73.0,21.3,13.6,22.3,15.8
+2019,3,PSA,Zionsville Indoor Percussion,76.5,22.5,15.1,23.2,15.7
+2019,4,PSA,Zionsville Indoor Percussion,77.075,22.875,15.6,24.2,14.4
+2019,5,PSA,Zionsville Indoor Percussion,83.25,24.15,17.9,24.9,16.3
+2019,6,PSA,Zionsville Indoor Percussion,83.15,24.45,16.8,24.9,17.0
+2019,7,RB,Zionsville Indoor Percussion,86.275,26.025,17.25,25.95,17.05
+2019,9,PSA,Zionsville Indoor Percussion,90.288,26.062,18.075,27.9,18.25
+2019,4,F,Zionsville Middle School/Zionsville West Middle School,65.15,20.85,13.0,21.1,10.2
 2019,5,PIO,Élan Percussion,75.55,22.35,15.2,23.0,15.0
 2019,7,PIO,Élan Percussion,79.85,21.75,16.3,24.3,17.5
 2019,9,PIO,Élan Percussion,86.75,25.95,17.5,26.0,17.3

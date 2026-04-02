@@ -4,6 +4,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PSW,Arcadia HS,87.2,26.4,17.6,26.6,16.6
 2026,7,PSW,Arcadia HS,89.45,27.15,18.15,25.95,18.2
 2026,7,PSW,Avon HS,91.675,27.525,18.1,27.55,18.5
+2026,4,PSW,Avon High School,82.9,25.2,16.5,24.4,16.8
+2026,6,PSW,Avon High School,88.45,25.65,18.0,26.9,17.9
+2026,8,PSW,Avon High School,91.688,27.337,18.55,27.65,18.15
+2026,9,PSW,Avon High School,93.425,28.275,18.7,27.7,18.75
 2026,2,PSW,Ayala HS,84.0,26.1,17.1,24.3,16.5
 2026,3,PSW,Ayala HS,83.05,25.35,17.1,23.7,16.9
 2026,5,PSW,Ayala HS,88.6,26.7,18.0,26.4,17.5
@@ -12,11 +16,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,8,PSW,Bridgeland HS,91.325,27.825,18.35,27.15,18.0
 2026,3,PSW,Broken Arrow HS,76.35,22.95,15.2,23.3,14.9
 2026,7,PSW,Brownsburg HS,84.825,24.975,17.25,25.6,17.0
+2026,2,PSW,Brownsburg High School Winter Percussion,76.6,24.0,14.6,23.3,14.7
+2026,4,PSW,Brownsburg High School Winter Percussion,76.55,23.25,14.3,23.6,15.4
+2026,8,PSW,Brownsburg High School Winter Percussion,85.625,25.575,17.4,25.7,16.95
+2026,9,PSW,Brownsburg High School Winter Percussion,85.175,25.725,17.6,24.6,17.25
 2026,7,PSW,Buchanan HS,85.501,26.1,17.7,24.5,17.2
 2026,8,PSW,Burleson Centennial HS,90.875,27.525,18.25,27.1,18.0
 2026,5,PSW,Byrnes HS,74.2,21.75,14.4,22.85,15.2
 2026,8,PSW,Byrnes HS,80.675,24.675,15.4,24.7,15.9
+2026,9,PSW,Carroll High School Indoor Percussion,82.751,24.9,17.95,23.35,16.55
 2026,7,PSW,Center Grove HS,90.875,27.225,18.1,27.55,18.0
+2026,4,PSW,Center Grove High School,78.9,24.0,15.8,23.1,16.0
+2026,5,PSW,Center Grove High School,81.15,24.45,16.9,23.9,15.9
+2026,6,PSW,Center Grove High School,85.9,25.2,16.6,27.0,17.1
+2026,8,PSW,Center Grove High School,90.2,27.45,18.15,27.25,17.35
+2026,9,PSW,Center Grove High School,92.1,27.75,18.55,27.5,18.3
 2026,2,PSW,Chino Hills HS,83.4,25.2,17.0,25.1,16.1
 2026,4,PSW,Chino Hills HS,89.6,27.3,17.6,27.4,17.3
 2026,7,PSW,Chino Hills HS,93.325,28.05,19.05,27.35,18.875
@@ -37,10 +51,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,8,PSW,Etiwanda HS,87.35,26.55,17.7,26.0,17.1
 2026,6,PSW,Fair Lawn HS,76.1,23.1,14.8,23.2,15.0
 2026,7,PSW,Fishers HS,85.663,25.538,16.95,26.1,17.075
+2026,4,PSW,Fishers Indoor Drumline,77.75,23.55,14.7,23.9,15.6
+2026,6,PSW,Fishers Indoor Drumline,83.55,24.15,16.5,26.0,16.9
+2026,8,PSW,Fishers Indoor Drumline,86.125,25.875,16.95,26.25,17.05
+2026,9,PSW,Fishers Indoor Drumline,87.975,26.475,17.75,25.85,17.9
 2026,6,PSW,Foothill HS (NV),82.65,25.95,17.3,24.2,15.2
 2026,7,PSW,Foothill HS (NV),79.826,23.925,17.2,22.55,16.15
 2026,8,PSW,Forsyth Central HS,79.0,23.1,15.7,24.9,15.3
 2026,7,PSW,Franklin Central HS,83.025,24.225,16.75,25.4,16.65
+2026,4,PSW,Franklin Central Percussion Symphony,77.95,24.45,13.4,23.9,16.2
+2026,6,PSW,Franklin Central Percussion Symphony,82.1,24.6,16.9,24.4,16.2
+2026,8,PSW,Franklin Central Percussion Symphony,83.275,24.975,16.9,24.95,16.45
+2026,9,PSW,Franklin Central Percussion Symphony,83.201,25.5,17.15,23.75,16.8
+2026,9,PSW,Greenwood Indoor Percussion,81.076,23.775,16.85,24.2,16.25
 2026,7,PSW,Homestead HS (CA),77.1,23.1,16.9,21.5,15.6
 2026,7,PSW,James Logan HS,88.05,26.7,18.25,25.7,17.4
 2026,8,PSW,Milton HS,82.725,25.125,16.3,25.25,16.05
@@ -55,4 +78,3 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,7,PSW,Vista Murrieta HS,92.15,27.45,19.05,26.8,18.85
 2026,4,PSW,Walled Lake Consolidated Schools,76.1,23.1,14.6,22.8,15.6
 2026,6,PSW,Walled Lake Consolidated Schools,81.75,25.65,17.0,23.5,15.6
-2026,9,PSW,Walled Lake Consolidated Schools,85.55,25.65,17.8,24.5,17.6

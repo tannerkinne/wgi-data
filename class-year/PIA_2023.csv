@@ -1,4 +1,10 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2023,3,PIA,1 Indoor Percussion,63.3,18.3,13.0,19.2,12.8
+2023,4,PIA,1 Indoor Percussion,65.5,20.4,13.3,18.2,13.6
+2023,5,PIA,1 Indoor Percussion,68.55,22.05,13.4,19.5,13.6
+2023,7,PIA,1 Indoor Percussion,69.4,21.9,13.6,20.5,13.4
+2023,8,PIA,1 Indoor Percussion,68.4,20.7,14.0,19.8,13.9
+2023,10,PIA,1 Indoor Percussion,74.9,22.05,14.8,22.85,15.2
 2023,2,PIA,Albany,59.3,18.1,18.0,11.9,11.3
 2023,3,PIA,Albany,62.65,18.6,19.05,12.4,12.6
 2023,10,PIA,Albany,71.45,24.5,19.05,13.7,14.2
@@ -40,6 +46,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PIA,Huron Valley Percussion,83.0,25.2,16.3,25.3,16.2
 2023,10,PIA,Huron Valley Percussion,81.75,24.9,16.55,24.1,16.2
 2023,13,PIA,Huron Valley Percussion,89.389,26.962,17.9,26.825,17.7
+2023,4,PIA,IGNITE Winter Percussion,66.2,21.9,12.9,18.7,12.7
+2023,5,PIA,IGNITE Winter Percussion,66.35,21.15,13.2,19.2,12.8
+2023,8,PIA,IGNITE Winter Percussion,72.4,22.2,14.55,22.3,13.35
+2023,10,PIA,IGNITE Winter Percussion,76.775,23.025,15.35,23.1,15.3
 2023,2,PIA,Impulse,71.7,21.9,12.7,22.9,14.2
 2023,8,PIA,Impulse,76.45,23.85,13.2,23.0,16.4
 2023,11,PIA,Impulse,82.95,24.45,16.2,25.2,17.1
@@ -56,6 +66,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PIA,MidMichigan Impact,75.075,22.575,15.25,22.2,15.05
 2023,5,PIA,Modulation Z,85.45,25.05,17.1,26.4,16.9
 2023,13,PIA,Modulation Z,96.05,29.55,19.225,28.375,18.9
+2023,3,PIA,Montgomery County United Percussion,57.0,16.5,12.2,16.5,11.8
+2023,4,PIA,Montgomery County United Percussion,56.9,16.5,12.3,16.5,11.6
+2023,5,PIA,Montgomery County United Percussion,60.3,18.3,12.0,18.0,12.0
+2023,6,PIA,Montgomery County United Percussion,59.5,16.8,12.4,17.7,12.6
+2023,7,PIA,Montgomery County United Percussion,58.3,18.6,12.0,15.0,12.7
+2023,8,PIA,Montgomery County United Percussion,61.7,19.05,13.0,17.05,12.6
+2023,10,PIA,Montgomery County United Percussion,68.025,19.575,14.0,20.0,14.45
 2023,7,PIA,North Star Independent,84.4,25.5,17.7,25.1,16.1
 2023,4,PIA,Pace Percussion Ensemble,70.55,21.45,14.7,19.5,14.9
 2023,7,PIA,Pace Percussion Ensemble,78.6,22.5,16.3,23.7,16.1
@@ -87,3 +104,4 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PIA,Vortex Percussion,80.0,24.6,15.0,24.8,15.6
 2023,10,PIA,Vortex Percussion,77.825,23.625,14.6,24.2,15.4
 2023,5,PIA,West Broward Independent,74.1,22.8,15.0,21.2,15.1
+2023,4,PIA,,66.2,21.9,12.9,18.7,12.7

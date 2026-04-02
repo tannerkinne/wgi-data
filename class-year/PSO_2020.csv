@@ -1,8 +1,14 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2020,3,PSO,Ben Davis High School,70.95,22.35,13.7,20.6,14.3
+2020,4,PSO,Ben Davis High School,69.8,23.1,13.4,19.5,13.8
+2020,6,PSO,Ben Davis High School,77.6,23.1,15.5,23.9,15.1
+2020,6,PSO,Brownsburg Percussion,85.15,25.65,17.5,25.6,16.4
 2020,3,PSO,Buena HS,74.001,22.5,14.7,23.2,13.6
 2020,5,PSO,Buena HS,75.501,23.4,15.2,22.9,14.0
 2020,3,PSO,Carlsbad HS,73.076,22.275,15.3,21.5,14.0
 2020,6,PSO,Carlsbad HS,76.85,22.95,16.6,21.8,15.5
+2020,4,PSO,Carroll High School Indoor Percussion Ensemble,76.9,23.1,14.8,24.3,14.7
+2020,6,PSO,Carroll High School Indoor Percussion Ensemble,83.1,24.6,17.1,24.5,16.9
 2020,3,PSO,Cesar E. Chavez HS,82.0,24.3,16.9,24.5,16.3
 2020,1,PSO,Chino HS,76.45,24.15,16.2,22.2,13.9
 2020,3,PSO,Chino HS,82.05,25.05,15.9,25.2,15.9
@@ -22,6 +28,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2020,1,PSO,Granada Hills CHS,67.1,20.1,13.8,19.6,13.6
 2020,3,PSO,Granada Hills CHS,74.651,23.25,15.1,22.5,13.8
 2020,6,PSO,Great Oak HS,85.375,25.575,17.2,25.3,17.3
+2020,6,PSO,Greenfield-Central Indoor Percussion Ensemble,80.6,24.6,15.6,24.7,15.7
 2020,0,PSO,Halls Indoor Percussion Ensemble,71.15,22.1,20.25,14.4,14.4
 2020,2,PSO,Hilton HS Percussion,67.9,23.7,18.9,13.3,12.0
 2020,3,PSO,Hilton HS Percussion,75.35,23.0,22.95,14.7,14.7
@@ -57,6 +64,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2020,5,PSO,Unionville,76.7,22.9,23.4,15.3,15.1
 2020,2,PSO,Upland HS,73.55,22.35,14.8,21.5,14.9
 2020,3,PSO,Upland HS,74.801,21.3,14.4,23.9,15.2
+2020,6,PSO,VIctor J Andrew HS,82.9,25.2,16.5,25.1,16.1
 2020,2,PSO,Victor Indoor Percussion Ensemble,64.501,23.2,17.7,12.4,11.2
 2020,5,PSO,Victor Indoor Percussion Ensemble,73.7,21.0,22.5,15.2,15.0
 2020,6,PSO,Victor Indoor Percussion Ensemble,72.951,21.0,22.35,14.7,14.9

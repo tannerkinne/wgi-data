@@ -14,6 +14,8 @@ from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 
 
+
+
 def wgi_recap_links(url):
 
 #This will open a browser window and scrape the recap links from the WGI percussion scores page.
@@ -38,6 +40,9 @@ def wgi_recap_links(url):
     except Exception as e:
         print(e)
         return []
+
+
+
 
 def crawler(start_url):
     driver = webdriver.Chrome()
@@ -101,12 +106,19 @@ def crawler(start_url):
     driver.quit()
     return recap_links
 
+
+
+
+
 def resolve_url(url):
     try:
         response = requests.head(url, allow_redirects=True, timeout=5)
         return response.url
     except:
         return url
+
+
+
 
 def mouse_finder(url):
 
@@ -120,7 +132,8 @@ def mouse_finder(url):
 
     recap_links = []
 
-    menu_button = driver.find_element(By.ID, 'cs-org-scores-menu-viewEvents')
+    menu_button = driver.find_element(By.ID, 'cs-org-scores-menu-viewSeasons')
+    event_button = driver.find_element(By.ID, 'cs-org-scores-menu-viewEvents')
 
     actions.move_to_element(menu_button).click().perform()
 
@@ -129,14 +142,17 @@ def mouse_finder(url):
     years_area = driver.find_element(By.ID, 'cs-org-scores-area')
     years = years_area.find_elements(By.CLASS_NAME, 'event')
 
-    for year in years:
-        actions.click(year).perform()
+    for i in range(len(years)):
+        years = years_area.find_elements(By.CLASS_NAME, 'event')
+        actions.click(years[i]).perform()
+        time.sleep(1)
 
         event_area = driver.find_element(By.ID, 'cs-org-scores-area')
         events = event_area.find_elements(By.CLASS_NAME, 'event')
 
-        for event in events:
-            actions.click(event).perform()
+        for j in range(len(events)):
+            events = event_area.find_elements(By.CLASS_NAME, 'event')
+            actions.click(events[j]).perform()
 
             time.sleep(1)
 
@@ -145,7 +161,7 @@ def mouse_finder(url):
                 if link.get_attribute('href') and 'recaps.competitionsuite.com' in link.get_attribute('href'):
                     recap_links.append(link.get_attribute('href'))
 
-            actions.click(menu_button).perform()
+            actions.click(event_button).perform()
             time.sleep(1)
 
         actions.click(menu_button).perform()
@@ -153,6 +169,8 @@ def mouse_finder(url):
 
     driver.quit()
     return recap_links
+
+
 
 
 
@@ -226,6 +244,9 @@ def get_iframe_links(url):
 
     driver.quit()
     return recap_links
+
+
+
 
 
 
@@ -352,6 +373,7 @@ def get_recap_data(recap_links):
 
 
 
+
 def get_week(df):
 
     # This function takes a date in the format of [month, day] and calculates
@@ -393,20 +415,8 @@ def get_week(df):
 
 
 
-    # base = {"January": 1, "February": 2, "March": 3, "April": 4}
-    #
-    # d = date(int(new_date[2]), base[new_date[0]], int(new_date[1])).isocalendar().week
-    # start = date(int(start_date[2]), base[start_date[0]], int(start_date[1])).isocalendar().week
-    # return d - start
 
 
-    # day = base[date[0]] + int(date[1])
-    #
-    # day_rounded = round(day / 7) * 7
-    #
-    # week = day_rounded // 7 - 6
-    #
-    # return week
 
 
 if __name__ == "__main__":

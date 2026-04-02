@@ -79,6 +79,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,11,PSA,Dakota High School,81.15,23.7,16.9,24.3,16.25
 2022,8,PSA,Dassel-Cokato HS,77.451,24.15,16.0,22.1,15.2
 2022,3,PSA,Dawson Bryant HS,70.1,19.8,13.5,23.6,13.2
+2022,5,PSA,DeKalb Winter Percussion,73.85,23.25,13.8,22.3,14.5
+2022,6,PSA,DeKalb Winter Percussion,75.1,23.1,14.5,22.8,14.7
+2022,8,PSA,DeKalb Winter Percussion,79.976,24.975,16.6,23.5,14.9
+2022,10,PSA,DeKalb Winter Percussion,80.1,23.55,15.725,25.725,15.1
 2022,5,PSA,Dennis-Yarmouth HS,70.051,20.25,12.6,24.3,12.9
 2022,7,PSA,Desoto Central HS,81.8,25.2,17.0,23.5,16.1
 2022,3,PSA,Dixie Heights,73.1,21.6,21.0,15.7,14.8
@@ -110,6 +114,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,East Syracuse Minoa,81.4,23.9,24.3,16.8,16.4
 2022,10,PSA,East Syracuse Minoa,83.25,23.6,26.1,16.5,17.05
 2022,5,PSA,Eastridge HS,68.0,20.4,13.3,19.9,14.4
+2022,3,PSA,Edgewood High School,71.2,21.9,13.5,22.3,13.5
+2022,4,PSA,Edgewood High School,72.95,21.3,14.9,22.55,14.2
+2022,6,PSA,Edgewood High School,80.725,23.925,15.9,24.0,16.9
+2022,7,PSA,Edgewood High School,77.501,22.5,14.5,23.9,16.6
+2022,8,PSA,Edgewood High School,84.126,25.575,17.1,24.425,17.025
+2022,10,PSA,Edgewood High School,90.813,26.812,17.95,28.05,18.0
 2022,6,PSA,Edinburg North HS,69.801,19.2,14.8,21.7,14.1
 2022,8,PSA,Edison HS,74.3,22.4,22.05,15.5,14.35
 2022,9,PSA,Edison HS,70.3,19.8,12.8,24.0,13.7
@@ -126,6 +136,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,Francis Howell Combined Schools,82.901,25.2,18.6,22.4,16.7
 2022,6,PSA,Franklin Community HS,77.7,24.3,15.2,23.7,14.5
 2022,13,PSA,Franklin Community HS,94.263,28.462,18.875,27.775,19.15
+2022,3,PSA,Franklin Community Indoor Percussion,70.825,21.525,15.5,19.5,14.3
+2022,5,PSA,Franklin Community Indoor Percussion,77.8,23.7,14.6,24.2,15.3
+2022,6,PSA,Franklin Community Indoor Percussion,79.55,23.85,14.6,24.7,16.4
+2022,7,PSA,Franklin Community Indoor Percussion,85.5,25.8,17.0,24.8,17.9
+2022,8,PSA,Franklin Community Indoor Percussion,87.225,26.55,17.4,25.975,17.3
+2022,10,PSA,Franklin Community Indoor Percussion,88.076,26.4,17.675,26.275,17.725
 2022,8,PSA,Fruitland HS,72.9,21.3,14.2,22.6,14.8
 2022,7,PSA,Gilbert HS,78.0,24.0,15.2,23.0,15.8
 2022,9,PSA,Gilbert HS,84.601,23.4,16.5,27.2,17.5
@@ -143,9 +159,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,6,PSA,Green Level HS,74.35,21.75,15.5,22.8,14.3
 2022,8,PSA,Green Level HS,73.75,22.65,14.4,22.7,14.0
 2022,6,PSA,Greenwood HS,66.25,20.85,12.9,18.1,14.4
+2022,7,PSA,Greenwood Indoor Percussion,78.551,22.35,14.6,24.4,17.2
+2022,8,PSA,Greenwood Indoor Percussion,77.3,23.025,15.425,23.0,15.85
+2022,10,PSA,Greenwood Indoor Percussion,78.875,23.025,15.95,23.75,16.15
 2022,7,PSA,Gulf Breeze HS,73.7,21.0,16.2,22.0,14.5
 2022,7,PSA,Gulfport HS,78.226,23.025,16.9,22.5,15.8
 2022,6,PSA,Hamilton Southeastern HS,75.851,24.15,14.7,22.4,14.6
+2022,4,PSA,Hamilton Southeastern High School,74.95,23.25,15.6,21.4,14.7
+2022,6,PSA,Hamilton Southeastern High School,77.975,23.475,14.8,24.3,15.4
+2022,8,PSA,Hamilton Southeastern High School,86.138,26.587,17.75,25.1,16.7
+2022,10,PSA,Hamilton Southeastern High School,86.401,25.875,17.15,26.6,16.775
 2022,7,PSA,Harrison Central HS,78.451,24.45,15.9,22.7,15.4
 2022,6,PSA,Harrison HS,75.101,23.55,15.1,21.9,14.55
 2022,5,PSA,Hempfield HS,74.1,21.3,15.0,22.5,15.3
@@ -208,6 +231,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,Kings HS,81.776,24.975,16.4,24.15,16.25
 2022,6,PSA,Klein Collins HS,82.05,24.45,16.2,25.3,16.1
 2022,3,PSA,Lake Central HS,72.6,22.2,15.5,20.2,14.7
+2022,5,PSA,Lake Central High School,72.95,21.45,13.7,23.6,14.2
+2022,6,PSA,Lake Central High School,78.25,23.55,15.6,23.7,15.4
+2022,8,PSA,Lake Central High School,80.201,24.975,15.325,23.7,16.2
+2022,10,PSA,Lake Central High School,82.951,24.6,16.55,25.55,16.25
 2022,6,PSA,Lake Hamilton HS Indoor Percussion,77.2,21.6,16.1,23.5,16.0
 2022,10,PSA,Lake Hamilton HS Indoor Percussion,87.65,27.45,16.9,26.3,17.0
 2022,6,PSA,Lakeway Christian Academy,64.85,18.6,14.7,19.0,12.55
@@ -230,6 +257,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,10,PSA,Marple Newtown,71.6,20.5,21.0,15.2,14.9
 2022,11,PSA,Marple Newtown,78.0,23.2,24.9,14.9,15.0
 2022,9,PSA,Mars Area HS,87.6,26.4,17.9,24.8,18.5
+2022,3,PSA,Martinsville Indoor Percussion,67.75,20.25,14.3,19.8,13.4
+2022,4,PSA,Martinsville Indoor Percussion,72.326,21.525,14.0,23.4,13.4
+2022,5,PSA,Martinsville Indoor Percussion,74.8,22.5,14.3,22.6,15.4
+2022,6,PSA,Martinsville Indoor Percussion,73.4,22.2,14.0,22.3,14.9
+2022,7,PSA,Martinsville Indoor Percussion,76.676,22.275,15.4,22.5,16.5
+2022,8,PSA,Martinsville Indoor Percussion,79.238,24.788,15.8,24.3,14.35
+2022,10,PSA,Martinsville Indoor Percussion,80.375,24.825,15.7,25.0,14.85
+2022,6,PSA,Mater Dei Winter Percussion,70.401,21.3,14.3,20.6,14.2
+2022,7,PSA,Mater Dei Winter Percussion,67.8,19.2,13.5,20.8,14.3
+2022,8,PSA,Mater Dei Winter Percussion,75.175,23.25,14.6,21.35,15.975
 2022,6,PSA,Mauldin HS,78.35,24.75,15.5,23.6,14.5
 2022,8,PSA,Meade County HS,74.6,21.8,21.0,15.8,16.0
 2022,9,PSA,Merced HS,82.551,23.55,16.8,25.0,17.2
@@ -239,6 +276,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,4,PSA,Millikan HS,74.0,23.4,15.3,20.1,15.2
 2022,12,PSA,Millikan HS,89.376,27.75,16.9,27.375,17.35
 2022,3,PSA,Minooka Community HS,66.8,21.3,12.9,19.1,13.5
+2022,7,PSA,Minooka community high school,72.7,21.9,13.0,23.2,14.6
 2022,12,PSA,Mira Costa HS,85.989,26.363,16.925,25.3,17.4
 2022,5,PSA,Mohonasen,63.151,18.2,20.25,12.3,12.4
 2022,8,PSA,Mohonasen,71.65,19.9,23.55,14.5,13.7
@@ -255,8 +293,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,New Hartford,83.45,24.8,25.65,17.1,15.9
 2022,10,PSA,New Hartford,87.4,25.3,27.0,17.4,17.7
 2022,5,PSA,New Milford HS,70.376,21.075,14.4,21.2,13.7
+2022,3,PSA,New Palestine Audio Theater,67.35,21.45,13.1,19.3,13.5
+2022,4,PSA,New Palestine Audio Theater,63.2,17.7,13.0,19.7,12.8
+2022,7,PSA,New Palestine Audio Theater,71.25,19.95,14.7,22.1,14.5
+2022,8,PSA,New Palestine Audio Theater,75.875,23.325,15.35,22.1,15.1
+2022,10,PSA,New Palestine Audio Theater,78.575,23.025,16.9,23.55,15.1
 2022,7,PSA,Ninety Six HS,84.8,24.9,17.2,25.1,17.6
 2022,6,PSA,Noblesville HS,80.1,24.6,15.7,23.8,16.0
+2022,3,PSA,Noblesville Indoor Percussion Ensemble,73.0,22.2,14.9,21.1,14.8
+2022,4,PSA,Noblesville Indoor Percussion Ensemble,74.05,22.65,14.2,22.1,15.1
+2022,7,PSA,Noblesville Indoor Percussion Ensemble,84.9,26.1,16.9,25.7,16.2
+2022,8,PSA,Noblesville Indoor Percussion Ensemble,87.313,27.038,17.475,26.35,16.45
+2022,10,PSA,Noblesville Indoor Percussion Ensemble,89.2,27.225,17.95,27.475,16.55
 2022,9,PSA,North Allegheny HS,90.25,28.35,18.8,25.3,17.8
 2022,8,PSA,North Forsyth HS,77.65,23.85,14.9,23.7,15.2
 2022,3,PSA,North Harrison HS,70.55,21.0,19.65,15.1,14.8
@@ -271,6 +319,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,North Penn HS,79.05,24.75,16.5,23.2,14.6
 2022,6,PSA,Northeastern HS,66.75,20.25,13.2,18.6,14.7
 2022,6,PSA,Northview HS,71.1,21.45,15.5,19.05,15.1
+2022,3,PSA,Northview Indoor Percussion,69.75,21.15,14.2,21.0,13.4
+2022,4,PSA,Northview Indoor Percussion,70.276,21.675,13.5,21.5,13.6
+2022,5,PSA,Northview Indoor Percussion,76.3,21.0,15.3,23.9,16.1
+2022,7,PSA,Northview Indoor Percussion,82.9,25.5,16.4,23.5,17.5
+2022,8,PSA,Northview Indoor Percussion,82.864,25.087,17.6,24.075,16.1
+2022,10,PSA,Northview Indoor Percussion,88.2,25.425,18.8,26.275,17.7
 2022,5,PSA,Nutley HS,76.7,23.1,15.5,22.8,15.3
 2022,9,PSA,Nutley HS,80.276,23.925,14.75,24.1,17.5
 2022,7,PSA,Oak Grove HS (MS),79.95,23.25,16.2,24.0,16.5
@@ -315,6 +369,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,9,PSA,Perkiomen Valley HS,79.475,22.275,14.4,25.4,17.4
 2022,7,PSA,Perry HS,71.851,21.45,13.6,22.6,14.2
 2022,6,PSA,Perry Meridian HS,76.05,23.55,15.5,21.6,15.4
+2022,3,PSA,Perry Meridian Indoor Percussion,70.45,22.35,14.7,20.4,13.0
+2022,4,PSA,Perry Meridian Indoor Percussion,72.625,22.725,14.8,21.8,13.3
+2022,7,PSA,Perry Meridian Indoor Percussion,87.65,27.45,16.7,25.3,18.2
+2022,8,PSA,Perry Meridian Indoor Percussion,85.576,25.95,17.25,25.45,16.925
+2022,10,PSA,Perry Meridian Indoor Percussion,87.664,25.988,17.825,26.775,17.075
 2022,2,PSA,Phoenix Indoor Percussion,65.701,18.4,21.6,12.6,13.1
 2022,3,PSA,Phoenix Indoor Percussion,68.9,20.4,22.5,12.9,13.1
 2022,4,PSA,Phoenix Indoor Percussion,71.7,22.1,23.4,13.0,13.2
@@ -328,6 +387,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,10,PSA,Phoenixville,72.3,21.6,21.6,14.6,14.5
 2022,11,PSA,Phoenixville,80.7,24.2,24.3,16.1,16.1
 2022,9,PSA,Phoenixville Area HS,74.1,21.9,13.85,24.5,13.85
+2022,3,PSA,Pike Indoor Percussion,65.951,19.35,13.5,19.2,13.9
+2022,5,PSA,Pike Indoor Percussion,67.4,21.0,12.9,20.0,13.5
+2022,7,PSA,Pike Indoor Percussion,65.65,19.65,12.1,20.6,13.3
+2022,8,PSA,Pike Indoor Percussion,69.275,21.375,13.2,20.95,13.75
 2022,3,PSA,Plainfield Central HS,67.25,20.55,13.4,19.2,14.1
 2022,6,PSA,Powhatan MS,57.751,17.25,10.3,19.2,11.0
 2022,8,PSA,Quakertown,79.9,23.9,25.05,15.2,15.75
@@ -379,6 +442,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,11,PSA,Southgate Winter Percussion,75.95,22.5,15.75,22.35,15.35
 2022,8,PSA,Southmoore HS,74.85,24.15,16.0,20.7,14.0
 2022,6,PSA,Southport HS,75.051,23.85,15.6,19.9,15.7
+2022,3,PSA,Southport Indoor Percussion Ensemble,64.951,20.85,13.0,18.9,12.2
+2022,4,PSA,Southport Indoor Percussion Ensemble,69.451,22.05,13.7,21.1,12.6
+2022,7,PSA,Southport Indoor Percussion Ensemble,76.101,22.8,14.0,21.7,17.6
+2022,8,PSA,Southport Indoor Percussion Ensemble,78.475,23.4,15.625,23.75,15.7
+2022,10,PSA,Southport Indoor Percussion Ensemble,80.4,24.15,16.15,24.8,15.3
 2022,4,PSA,Spring-Ford,76.3,22.3,24.3,13.8,15.9
 2022,5,PSA,Spring-Ford,78.85,22.5,24.75,15.9,15.7
 2022,6,PSA,Spring-Ford,81.55,23.9,24.9,16.4,16.35
@@ -394,6 +462,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,6,PSA,Taylor County HS,74.0,21.8,22.2,13.9,16.1
 2022,9,PSA,Taylor County HS,80.8,24.8,24.0,15.8,16.2
 2022,2,PSA,Temple City HS,71.35,20.55,13.9,22.8,14.1
+2022,5,PSA,Terre Haute South Indoor Percussion,71.4,21.9,14.3,21.1,14.1
+2022,6,PSA,Terre Haute South Indoor Percussion,70.851,21.45,13.8,22.0,13.6
+2022,7,PSA,Terre Haute South Indoor Percussion,72.6,20.7,16.1,20.5,15.3
+2022,8,PSA,Terre Haute South Indoor Percussion,75.575,23.925,14.7,22.2,14.75
 2022,9,PSA,Thomas Worthington HS,74.45,22.35,15.8,21.2,15.1
 2022,2,PSA,Thousand Oaks HS,71.7,20.4,14.0,23.5,13.8
 2022,4,PSA,Torrance HS,63.5,19.95,12.7,18.75,12.1
@@ -423,9 +495,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,8,PSA,Victor Indoor Percussion Ensemble,77.7,23.2,24.0,15.7,14.8
 2022,9,PSA,Victor Indoor Percussion Ensemble,81.05,23.6,24.75,16.6,16.1
 2022,10,PSA,Victor Indoor Percussion Ensemble,84.05,24.2,25.35,17.0,17.5
+2022,3,PSA,Vincennes Indoor Percussion,69.75,20.55,13.8,21.3,14.1
+2022,5,PSA,Vincennes Indoor Percussion,72.9,20.1,14.6,23.2,15.0
+2022,6,PSA,Vincennes Indoor Percussion,72.826,20.625,15.0,21.2,16.0
+2022,7,PSA,Vincennes Indoor Percussion,75.85,22.65,13.6,23.8,15.8
+2022,8,PSA,Vincennes Indoor Percussion,79.125,22.65,16.0,22.825,17.65
+2022,10,PSA,Vincennes Indoor Percussion,83.576,24.15,17.4,23.875,18.15
 2022,7,PSA,Walden Grove HS,79.35,24.6,15.3,24.15,15.3
 2022,9,PSA,Wapakoneta HS,73.0,23.1,15.3,20.2,14.4
 2022,7,PSA,Warren Central HS,72.2,20.1,15.2,23.4,13.5
+2022,4,PSA,Warren Central High School,65.951,19.95,12.6,20.5,12.9
+2022,6,PSA,Warren Central High School,67.651,20.55,12.6,21.5,13.0
+2022,7,PSA,Warren Central High School,70.1,22.2,12.9,19.9,15.1
+2022,8,PSA,Warren Central High School,71.8,22.95,13.35,21.3,14.2
 2022,2,PSA,Webster Percussion Theater,65.451,18.8,21.45,13.2,12.0
 2022,3,PSA,Webster Percussion Theater,68.85,21.6,21.45,13.4,12.4
 2022,4,PSA,Webster Percussion Theater,71.001,22.4,21.9,13.9,12.8
@@ -439,6 +521,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,3,PSA,West Milford High School,68.0,19.8,19.5,13.3,15.4
 2022,6,PSA,West Shore School District,78.9,23.4,16.3,23.2,16.0
 2022,6,PSA,Westfield HS,83.4,25.05,16.8,23.95,17.6
+2022,3,PSA,Westfield Indoor Percussion,65.251,18.9,13.6,18.75,14.0
+2022,4,PSA,Westfield Indoor Percussion,71.051,21.45,13.6,21.6,14.4
+2022,5,PSA,Westfield Indoor Percussion,74.95,22.05,15.3,22.0,15.6
+2022,7,PSA,Westfield Indoor Percussion,84.15,25.05,15.8,26.0,17.3
+2022,8,PSA,Westfield Indoor Percussion,87.825,26.85,17.75,26.0,17.225
+2022,10,PSA,Westfield Indoor Percussion,90.338,26.737,18.525,27.75,17.325
 2022,5,PSA,Westhill HS,68.15,19.95,13.0,21.3,13.9
 2022,9,PSA,Westhill HS,81.351,22.8,16.4,25.6,16.55
 2022,8,PSA,Westminster HS,67.95,20.4,13.1,20.85,13.6
@@ -446,4 +534,3 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,8,PSA,William S. Hart HS,74.975,22.575,15.2,21.8,15.4
 2022,5,PSA,Wiregrass Ranch HS,70.05,20.25,13.7,22.5,13.6
 2022,9,PSA,Worthington Kilbourne HS,82.451,25.95,16.6,24.3,15.6
-2022,8,PSA,,71.65,19.9,23.55,14.5,13.7

@@ -1,86 +1,19 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2017,4,PIO,5Points Percussion,84.25,24.45,17.6,25.6,16.6
-2017,3,PIO,Alchemy Percussion presented by Carolina Gold,79.45,24.15,16.3,23.5,15.5
-2017,5,PIO,Alchemy Percussion presented by Carolina Gold,84.775,24.375,17.2,26.3,16.9
-2017,5,PIO,Altitude Percussion,74.3,21.3,15.5,21.8,15.7
-2017,4,PIO,Ancient City Ensemble,82.75,25.35,16.7,23.9,16.8
-2017,3,PIO,Atlanta CV Indoor,79.25,23.85,16.6,22.8,16.0
-2017,4,PIO,Atlanta CV Indoor,77.65,22.65,15.8,23.8,15.4
-2017,6,PIO,Audio Theater,81.3,22.95,16.35,25.6,16.4
-2017,10,PIO,Audio Theater,88.625,26.325,18.35,26.6,17.35
 2017,4,PIO,Bakersfield College,82.375,24.825,15.95,24.8,16.8
-2017,6,PIO,Bakersfield College,90.338,26.212,18.4,27.675,18.05
-2017,10,PIO,Bakersfield College,91.064,27.038,18.3,27.225,18.5
-2017,4,PIO,Breakthrough Indoor Percussion,82.55,24.75,16.4,25.1,16.3
-2017,6,PIO,Breakthrough Indoor Percussion,87.35,25.875,18.05,26.45,16.975
-2017,10,PIO,Breakthrough Indoor Percussion,91.226,27.525,18.3,27.075,18.325
-2017,6,PIO,Chattanooga Independent Percussion,81.75,22.8,17.6,24.8,16.55
-2017,3,PIO,Chops Percussion Indoor,75.0,21.9,14.5,23.6,15.0
-2017,3,PIO,Civitas Independent,83.85,25.35,16.9,24.5,17.1
-2017,4,PIO,Civitas Independent,84.6,25.2,17.0,26.0,16.4
-2017,1,PIO,ConneXus Percussion,75.4,21.9,14.9,23.2,15.4
-2017,6,PIO,ConneXus Percussion,85.75,25.95,17.3,24.95,17.55
-2017,10,PIO,ConneXus Percussion,92.276,28.425,18.8,26.725,18.325
-2017,1,PIO,Elan Percussion,72.85,22.65,14.2,21.8,14.2
 2017,2,PIO,Elan Percussion,74.65,23.55,16.0,20.0,15.1
 2017,3,PIO,Elan Percussion,74.05,22.35,14.7,21.4,15.6
-2017,6,PIO,Elan Percussion,79.701,24.3,15.2,24.5,15.7
 2017,8,PIO,Elan Percussion,83.9,24.9,16.7,25.0,17.3
-2017,2,PIO,European X,75.2,23.1,14.5,22.1,15.5
-2017,0,PIO,Ferndale Independent Percussion,74.55,22.35,14.4,22.8,15.0
-2017,2,PIO,Freedom Percussion,77.45,22.35,16.4,24.0,14.7
-2017,6,PIO,Freedom Percussion,86.0,24.6,17.2,27.0,17.2
-2017,10,PIO,Freedom Percussion,94.138,28.012,18.925,28.15,19.05
-2017,3,PIO,Fusion Percussion,67.551,20.25,14.5,20.5,12.3
-2017,5,PIO,Fusion Percussion,74.7,20.4,14.5,25.2,14.6
-2017,1,PIO,INov8 Winter Percussion,76.35,23.25,15.3,22.6,15.2
-2017,4,PIO,INov8 Winter Percussion,82.65,24.0,16.85,25.4,16.4
-2017,6,PIO,Imperial Dynasty,80.8,24.0,16.5,24.2,16.1
-2017,4,PIO,Infinity 2,85.2,25.2,17.5,24.7,17.8
-2017,5,PIO,Infinity 2,89.025,26.925,17.7,26.45,17.95
-2017,10,PIO,Infinity 2,98.025,29.475,19.925,29.075,19.55
-2017,3,PIO,Liberty University Indoor Drumline,76.751,22.35,16.1,23.2,15.1
-2017,4,PIO,Matrix Open,82.35,23.25,16.7,25.5,16.9
-2017,0,PIO,Motor City Percussion,76.3,23.1,15.0,22.6,15.6
-2017,6,PIO,Motor City Percussion,81.3,23.7,16.7,24.1,16.8
-2017,3,PIO,NorCal Indoor,73.6,21.6,14.5,22.9,14.6
+2017,2,PIO,INov8 Winter Percussion,78.3,22.8,17.5,22.5,15.5
+2017,5,PIO,INov8 Winter Percussion,83.8,25.05,16.45,26.0,16.3
 2017,3,PIO,Odyssey Indoor Percussion,78.35,22.95,16.0,23.2,16.2
 2017,5,PIO,Odyssey Indoor Percussion,81.1,25.2,15.0,24.6,16.3
-2017,6,PIO,Odyssey Indoor Percussion,84.826,24.975,16.95,26.25,16.65
 2017,8,PIO,Odyssey Indoor Percussion,86.9,25.5,17.3,26.2,17.9
 2017,9,PIO,Odyssey Indoor Percussion,88.125,26.925,17.9,26.0,17.3
-2017,6,PIO,Orange County Independent,86.9,24.9,17.3,26.6,18.1
-2017,10,PIO,Orange County Independent,93.364,28.312,19.05,26.75,19.25
-2017,3,PIO,Paradigm Percussion,75.851,22.95,15.8,22.4,14.7
-2017,5,PIO,Paradigm Percussion,80.95,24.15,16.6,24.9,15.3
 2017,3,PIO,Pennsauken,77.5,23.0,24.0,14.9,15.6
 2017,4,PIO,Pennsauken,83.2,24.5,24.6,16.9,17.2
-2017,5,PIO,Pennsauken Independent,83.025,24.225,16.5,26.2,16.1
-2017,6,PIO,Pennsauken Independent,79.0,23.7,15.6,24.1,15.6
-2017,2,PIO,Percussion Unlimited,78.25,24.15,15.4,23.0,15.7
-2017,4,PIO,Pioneer Indoor,79.8,23.7,16.2,24.0,15.9
-2017,6,PIO,Pioneer Indoor,84.05,24.75,16.75,25.7,16.85
-2017,3,PIO,Q2,73.001,22.2,13.7,21.4,15.7
-2017,4,PIO,Q2,77.15,22.35,15.5,24.4,14.9
-2017,3,PIO,Red Wave Indoor,79.65,24.15,16.0,23.8,15.7
 2017,7,PIO,Red Wave Indoor,88.85,26.4,26.85,17.8,17.8
-2017,3,PIO,Revelation,78.75,23.55,17.1,22.5,15.6
-2017,5,PIO,Rise Percussion,82.5,26.1,16.4,25.0,15.0
-2017,10,PIO,Rise Percussion,96.388,29.513,19.675,28.4,18.8
-2017,3,PIO,River City Rhythm,83.7,25.2,17.0,24.5,17.0
-2017,3,PIO,Saints Percussion,70.951,22.65,15.1,19.6,13.6
-2017,4,PIO,Saints Percussion,73.15,22.05,14.1,22.2,14.8
-2017,3,PIO,Spirit Winter Percussion,86.9,26.7,17.6,25.5,17.1
-2017,6,PIO,Spirit Winter Percussion,90.075,27.375,18.25,26.35,18.1
-2017,4,PIO,Timbre-Indoor Percussion Ensemble,71.95,20.85,14.4,23.0,13.7
-2017,5,PIO,Tri-City Percussion,67.7,19.5,13.0,20.8,14.4
-2017,3,PIO,Tyler Junior College,72.8,23.4,13.3,21.3,14.8
-2017,4,PIO,UTRGV Indoor Percussion Ensemble,74.55,21.45,14.8,24.6,13.7
-2017,4,PIO,Vegas Vanguard,85.65,26.55,17.8,24.6,16.7
-2017,6,PIO,Vegas Vanguard,88.638,26.062,18.2,26.65,17.725
 2017,3,PIO,Velocity Independent,79.4,24.3,15.9,22.6,16.6
 2017,5,PIO,Velocity Independent,75.1,21.6,14.8,23.3,15.4
-2017,6,PIO,Velocity Independent,77.201,22.2,15.0,24.7,15.3
 2017,7,PIO,Velocity Independent,80.65,24.45,16.7,23.1,16.4
 2017,8,PIO,Velocity Independent,84.45,25.05,17.1,25.6,16.7
 2017,9,PIO,Velocity Independent,82.65,23.85,16.9,25.1,16.8
@@ -89,5 +22,3 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,3,PIO,Vessel,83.45,24.45,16.9,24.6,17.5
 2017,8,PIO,Vessel,91.3,27.3,18.1,27.7,18.2
 2017,9,PIO,Vessel,91.15,27.3,18.65,27.15,18.05
-2017,4,PIO,Violet Crown Independent,81.25,23.55,16.6,25.0,16.1
-2017,4,PIO,Weber State Indoor Percussion,78.3,23.4,16.5,23.3,15.1

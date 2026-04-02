@@ -7,6 +7,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,11,PSW,Arcadia HS,92.275,27.375,18.45,28.2,18.25
 2025,12,PSW,Arcadia HS,93.076,27.975,18.125,28.225,18.75
 2025,12,PSW,Avon HS,94.988,28.012,19.25,28.95,18.775
+2025,4,PSW,Avon High School,81.5,24.3,16.4,24.5,16.3
+2025,8,PSW,Avon High School,91.4,27.0,19.0,26.7,18.7
+2025,9,PSW,Avon High School,92.0,27.3,18.45,27.45,18.8
+2025,10,PSW,Avon High School,93.625,28.125,19.1,28.15,18.25
 2025,6,PSW,Ayala HS,89.75,26.85,17.9,26.8,18.2
 2025,7,PSW,Ayala HS,91.6,27.6,18.6,27.1,18.3
 2025,9,PSW,Ayala HS,93.975,28.725,19.15,27.4,18.7
@@ -18,8 +22,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,12,PSW,Bridgeland HS,97.163,29.062,19.55,28.85,19.7
 2025,6,PSW,Broken Arrow HS,81.45,24.75,16.2,24.8,15.7
 2025,6,PSW,Brownsburg HS,77.55,24.15,14.8,24.4,14.2
+2025,4,PSW,Brownsburg High School Winter Percussion,75.65,22.95,15.2,22.4,15.1
+2025,8,PSW,Brownsburg High School Winter Percussion,82.45,25.05,17.0,23.8,16.6
+2025,9,PSW,Brownsburg High School Winter Percussion,84.925,25.575,16.95,25.7,16.7
+2025,10,PSW,Brownsburg High School Winter Percussion,86.825,26.175,17.1,27.0,16.55
 2025,9,PSW,Burleson Centennial HS,90.55,27.15,18.0,26.8,18.6
 2025,12,PSW,Burleson Centennial HS,94.725,28.425,19.05,27.8,19.45
+2025,4,PSW,Center Grove High School,78.15,23.85,15.7,23.0,15.6
+2025,7,PSW,Center Grove High School,84.5,25.2,17.1,25.3,16.9
+2025,8,PSW,Center Grove High School,87.95,26.55,17.7,26.0,17.7
+2025,9,PSW,Center Grove High School,88.375,26.475,17.8,26.5,17.6
+2025,10,PSW,Center Grove High School,90.475,27.225,18.45,27.45,17.35
 2025,5,PSW,Chino Hills HS,87.275,25.875,17.8,25.8,17.8
 2025,6,PSW,Chino Hills HS,89.0,26.7,17.6,26.9,17.8
 2025,9,PSW,Chino Hills HS,93.3,28.05,18.85,27.85,18.55
@@ -45,6 +58,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,9,PSW,Fair Lawn HS,83.625,25.575,16.85,24.95,16.25
 2025,9,PSW,Foothill HS (NV),82.051,25.35,16.8,24.3,15.6
 2025,6,PSW,Franklin Central HS,79.45,23.85,16.0,24.7,14.9
+2025,4,PSW,Franklin Central Percussion Symphony,75.85,22.65,14.9,23.5,14.8
+2025,8,PSW,Franklin Central Percussion Symphony,81.7,24.9,16.6,23.9,16.3
+2025,9,PSW,Franklin Central Percussion Symphony,84.9,25.2,17.15,25.6,16.95
+2025,10,PSW,Franklin Central Percussion Symphony,84.925,26.025,16.55,26.05,16.3
 2025,9,PSW,Gahr HS,83.926,25.875,16.5,26.1,15.45
 2025,10,PSW,Gahr HS,85.851,26.1,16.7,26.55,16.5
 2025,11,PSW,Gahr HS,86.526,26.1,17.05,27.225,16.15

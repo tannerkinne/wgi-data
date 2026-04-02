@@ -7,6 +7,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,13,PSW,Arcadia HS,95.9,29.025,19.1,28.775,19.0
 2022,6,PSW,Avon HS,86.85,25.95,18.0,25.8,17.1
 2022,13,PSW,Avon HS,98.6,29.85,19.825,29.275,19.65
+2022,3,PSW,Avon High School,80.3,23.7,16.5,23.9,16.2
+2022,5,PSW,Avon High School,83.55,25.35,16.9,25.0,16.3
+2022,7,PSW,Avon High School,90.9,27.9,18.1,26.8,18.1
+2022,8,PSW,Avon High School,91.188,26.737,18.65,27.75,18.05
+2022,10,PSW,Avon High School,93.0,27.45,19.0,27.9,18.65
 2022,4,PSW,Ayala HS,75.7,24.0,15.4,21.1,15.2
 2022,6,PSW,Ayala HS,85.1,25.2,17.8,25.0,17.1
 2022,7,PSW,Ayala HS,82.75,25.05,17.1,23.5,17.1
@@ -18,6 +23,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,8,PSW,Carroll HS,80.45,24.45,15.5,24.2,16.3
 2022,6,PSW,Center Grove HS,81.35,24.15,16.5,24.3,16.4
 2022,13,PSW,Center Grove HS,88.813,26.587,17.45,26.95,17.825
+2022,5,PSW,Center Grove High School,76.5,22.5,15.5,23.2,15.3
+2022,7,PSW,Center Grove High School,84.7,25.8,16.4,24.8,17.7
+2022,8,PSW,Center Grove High School,84.025,24.675,16.95,25.65,16.75
+2022,10,PSW,Center Grove High School,83.025,24.675,17.05,24.6,16.7
 2022,9,PSW,Centerville HS,89.25,26.55,18.3,26.9,17.5
 2022,3,PSW,Chino Hills HS,84.7,24.9,17.1,25.6,17.1
 2022,5,PSW,Chino Hills HS,85.9,25.5,16.4,26.4,17.6
@@ -35,8 +44,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,11,PSW,Etiwanda HS,87.351,27.75,16.3,27.1,16.2
 2022,6,PSW,Fishers HS,82.1,25.2,16.3,24.5,16.1
 2022,9,PSW,Fishers HS,89.5,26.1,18.1,27.9,17.4
+2022,4,PSW,Fishers Indoor Drumline (PSW),74.95,22.65,14.3,23.4,14.6
+2022,7,PSW,Fishers Indoor Drumline (PSW),86.65,26.55,17.2,25.4,17.5
+2022,8,PSW,Fishers Indoor Drumline (PSW),87.525,25.875,17.8,26.45,17.4
+2022,10,PSW,Fishers Indoor Drumline (PSW),90.3,26.7,18.0,27.55,18.05
 2022,6,PSW,Franklin Central HS,83.35,25.05,16.7,25.3,16.3
 2022,13,PSW,Franklin Central HS,90.225,27.15,18.1,27.4,17.575
+2022,3,PSW,Franklin Central Percussion Symphony,75.65,22.65,15.5,22.7,14.8
+2022,5,PSW,Franklin Central Percussion Symphony,78.05,22.05,16.6,23.2,16.2
+2022,8,PSW,Franklin Central Percussion Symphony,86.5,25.65,17.45,26.45,16.95
+2022,10,PSW,Franklin Central Percussion Symphony,86.1,25.2,17.75,25.85,17.3
 2022,9,PSW,Homestead HS,87.876,25.575,17.4,27.3,17.6
 2022,13,PSW,Homestead HS,89.325,27.375,17.5,26.35,18.1
 2022,8,PSW,Lambert HS,85.15,26.25,16.7,25.3,16.9

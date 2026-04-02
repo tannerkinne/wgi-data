@@ -1,29 +1,17 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2017,4,PIO,5Points Percussion,84.25,24.45,17.6,25.6,16.6
-2017,10,R1,5Points Percussion,90.35,27.075,17.875,27.4,18.0
 2017,0,PSA,Abington,61.751,18.3,20.25,12.0,11.2
 2017,1,PSA,Abington,64.85,20.5,19.95,12.4,12.0
 2017,4,PSA,Abington,71.1,23.0,20.7,13.3,14.1
 2017,7,PSA,Abington,76.7,24.2,24.0,14.5,14.0
 2017,8,PSA,Abington,79.55,23.8,23.85,15.9,16.0
-2017,3,PSA,Abington HS,69.95,21.45,13.2,22.8,12.5
-2017,6,PSA,Abington HS,75.8,22.95,14.5,23.55,14.8
-2017,5,PSA,Acadiana HS,82.476,24.75,16.85,24.2,16.675
-2017,10,R1,Acadiana HS,83.15,25.2,15.95,26.05,15.95
-2017,2,PIA,Advendo Percussion Ensemble,72.45,22.35,13.6,22.7,13.8
 2017,1,PIA,Aftermath,70.65,20.2,21.75,14.2,14.5
 2017,3,PIA,Aftermath,76.2,22.9,24.3,14.0,15.0
 2017,5,PIA,Aftermath,83.1,24.6,24.9,16.8,16.8
 2017,7,PIA,Aftermath,84.4,25.2,24.9,17.4,16.9
 2017,8,PIA,Aftermath,86.8,25.4,25.5,17.7,18.2
-2017,6,PIA,Aftermath Percussion,81.3,24.3,16.6,24.0,16.4
-2017,10,PIA,Aftermath Percussion,90.701,27.9,17.75,27.05,18.0
 2017,5,PSA,Albany Indoor Percussion,70.101,21.0,20.7,13.6,14.8
 2017,6,PSA,Albany Indoor Percussion,67.601,19.7,20.4,13.6,13.9
 2017,7,PSA,Albany Indoor Percussion,75.001,23.4,21.6,14.6,15.4
-2017,3,PIO,Alchemy Percussion presented by Carolina Gold,79.45,24.15,16.3,23.5,15.5
-2017,5,PIO,Alchemy Percussion presented by Carolina Gold,84.775,24.375,17.2,26.3,16.9
-2017,10,R2,Alchemy Percussion presented by Carolina Gold,89.375,26.475,18.6,27.05,17.25
 2017,0,PSA,Aliso Niguel HS,75.05,22.8,14.15,22.6,15.5
 2017,2,PSA,Aliso Niguel HS,77.325,24.825,15.2,22.85,14.45
 2017,4,PSA,Aliso Niguel HS,75.936,22.575,15.81,22.7,14.85
@@ -31,133 +19,92 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,8,R3,Aliso Niguel HS,87.9,26.7,17.0,26.5,17.7
 2017,9,PSA,Aliso Niguel HS,86.775,25.275,17.55,27.0,16.95
 2017,5,PJHSA,Alta Sierra JHS Percussion,75.6,20.8,25.2,15.6,14.0
-2017,5,PIO,Altitude Percussion,74.3,21.3,15.5,21.8,15.7
-2017,10,R4,Altitude Percussion,82.476,25.275,16.5,24.7,16.0
 2017,-1,PSJ,Alvarado IS,67.3,19.8,12.6,21.0,13.9
 2017,3,PSJ,Alvarado IS,66.4,18.6,13.1,21.4,13.3
 2017,5,PSJ,Alvarado IS,82.1,25.5,16.3,23.7,16.6
 2017,8,PSJ,Alvarado IS,89.838,28.163,17.475,25.95,18.25
-2017,1,PSA,Amador Valley HS,82.5,24.3,15.8,25.9,16.5
-2017,6,PSA,Amador Valley HS,87.575,26.325,17.0,27.4,16.85
-2017,4,PIO,Ancient City Ensemble,82.75,25.35,16.7,23.9,16.8
-2017,10,R1,Ancient City Ensemble,85.676,26.325,16.65,25.75,16.95
-2017,4,PSA,Arbor View HS,77.501,23.7,15.7,23.1,15.0
-2017,6,PSA,Arbor View HS,71.125,20.925,14.0,21.5,14.7
 2017,-1,PSA,Arcadia HS,75.55,22.35,13.7,24.6,14.9
 2017,0,PSW,Arcadia HS,81.6,25.2,16.1,24.2,16.1
-2017,1,PSO,Arcadia HS,78.7,24.3,15.1,23.7,15.6
 2017,3,PSW,Arcadia HS,83.95,24.45,17.4,25.2,16.9
-2017,4,PSA,Arcadia HS,84.2,24.6,17.4,25.4,16.8
 2017,5,PSW,Arcadia HS,89.1,27.3,18.4,25.7,17.7
-2017,6,PSO,Arcadia HS,91.163,27.263,17.95,27.75,18.2
 2017,7,PSA,Arcadia HS,82.751,26.4,14.8,25.4,16.15
 2017,8,PSW,Arcadia HS,92.25,27.75,17.9,28.3,18.3
 2017,9,PSW,Arcadia HS,92.35,27.825,17.95,28.225,18.35
-2017,10,PSW,Arcadia HS,96.813,29.062,19.4,29.15,19.2
-2017,3,PSA,Ardrey Kell HS,79.151,23.85,15.9,23.7,15.7
 2017,2,PSA,Arroyo HS,70.55,22.5,13.1,21.5,13.45
 2017,3,R1,Arroyo HS,76.9,21.3,14.5,25.3,15.8
 2017,5,PSA,Arroyo HS,81.05,25.35,14.5,24.7,16.5
 2017,7,R1,Arroyo HS,81.7,24.3,15.2,27.0,15.2
 2017,8,R4,Arroyo HS,88.1,27.75,16.1,26.0,18.25
-2017,3,PSA,Athens Drive HS,71.66,20.85,14.61,22.4,13.8
-2017,5,PSA,Athens Drive HS,84.4,24.9,17.6,25.6,16.3
-2017,3,PIO,Atlanta CV Indoor,79.25,23.85,16.6,22.8,16.0
-2017,4,PIO,Atlanta CV Indoor,77.65,22.65,15.8,23.8,15.4
-2017,10,R2,Atlanta CV Indoor,85.876,25.05,16.65,27.725,16.45
-2017,4,PIW,Atlanta Quest,84.275,25.275,16.8,25.7,16.5
-2017,6,PIW,Atlanta Quest,85.325,25.95,17.125,25.6,16.65
-2017,10,PIW,Atlanta Quest,89.575,27.0,17.65,26.825,18.1
-2017,6,PIO,Audio Theater,81.3,22.95,16.35,25.6,16.4
-2017,10,PIO,Audio Theater,88.625,26.325,18.35,26.6,17.35
 2017,1,PSA,Avon Grove,66.4,19.8,19.8,13.1,13.7
 2017,2,PSA,Avon Grove,69.751,21.0,20.1,14.15,14.5
 2017,3,PSA,Avon Grove,68.501,20.2,19.5,14.6,14.2
-2017,4,PSW,Avon HS,86.4,25.8,17.8,25.8,17.0
-2017,10,PSW,Avon HS,95.525,28.725,19.625,28.375,18.8
+2017,1,PSW,Avon High School,79.7,24.3,15.4,24.8,15.2
+2017,2,PSW,Avon High School,84.95,25.35,17.5,26.3,15.8
+2017,5,PSW,Avon High School,87.225,26.025,17.1,26.75,17.35
+2017,7,PSW,Avon High School,89.8,27.075,18.125,26.45,18.15
+2017,9,PSW,Avon High School,93.325,28.125,19.2,27.2,18.8
+2017,0,WSW,Avon Winds,75.7,29.2,23.4,23.1,0.0
+2017,2,WSW,Avon Winds,78.95,30.2,24.9,23.85,0.0
+2017,3,WSW,Avon Winds,82.25,31.4,26.55,24.3,0.0
 2017,0,PSW,Ayala HS,81.35,25.05,14.8,24.7,16.8
 2017,2,PSW,Ayala HS,83.2,25.5,16.5,24.1,17.1
 2017,4,PSW,Ayala HS,87.0,25.65,18.4,25.6,17.35
-2017,6,PSW,Ayala HS,90.925,27.075,18.25,27.35,18.25
 2017,7,PSW,Ayala HS,92.15,28.35,18.3,27.0,18.5
 2017,8,PSW,Ayala HS,95.05,28.5,18.9,28.8,18.85
 2017,9,PSW,Ayala HS,94.025,28.2,19.0,28.1,18.725
-2017,10,PSW,Ayala HS,96.075,28.95,19.35,28.5,19.275
-2017,3,PSO,Azle HS,74.451,23.25,14.8,22.4,14.0
-2017,4,PSO,Azle HS,79.851,24.45,14.8,24.4,16.2
-2017,10,R2,BCC Drumline,90.001,27.9,17.4,27.25,17.45
 2017,4,PIO,Bakersfield College,82.375,24.825,15.95,24.8,16.8
-2017,6,PIO,Bakersfield College,90.338,26.212,18.4,27.675,18.05
-2017,10,PIO,Bakersfield College,91.064,27.038,18.3,27.225,18.5
-2017,6,PSA,Bakersfield HS,69.6,20.1,14.6,19.7,15.2
 2017,-1,PSA,Baldwin Park HS,70.951,20.85,13.3,23.0,13.8
 2017,2,PSA,Baldwin Park HS,74.951,23.7,14.2,22.15,14.9
 2017,5,PSA,Baldwin Park HS,76.151,22.65,16.3,22.8,14.4
 2017,8,R1,Baldwin Park HS,81.201,22.65,15.95,25.1,17.5
-2017,3,PSA,Baldwin-Woodville HS,68.101,20.55,13.9,20.1,13.55
-2017,10,R2,Baldwin-Woodville HS,77.95,23.925,15.3,22.5,16.225
 2017,-1,PSA,Baldwinsville indoor Percussion,64.751,18.2,20.25,12.9,13.4
 2017,0,PSA,Baldwinsville indoor Percussion,64.701,20.0,18.3,12.8,13.6
 2017,1,PSA,Baldwinsville indoor Percussion,65.35,19.3,18.75,13.7,13.6
 2017,5,PSA,Baldwinsville indoor Percussion,74.451,22.1,21.45,15.2,15.7
 2017,6,PSA,Baldwinsville indoor Percussion,72.8,21.5,20.7,15.7,14.9
 2017,7,PSA,Baldwinsville indoor Percussion,81.251,24.4,22.65,16.9,17.3
-2017,4,PSA,Basha HS,75.251,21.15,15.8,23.0,15.3
-2017,5,PSA,Bassett HS,79.576,22.575,15.6,24.9,16.5
 2017,0,PSA,Bayonne,72.55,21.5,22.65,15.5,12.9
 2017,2,PSA,Bayonne,72.051,21.8,21.6,14.4,14.25
 2017,4,PSA,Bayonne,81.625,23.45,24.525,17.8,15.85
 2017,7,PSA,Bayonne,85.401,25.7,26.1,16.8,16.8
 2017,8,PSA,Bayonne,84.451,24.95,25.2,17.8,16.5
-2017,3,PSA,Bayonne HS,75.626,25.575,14.6,22.25,13.2
-2017,6,PSA,Bayonne HS,79.975,23.775,15.45,25.1,15.65
-2017,1,PSO,Bellbrook HS,75.75,22.65,14.4,22.8,15.9
-2017,6,PSO,Bellbrook HS,84.375,25.575,16.8,25.2,16.8
-2017,10,R1,Bellbrook HS,84.775,26.4,16.6,25.525,16.25
-2017,3,PSO,Bellevue West HS,79.9,23.1,15.4,25.3,16.1
-2017,10,R2,Bellevue West HS,88.25,27.45,17.675,25.625,17.5
-2017,4,PSO,Ben Davis HS,76.051,22.35,15.8,23.1,14.8
-2017,10,R2,Ben Davis HS,83.3,25.125,17.125,24.55,16.5
+2017,0,PSA,Beech Grove Indoor Percussion Ensemble,77.65,22.35,14.3,25.1,15.9
+2017,1,PSA,Beech Grove Indoor Percussion Ensemble,71.875,22.875,14.0,20.4,14.6
+2017,2,PSA,Beech Grove Indoor Percussion Ensemble,77.5,23.7,17.1,22.0,14.7
+2017,3,PSA,Beech Grove Indoor Percussion Ensemble,80.5,25.8,16.3,23.0,15.4
+2017,4,PSA,Beech Grove Indoor Percussion Ensemble,84.15,25.95,16.5,24.5,17.2
+2017,5,R1,Beech Grove Indoor Percussion Ensemble,83.975,24.375,16.35,26.7,16.55
+2017,7,PSA,Beech Grove Indoor Percussion Ensemble,86.989,27.112,17.55,25.275,17.05
+2017,2,PSO,Ben Davis High School,77.7,23.7,16.4,22.6,15.0
+2017,4,PSO,Ben Davis High School,78.0,24.9,14.2,24.0,14.9
+2017,5,PSO,Ben Davis High School,77.976,23.475,14.8,25.05,14.65
+2017,7,PSO,Ben Davis High School,81.801,25.35,16.2,24.6,15.65
+2017,9,PSO,Ben Davis High School,85.6,25.2,17.1,25.5,17.8
 2017,2,PSA,Bensalem,66.1,21.0,19.5,12.8,12.8
 2017,3,PSA,Bensalem,68.051,21.1,21.15,12.7,13.1
 2017,4,PSA,Bensalem,73.526,21.6,20.475,16.4,15.05
 2017,7,PSA,Bensalem,76.3,22.75,22.05,16.2,15.3
 2017,8,PSA,Bensalem,77.775,22.35,22.725,16.3,16.4
-2017,5,PIW,Blue Knights,81.0,25.5,15.1,25.2,15.2
-2017,10,R1,Blue Knights,82.25,25.725,16.375,23.9,16.25
-2017,4,PSO,Bob Jones HS,82.7,24.9,16.2,25.2,16.4
-2017,10,R2,Bob Jones HS,84.5,25.2,17.15,25.55,16.6
+2017,0,PSB,Bishop Dwenger Winter Percussion,66.0,19.8,11.0,23.1,12.1
+2017,1,PSB,Bishop Dwenger Winter Percussion,60.725,19.425,11.5,16.8,13.0
+2017,2,PSB,Bishop Dwenger Winter Percussion,70.15,19.65,12.9,23.0,14.6
+2017,4,PSB,Bishop Dwenger Winter Percussion,69.0,22.2,13.15,20.5,13.15
+2017,5,PSB,Bishop Dwenger Winter Percussion,75.313,22.837,15.175,22.9,14.4
 2017,2,PSA,Bonita HS,70.95,21.45,13.8,21.6,14.1
 2017,3,R1,Bonita HS,73.351,20.25,15.2,21.9,16.0
 2017,5,PSA,Bonita HS,75.95,21.75,15.8,22.65,15.75
 2017,7,R2,Bonita HS,79.4,22.95,15.9,24.5,16.05
 2017,8,R2,Bonita HS,84.126,24.825,17.6,24.4,17.3
-2017,3,PSW,Boswell HS,76.55,22.95,16.5,22.9,14.2
-2017,10,R2,Boswell HS,84.3,23.925,17.2,26.275,16.9
-2017,5,PSA,Brandon HS,76.275,22.725,15.425,22.85,15.275
-2017,4,PIO,Breakthrough Indoor Percussion,82.55,24.75,16.4,25.1,16.3
-2017,6,PIO,Breakthrough Indoor Percussion,87.35,25.875,18.05,26.45,16.975
-2017,10,PIO,Breakthrough Indoor Percussion,91.226,27.525,18.3,27.075,18.325
-2017,3,PSW,Broken Arrow HS,76.95,22.65,16.2,23.1,15.0
-2017,10,R2,Broken Arrow HS,84.85,24.6,17.6,25.5,17.15
 2017,0,PIW,Broken City,85.5,26.25,16.6,25.3,17.35
 2017,2,PIW,Broken City,85.6,26.7,16.6,25.0,17.3
 2017,3,PIW,Broken City,87.85,26.55,17.4,26.2,17.7
-2017,6,PIW,Broken City,89.75,27.15,18.0,27.3,17.3
 2017,8,PIW,Broken City,94.05,27.75,18.8,28.7,18.8
 2017,9,PIW,Broken City,94.538,28.237,18.6,28.85,18.85
-2017,10,PIW,Broken City,97.7,29.025,19.7,29.425,19.55
-2017,3,PSO,Buchanan HS,73.025,21.975,13.2,23.05,14.8
 2017,5,PHSSO,Buchanan HS Percussion,85.0,24.55,25.35,18.3,16.8
 2017,2,PSO,Buena HS,75.4,24.45,15.1,20.7,15.15
 2017,3,PSO,Buena HS,81.15,24.45,16.3,23.0,17.4
 2017,5,PSO,Buena HS,81.5,23.85,16.8,24.15,16.7
 2017,8,R2,Buena HS,83.601,25.8,15.6,26.4,15.8
-2017,3,PSA,Buffalo HS,66.7,21.6,13.1,19.1,12.9
-2017,3,PSO,Burleson Centennial HS,83.05,25.65,16.8,25.1,15.5
-2017,10,PSO,Burleson Centennial HS,97.1,29.625,19.7,28.7,19.075
-2017,3,PSO,Burleson HS,73.501,23.1,14.6,22.3,13.5
-2017,3,PSA,Burnsville HS,84.25,25.65,16.4,25.3,16.9
 2017,2,PSO,Cab Calloway,72.05,24.2,19.95,13.4,14.5
 2017,4,PSO,Cab Calloway,80.1,24.2,23.85,15.6,16.45
 2017,5,PSO,Cab Calloway,80.25,23.1,24.45,15.8,16.9
@@ -167,8 +114,6 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,3,R2,Camarillo HS,82.05,23.25,15.6,26.4,16.8
 2017,5,R1,Camarillo HS,80.9,23.1,16.3,25.7,15.8
 2017,8,R2,Camarillo HS,86.5,27.15,16.6,26.0,16.75
-2017,4,PSA,Campo Verde HS,81.75,25.05,16.9,23.6,16.2
-2017,6,PSA,Campo Verde HS,82.501,25.5,16.8,23.7,16.5
 2017,3,PSA,Canyon HS (CC),74.95,21.15,14.9,23.2,15.7
 2017,8,R4,Canyon HS (CC),76.75,23.85,13.2,23.3,16.4
 2017,2,PSJ,Canyon Hills JHS,70.1,22.2,13.6,19.5,14.8
@@ -176,39 +121,25 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSJ,Canyon Hills JHS,84.25,25.65,16.4,25.4,16.8
 2017,7,PSJ,Canyon Hills JHS,85.2,25.5,16.9,26.3,16.5
 2017,8,PSJ,Canyon Hills JHS,93.3,28.5,18.3,27.75,18.75
-2017,4,PSA,Canyon Springs HS,69.951,21.15,14.1,20.7,14.0
-2017,6,PIW,Cap City Percussion,87.3,26.7,17.1,26.5,17.0
-2017,10,PIW,Cap City Percussion,89.688,26.888,17.825,26.7,18.275
-2017,1,PIW,Capital City Percussion,72.951,22.05,14.3,21.8,14.8
 2017,0,PSA,Carlsbad HS,71.101,22.2,13.3,22.1,13.5
 2017,2,PSA,Carlsbad HS,72.401,23.7,14.6,20.5,13.6
 2017,4,PSA,Carlsbad HS,72.925,23.025,14.45,21.6,13.85
 2017,5,PSA,Carlsbad HS,78.551,23.25,15.1,24.5,15.7
 2017,8,R3,Carlsbad HS,83.701,25.05,17.25,24.3,17.1
-2017,4,PSO,Carmel HS,81.25,24.75,16.5,24.9,15.1
-2017,3,PSO,Carroll HS,81.65,24.45,16.2,25.0,16.0
-2017,4,PSO,Carroll HS,87.7,26.4,16.8,26.8,17.7
-2017,4,PSA,Carroll HS (IN),84.2,26.55,16.2,25.55,15.9
-2017,10,R4,Carroll HS (IN),88.514,26.513,18.5,25.35,18.15
-2017,3,PSA,Carter HS,73.495,21.375,14.72,22.9,14.5
-2017,10,R4,Carter HS,82.013,23.962,16.3,25.55,16.2
-2017,5,PSA,Cary HS,81.001,23.7,16.6,25.2,15.5
-2017,4,PSO,Casa Grande HS,84.8,25.5,16.9,25.6,16.8
-2017,1,PIW,Cavaliers Indoor Percussion,78.2,23.25,15.6,24.3,15.05
-2017,4,PIW,Cavaliers Indoor Percussion,83.0,24.45,17.3,25.65,15.6
-2017,6,PIW,Cavaliers Indoor Percussion,85.313,26.137,16.95,25.275,16.95
-2017,10,R1,Cavaliers Indoor Percussion,85.976,26.025,16.8,25.75,17.4
-2017,4,PSW,Center Grove HS,83.95,25.05,17.0,25.7,16.2
-2017,10,PSW,Center Grove HS,91.864,28.013,18.45,27.8,17.6
-2017,1,PSW,Centerville HS,75.9,22.5,14.1,24.2,15.1
-2017,6,PSW,Centerville HS,87.85,25.95,17.7,26.5,17.7
-2017,10,R2,Centerville HS,87.901,25.65,17.8,26.7,17.75
-2017,1,PSA,Central Crossing HS,77.7,24.3,15.5,22.8,15.1
-2017,10,R1,Central Crossing HS,90.1,26.625,17.5,27.9,18.075
-2017,5,PSA,Central Dauphin HS,86.5,25.5,16.6,27.2,17.2
-2017,10,R4,Central Dauphin HS,90.238,26.887,17.7,27.375,18.275
-2017,3,PSO,Central HS,78.7,21.6,17.0,23.7,16.4
-2017,6,PSO,Central HS,79.15,24.0,15.55,24.05,15.55
+2017,0,PSO,Carmel High School,74.5,21.9,14.4,24.1,14.1
+2017,1,PSO,Carmel High School,76.8,23.7,14.3,24.8,14.0
+2017,2,PSO,Carmel High School,78.3,22.8,16.3,23.3,15.9
+2017,5,PSO,Carmel High School,84.575,25.8,16.15,25.275,17.35
+2017,7,PSO,Carmel High School,88.4,27.075,16.55,27.175,17.6
+2017,1,PSA,Carroll High School Indoor Percussion Ensemble,74.75,23.55,14.6,21.5,15.1
+2017,2,PSA,Carroll High School Indoor Percussion Ensemble,77.6,22.2,15.3,23.7,16.4
+2017,5,R2,Carroll High School Indoor Percussion Ensemble,85.775,25.725,16.2,27.05,16.8
+2017,7,PSA,Carroll High School Indoor Percussion Ensemble,89.725,27.3,18.2,26.275,17.95
+2017,0,PSW,Center Grove High School,72.9,19.8,14.9,24.0,14.2
+2017,3,PSW,Center Grove High School,79.7,23.7,15.7,23.9,16.4
+2017,5,PSW,Center Grove High School,85.525,26.025,16.6,26.55,16.35
+2017,7,PSW,Center Grove High School,87.65,25.8,17.55,26.7,17.6
+2017,9,PSW,Center Grove High School,92.55,28.35,18.4,27.5,18.3
 2017,-1,PSA,Central Square High School,60.701,15.9,19.2,12.7,12.9
 2017,1,PSA,Central Square High School,66.0,18.6,19.5,14.0,13.9
 2017,2,PSA,Central Square High School,68.75,21.2,20.25,13.3,14.0
@@ -221,28 +152,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,4,PSA,Cerritos HS,77.286,23.475,15.71,21.95,16.15
 2017,7,R1,Cerritos HS,79.301,24.0,14.9,25.5,14.9
 2017,8,R4,Cerritos HS,83.476,25.725,15.7,25.95,16.1
-2017,4,PSO,Cesar Chavez HS,71.65,22.65,13.0,21.4,14.6
 2017,0,PSA,Chaffey HS,72.376,21.375,13.2,23.2,14.6
-2017,1,PSA,Chaffey HS,79.7,24.0,15.3,24.6,15.8
 2017,5,R2,Chaffey HS,82.55,24.6,16.0,25.45,16.5
-2017,6,PSA,Chaffey HS,87.65,26.4,16.3,26.65,18.3
 2017,7,PSA,Chaffey HS,82.351,25.8,15.0,25.15,16.4
 2017,8,R1,Chaffey HS,84.7,24.6,17.3,25.8,17.0
-2017,6,PSO,Chantilly HS,85.738,26.288,17.45,24.65,17.35
-2017,10,R1,Chantilly HS,84.775,24.975,16.65,25.3,17.85
 2017,0,PSA,Chaparral HS,68.95,21.45,13.05,21.65,12.8
-2017,1,PSA,Chaparral HS,75.501,22.5,14.3,23.8,14.9
 2017,4,PSA,Chaparral HS,75.051,22.5,15.55,22.2,14.8
-2017,6,PSA,Chaparral HS,78.9,23.1,15.4,24.7,15.7
 2017,7,PSA,Chaparral HS,78.55,23.55,15.9,22.9,16.2
 2017,8,R3,Chaparral HS,82.901,24.15,16.0,24.75,18.0
-2017,3,PSA,Chapin HS,63.751,18.45,12.6,20.0,12.7
-2017,4,PSA,Chapin HS,72.501,21.45,14.2,22.85,14.0
-2017,3,PSO,Chattahoochee HS,66.1,20.4,12.9,19.5,13.3
-2017,4,PSO,Chattahoochee HS,70.9,20.7,15.2,21.7,13.3
-2017,10,R2,Chattahoochee HS,78.6,22.35,16.1,24.7,15.45
-2017,6,PIO,Chattanooga Independent Percussion,81.75,22.8,17.6,24.8,16.55
-2017,10,R3,Chattanooga Independent Percussion,86.826,26.025,17.4,26.45,16.95
 2017,-1,PSJ,Chavez MS,67.05,19.95,12.8,21.4,12.9
 2017,2,PSJ,Chavez MS,65.65,21.45,12.7,18.6,12.9
 2017,5,PSJ,Chavez MS,79.0,24.6,15.0,24.4,15.0
@@ -253,35 +170,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,8,R3,Chino HS,90.55,27.45,17.2,27.2,18.7
 2017,9,PSA,Chino HS,91.6,27.375,18.75,27.65,17.825
 2017,0,PSW,Chino Hills HS,84.05,25.95,15.8,25.4,16.9
-2017,1,PSW,Chino Hills HS,86.5,25.8,17.5,25.7,17.5
 2017,4,PSW,Chino Hills HS,88.47,25.95,18.42,26.3,17.8
-2017,6,PSW,Chino Hills HS,93.3,27.75,18.35,28.5,18.7
 2017,7,PSW,Chino Hills HS,94.25,28.65,18.7,28.1,18.8
 2017,8,PSW,Chino Hills HS,94.725,27.825,19.0,29.1,18.8
 2017,9,PSW,Chino Hills HS,94.7,28.35,18.4,29.1,18.85
-2017,10,PSW,Chino Hills HS,98.613,29.587,19.85,29.725,19.45
-2017,3,PSO,Chisholm Trail HS,70.451,22.95,14.0,21.2,12.3
-2017,5,PSO,Choctawhatchee HS,83.475,24.675,17.35,24.7,16.75
-2017,3,PIO,Chops Percussion Indoor,75.0,21.9,14.5,23.6,15.0
-2017,10,R2,Chops Percussion Indoor,74.95,22.8,14.55,23.25,14.35
-2017,3,PIO,Civitas Independent,83.85,25.35,16.9,24.5,17.1
-2017,4,PIO,Civitas Independent,84.6,25.2,17.0,26.0,16.4
-2017,10,R2,Civitas Independent,93.75,27.75,19.05,28.8,18.15
-2017,4,PSO,Clear Brook HS,90.25,27.15,18.1,26.7,18.3
-2017,10,PSO,Clear Brook HS,96.275,29.1,19.25,28.875,19.05
-2017,5,PSO,Clinton HS,83.775,25.2,16.875,25.4,16.3
-2017,10,R2,Clinton HS,89.776,27.375,18.3,26.15,17.95
-2017,3,PSA,Clover HS,85.7,25.2,17.2,26.7,16.6
-2017,5,PSO,Clover HS,84.25,25.05,16.8,26.2,16.2
-2017,10,R2,Clover HS,89.739,27.188,17.75,27.375,17.425
-2017,3,PSW,Clovis East HS,80.4,24.45,15.8,24.35,15.8
-2017,6,PSW,Clovis East HS,81.339,24.638,15.5,25.6,15.6
-2017,3,PSW,Clovis HS,78.65,24.15,15.4,23.8,15.3
-2017,6,PSW,Clovis HS,79.85,24.15,15.5,24.65,15.55
+2017,0,PSB,Cloverdale Indoor Percussion,56.95,16.35,12.2,15.7,12.7
+2017,1,PSB,Cloverdale Indoor Percussion,59.626,18.525,10.9,17.6,12.6
+2017,3,PSB,Cloverdale Indoor Percussion,63.45,21.75,12.7,16.1,12.9
+2017,4,PSB,Cloverdale Indoor Percussion,64.701,18.9,12.6,20.2,13.0
+2017,5,PSB,Cloverdale Indoor Percussion,63.825,18.525,13.4,19.6,12.3
 2017,9,PSW,Clovis HS,82.826,24.975,16.1,25.5,16.25
-2017,3,PSW,Clovis North Educational Center,76.6,24.3,14.9,23.6,13.8
-2017,3,PSO,Clovis West HS,81.4,24.6,16.4,24.3,16.1
-2017,6,PSO,Clovis West HS,85.576,25.125,16.85,26.0,17.6
 2017,0,PSA,Coatesville,65.65,19.0,21.15,12.5,13.0
 2017,1,PSA,Coatesville,63.651,19.0,18.15,13.2,13.3
 2017,2,PSA,Coatesville,65.75,21.5,17.85,13.4,13.0
@@ -290,129 +188,107 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSA,Coatesville,72.751,19.5,22.05,16.5,14.7
 2017,7,PSA,Coatesville,71.9,22.9,21.6,14.1,13.3
 2017,8,PSA,Coatesville,75.9,22.3,23.1,15.5,15.0
-2017,1,PSA,Colerain HS,72.05,22.95,14.4,20.1,14.6
-2017,6,PSA,Colerain HS,86.85,25.725,17.325,26.25,17.55
-2017,10,R1,Colerain HS,88.55,26.25,17.8,27.6,16.9
-2017,3,PSO,Collins Hill HS,74.65,22.35,13.9,23.3,15.1
-2017,4,PSO,Collins Hill HS,77.9,25.2,14.8,22.7,15.2
 2017,2,PSA,Colony HS,67.625,22.125,12.1,20.35,13.05
 2017,5,PSA,Colony HS,78.8,24.6,15.6,22.5,16.1
 2017,7,R1,Colony HS,79.751,23.25,16.0,24.5,16.0
 2017,8,R4,Colony HS,79.926,23.625,13.9,25.6,16.8
-2017,6,PSA,Columbia HS,70.2,21.0,13.9,21.7,13.6
-2017,3,PSA,Columbus HS,75.951,23.55,15.3,23.6,13.5
-2017,1,PIO,ConneXus Percussion,75.4,21.9,14.9,23.2,15.4
-2017,6,PIO,ConneXus Percussion,85.75,25.95,17.3,24.95,17.55
-2017,10,PIO,ConneXus Percussion,92.276,28.425,18.8,26.725,18.325
 2017,3,PIA,Cornell Indoor Drumline,65.75,20.3,21.45,12.2,11.8
 2017,5,PIA,Cornell Indoor Drumline,70.9,21.0,22.2,13.4,14.3
 2017,7,PIA,Cornell Indoor Drumline,78.5,24.6,24.3,14.2,15.4
 2017,0,PIA,Cornerstone Percussion,67.25,21.15,12.7,20.2,13.2
-2017,1,PIA,Cornerstone Percussion,68.95,21.15,14.0,19.7,14.1
 2017,4,PIA,Cornerstone Percussion,75.375,22.425,14.95,22.6,15.4
-2017,6,PIA,Cornerstone Percussion,78.225,24.225,15.45,22.85,15.7
 2017,8,PIA,Cornerstone Percussion,80.75,25.65,15.4,23.1,16.6
 2017,9,PIA,Cornerstone Percussion,77.75,22.95,15.5,23.4,15.9
-2017,4,PSA,Countryside HS,74.65,23.25,15.1,21.4,14.9
-2017,3,PSA,Cranston HS East,71.6,23.1,13.7,22.0,12.8
-2017,5,PSA,Croatan HS,73.45,19.95,16.2,22.2,15.1
-2017,4,PIA,Crystal Lake Thunder,75.25,23.55,15.0,22.4,14.3
-2017,10,R2,Crystal Lake Thunder,78.1,24.0,15.525,23.5,15.075
-2017,4,PSO,Cy-Fair HS,85.25,24.75,16.9,26.0,17.6
-2017,4,PSO,Cypress Bay HS,78.55,24.9,15.25,22.6,15.8
+2017,1,PSB,Crawfordsville High School,64.6,21.45,12.05,17.9,13.2
+2017,2,PSB,Crawfordsville High School,63.001,19.5,12.2,17.9,13.4
+2017,4,PSB,Crawfordsville High School,72.3,22.35,14.4,22.1,13.45
+2017,5,PSB,Crawfordsville High School,70.625,21.675,14.325,20.875,13.75
 2017,2,PSA,Cypress HS,69.975,22.425,12.9,20.1,14.55
 2017,3,R1,Cypress HS,73.451,20.55,13.7,24.4,14.8
 2017,5,R1,Cypress HS,77.401,22.8,15.5,24.2,14.9
 2017,7,PSA,Cypress HS,84.1,26.1,16.3,26.5,15.2
 2017,8,R2,Cypress HS,85.425,26.925,16.0,25.3,17.2
+2017,0,PSB,Danville High School Indoor Percussion Ensemble,59.901,18.6,10.7,18.7,11.9
+2017,1,PSB,Danville High School Indoor Percussion Ensemble,57.551,18.75,10.3,16.9,11.6
+2017,2,PSB,Danville High School Indoor Percussion Ensemble,62.701,18.6,12.8,18.6,12.7
+2017,4,PSB,Danville High School Indoor Percussion Ensemble,67.151,21.45,12.7,20.4,12.6
+2017,5,PSB,Danville High School Indoor Percussion Ensemble,67.7,19.65,13.4,21.7,12.95
 2017,-1,PIW,Dark Sky Percussion,70.7,21.6,13.3,21.5,14.3
 2017,3,PIW,Dark Sky Percussion,79.9,24.3,15.9,24.5,15.2
-2017,6,PIW,Dark Sky Percussion,83.85,25.65,16.7,25.6,15.9
 2017,8,PIW,Dark Sky Percussion,88.701,26.85,17.7,27.55,16.6
 2017,9,PIW,Dark Sky Percussion,87.263,25.762,17.25,27.35,16.9
-2017,10,PIW,Dark Sky Percussion,86.013,26.288,17.125,25.4,17.2
-2017,3,PSW,Dartmouth HS,87.4,26.7,17.5,26.0,17.2
-2017,10,PSW,Dartmouth HS,94.6,28.65,18.9,28.5,18.55
-2017,3,PSA,Dassel-Cokato HS,79.9,24.3,16.1,23.4,16.1
-2017,4,PSA,Daviess County Public Schools,73.95,22.2,14.3,23.85,13.6
-2017,6,PSA,Daviess County Public Schools,80.751,21.9,16.5,24.8,17.55
-2017,10,R4,Daviess County Public Schools,88.576,26.4,17.35,27.575,17.25
-2017,4,PSO,Decatur Central HS,77.65,22.95,15.2,24.1,15.4
-2017,10,R2,Decatur Central HS,84.438,25.163,17.175,25.275,16.825
+2017,2,PSA,DeKalb Winter Percussion Ensemble,76.05,23.25,15.8,21.6,15.4
+2017,3,PSA,DeKalb Winter Percussion Ensemble,76.65,24.15,15.6,21.4,15.5
+2017,4,PSA,DeKalb Winter Percussion Ensemble,76.25,24.15,13.7,23.1,15.3
+2017,5,R2,DeKalb Winter Percussion Ensemble,83.65,24.75,16.35,26.05,16.5
+2017,7,PSA,DeKalb Winter Percussion Ensemble,87.763,27.263,17.275,26.125,17.1
+2017,0,WSW,Decatur Central Indoor Winds,68.55,27.0,21.15,20.4,0.0
+2017,2,WSW,Decatur Central Indoor Winds,74.15,29.6,23.55,21.0,0.0
+2017,3,WSW,Decatur Central Indoor Winds,76.6,31.0,23.85,21.75,-0.9
+2017,9,WSW,Decatur Central Indoor Winds,82.7,33.2,24.3,25.2,0.0
+2017,0,PSO,Decatur Central Winter Percussion Ensemble,73.45,21.15,13.4,24.5,14.4
+2017,1,PSO,Decatur Central Winter Percussion Ensemble,72.0,23.1,14.5,20.8,13.6
+2017,2,PSO,Decatur Central Winter Percussion Ensemble,75.85,23.55,16.1,21.9,14.3
+2017,3,PSO,Decatur Central Winter Percussion Ensemble,76.201,25.5,15.0,20.9,14.8
+2017,4,PSO,Decatur Central Winter Percussion Ensemble,76.5,23.7,14.8,23.4,14.6
+2017,5,PSO,Decatur Central Winter Percussion Ensemble,80.126,24.0,15.0,25.125,16.0
+2017,7,PSO,Decatur Central Winter Percussion Ensemble,84.6,25.65,17.275,25.125,16.55
+2017,9,PSO,Decatur Central Winter Percussion Ensemble,84.9,25.8,17.2,24.9,17.0
 2017,0,PSA,Del Norte HS,66.6,20.4,13.25,21.05,11.9
 2017,2,PSA,Del Norte HS,71.076,23.175,13.5,21.55,12.85
 2017,4,PSA,Del Norte HS,72.325,21.975,14.25,21.9,14.2
 2017,7,R2,Del Norte HS,79.45,23.85,14.8,25.15,15.65
 2017,8,R1,Del Norte HS,85.3,25.8,16.2,26.7,16.6
-2017,4,PSA,Destrehan HS,85.6,25.8,17.4,26.0,16.4
-2017,5,PSA,Destrehan HS,84.425,24.975,17.05,25.075,17.325
 2017,0,PSW,Diamond Bar HS,74.3,23.4,14.1,22.8,14.0
-2017,4,PSW,Diamond Bar HS,86.5,26.55,17.7,25.05,17.2
 2017,5,R1,Diamond Bar HS,81.4,24.45,15.65,24.9,16.4
-2017,6,PSW,Diamond Bar HS,82.864,24.263,16.65,25.0,16.95
 2017,7,R1,Diamond Bar HS,82.7,24.6,15.8,26.1,16.2
 2017,8,PSW,Diamond Bar HS,87.701,26.4,17.2,25.9,18.2
 2017,9,PSW,Diamond Bar HS,83.376,25.425,16.05,25.6,16.3
-2017,5,PIA,Dojo Percussion,73.9,20.7,14.8,23.7,14.7
-2017,10,R1,Dojo Percussion,79.026,23.925,14.85,25.15,15.1
-2017,3,PSO,Dorman HS,78.05,23.55,14.6,24.5,15.4
-2017,4,PSO,Dorman HS,79.65,23.25,16.3,24.9,15.2
-2017,10,R1,Dorman HS,81.95,24.9,15.2,25.775,16.075
 2017,-1,PSJ,Dorothy McElhinney MS,74.05,22.95,13.7,22.8,14.6
 2017,0,PSJ,Dorothy McElhinney MS,73.25,23.25,13.4,21.9,14.7
 2017,4,PSJ,Dorothy McElhinney MS,81.05,25.2,15.55,23.4,16.9
 2017,7,PSJ,Dorothy McElhinney MS,83.45,25.05,16.6,25.8,16.0
 2017,8,PSJ,Dorothy McElhinney MS,91.013,28.163,17.85,27.05,17.95
-2017,4,PSA,Dos Pueblos HS,74.251,21.45,14.9,22.7,15.2
-2017,10,R3,Dos Pueblos HS,79.55,23.325,16.95,23.35,15.925
 2017,2,PSA,Downingtown,74.701,23.5,21.9,14.0,15.3
 2017,4,PSA,Downingtown,84.025,25.3,24.825,17.0,16.9
 2017,5,PSA,Downingtown,82.15,25.1,24.15,16.0,16.9
 2017,7,PSA,Downingtown,87.1,26.15,26.25,17.5,17.2
 2017,8,PSA,Downingtown,89.3,25.9,27.3,17.7,18.4
-2017,6,PSA,Downingtown Area School District,82.276,25.125,16.5,24.9,15.75
-2017,10,R1,Downingtown Area School District,88.176,26.475,17.525,27.025,17.15
 2017,0,PIA,Dundee Indoor Percussion,62.95,19.5,19.65,11.9,11.9
 2017,2,PIA,Dundee Indoor Percussion,65.9,22.4,18.0,12.4,13.1
 2017,5,PIA,Dundee Indoor Percussion,76.35,22.5,23.55,14.4,15.9
 2017,6,PIA,Dundee Indoor Percussion,78.1,24.6,22.8,15.2,15.5
 2017,7,PIA,Dundee Indoor Percussion,86.55,27.3,26.25,16.5,16.5
-2017,5,PSA,E.D. White HS,87.95,26.7,17.45,26.95,16.85
-2017,10,PSA,E.D. White HS,94.425,28.8,18.125,28.375,19.125
-2017,4,PSA,ED W Clark HS,74.551,22.35,15.4,21.6,15.2
-2017,3,PSA,Eagan HS,72.401,22.8,14.4,21.0,14.2
-2017,10,R2,Eagan HS,75.775,23.175,15.05,22.45,15.1
-2017,4,PSO,Eagle Pass HS,80.401,24.6,14.6,24.9,16.3
-2017,4,PSA,East Central HS,70.7,22.5,13.6,22.0,12.6
-2017,3,PIA,East Coast Percussion,70.975,23.175,12.7,22.0,13.1
-2017,6,PIA,East Coast Percussion,78.55,24.15,15.8,23.9,14.7
-2017,10,R2,East Coast Percussion,81.9,23.625,16.225,25.0,17.05
+2017,0,PSB,East Central HS,60.351,18.45,10.6,20.3,11.0
+2017,1,PSB,East Central HS,64.2,18.6,12.0,20.8,12.8
+2017,5,PSB,East Central HS,71.151,20.25,14.25,22.3,14.35
 2017,-1,PSA,East Irondequoit,68.6,19.3,21.3,14.2,13.8
 2017,0,PSA,East Irondequoit,71.2,21.8,20.7,14.2,14.5
 2017,4,PSA,East Irondequoit,77.3,22.8,23.1,15.7,15.7
 2017,5,PSA,East Irondequoit,81.3,24.1,24.0,16.5,16.7
 2017,7,PSA,East Irondequoit,86.2,25.9,25.5,17.4,17.4
-2017,3,PSA,East Irondequoit HS,73.85,22.5,15.4,22.5,13.45
+2017,0,PSA,East Noble High School Indoor Percussion Ensemble,65.95,19.65,12.5,21.2,12.6
+2017,2,PSA,East Noble High School Indoor Percussion Ensemble,69.85,19.35,13.3,21.8,15.4
+2017,3,PSA,East Noble High School Indoor Percussion Ensemble,67.701,21.9,13.5,18.9,13.4
+2017,4,PSA,East Noble High School Indoor Percussion Ensemble,70.551,22.35,13.3,20.9,14.0
+2017,5,R2,East Noble High School Indoor Percussion Ensemble,71.95,22.05,14.1,21.4,14.4
+2017,0,WSA,East Noble High School Winter Winds,79.3,33.4,19.2,26.7,0.0
+2017,2,WSA,East Noble High School Winter Winds,79.6,33.1,22.05,24.45,-1.05
+2017,3,WSA,East Noble High School Winter Winds,78.9,32.4,22.35,24.15,-0.25
 2017,1,ME,East Pennsboro,73.4,22.0,22.8,14.8,13.8
-2017,5,PSA,East Pennsboro HS,86.4,25.2,17.0,27.3,16.9
-2017,10,R4,East Pennsboro HS,85.875,25.575,16.7,25.6,18.0
 2017,-1,PSA,East Syracuse Minoa,74.8,23.1,21.9,15.0,14.8
 2017,1,PSA,East Syracuse Minoa,78.8,23.8,22.8,15.9,16.3
 2017,2,PSA,East Syracuse Minoa,79.95,24.5,24.15,15.7,15.6
 2017,3,PSA,East Syracuse Minoa,81.0,24.7,24.6,15.7,16.0
-2017,3,PSA,Eastern Regional HS,79.675,25.425,16.6,22.55,15.1
-2017,3,PSW,Eden Prairie HS,78.8,23.7,15.6,24.2,15.3
-2017,10,PSW,Eden Prairie HS,84.963,25.762,17.35,24.7,17.15
-2017,4,PSA,Edinburg HS,84.1,25.2,16.7,25.7,16.5
-2017,2,PSA,Edwardsville HS,77.8,24.3,15.6,22.6,15.3
-2017,4,PSA,Edwardsville HS,85.75,25.95,17.3,26.5,16.0
-2017,10,R1,Edwardsville HS,90.988,27.112,18.3,27.45,18.125
+2017,0,PSB,Edgewood High School,59.6,18.6,13.0,15.0,13.0
+2017,1,PSB,Edgewood High School,56.551,18.0,11.55,15.2,11.8
+2017,3,PSB,Edgewood High School,61.601,18.0,13.1,18.4,12.1
+2017,4,PSB,Edgewood High School,70.175,20.775,14.0,20.9,14.5
 2017,3,PSA,El Camino Real CHS,69.626,20.925,14.6,20.3,13.8
 2017,4,PSA,El Camino Real CHS,73.02,21.9,14.87,21.1,15.15
 2017,5,R2,El Camino Real CHS,74.251,21.0,15.9,22.3,15.05
 2017,7,PSA,El Camino Real CHS,77.875,24.075,16.0,23.1,14.7
 2017,8,R2,El Camino Real CHS,80.4,24.3,14.8,25.6,15.7
-2017,3,PSA,El Diamante HS,67.801,20.7,13.5,20.5,13.1
 2017,-1,PHSSA-G,El Diamante HS Percussion,74.05,22.4,22.95,15.3,13.4
 2017,2,PHSSA-G,El Diamante HS Percussion,76.4,24.2,22.8,15.0,14.4
 2017,4,PHSSA-G,El Diamante HS Percussion,78.55,24.8,23.55,15.3,14.9
@@ -427,185 +303,107 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,7,PSA,El Toro HS,88.0,27.0,17.8,25.7,17.5
 2017,8,R3,El Toro HS,86.35,25.65,17.5,25.4,17.8
 2017,9,PSA,El Toro HS,83.775,24.525,16.75,25.55,16.95
-2017,1,PIO,Elan Percussion,72.85,22.65,14.2,21.8,14.2
 2017,2,PIO,Elan Percussion,74.65,23.55,16.0,20.0,15.1
 2017,3,PIO,Elan Percussion,74.05,22.35,14.7,21.4,15.6
-2017,6,PIO,Elan Percussion,79.701,24.3,15.2,24.5,15.7
 2017,8,PIO,Elan Percussion,83.9,24.9,16.7,25.0,17.3
-2017,5,PIA,Elite Independent Percussion,82.6,24.9,15.4,25.3,17.0
-2017,10,R4,Elite Independent Percussion,83.651,24.6,16.1,26.55,16.4
-2017,3,PSO,Elk River HS,77.45,22.65,14.9,24.8,15.1
-2017,4,PSA,Elkhart Central HS,69.95,21.45,14.6,21.9,12.0
-2017,3,PSA,Enochs HS,83.7,25.2,16.8,25.0,16.7
-2017,6,PSA,Enochs HS,87.05,26.25,17.2,25.8,17.8
-2017,4,PIW,Equinox Percussion,80.1,23.7,16.8,23.7,15.9
-2017,6,PIW,Equinox Percussion,82.551,24.525,16.75,25.025,16.25
-2017,10,R1,Equinox Percussion,79.875,24.75,15.95,23.15,16.025
-2017,5,PIA,Eruption Indoor Percussion,74.25,23.55,13.8,22.9,14.0
-2017,5,PSO,Escambia HS,81.9,23.1,16.5,25.1,17.2
-2017,10,R2,Escambia HS,86.138,26.513,17.55,25.3,16.775
+2017,0,PSA,Elkhart Central High School,67.951,20.85,14.2,19.9,13.0
+2017,1,PSA,Elkhart Central High School,63.175,18.525,14.15,17.1,13.4
+2017,3,PSA,Elkhart Central High School,69.001,19.2,13.8,21.9,14.1
+2017,5,R1,Elkhart Central High School,72.8,22.65,14.4,21.3,14.45
+2017,0,PSA,Elkhart Memorial Winter Percussion,70.201,21.6,12.4,23.1,13.1
+2017,2,PSA,Elkhart Memorial Winter Percussion,69.425,20.625,12.5,21.3,15.0
+2017,5,R1,Elkhart Memorial Winter Percussion,74.476,22.725,13.9,23.6,14.25
 2017,-1,PSO,Etiwanda HS,74.55,22.95,14.7,22.1,14.8
-2017,1,PSO,Etiwanda HS,83.6,25.35,16.8,24.35,17.1
 2017,5,PSW,Etiwanda HS,86.1,26.7,18.1,25.0,16.3
-2017,6,PSW,Etiwanda HS,88.55,26.25,17.6,26.9,17.8
 2017,7,PSW,Etiwanda HS,87.55,26.25,17.7,26.5,17.1
 2017,8,PSW,Etiwanda HS,90.95,27.45,18.1,26.8,18.6
 2017,9,PSW,Etiwanda HS,90.325,27.075,17.7,27.75,17.8
-2017,10,PSW,Etiwanda HS,94.426,28.95,19.275,27.975,18.225
-2017,2,PIO,European X,75.2,23.1,14.5,22.1,15.5
-2017,3,PSA,Everett HS,70.3,23.4,13.0,20.3,13.6
 2017,-1,PHSSRA,Exeter Union HS Percussion,72.1,21.8,22.5,15.8,12.0
 2017,2,PHSSRA,Exeter Union HS Percussion,74.05,23.8,22.65,13.7,13.9
-2017,4,PIA,FIU Indoor Percussion,78.825,24.525,16.4,22.0,15.9
-2017,10,R1,FIU Indoor Percussion,81.526,24.375,15.75,25.15,16.25
-2017,3,PSA,Fair Lawn HS,83.425,26.025,17.0,24.9,15.5
-2017,6,PSA,Fair Lawn HS,86.163,25.688,17.825,25.55,17.1
-2017,10,PSA,Fair Lawn HS,95.925,29.325,18.95,28.5,19.15
 2017,0,PSA,Fairlawn,75.55,22.1,24.15,15.6,13.7
-2017,0,PIA,Farmington United Percussion Ensemble,77.45,23.1,15.6,22.9,15.85
-2017,10,PIA,Farmington United Percussion Ensemble,95.1,28.875,19.125,28.525,18.575
-2017,3,PSA,Farragut HS,82.85,24.15,17.0,25.0,16.7
-2017,6,PSA,Farragut HS,85.251,24.75,17.2,26.6,16.7
-2017,10,R2,Farragut HS,87.776,26.25,17.1,26.95,17.475
-2017,0,PIO,Ferndale Independent Percussion,74.55,22.35,14.4,22.8,15.0
-2017,10,R2,Ferndale Independent Percussion,85.464,25.012,18.1,25.35,17.0
-2017,4,PSO,Fishers HS,87.05,25.65,17.3,26.7,17.4
-2017,10,PSW,Fishers HS,89.95,27.675,18.3,26.525,17.45
-2017,3,PSO,Foothill HS,82.95,24.15,17.1,24.9,16.8
-2017,4,PSA,Foothill HS (NV),89.45,27.15,18.6,25.8,17.9
-2017,6,PSA,Foothill HS (NV),91.55,26.25,18.5,27.8,19.0
-2017,10,PSA,Foothill HS (NV),92.451,27.375,18.575,27.575,18.925
-2017,3,PSA,Forest Lake HS,78.55,24.75,16.7,22.2,14.9
-2017,10,R3,Forest Lake HS,79.825,24.975,16.65,22.75,15.45
-2017,3,PSA,Forney HS,68.6,19.8,13.2,21.7,13.9
-2017,3,PSA,Fort Mill HS,75.751,21.9,15.4,23.65,14.8
-2017,10,R1,Fort Mill HS,82.575,25.875,15.25,26.15,15.3
-2017,3,PSA,Fossil Ridge HS,72.95,21.75,13.8,23.4,14.0
-2017,1,PSO,Fountain Valley HS,72.751,22.65,14.2,21.4,14.5
+2017,2,PSO,Fishers High School,82.55,25.05,17.8,24.4,15.3
+2017,3,PSO,Fishers High School,83.1,26.7,17.0,23.2,16.2
+2017,5,PSO,Fishers High School,89.275,26.775,17.3,27.925,17.275
+2017,7,PSO,Fishers High School,92.7,27.975,18.55,27.925,18.25
+2017,9,PSW,Fishers High School,89.6,27.0,17.8,26.9,17.9
 2017,3,PSO,Fountain Valley HS,77.65,22.35,15.6,23.3,16.4
 2017,5,PSO,Fountain Valley HS,81.65,24.45,16.4,25.1,15.7
-2017,6,PSO,Fountain Valley HS,85.875,24.975,16.5,26.775,17.625
 2017,7,PSO,Fountain Valley HS,80.2,25.5,15.8,23.2,15.7
 2017,8,R2,Fountain Valley HS,84.925,25.875,14.8,27.15,17.1
 2017,9,PSO,Fountain Valley HS,81.375,23.625,16.15,25.65,15.95
-2017,2,PSA,Francis Howell HS,79.0,23.7,14.8,24.6,15.9
-2017,6,PSA,Francis Howell HS,85.788,25.688,16.95,26.25,16.9
-2017,10,R4,Francis Howell HS,88.664,26.737,16.675,27.475,17.775
-2017,4,PSW,Franklin Central HS,79.8,23.7,16.3,23.9,15.9
-2017,10,PSW,Franklin Central HS,85.95,26.775,17.225,25.0,16.95
-2017,5,PSO,Freedom HS,80.2,22.5,16.3,25.8,15.6
-2017,2,PIO,Freedom Percussion,77.45,22.35,16.4,24.0,14.7
-2017,6,PIO,Freedom Percussion,86.0,24.6,17.2,27.0,17.2
-2017,10,PIO,Freedom Percussion,94.138,28.012,18.925,28.15,19.05
-2017,3,PIO,Fusion Percussion,67.551,20.25,14.5,20.5,12.3
-2017,5,PIO,Fusion Percussion,74.7,20.4,14.5,25.2,14.6
-2017,10,R1,Fusion Percussion,76.575,23.175,15.25,23.5,14.65
-2017,0,PIA,G2,74.2,22.35,15.2,20.6,16.05
-2017,10,PIA,G2,90.651,27.375,18.7,26.45,18.125
-2017,3,PSA,Gaffney HS,75.71,22.8,14.81,23.9,14.2
-2017,4,PSA,Gaffney HS,73.5,21.45,15.9,21.7,14.45
+2017,1,PSW,Franklin Central Indoor Percussion Ensemble,76.45,22.95,14.9,23.7,14.9
+2017,2,PSW,Franklin Central Indoor Percussion Ensemble,78.75,23.55,16.0,24.4,14.8
+2017,5,PSW,Franklin Central Indoor Percussion Ensemble,82.425,23.475,16.45,25.75,16.75
+2017,7,PSW,Franklin Central Indoor Percussion Ensemble,83.8,25.35,16.95,24.75,16.75
+2017,9,PSW,Franklin Central Indoor Percussion Ensemble,86.5,26.1,17.4,25.6,17.4
+2017,0,PSA,Franklin Community High School Indoor Percussion,69.601,20.55,13.2,22.3,13.55
+2017,1,PSA,Franklin Community High School Indoor Percussion,65.225,19.425,12.7,20.1,13.0
+2017,3,PSA,Franklin Community High School Indoor Percussion,71.65,19.8,14.35,23.2,14.3
+2017,5,R2,Franklin Community High School Indoor Percussion,75.076,23.475,14.35,22.7,14.55
 2017,5,R1,Gahr HS,79.6,24.9,16.5,23.2,15.0
 2017,7,PSA,Gahr HS,83.0,24.9,16.7,24.8,16.6
 2017,8,R1,Gahr HS,86.8,24.6,17.0,26.8,18.4
 2017,9,PSA,Gahr HS,83.876,25.125,16.9,24.575,17.275
-2017,1,PIA,Galaxy,67.5,21.6,14.4,18.4,13.1
-2017,10,R1,Galaxy,79.563,23.738,15.75,25.025,15.05
-2017,2,PIW,Gateway Indoor,76.2,22.8,15.6,22.2,15.6
-2017,6,PIW,Gateway Indoor,80.151,25.05,15.4,24.1,15.6
-2017,10,R2,Gateway Indoor,81.65,24.45,16.325,24.725,16.15
-2017,0,PIW,Genesis,77.8,23.1,14.9,23.6,16.2
-2017,10,R1,Genesis,83.938,26.812,16.95,23.6,16.575
-2017,1,PIW,George Mason University,76.401,23.4,14.7,23.9,14.4
-2017,5,PIW,George Mason University,86.3,26.1,17.2,25.9,17.1
-2017,6,PIW,George Mason University,86.65,27.15,17.4,25.8,16.3
-2017,10,PIW,George Mason University,87.825,26.025,17.85,26.375,17.575
-2017,4,PSA,Gilbert HS,78.625,22.125,16.5,24.3,15.7
-2017,6,PSA,Gilbert HS,78.6,22.2,15.8,23.7,16.9
-2017,5,PSA,Glencoe HS,77.7,23.1,16.0,23.6,15.0
 2017,3,R1,Glendora HS,66.55,19.65,13.2,20.3,13.4
 2017,4,PSA,Glendora HS,74.625,22.425,14.8,21.9,15.5
 2017,5,R2,Glendora HS,71.201,19.5,14.7,22.6,14.4
 2017,8,R4,Glendora HS,77.8,24.6,12.0,24.1,17.1
-2017,3,PSA,Golden Valley HS,74.45,22.65,14.2,22.9,14.7
-2017,3,PSA,Golden West HS,66.651,19.65,13.1,20.2,13.7
 2017,-1,PHSSA-G,Golden West HS Percussion,69.301,19.6,21.3,15.4,13.0
 2017,2,PHSSA-G,Golden West HS Percussion,74.551,23.0,22.35,14.6,14.6
 2017,5,PHSSA-G,Golden West HS Percussion,80.85,22.7,23.85,17.8,16.5
 2017,7,PHSSA-G,Golden West HS Percussion,81.3,24.2,25.35,15.9,15.85
-2017,1,PSW,Goshen HS,73.8,21.9,15.6,22.1,14.2
-2017,4,PSW,Goshen HS,79.25,23.55,16.6,23.5,15.6
-2017,10,R1,Goshen HS,84.201,25.575,16.775,25.45,16.4
+2017,0,PSW,Goshen PSW,70.9,21.3,12.4,23.3,13.9
+2017,5,PSW,Goshen PSW,79.7,23.4,15.85,24.55,15.9
+2017,7,PSW,Goshen PSW,82.375,24.825,17.25,25.1,15.2
+2017,9,PSW,Goshen PSW,85.35,26.25,17.0,25.1,17.0
 2017,5,PSO,Granada Hills CHS,79.001,23.1,16.6,23.7,15.6
 2017,7,PSO,Granada Hills CHS,77.8,24.3,15.6,22.5,15.4
 2017,8,R2,Granada Hills CHS,84.876,25.725,17.0,26.65,15.5
-2017,3,PSO,Granada Hills Charter HS,71.451,20.85,13.3,23.8,13.5
-2017,0,PSA,Grand Blanc HS,74.55,22.05,15.3,22.7,14.5
-2017,10,PSA,Grand Blanc HS,93.013,27.637,18.825,27.8,18.75
-2017,3,PSO,Granite Bay HS,71.7,21.3,13.5,23.5,13.4
 2017,0,PSO,Great Oak HS,71.55,22.35,13.2,21.2,14.8
-2017,1,PSO,Great Oak HS,81.85,25.05,15.6,24.7,16.5
 2017,4,PSO,Great Oak HS,81.865,24.975,16.19,24.6,16.1
-2017,6,PSO,Great Oak HS,90.1,26.55,17.5,27.6,18.45
 2017,7,PSO,Great Oak HS,90.75,27.45,17.6,27.6,18.1
 2017,8,R1,Great Oak HS,89.05,27.15,16.4,27.1,18.4
 2017,9,PSO,Great Oak HS,90.688,27.038,17.6,27.85,18.2
-2017,3,PSO,Green Hope HS,77.45,23.25,15.1,23.8,15.3
-2017,10,R2,Green Hope HS,81.075,23.625,16.75,24.625,16.075
 2017,1,S,Greencastle-Antrim,74.4,36.6,37.8,0.0,0.0
-2017,4,PSO,Greenfield-Central HS,81.25,25.05,15.5,25.4,15.3
-2017,10,R2,Greenfield-Central HS,88.851,26.7,17.9,26.6,17.65
-2017,4,PSA,Greenwood HS,83.65,26.1,15.85,24.9,16.8
-2017,3,PIA,Groove Pursuit,75.2,22.2,14.1,24.2,14.7
-2017,10,R2,Groove Pursuit,84.526,25.125,16.575,26.3,16.525
+2017,0,WSW,Greenfield Central High School,69.65,26.6,20.4,22.65,0.0
+2017,3,WSW,Greenfield Central High School,75.6,29.4,24.3,21.9,0.0
+2017,1,PSO,Greenfield-Central Indoor Percussion Ensemble,73.95,23.25,13.4,22.9,14.4
+2017,3,PSO,Greenfield-Central Indoor Percussion Ensemble,78.625,26.025,15.4,21.9,15.3
+2017,5,PSO,Greenfield-Central Indoor Percussion Ensemble,84.038,25.538,16.3,25.95,16.25
+2017,7,PSO,Greenfield-Central Indoor Percussion Ensemble,84.201,25.5,16.75,25.1,16.85
+2017,9,PSO,Greenfield-Central Indoor Percussion Ensemble,86.9,26.1,16.5,25.7,18.6
+2017,1,PSO,Greenwood Indoor Percussion,67.55,22.35,12.9,18.9,13.4
+2017,2,PSA,Greenwood Indoor Percussion,71.201,20.85,16.75,20.1,13.5
+2017,5,R1,Greenwood Indoor Percussion,84.3,25.05,16.6,25.85,16.8
+2017,7,PSA,Greenwood Indoor Percussion,87.363,26.288,18.0,25.425,17.65
 2017,-1,PSA,Grossmont HS,62.451,18.15,12.9,18.6,12.8
 2017,0,PSA,Grossmont HS,61.65,19.35,11.7,19.0,11.6
 2017,2,PSA,Grossmont HS,66.4,20.7,13.3,19.8,12.6
 2017,4,PSA,Grossmont HS,67.98,19.65,13.83,20.8,13.7
 2017,7,R1,Grossmont HS,72.401,21.0,14.6,22.8,14.0
 2017,8,R1,Grossmont HS,73.1,21.15,13.8,22.1,16.05
-2017,5,PSA,Gulf Breeze HS,77.926,23.925,14.9,23.8,15.3
-2017,10,R1,Gulf Breeze HS,85.176,25.35,16.35,25.925,17.55
-2017,3,PSA,Halls HS,83.85,25.05,16.8,25.2,16.8
-2017,6,PSA,Halls HS,85.201,24.45,18.1,24.7,17.95
-2017,10,R1,Halls HS,91.925,27.525,18.6,27.7,18.1
-2017,6,PSA,Hamilton HS,76.55,20.85,15.8,23.3,16.6
-2017,10,R4,Hamilton HS,76.775,22.725,15.3,23.4,15.35
-2017,4,PSA,Hamilton Southeastern HS,80.251,24.9,15.55,25.3,14.5
-2017,10,R3,Hamilton Southeastern HS,85.051,24.975,17.4,25.3,17.375
-2017,3,PSA,Hanford HS,70.251,20.55,14.9,19.7,15.1
-2017,3,PSA,Hardin Valley Academy,81.101,24.0,16.2,25.3,15.6
-2017,6,PSA,Hardin Valley Academy,78.35,22.05,17.0,22.5,16.8
-2017,10,R1,Hardin Valley Academy,83.163,24.788,17.2,24.1,17.075
-2017,2,PIA,Harpe Davids Indoor Percussion,72.3,22.2,14.0,22.1,14.0
-2017,4,PSA,Harrison HS,81.725,25.425,16.0,25.7,14.6
+2017,1,PSA,Hamilton Southeastern High School / HIPE,70.951,21.15,14.1,21.2,14.5
+2017,3,PSA,Hamilton Southeastern High School / HIPE,73.8,20.4,15.1,22.6,15.7
+2017,5,R1,Hamilton Southeastern High School / HIPE,80.888,24.712,15.85,24.55,15.775
+2017,7,PSA,Hamilton Southeastern High School / HIPE,87.175,26.625,16.85,26.1,17.6
+2017,9,PSA,Hamilton Southeastern High School / HIPE,86.8,26.1,16.9,25.8,18.0
 2017,2,PSA,Hatboro-Horsham,75.15,22.7,22.35,15.5,14.6
 2017,3,PSA,Hatboro-Horsham,78.25,23.6,24.75,15.1,14.8
-2017,6,PSA,Hatboro-Horsham HS,85.588,25.837,16.95,25.6,17.2
-2017,10,R2,Hatboro-Horsham HS,89.151,26.775,17.3,27.275,17.8
 2017,0,PSA,Hempfield,65.101,19.7,21.3,12.3,11.8
 2017,1,PSA,Hempfield,63.451,19.7,19.05,12.1,12.6
 2017,4,PSA,Hempfield,72.0,22.5,21.6,13.6,14.3
 2017,7,PSA,Hempfield,74.15,23.6,22.95,14.2,13.4
 2017,8,PSA,Hempfield,76.0,23.4,23.4,15.1,14.1
-2017,6,PSA,Hempfield HS,72.45,21.3,14.3,22.0,14.85
 2017,0,PRA,Highland,77.85,23.3,22.65,16.1,15.8
 2017,3,PRA,Highland,78.7,23.8,21.6,15.9,17.4
 2017,4,PRA,Highland,84.85,24.4,25.35,17.0,18.1
 2017,7,PRA,Highland,89.0,26.4,27.3,16.8,18.5
 2017,8,PRA,Highland,87.35,27.0,25.95,17.7,16.7
 2017,3,PSA,Highland HS,66.5,18.9,13.1,21.8,12.7
-2017,1,PSA,Hilliard Bradley HS,69.001,19.2,12.4,24.05,13.35
-2017,10,R3,Hilliard Bradley HS,82.563,24.413,17.35,24.1,16.7
-2017,2,PSA,Hillsboro HS,67.851,19.95,13.5,21.0,13.4
-2017,6,PSA,Hilton HS,83.975,25.275,16.05,24.75,17.9
 2017,-1,PSA,Hilton HS Percussion,74.3,21.9,23.1,14.7,14.6
 2017,0,PSA,Hilton HS Percussion,76.5,23.7,22.5,14.9,15.4
 2017,3,PSA,Hilton HS Percussion,79.95,24.2,24.15,15.3,16.3
-2017,4,PSW,Homer Hanna HS,86.55,25.65,17.3,26.6,17.0
-2017,10,PSW,Homer Hanna HS,92.414,28.237,18.05,27.95,18.175
-2017,6,PSW,Homestead HS,85.175,25.275,16.75,26.45,16.7
 2017,9,PSW,Homestead HS,86.025,25.725,17.4,26.0,16.9
-2017,10,R2,Homestead HS,87.314,25.388,18.075,25.975,17.875
 2017,0,PSA,Hopewell Valley Central,63.451,20.3,19.95,11.8,11.4
 2017,1,PSA,Hopewell Valley Central,62.901,18.3,20.1,12.0,12.5
 2017,2,PSA,Hopewell Valley Central,63.45,19.7,18.75,12.4,12.6
@@ -613,57 +411,42 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSA,Hopewell Valley Central,72.701,21.8,22.8,14.2,13.9
 2017,7,PSA,Hopewell Valley Central,75.4,23.25,23.25,14.0,14.9
 2017,8,PSA,Hopewell Valley Central,77.95,24.3,22.95,15.2,15.5
-2017,4,PSA,Hudsonville HS,78.351,24.75,15.9,22.6,15.1
-2017,0,PIA,Huron Valley Percussion,72.8,21.3,14.7,21.6,15.2
-2017,10,PIA,Huron Valley Percussion,88.139,27.188,17.275,26.4,17.275
-2017,10,R2,ICON Percussion,78.75,23.4,15.95,23.9,15.5
-2017,5,PIA,IMPACT Percussion,85.55,25.95,16.9,25.4,17.3
-2017,1,PIO,INov8 Winter Percussion,76.35,23.25,15.3,22.6,15.2
-2017,4,PIO,INov8 Winter Percussion,82.65,24.0,16.85,25.4,16.4
-2017,10,R1,INov8 Winter Percussion,89.201,27.075,17.925,26.85,17.35
-2017,4,PIA,Impact Percussion UT,81.75,23.25,17.1,24.0,17.4
-2017,10,R4,Impact Percussion UT,82.476,24.675,16.6,25.65,15.55
-2017,6,PIO,Imperial Dynasty,80.8,24.0,16.5,24.2,16.1
-2017,10,R1,Imperial Dynasty,83.976,24.825,17.3,25.65,16.2
+2017,2,PIO,INov8 Winter Percussion,78.3,22.8,17.5,22.5,15.5
+2017,5,PIO,INov8 Winter Percussion,83.8,25.05,16.45,26.0,16.3
 2017,2,PSO,Independence HS,72.151,22.65,14.1,20.4,15.0
-2017,4,PSA,Independence HS,77.101,23.55,15.05,25.2,13.3
+2017,4,PSO,Independence HS,75.68,22.35,16.33,22.2,14.8
 2017,8,R1,Independence HS,79.3,23.7,16.0,24.1,15.5
-2017,4,PIW,Infinity,85.45,25.65,17.4,25.2,17.2
-2017,5,PIW,Infinity,88.825,26.625,17.8,26.95,17.45
-2017,10,PIW,Infinity,91.776,27.0,18.525,27.875,18.375
-2017,4,PIO,Infinity 2,85.2,25.2,17.5,24.7,17.8
-2017,5,PIO,Infinity 2,89.025,26.925,17.7,26.45,17.95
-2017,10,PIO,Infinity 2,98.025,29.475,19.925,29.075,19.55
-2017,4,PIA,Infinity 3,83.25,25.95,16.7,23.8,16.8
-2017,10,R3,Infinity 3,83.289,25.087,16.2,25.575,16.425
-2017,3,PSA,Irondale HS,86.65,26.25,17.0,25.9,17.5
-2017,10,R2,Irondale HS,93.2,27.45,18.95,27.8,19.0
-2017,4,PSA,Ironwood Ridge HS,73.351,22.35,15.0,22.3,13.7
-2017,3,PSW,James Logan HS,83.65,25.35,16.4,25.1,16.8
-2017,10,PSW,James Logan HS,91.389,27.337,18.7,27.05,18.3
-2017,4,PSA,John B Alexander HS,78.9,24.0,16.3,24.6,14.0
-2017,2,PIA,Jong Kamper Trompetter Korps Indoor Percussion Ensemble,74.35,23.85,14.3,21.7,14.5
+2017,0,PSA,Jay County High School,68.251,20.25,14.0,20.7,13.3
+2017,1,PSA,Jay County High School,72.5,21.9,14.6,21.9,14.1
+2017,2,PSA,Jay County High School,75.65,23.55,16.4,21.2,14.5
+2017,3,PSA,Jay County High School,76.3,24.0,15.9,21.9,14.5
+2017,4,PSA,Jay County High School,73.75,23.85,14.0,21.5,14.4
+2017,5,R2,Jay County High School,80.713,24.263,15.2,25.2,16.05
+2017,7,PSA,Jay County High School,81.738,24.863,16.325,24.125,16.425
+2017,1,PSB,Jeffersonville Movement,57.0,16.2,11.2,18.4,11.2
+2017,4,PSB,Jeffersonville Movement,63.301,18.3,12.6,20.0,12.4
+2017,5,PSB,Jeffersonville Movement,63.35,19.125,12.35,19.3,12.575
 2017,-1,PSA,Jordan Elbridge Indoor Percussion,57.601,16.5,17.4,12.5,11.2
 2017,0,PSA,Jordan Elbridge Indoor Percussion,64.951,18.8,21.15,13.1,11.9
 2017,3,PSA,Jordan Elbridge Indoor Percussion,70.851,20.6,21.75,13.9,14.6
 2017,4,PSA,Jordan Elbridge Indoor Percussion,70.701,20.0,21.9,14.0,14.8
 2017,6,PSA,Jordan Elbridge Indoor Percussion,72.65,21.2,22.05,14.9,14.5
 2017,7,PSA,Jordan Elbridge Indoor Percussion,78.951,24.1,22.35,16.2,16.3
-2017,5,PSO,Kamiak HS,82.55,25.35,16.5,24.6,16.1
-2017,3,PSA,Keller Central HS,78.5,24.9,14.4,23.9,15.3
-2017,3,PSO,Keller HS,78.35,23.7,16.25,23.4,15.0
 2017,2,PRA,Kensington CAPA,77.5,21.8,22.8,16.6,16.3
 2017,3,PRA,Kensington CAPA,80.25,24.1,23.25,16.3,16.6
 2017,5,PRA,Kensington CAPA,80.85,24.3,22.35,17.0,17.2
 2017,7,PRA,Kensington CAPA,80.95,25.4,24.45,16.2,14.9
 2017,8,PRA,Kensington CAPA,84.75,25.7,25.05,17.2,16.8
-2017,2,PSO,Kickapoo HS,74.8,21.9,15.7,22.0,15.2
-2017,10,R1,Kickapoo HS,83.888,25.012,16.025,25.575,17.275
-2017,3,PSA,King Philip Regional HS,81.35,23.85,16.3,25.6,15.6
-2017,6,PSA,King Philip Regional HS,88.85,26.7,18.2,26.1,17.85
-2017,1,PSA,Kings HS,63.401,18.15,11.6,20.2,13.45
-2017,6,PSA,Kings HS,75.15,19.65,16.0,23.0,16.5
-2017,10,R1,Kings HS,82.113,25.087,16.3,23.8,16.925
+2017,1,PSB,Knox Percussion Ensemble,66.2,19.2,13.1,20.4,13.5
+2017,2,PSB,Knox Percussion Ensemble,72.15,20.25,14.2,22.2,15.5
+2017,3,PSB,Knox Percussion Ensemble,69.2,20.85,14.1,21.2,13.05
+2017,4,PSB,Knox Percussion Ensemble,68.55,22.5,13.4,19.2,13.45
+2017,5,PSB,Knox Percussion Ensemble,75.675,21.825,15.5,23.65,14.7
+2017,0,PSA,Kokomo Indoor Percussion Ensemble,70.4,20.4,13.9,23.2,12.9
+2017,1,PSA,Kokomo Indoor Percussion Ensemble,66.226,19.725,13.4,18.2,14.9
+2017,4,PSA,Kokomo Indoor Percussion Ensemble,73.501,24.45,13.5,22.05,13.5
+2017,5,R1,Kokomo Indoor Percussion Ensemble,76.076,22.575,15.05,23.55,14.9
+2017,7,PSA,Kokomo Indoor Percussion Ensemble,79.6,23.7,16.0,24.0,15.9
 2017,0,PSA,La Canada HS,65.25,20.1,11.5,21.2,12.45
 2017,3,R2,La Canada HS,64.5,18.3,12.2,21.0,13.0
 2017,4,PSA,La Canada HS,72.01,21.75,15.56,21.3,13.4
@@ -671,44 +454,29 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,2,PSA,La Habra HS,64.65,20.55,12.3,19.3,12.5
 2017,3,R2,La Habra HS,65.4,19.2,12.8,20.5,12.9
 2017,8,R1,La Habra HS,75.1,22.8,14.2,22.7,15.4
-2017,6,PSO,La Quinta HS,89.8,26.475,17.7,27.85,17.775
 2017,3,PSO,La Quinta HS (OC),78.0,25.2,16.7,22.3,13.8
 2017,8,R1,La Quinta HS (OC),91.65,28.2,18.2,27.45,17.8
 2017,9,PSO,La Quinta HS (OC),92.15,27.45,18.15,28.275,18.275
-2017,0,PIA,Lake Effect Percussion,72.55,22.95,14.2,20.5,14.9
-2017,10,PIA,Lake Effect Percussion,90.239,27.487,17.775,27.375,17.6
-2017,0,PSA,Lake Orion HS,70.85,22.2,14.3,20.3,14.05
-2017,10,R2,Lake Orion HS,87.826,27.9,17.275,25.85,16.8
-2017,4,PSW,Lambert HS,84.35,25.65,16.1,25.9,16.7
-2017,10,PSW,Lambert HS,87.438,26.888,17.575,26.025,16.95
-2017,4,PSO,Lawrence Township,83.1,24.0,16.4,25.9,16.8
-2017,10,R1,Lawrence Township,90.563,25.913,18.1,28.95,17.6
-2017,1,PSW,Lebanon HS,77.35,23.25,15.0,23.5,15.6
-2017,6,PSW,Lebanon HS,85.05,25.35,17.2,25.6,16.9
-2017,10,PSW,Lebanon HS,89.338,27.038,18.025,26.675,17.6
-2017,2,PSA,Lee's Summit HS,75.25,23.1,15.0,22.65,14.5
-2017,10,R3,Lee's Summit HS,83.6,25.275,16.85,24.7,16.775
-2017,1,PIW,Legacy Indoor Percussion,75.801,21.3,14.9,24.3,15.3
-2017,4,PIW,Legacy Indoor Percussion,80.925,25.125,16.6,24.1,15.1
-2017,6,PIW,Legacy Indoor Percussion,82.576,25.275,16.05,25.25,16.0
-2017,10,R2,Legacy Indoor Percussion,85.138,25.837,16.9,25.825,16.575
-2017,6,PSW,Leigh HS,81.576,24.675,16.55,24.35,16.0
-2017,3,PSO,Lemoore HS,69.701,20.1,14.5,20.1,15.0
-2017,6,PSO,Lemoore HS,72.5,21.6,14.5,21.1,15.3
+2017,1,PSO,Lawrence Township,75.675,23.475,14.1,24.3,13.8
+2017,3,PSO,Lawrence Township,76.45,24.45,15.9,20.7,15.4
+2017,5,PSO,Lawrence Township,84.025,24.375,16.7,26.8,16.15
+2017,7,PSO,Lawrence Township,87.1,26.7,17.2,26.15,17.05
+2017,9,PSO,Lawrence Township,88.7,26.7,18.1,26.7,17.2
+2017,0,PIW,Legacy Indoor Percussion Ensemble,77.05,23.55,14.1,24.7,14.7
+2017,5,PIW,Legacy Indoor Percussion Ensemble,82.85,25.05,16.3,25.35,16.15
+2017,7,PIW,Legacy Indoor Percussion Ensemble,83.9,25.5,17.05,25.65,15.7
+2017,9,PIW,Legacy Indoor Percussion Ensemble,84.85,25.65,17.0,25.4,16.8
 2017,-1,PHSSO,Lemoore HS Percussion,75.15,21.5,22.05,17.0,14.6
 2017,2,PHSSO,Lemoore HS Percussion,76.3,22.6,23.7,15.3,14.7
 2017,5,PHSSO,Lemoore HS Percussion,83.4,23.9,24.3,18.0,17.2
 2017,7,PHSSO,Lemoore HS Percussion,84.25,23.7,26.85,17.2,16.5
-2017,5,PSA,Liberty HS,70.451,21.75,13.8,21.6,13.3
+2017,0,WSA,Lewis Cass,72.7,30.4,19.95,22.35,0.0
+2017,2,WSA,Lewis Cass,74.05,29.8,21.0,23.25,0.0
+2017,3,WSA,Lewis Cass,75.5,30.8,21.75,22.95,0.0
 2017,-1,PJHSA,Liberty JHS Percussion,63.6,20.2,20.1,12.4,10.9
 2017,2,PJHSA,Liberty JHS Percussion,74.55,24.2,22.05,14.3,14.0
 2017,5,PJHSA,Liberty JHS Percussion,77.4,21.6,24.6,16.5,14.7
 2017,7,PJHSA,Liberty JHS Percussion,81.45,24.5,28.35,13.7,14.9
-2017,3,PIO,Liberty University Indoor Drumline,76.751,22.35,16.1,23.2,15.1
-2017,10,R1,Liberty University Indoor Drumline,89.164,26.513,17.95,26.9,17.8
-2017,1,PSA,Licking Valley HS,66.001,19.5,12.8,20.6,13.1
-2017,4,PSA,Licking Valley HS,76.851,23.25,15.5,23.3,14.8
-2017,5,PSA,Lincoln HS,74.801,22.5,15.3,22.2,14.8
 2017,-1,PSA,Liverpool Indoor Percussion,61.001,17.1,18.9,12.3,12.7
 2017,1,PSA,Liverpool Indoor Percussion,63.501,20.4,18.3,11.6,13.2
 2017,2,PSA,Liverpool Indoor Percussion,63.85,20.3,18.75,11.6,13.2
@@ -723,50 +491,35 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,9,PSO,Los Alamitos HS,89.738,27.488,17.825,26.925,17.5
 2017,3,PSA,Los Altos HS,71.251,21.75,13.4,20.6,15.5
 2017,8,R4,Los Altos HS,77.8,24.45,12.6,23.6,17.15
-2017,6,PSA,Los Gatos HS,78.55,21.45,14.4,25.5,17.2
 2017,5,PSA,Lower Dauphin,85.25,23.8,26.25,17.9,17.3
-2017,3,PIW,MN Brass Indoor,82.25,24.75,16.0,25.4,16.1
-2017,10,R2,MN Brass Indoor,85.125,26.475,16.65,25.05,16.95
-2017,3,PSA,Madera HS,79.1,23.7,15.7,24.2,15.5
+2017,0,PSB,Maconaquah Winter Percussion Ensemble,66.55,19.35,12.4,20.5,14.3
+2017,2,PSB,Maconaquah Winter Percussion Ensemble,66.2,20.55,12.6,19.6,13.45
+2017,3,PSB,Maconaquah Winter Percussion Ensemble,68.15,21.9,12.9,20.1,13.25
+2017,4,PSB,Maconaquah Winter Percussion Ensemble,69.35,23.4,12.95,19.9,13.1
+2017,5,PSB,Maconaquah Winter Percussion Ensemble,74.713,22.612,15.025,23.0,14.075
 2017,8,R4,Madera HS,86.8,25.95,17.4,26.6,16.85
 2017,-1,PHSSA-G,Madera HS Percussion,77.9,22.7,24.0,16.9,14.3
 2017,2,PHSSA-G,Madera HS Percussion,77.25,23.2,23.85,16.0,14.2
 2017,4,PHSSA-G,Madera HS Percussion,84.1,25.8,25.8,16.2,16.3
 2017,5,PHSSA-G,Madera HS Percussion,85.7,23.9,26.4,18.1,17.3
 2017,7,PHSSA-G,Madera HS Percussion,89.6,26.3,28.35,17.65,17.3
-2017,3,PSA,Madera South HS,73.725,23.025,15.5,20.3,14.9
-2017,6,PSA,Madera South HS,75.9,22.5,15.2,22.2,16.0
-2017,3,PSA,Mansfield HS,75.951,24.3,14.0,23.55,14.1
-2017,10,R4,Mansfield HS,85.925,26.625,16.45,26.25,16.6
-2017,3,PSA,Maple Grove Senior HS,79.1,24.9,15.4,23.7,15.1
 2017,5,PSA,Marcus Whitman,62.451,19.3,18.15,12.4,12.6
 2017,6,PSA,Marcus Whitman,61.001,16.7,18.9,12.8,12.6
 2017,7,PSA,Marcus Whitman,67.05,21.1,19.35,13.2,13.4
-2017,1,PSA,Marion L. Steele HS,67.051,18.75,12.2,22.3,13.8
-2017,10,R3,Marion L. Steele HS,80.363,24.262,16.25,23.65,16.2
-2017,5,PSA,Massaponax HS,79.1,23.4,15.8,24.1,15.8
-2017,2,PSA,Mater Dei Catholic HS,73.55,22.35,14.3,22.4,14.5
-2017,10,R3,Mater Dei Catholic HS,80.163,24.113,15.7,24.15,16.2
-2017,4,PIW,Matrix,85.55,25.2,17.65,25.8,16.9
-2017,10,PIW,Matrix,94.4,27.75,19.35,28.325,18.975
-2017,4,PIO,Matrix Open,82.35,23.25,16.7,25.5,16.9
-2017,10,R4,Matrix Open,90.7,27.15,17.8,28.4,17.35
-2017,4,PSA,McGavock HS,87.25,27.15,17.3,25.9,16.9
-2017,10,R3,McGavock HS,84.089,26.288,16.7,23.8,17.3
+2017,0,PSA,Martinsville Indoor Percussion,66.3,21.3,11.8,20.8,12.4
+2017,1,PSA,Martinsville Indoor Percussion,65.551,19.65,13.5,19.8,12.6
+2017,3,PSA,Martinsville Indoor Percussion,67.701,21.6,13.9,18.1,14.1
+2017,4,PSA,Martinsville Indoor Percussion,76.575,24.375,14.0,22.4,15.8
+2017,5,R1,Martinsville Indoor Percussion,74.425,22.875,14.55,22.85,14.15
 2017,1,PSO,Mechanicsburg,70.0,20.6,21.3,13.9,14.2
-2017,6,PSO,Mechanicsburg HS,80.025,24.375,16.35,23.25,16.05
-2017,10,R2,Mechanicsburg HS,84.3,24.675,16.875,26.375,16.375
 2017,-1,PHSSRA,Mendota HS Percussion,60.2,18.0,18.0,13.2,11.0
 2017,2,PHSSRA,Mendota HS Percussion,64.45,20.5,19.35,12.8,11.8
 2017,4,PHSSRA,Mendota HS Percussion,64.0,21.3,20.7,11.1,10.9
 2017,5,PHSSRA,Mendota HS Percussion,65.55,17.8,20.85,15.2,11.7
-2017,3,PSO,Merced HS,67.751,20.55,14.3,19.4,13.5
-2017,6,PSO,Merced HS,75.475,22.575,14.6,23.9,14.4
 2017,0,PSA,Methacton,67.05,18.8,22.05,12.9,13.3
 2017,4,PSA,Methacton,75.601,22.9,23.1,14.4,15.2
 2017,7,PSA,Methacton,77.351,24.1,23.85,14.8,14.6
 2017,8,PSA,Methacton,80.851,24.25,24.6,16.4,15.6
-2017,6,PSA,Methacton HS,72.9,21.9,14.2,22.5,14.3
 2017,-1,PIA,Midlakes Independent,59.7,18.8,17.4,12.2,11.3
 2017,0,PIA,Midlakes Independent,64.0,20.3,18.9,12.4,12.4
 2017,2,PIA,Midlakes Independent,69.05,22.8,18.75,14.0,13.5
@@ -774,13 +527,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PIA,Midlakes Independent,75.75,22.2,23.25,14.9,15.4
 2017,6,PIA,Midlakes Independent,78.75,24.3,22.65,16.1,15.7
 2017,7,PIA,Midlakes Independent,85.9,26.8,25.5,16.8,16.8
-2017,1,PSA,Milford HS (OH),74.7,23.7,14.7,21.8,14.5
-2017,6,PSA,Milford HS (OH),82.951,23.25,17.25,24.7,17.75
-2017,10,R1,Milford HS (OH),87.851,26.55,18.4,25.25,17.65
-2017,4,PSW,Milton HS,76.5,23.1,13.0,25.1,15.3
-2017,10,R1,Milton HS,82.55,23.85,17.05,25.2,16.45
-2017,6,PSA,Minooka Community HS,87.125,25.35,17.725,26.85,17.2
-2017,10,R3,Minooka Community HS,90.663,26.812,18.15,27.05,18.65
+2017,1,PSA,Minooka community high school,75.05,22.35,15.8,22.6,14.3
+2017,4,PSA,Minooka community high school,78.25,25.05,14.9,23.4,14.9
 2017,0,PSA,Mission Hills HS,73.8,21.3,14.95,23.4,14.15
 2017,4,PSA,Mission Hills HS,79.475,23.175,15.65,23.8,16.85
 2017,7,PSO,Mission Hills HS,81.85,26.25,16.2,22.8,16.6
@@ -795,15 +543,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSO,Mission Viejo HS,85.0,25.2,18.2,24.8,16.8
 2017,8,R1,Mission Viejo HS,87.451,26.25,17.4,26.8,17.0
 2017,9,PSO,Mission Viejo HS,84.626,24.75,17.2,26.025,16.65
-2017,2,PIA,Modulation Z,82.1,25.5,16.4,23.8,16.4
-2017,10,PIA,Modulation Z,96.025,28.875,19.6,28.55,19.0
 2017,-1,PHSSRA,Monache HS Peruccsion,69.95,22.3,21.75,14.4,11.5
 2017,2,PHSSRA,Monache HS Peruccsion,73.8,24.3,21.9,14.2,13.4
 2017,4,PHSSRA,Monache HS Peruccsion,72.25,22.6,22.95,13.8,12.9
 2017,7,PHSSRA,Monache HS Peruccsion,77.5,23.7,24.0,14.5,15.3
-2017,5,PSO,Monarch HS,64.45,19.05,12.2,20.2,13.0
-2017,4,PIW,Monarch Independent,85.9,25.8,17.4,25.9,16.8
-2017,10,PIW,Monarch Independent,94.164,28.163,19.05,28.3,18.65
+2017,2,PSB,Monroe  Central Percussion Ensemble,66.5,21.3,12.7,19.1,13.4
+2017,3,PSB,Monroe  Central Percussion Ensemble,66.4,22.5,13.5,16.6,13.8
+2017,4,PSB,Monroe  Central Percussion Ensemble,70.5,22.8,13.15,20.9,13.65
+2017,5,PSB,Monroe  Central Percussion Ensemble,75.225,22.35,15.05,23.1,14.725
 2017,0,PSA,Monrovia HS,66.75,20.25,13.15,20.4,12.95
 2017,3,R1,Monrovia HS,71.701,20.7,14.6,22.1,14.3
 2017,7,R2,Monrovia HS,76.301,22.35,15.2,23.8,14.95
@@ -812,119 +559,69 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,3,PSA,Moorpark HS,78.65,20.85,15.6,24.8,17.4
 2017,5,PSA,Moorpark HS,79.725,24.525,16.0,24.0,15.2
 2017,8,R1,Moorpark HS,81.826,25.575,14.9,24.1,17.25
-2017,4,PSO,Morton Ranch HS,75.551,21.75,16.5,21.3,16.0
-2017,0,PIO,Motor City Percussion,76.3,23.1,15.0,22.6,15.6
-2017,6,PIO,Motor City Percussion,81.3,23.7,16.7,24.1,16.8
-2017,10,R3,Motor City Percussion,86.9,26.1,17.15,26.5,17.15
 2017,-1,PHSSA-G,Mt Whitney HS Percussion,74.25,23.8,22.05,15.5,12.9
 2017,2,PHSSA-G,Mt Whitney HS Percussion,78.7,24.9,24.3,15.2,14.3
 2017,4,PHSSO,Mt Whitney HS Percussion,80.4,24.9,24.6,15.8,15.1
 2017,5,PHSSO,Mt Whitney HS Percussion,83.4,24.7,24.9,17.5,16.3
 2017,7,PHSSO,Mt Whitney HS Percussion,86.25,25.1,27.15,17.6,16.4
-2017,6,PSW,Mt. Juliet HS,86.15,26.25,17.1,26.0,16.8
-2017,10,R1,Mt. Juliet HS,84.15,23.55,17.475,25.85,17.275
-2017,1,PIW,Music City Mystique,83.5,24.9,16.9,25.0,16.7
-2017,5,PIW,Music City Mystique,91.125,27.675,18.5,26.75,18.2
-2017,10,PIW,Music City Mystique,98.0,29.475,19.9,28.875,19.75
-2017,3,PIA,Myrtle Beatz,68.9,22.2,13.0,21.5,12.2
-2017,10,R2,Myrtle Beatz,75.4,21.9,14.85,23.85,14.8
-2017,5,PSA,Navarre HS,74.775,22.125,15.25,22.25,15.15
-2017,3,PSA,Nazarene Christian Academy,68.501,22.2,11.6,22.2,12.5
-2017,4,PSA,Nazarene Christian Academy,72.9,21.0,14.6,22.6,14.7
-2017,4,PSO,Nease HS,77.25,24.15,15.5,21.5,16.1
-2017,10,R1,Nease HS,82.875,24.225,17.15,24.85,16.65
 2017,-1,PSA,New Hartford,67.9,19.4,21.0,13.4,14.1
 2017,0,PSA,New Hartford,70.75,21.2,20.85,14.3,14.4
 2017,3,PSA,New Hartford,75.15,22.2,22.35,15.2,15.4
 2017,4,PSA,New Hartford,76.8,22.5,23.4,15.4,15.5
 2017,6,PSA,New Hartford,77.6,22.6,23.4,16.1,15.5
 2017,7,PSA,New Hartford,85.05,25.1,25.35,17.5,17.1
-2017,3,PSA,New Milford HS,79.95,24.75,15.0,24.3,15.9
-2017,10,R3,New Milford HS,86.239,26.738,16.1,27.05,16.35
-2017,4,PSO,Newsome HS,83.5,25.5,16.9,24.3,16.8
-2017,10,PSO,Newsome HS,94.8,28.35,18.95,28.55,18.95
-2017,3,PSA,Newtown HS,75.626,23.625,16.1,21.3,14.6
-2017,3,PSA,Ninety Six HS,79.586,22.725,16.21,24.55,16.1
-2017,10,R1,Ninety Six HS,83.714,25.013,15.6,26.7,16.4
+2017,0,PSB,New Prairie High School,62.0,19.2,11.5,18.6,12.7
+2017,4,PSB,New Prairie High School,64.951,19.35,12.8,19.3,13.5
+2017,5,PSB,New Prairie High School,68.375,19.65,14.2,20.65,13.875
 2017,4,PSJ,Nobel MS,65.291,19.2,11.79,20.8,13.5
 2017,5,PSJ,Nobel MS,75.55,23.25,14.3,23.5,14.5
 2017,8,PSJ,Nobel MS,83.15,26.4,15.85,24.55,16.35
+2017,1,PSB,Noblesville Indoor Percussion Ensemble,73.7,21.9,14.4,22.4,15.0
+2017,2,PSA,Noblesville Indoor Percussion Ensemble,73.85,21.45,16.9,20.7,14.8
+2017,4,PSA,Noblesville Indoor Percussion Ensemble,77.85,25.35,14.2,22.2,16.1
+2017,5,R2,Noblesville Indoor Percussion Ensemble,81.7,24.6,15.45,25.8,15.85
+2017,7,PSA,Noblesville Indoor Percussion Ensemble,83.851,26.175,17.0,24.575,16.1
 2017,3,PSO,Nogales HS,82.15,25.65,16.2,24.5,15.8
 2017,5,PSO,Nogales HS,82.1,25.5,16.4,24.4,15.8
-2017,6,PSO,Nogales HS,85.725,25.575,16.35,26.125,17.675
 2017,8,R1,Nogales HS,87.475,26.775,17.0,26.2,17.5
 2017,9,PSO,Nogales HS,86.201,25.05,18.05,25.6,17.5
-2017,6,PIA,Nomad Indoor,76.65,21.45,15.5,23.4,16.3
-2017,3,PIO,NorCal Indoor,73.6,21.6,14.5,22.9,14.6
-2017,10,R3,NorCal Indoor,88.625,26.55,17.5,27.45,17.125
-2017,4,PSA,North Allegheny HS,79.551,24.45,15.7,24.9,14.5
-2017,10,R3,North Allegheny HS,87.514,25.538,17.15,27.025,17.8
-2017,3,PSA,North Buncombe HS,73.6,21.3,15.2,23.8,13.3
-2017,4,PSA,North Forsyth HS,79.451,23.25,16.8,24.2,15.2
-2017,3,PIA,North Greenville Indoor,66.95,20.25,12.0,22.7,12.0
-2017,10,R1,North Greenville Indoor,81.275,23.925,15.675,26.1,15.575
-2017,4,PSO,North Gwinnett HS,80.75,25.05,15.9,24.2,15.6
-2017,10,R1,North Gwinnett HS,83.875,25.8,16.025,25.6,16.45
-2017,3,PSA,North Lincoln HS,72.25,22.65,14.6,21.8,13.2
-2017,4,PSA,North Paulding HS,80.801,25.5,16.1,25.3,13.9
 2017,2,PSA,North Penn,74.151,24.5,19.8,15.7,14.15
 2017,3,PSA,North Penn,79.15,24.9,23.55,15.6,15.1
 2017,4,PSA,North Penn,81.5,25.2,24.6,15.6,16.1
 2017,5,PSA,North Penn,81.951,25.9,25.35,14.5,16.2
 2017,7,PSA,North Penn,86.1,26.1,26.4,17.2,16.4
 2017,8,PSA,North Penn,86.275,25.7,26.175,17.2,17.2
-2017,6,PSA,North Penn HS,78.7,23.1,15.6,23.9,16.1
-2017,10,R3,North Penn HS,83.888,24.938,16.6,25.1,17.25
-2017,5,PSA,North Pike HS,72.95,22.65,14.5,22.0,13.8
-2017,4,PSA,North Pointe Prep,75.05,22.05,15.5,23.1,14.4
-2017,6,PSA,North Pointe Prep,72.775,21.075,15.2,21.7,14.8
-2017,4,PSW,North Shore HS,84.65,25.35,16.5,26.2,16.6
-2017,5,PSA,North Thurston HS,69.351,21.45,14.0,19.7,14.2
-2017,0,PIW,NorthCoast Academy,78.75,23.7,14.3,24.7,16.05
-2017,4,PIW,NorthCoast Academy,80.376,24.375,16.1,23.8,16.1
-2017,10,R1,NorthCoast Academy,82.625,25.725,16.75,23.55,16.6
-2017,4,PSA,Northeastern Jr/Sr HS,74.525,22.125,15.45,22.85,14.1
-2017,1,PSO,Norton HS,77.9,23.1,15.7,23.6,15.5
-2017,10,R1,Norton HS,87.789,27.188,17.7,26.05,16.85
-2017,3,PSO,Norwalk HS,85.9,26.4,17.7,24.9,16.9
-2017,6,PSO,Norwalk HS,89.3,26.7,18.0,26.65,17.95
-2017,10,PSO,Norwalk HS,93.713,28.087,18.425,28.7,18.5
-2017,0,PSA,Novi HS,71.1,20.1,14.8,21.9,14.3
-2017,10,R4,Novi HS,87.651,25.35,18.1,26.9,17.3
-2017,10,R1,O.N.E. Percussion,82.126,24.075,17.3,24.95,15.8
-2017,5,PIW,OC Indoor,81.9,24.6,16.0,24.8,16.5
-2017,10,PIW,OC Indoor,87.163,26.212,17.6,25.95,17.4
-2017,5,PSA,Oak Grove HS (MS),87.05,26.475,17.825,26.15,16.6
-2017,10,PSA,Oak Grove HS (MS),94.0,28.575,18.775,28.475,18.175
-2017,2,PSA,Odessa HS,72.751,20.55,14.1,22.4,15.7
-2017,10,R4,Odessa HS,79.963,24.113,16.15,22.6,17.1
+2017,0,WSA,Northeast Dubois Winds,67.05,28.8,18.6,19.65,0.0
+2017,2,WSA,Northeast Dubois Winds,65.65,25.0,20.1,20.55,0.0
+2017,3,WSA,Northeast Dubois Winds,70.8,28.8,20.7,21.3,0.0
+2017,1,PSA,Northeastern Indoor Percussion,66.726,19.125,12.9,20.9,13.8
+2017,2,PSA,Northeastern Indoor Percussion,71.501,20.4,16.4,20.3,14.4
+2017,3,PSA,Northeastern Indoor Percussion,74.15,24.75,15.1,19.4,14.9
+2017,5,R1,Northeastern Indoor Percussion,79.639,23.663,15.55,24.95,15.475
+2017,7,PSA,Northeastern Indoor Percussion,79.488,24.188,16.125,23.2,15.975
+2017,0,PSA,Northview Indoor Percussion,68.2,19.8,14.3,19.4,14.7
+2017,1,PSA,Northview Indoor Percussion,75.2,22.5,15.4,22.7,14.6
+2017,4,PSA,Northview Indoor Percussion,76.5,24.9,14.5,22.0,15.1
+2017,5,R1,Northview Indoor Percussion,82.225,24.525,16.45,25.025,16.225
+2017,7,PSA,Northview Indoor Percussion,85.976,26.625,17.2,24.525,17.625
+2017,1,PSA,Norwell Winter Percussion,71.925,21.525,14.8,22.0,13.6
+2017,3,PSA,Norwell Winter Percussion,69.101,22.5,14.2,18.5,13.9
+2017,4,PSA,Norwell Winter Percussion,72.101,23.1,13.1,22.3,13.6
+2017,5,R2,Norwell Winter Percussion,78.026,23.925,14.75,24.2,15.15
+2017,7,PSA,Norwell Winter Percussion,81.825,25.2,16.05,24.15,16.425
 2017,3,PIO,Odyssey Indoor Percussion,78.35,22.95,16.0,23.2,16.2
 2017,5,PIO,Odyssey Indoor Percussion,81.1,25.2,15.0,24.6,16.3
-2017,6,PIO,Odyssey Indoor Percussion,84.826,24.975,16.95,26.25,16.65
 2017,8,PIO,Odyssey Indoor Percussion,86.9,25.5,17.3,26.2,17.9
 2017,9,PIO,Odyssey Indoor Percussion,88.125,26.925,17.9,26.0,17.3
-2017,10,R2,Odyssey Indoor Percussion,85.426,25.875,17.3,26.65,15.6
 2017,0,PSO,Old Bridge,75.05,21.5,23.55,15.4,14.6
 2017,2,PSO,Old Bridge,76.8,24.7,22.8,14.1,15.2
 2017,4,PSO,Old Bridge,82.25,25.0,24.75,16.3,16.2
 2017,7,PSO,Old Bridge,86.65,26.2,26.55,17.0,16.9
 2017,8,PSO,Old Bridge,86.85,25.7,26.55,17.5,17.1
-2017,3,PSO,Old Bridge HS,77.75,23.25,15.3,24.2,15.0
-2017,6,PSO,Old Bridge HS,84.7,25.65,16.6,25.45,17.0
-2017,10,R1,Old Bridge HS,88.764,27.638,16.0,27.075,18.05
-2017,1,PSA,Olentangy Liberty HS,74.75,21.0,15.2,23.7,14.85
-2017,4,PSA,Olentangy Liberty HS,81.75,24.15,16.3,25.6,15.7
-2017,10,R3,Olentangy Liberty HS,89.088,26.212,18.75,26.0,18.125
-2017,4,PSA,Olympia HS,79.55,24.6,16.35,23.4,15.2
 2017,3,PSA,Ontario HS,68.951,19.95,14.1,19.7,15.2
 2017,5,R1,Ontario HS,70.8,21.0,14.4,21.5,13.9
 2017,7,PSA,Ontario HS,71.9,21.9,14.3,21.2,14.5
 2017,8,R3,Ontario HS,76.25,23.55,15.2,22.1,15.4
-2017,4,PSA,Opelika HS,78.101,23.7,15.6,24.4,14.4
-2017,5,PSA,Orange County HS,86.3,25.2,17.2,26.5,17.4
-2017,10,R2,Orange County HS,85.575,25.575,16.95,25.7,17.35
-2017,6,PIO,Orange County Independent,86.9,24.9,17.3,26.6,18.1
-2017,10,PIO,Orange County Independent,93.364,28.312,19.05,26.75,19.25
 2017,-1,PHSSRA,Orosi HS Percussion,59.35,18.6,17.25,12.2,11.3
 2017,4,PHSSRA,Orosi HS Percussion,69.05,22.0,22.05,12.7,12.3
 2017,7,PHSSRA,Orosi HS Percussion,65.25,21.2,19.35,12.4,12.3
@@ -934,14 +631,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,7,PSA,Owen J Roberts,66.5,21.1,19.8,12.9,12.7
 2017,8,PSA,Owen J Roberts,72.8,22.6,21.3,14.6,14.3
 2017,-1,PIW,POW Percussion,72.2,21.9,13.9,21.9,14.5
-2017,1,PIW,POW Percussion,80.4,24.3,16.1,24.5,15.5
 2017,4,PIW,POW Percussion,84.275,24.975,17.3,25.2,16.8
-2017,6,PIW,POW Percussion,87.4,26.7,16.9,26.6,17.2
 2017,8,PIW,POW Percussion,89.9,27.3,17.3,27.9,17.4
 2017,9,PIW,POW Percussion,89.338,26.438,17.5,27.9,17.5
-2017,10,PIW,POW Percussion,91.075,27.15,18.3,27.55,18.075
-2017,5,PSA,Pace HS,84.9,25.5,17.3,26.1,16.0
-2017,1,PIA,Pace Percussion Ensemble,73.35,22.05,14.9,21.7,14.7
 2017,3,PIA,Pace Percussion Ensemble,71.95,21.15,14.4,21.4,15.0
 2017,4,PIA,Pace Percussion Ensemble,70.75,20.7,13.45,22.1,14.5
 2017,8,PIA,Pace Percussion Ensemble,77.45,24.75,15.5,22.4,14.8
@@ -955,109 +647,72 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,7,R2,Palisades CHS,82.1,24.3,15.4,26.9,15.5
 2017,8,R2,Palisades CHS,89.35,26.85,17.9,27.1,17.5
 2017,9,PSA,Palisades CHS,86.775,26.625,17.6,25.5,17.05
-2017,3,PSA,Panther Creek HS,83.65,24.45,16.7,26.4,16.1
-2017,5,PSA,Panther Creek HS,86.6,24.6,16.8,28.0,17.2
-2017,3,PIO,Paradigm Percussion,75.851,22.95,15.8,22.4,14.7
-2017,5,PIO,Paradigm Percussion,80.95,24.15,16.6,24.9,15.3
-2017,10,R1,Paradigm Percussion,82.164,24.562,17.4,25.7,14.5
 2017,1,PSA,Parkland,73.3,21.6,23.1,14.4,14.2
 2017,2,PSA,Parkland,77.8,24.2,23.7,14.9,15.0
 2017,7,PSA,Parkland,84.001,26.05,25.65,16.6,15.7
 2017,8,PSA,Parkland,85.951,26.1,25.05,17.3,17.5
-2017,3,PSA,Parkland HS,80.4,25.05,15.6,24.7,15.05
-2017,6,PSA,Parkland HS,81.7,24.15,16.1,25.45,16.0
-2017,10,R2,Parkland HS,86.675,25.95,16.775,26.85,17.1
 2017,3,PIA,Pasadena City College,68.5,20.4,14.1,19.6,14.4
-2017,4,PIA,Pasadena City College,73.95,21.45,15.2,22.5,14.8
 2017,8,PIA,Pasadena City College,83.0,25.2,17.1,24.7,16.0
 2017,9,PIA,Pasadena City College,83.7,24.6,17.2,25.25,16.65
-2017,4,PSW,Pasadena Memorial HS,83.05,24.75,16.8,25.6,15.9
 2017,0,PSA,Patriot HS,73.325,21.825,13.1,23.9,14.5
 2017,3,R1,Patriot HS,72.576,20.475,14.2,21.7,16.2
 2017,5,R2,Patriot HS,79.05,25.05,15.4,23.7,14.9
 2017,8,R2,Patriot HS,84.926,25.575,17.4,25.3,16.65
-2017,5,PSA,Pearl HS,82.301,24.3,16.775,24.85,16.375
-2017,10,R2,Pearl HS,93.475,27.9,18.75,28.225,18.6
-2017,4,PSO,Pearland HS,72.65,22.35,13.4,22.5,14.4
 2017,2,PSA,Penncrest,68.35,23.2,19.05,12.7,13.4
-2017,6,PSA,Penncrest HS,69.4,20.85,13.2,21.1,14.25
 2017,3,PRA,Pennridge,70.4,18.5,21.0,15.7,15.2
 2017,3,PIO,Pennsauken,77.5,23.0,24.0,14.9,15.6
 2017,4,PIO,Pennsauken,83.2,24.5,24.6,16.9,17.2
-2017,5,PIO,Pennsauken Independent,83.025,24.225,16.5,26.2,16.1
-2017,6,PIO,Pennsauken Independent,79.0,23.7,15.6,24.1,15.6
-2017,2,PIO,Percussion Unlimited,78.25,24.15,15.4,23.0,15.7
 2017,1,PSA,Perkiomen Valley,71.3,21.9,21.9,13.9,13.6
 2017,2,PSA,Perkiomen Valley,74.651,22.4,22.8,14.6,14.85
 2017,3,PSA,Perkiomen Valley,77.85,24.1,23.1,15.4,15.25
 2017,7,PSA,Perkiomen Valley,86.55,26.5,26.55,17.3,16.2
 2017,8,PSA,Perkiomen Valley,87.9,25.55,26.25,18.2,17.9
-2017,6,PSA,Perkiomen Valley HS,83.85,24.825,17.45,24.925,16.65
-2017,10,R2,Perkiomen Valley HS,88.351,26.925,17.3,26.775,17.35
-2017,4,PSA,Perry HS,76.275,22.275,15.6,23.5,14.9
-2017,6,PSA,Perry HS,71.9,21.3,15.3,20.9,14.4
-2017,4,PSW,Petal HS,77.4,22.5,15.3,24.9,14.7
-2017,5,PSW,Petal HS,83.175,25.125,16.65,25.65,15.75
-2017,10,R1,Petal HS,85.826,25.125,17.35,26.6,16.75
-2017,3,PIA,Phoenix Drumline,66.8,21.3,13.4,19.0,13.1
-2017,10,R2,Phoenix Drumline,74.7,22.425,15.6,22.1,14.575
+2017,0,PSO,Perry Meridian Indoor Drumline,70.35,20.85,13.6,22.4,13.5
+2017,2,PSO,Perry Meridian Indoor Drumline,76.6,24.3,15.7,22.4,14.2
+2017,3,PSO,Perry Meridian Indoor Drumline,73.401,23.4,15.8,19.8,14.4
+2017,5,PSO,Perry Meridian Indoor Drumline,75.551,22.2,14.85,24.25,14.25
+2017,7,PSO,Perry Meridian Indoor Drumline,79.726,24.45,16.375,23.85,15.05
 2017,1,PSA,Phoenix Indoor Percussion,68.1,21.0,18.6,14.3,14.2
 2017,2,PSA,Phoenix Indoor Percussion,69.45,21.5,19.65,13.8,14.5
 2017,5,PSA,Phoenix Indoor Percussion,77.75,23.0,22.65,15.9,16.2
 2017,7,PSA,Phoenix Indoor Percussion,83.35,24.8,24.75,17.1,16.7
 2017,3,PRA,Phoenixville,82.25,23.9,24.15,17.7,16.5
-2017,4,PIA,Pinnacle Percussion,73.15,22.95,15.5,19.8,14.9
-2017,6,PIA,Pinnacle Percussion,77.125,24.225,15.1,22.7,15.1
+2017,1,PSA,Pike High School/Westside Rhythm,69.825,20.925,14.4,21.2,13.3
+2017,2,PSA,Pike High School/Westside Rhythm,71.725,20.625,14.4,20.7,16.0
+2017,3,PSA,Pike High School/Westside Rhythm,72.2,21.0,14.6,21.6,15.0
+2017,4,PSA,Pike High School/Westside Rhythm,72.651,22.95,14.3,21.2,14.2
+2017,5,R2,Pike High School/Westside Rhythm,75.576,23.175,14.85,22.95,14.6
 2017,8,PIA,Pinnacle Percussion,79.5,23.1,16.4,24.4,15.6
 2017,9,PIA,Pinnacle Percussion,81.75,24.6,16.45,24.5,16.2
-2017,4,PIO,Pioneer Indoor,79.8,23.7,16.2,24.0,15.9
-2017,6,PIO,Pioneer Indoor,84.05,24.75,16.75,25.7,16.85
-2017,10,R1,Pioneer Indoor,85.775,24.225,18.05,26.85,16.65
-2017,4,PSA,Plainfield HS,74.05,20.4,14.9,24.2,14.55
-2017,10,R4,Plainfield HS,85.6,26.4,17.65,24.7,16.85
-2017,4,PSA,Pleasant Grove HS,82.0,24.3,16.7,24.5,16.5
-2017,1,PSO,Plymouth Canton Community Schools,74.5,21.6,13.7,23.6,15.6
-2017,10,R1,Plymouth Canton Community Schools,89.026,26.85,17.275,26.825,18.075
+2017,0,PSA,Plainfield High School Winter Percussion Ensemble,71.4,21.0,13.4,21.9,15.1
+2017,2,PSA,Plainfield High School Winter Percussion Ensemble,69.351,19.35,15.9,20.5,13.6
+2017,3,PSA,Plainfield High School Winter Percussion Ensemble,72.051,22.65,14.8,20.6,14.0
+2017,5,R1,Plainfield High School Winter Percussion Ensemble,75.501,22.65,14.8,22.85,15.2
 2017,7,S,Plymouth Whitemarsh,85.6,42.1,43.5,0.0,0.0
 2017,8,S,Plymouth Whitemarsh,88.3,43.2,45.1,0.0,0.0
-2017,5,PSO,Powhatan HS,79.7,23.7,15.9,24.9,15.2
-2017,10,R1,Powhatan HS,83.113,24.788,16.0,25.225,17.1
-2017,5,PSA,Powhatan Junior HS,67.95,20.25,13.0,21.5,13.2
+2017,0,WSW,Plymouth Winter Performance Ensemble,68.3,26.0,20.55,21.75,0.0
+2017,2,WSW,Plymouth Winter Performance Ensemble,73.35,27.9,21.45,24.0,-0.3
+2017,3,WSW,Plymouth Winter Performance Ensemble,76.05,30.0,22.65,23.4,0.0
 2017,-1,PIW,Pulse Percussion,81.05,24.15,16.5,24.6,15.8
-2017,1,PIW,Pulse Percussion,84.975,25.275,17.0,25.6,17.1
 2017,4,PIW,Pulse Percussion,91.0,27.45,18.35,26.9,18.3
-2017,6,PIW,Pulse Percussion,92.775,27.525,18.6,27.95,18.7
 2017,8,PIW,Pulse Percussion,95.55,28.65,19.0,28.9,19.0
 2017,9,PIW,Pulse Percussion,94.4,28.8,18.225,28.825,18.55
-2017,10,PIW,Pulse Percussion,96.95,28.8,19.7,29.125,19.325
-2017,10,PIA,Purecussion Music,87.713,27.562,16.7,27.3,16.15
-2017,3,PIO,Q2,73.001,22.2,13.7,21.4,15.7
-2017,4,PIO,Q2,77.15,22.35,15.5,24.4,14.9
-2017,10,R2,Q2,85.176,25.425,17.15,27.45,15.15
 2017,2,PRA,Quakertown,84.05,23.8,23.25,18.4,18.6
 2017,3,PRA,Quakertown,85.85,24.8,25.35,17.9,17.8
 2017,5,PRA,Quakertown,90.75,25.6,28.65,17.5,19.0
 2017,7,PRA,Quakertown,90.2,26.1,28.8,17.5,17.8
 2017,8,PRA,Quakertown,91.8,27.3,27.9,18.2,18.4
 2017,-1,PIW,RCC,79.65,23.25,16.3,24.1,16.0
-2017,1,PIW,RCC,84.55,25.65,16.8,25.4,16.7
 2017,4,PIW,RCC,89.3,26.7,18.3,26.2,18.1
-2017,6,PIW,RCC,93.45,27.9,18.7,28.4,18.45
 2017,8,PIW,RCC,93.475,27.825,18.6,28.55,18.5
 2017,9,PIW,RCC,93.438,27.788,18.55,28.35,18.75
-2017,10,PIW,RCC,96.675,28.95,19.6,28.55,19.575
-2017,4,PIA,REEF Independent,77.501,22.8,15.7,23.5,15.5
-2017,10,PIA,REEF Independent,85.138,25.837,16.85,25.1,17.35
 2017,4,PSA,Ramona HS,72.6,21.6,14.3,22.3,14.4
 2017,5,R1,Ramona HS,72.001,19.8,14.7,23.3,14.2
-2017,6,PSA,Ramona HS,69.25,20.55,13.8,21.1,13.8
 2017,8,R1,Ramona HS,76.8,22.2,14.6,23.9,16.1
 2017,2,PSO,Rancho Cucamonga HS,75.425,23.925,14.4,22.15,14.95
-2017,4,PSO,Rancho Cucamonga HS,80.3,23.7,16.2,24.3,16.1
 2017,5,PSO,Rancho Cucamonga HS,82.4,24.3,16.0,25.6,16.5
 2017,7,PSO,Rancho Cucamonga HS,84.5,24.6,16.8,26.6,16.5
 2017,8,R2,Rancho Cucamonga HS,84.826,25.425,16.0,26.7,16.7
-2017,1,PSA,Rancho Starbuck Intermediate School,69.626,21.225,14.2,20.4,13.8
 2017,0,PSA,Rancho Verde HS,66.1,20.4,12.9,19.6,13.2
 2017,4,PSA,Rancho Verde HS,76.851,22.95,15.4,24.1,14.4
 2017,5,R1,Rancho Verde HS,78.451,23.1,15.3,24.05,16.0
@@ -1066,71 +721,30 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,3,PSJ,Rancho-Starbuck IS,68.4,19.2,13.3,21.3,14.6
 2017,4,PSJ,Rancho-Starbuck IS,70.41,19.5,13.11,22.5,15.3
 2017,8,PSJ,Rancho-Starbuck IS,88.438,27.188,17.75,25.45,18.05
-2017,4,PSA,Ravenwood HS,87.65,26.55,17.5,26.4,17.2
-2017,5,PSA,Ravenwood HS,89.65,26.85,18.25,26.6,17.95
-2017,10,R1,Ravenwood HS,86.551,26.175,15.55,27.9,16.925
-2017,3,PIO,Red Wave Indoor,79.65,24.15,16.0,23.8,15.7
 2017,7,PIO,Red Wave Indoor,88.85,26.4,26.85,17.8,17.8
-2017,1,PIW,Redline,77.201,22.95,15.0,23.9,15.35
-2017,4,PIW,Redline,83.0,24.3,16.6,25.7,16.4
-2017,10,PIW,Redline,88.15,26.175,18.2,26.75,17.025
 2017,3,PSA,Redondo Union HS,77.4,22.2,14.4,23.8,17.0
 2017,5,PSA,Redondo Union HS,77.851,24.45,14.9,23.1,15.4
-2017,6,PSA,Redondo Union HS,81.601,23.55,15.9,25.6,16.55
 2017,7,PSA,Redondo Union HS,80.426,24.225,16.5,24.0,15.7
 2017,8,R3,Redondo Union HS,84.475,24.525,17.1,25.7,17.15
 2017,5,PHSSRA,Redwood HS Percussion,74.55,21.6,22.35,16.0,14.6
 2017,7,PHSSRA,Redwood HS Percussion,72.9,22.1,22.8,13.4,14.6
-2017,3,PIA,Resistance Indoor Percussion,78.35,23.85,15.8,24.3,14.4
-2017,10,PIA,Resistance Indoor Percussion,90.825,27.675,17.75,27.85,17.55
-2017,3,PIO,Revelation,78.75,23.55,17.1,22.5,15.6
-2017,10,R4,Revelation,87.676,27.15,17.5,26.45,16.575
-2017,5,PSA,Rex Putnam HS,67.25,20.85,12.9,20.5,13.0
-2017,5,PIA,Rhythm Armada Drumline (RAD),66.6,18.3,13.0,21.4,13.9
-2017,1,PIW,Rhythm X,82.85,24.45,16.5,25.8,16.1
-2017,4,PIW,Rhythm X,88.85,25.8,18.05,26.8,18.2
-2017,6,PIW,Rhythm X,91.425,27.525,18.35,27.2,18.35
-2017,10,PIW,Rhythm X,95.263,28.837,19.175,28.1,19.15
+2017,0,PSA,Richmond High School,66.951,19.35,12.2,21.5,13.9
+2017,1,PSA,Richmond High School,68.4,19.8,14.1,21.6,12.9
+2017,2,PSA,Richmond High School,71.05,19.5,13.6,22.6,15.35
+2017,5,R2,Richmond High School,72.65,21.9,13.75,22.9,14.1
 2017,4,PSA,Ridley,78.501,23.4,22.95,16.0,16.15
-2017,6,PSA,Ridley HS,82.901,24.15,17.2,24.15,17.4
-2017,10,R2,Ridley HS,82.213,24.337,15.925,24.65,17.3
-2017,4,PSA,Rincon University HS,78.4,22.8,15.6,23.9,16.1
-2017,5,PIO,Rise Percussion,82.5,26.1,16.4,25.0,15.0
-2017,10,PIO,Rise Percussion,96.388,29.513,19.675,28.4,18.8
-2017,3,PIO,River City Rhythm,83.7,25.2,17.0,24.5,17.0
-2017,10,R2,River City Rhythm,81.85,25.2,15.9,24.6,16.15
-2017,4,PSA,River Ridge HS,72.25,22.35,14.0,22.4,13.5
-2017,4,PSO,Robert E. Lee HS,82.451,25.35,16.5,25.2,15.4
-2017,3,PIA,Rochester Lourdes,74.4,22.2,14.7,22.8,14.7
-2017,10,R2,Rochester Lourdes,85.489,25.762,16.975,24.95,17.8
-2017,4,PSA,Rockdale County HS,69.45,22.05,13.6,20.6,13.2
-2017,10,R1,Rockdale County HS,75.8,23.4,15.05,22.7,14.65
-2017,3,PSA,Rocori HS,66.9,19.95,13.3,20.4,13.25
 2017,-1,PIA,Rome Free Academy,50.55,15.5,15.15,10.2,9.7
 2017,2,PIA,Rome Free Academy,52.95,16.0,16.35,10.0,10.6
 2017,6,PIA,Rome Free Academy,62.35,18.9,19.35,11.3,12.8
 2017,7,PIA,Rome Free Academy,70.0,22.5,21.0,12.6,13.9
-2017,3,PIA,Roots Percussion Independent,81.85,25.05,15.6,25.9,15.3
-2017,4,PIA,Roots Percussion Independent,91.65,28.05,18.8,26.8,18.0
-2017,4,PSA,Roswell HS,72.4,21.0,14.8,22.5,14.1
 2017,0,PSW,Rowland HS,74.45,22.65,13.9,23.4,14.5
 2017,3,PSW,Rowland HS,79.05,23.25,16.1,23.4,16.3
 2017,5,PSW,Rowland HS,82.35,25.35,16.6,24.7,15.7
-2017,6,PSW,Rowland HS,81.451,24.45,15.0,25.55,16.45
 2017,8,PSW,Rowland HS,89.201,27.0,17.1,27.4,17.7
 2017,9,PSW,Rowland HS,85.951,26.55,16.25,26.8,16.35
 2017,2,PRA,Rustin,72.7,20.7,20.7,15.6,15.7
 2017,4,PRA,Rustin,73.65,21.7,22.35,15.0,14.6
 2017,5,PRA,Rustin,76.35,23.0,21.45,15.3,16.6
-2017,4,PIW,STRYKE Percussion,86.25,25.95,17.7,25.6,17.0
-2017,10,PIW,STRYKE Percussion,90.95,26.7,18.575,27.425,18.25
-2017,4,PIA,STRYKE Percussion 2,84.35,25.95,17.6,24.0,16.8
-2017,10,R3,STRYKE Percussion 2,84.664,25.462,16.7,24.75,17.75
-2017,3,PIO,Saints Percussion,70.951,22.65,15.1,19.6,13.6
-2017,4,PIO,Saints Percussion,73.15,22.05,14.1,22.2,14.8
-2017,10,R2,Saints Percussion,83.976,25.875,16.5,26.45,15.15
-2017,3,PSA,Salem HS,72.475,23.175,14.3,20.7,14.3
-2017,10,R1,Salem HS,81.525,24.75,17.2,23.3,16.275
 2017,-1,PSA,San Bernardino City USD,68.051,19.65,12.8,22.1,13.5
 2017,2,PSA,San Bernardino City USD,72.426,24.525,14.8,19.95,13.15
 2017,5,PSA,San Bernardino City USD,78.8,23.1,16.5,23.4,15.8
@@ -1140,77 +754,40 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,R2,San Marcos HS (SB),76.501,22.5,15.0,23.8,15.2
 2017,7,PSA,San Marcos HS (SB),78.651,24.0,15.6,23.05,16.0
 2017,8,R4,San Marcos HS (SB),79.601,23.4,14.3,25.3,16.6
-2017,1,PSO,San Marino HS,77.65,23.85,16.1,22.2,15.5
 2017,2,PSO,San Marino HS,78.025,24.225,15.8,21.8,16.2
 2017,5,PSO,San Marino HS,83.45,25.05,16.2,25.4,16.8
-2017,6,PSO,San Marino HS,83.639,24.488,16.15,25.95,17.05
 2017,8,R2,San Marino HS,86.55,26.85,16.4,25.5,17.8
 2017,9,PSO,San Marino HS,88.538,26.288,18.0,26.95,17.3
 2017,-1,PSA,Santa Paula HS,62.351,18.75,12.3,18.2,13.1
 2017,3,PSA,Santa Paula HS,64.1,19.5,12.4,19.1,13.1
 2017,8,R2,Santa Paula HS,74.95,23.55,12.4,24.1,14.9
-2017,3,PSO,Saratoga HS,69.801,20.1,14.1,21.0,14.6
-2017,1,PSA,Savanna HS,72.751,22.65,13.5,22.3,14.3
 2017,3,PSA,Savanna HS,74.376,21.075,15.0,22.9,15.4
 2017,8,R3,Savanna HS,83.051,25.5,16.15,24.7,16.7
-2017,4,PSA,Seminole HS,81.75,25.05,16.5,24.1,16.1
-2017,3,PSA,Seymour HS,82.4,23.85,16.9,25.3,16.35
-2017,6,PSA,Seymour HS,85.4,25.35,17.9,25.0,17.15
-2017,10,R2,Seymour HS,90.839,27.262,18.2,26.975,18.4
-2017,1,PIA,Shadow Indoor Percussion,70.5,22.5,14.7,19.7,13.6
-2017,10,R1,Shadow Indoor Percussion,84.076,24.0,16.2,27.75,16.125
-2017,5,PSA,Sherwood HS,85.9,26.1,17.4,25.3,17.1
-2017,6,PSA,Sherwood HS,89.725,26.325,18.1,26.8,18.5
-2017,5,PSA,Sherwood Middle School,66.5,20.7,12.7,20.4,12.7
-2017,0,PIA,Shockwave,64.9,19.2,13.6,19.2,12.9
-2017,10,R1,Shockwave,76.125,22.575,15.6,22.95,15.0
-2017,3,PSA,Sierra Pacific HS,62.45,19.05,12.8,18.1,12.5
-2017,4,PSA,Sierra Vista HS,77.75,23.25,16.7,23.2,14.6
 2017,7,PSA,Sierra Vista HS,72.5,22.2,13.6,22.6,14.1
 2017,4,PSA,Simi Valley HS,61.91,18.9,10.81,19.4,12.8
 2017,5,R2,Simi Valley HS,62.9,16.5,12.8,20.9,12.7
 2017,8,R3,Simi Valley HS,70.65,19.65,14.0,21.4,15.6
-2017,5,PSA,Skyview HS,77.35,22.65,14.5,24.6,15.6
 2017,8,PSJ,Solano MS,87.476,27.15,18.15,24.55,17.625
-2017,4,PIA,Solaris Percussion,79.95,24.45,16.1,23.9,15.5
-2017,10,PIA,Solaris Percussion,89.339,27.488,17.85,27.175,16.825
-2017,5,PSO,South County HS,86.8,25.2,17.8,26.6,17.2
-2017,10,PSO,South County HS,91.576,27.15,18.15,28.025,18.25
-2017,5,PSA,South Granville HS,75.5,22.2,15.5,23.3,14.5
 2017,-1,PSA,South Hills HS,75.2,22.2,14.9,22.8,15.3
 2017,2,PSA,South Hills HS,71.626,23.325,12.5,22.5,13.3
 2017,5,R1,South Hills HS,85.15,25.95,17.4,25.2,16.6
 2017,7,PSA,South Hills HS,83.25,23.85,17.3,25.0,17.1
 2017,8,R4,South Hills HS,90.6,28.05,16.6,27.45,18.5
 2017,9,PSA,South Hills HS,86.763,26.137,18.0,24.675,17.95
-2017,1,PIA,South Indoor Percussion,68.3,22.2,14.1,19.2,12.8
-2017,10,PIA,South Indoor Percussion,86.525,26.85,17.625,25.5,16.55
 2017,3,R1,South Pasadena HS,66.75,19.05,13.2,20.9,13.6
 2017,5,PSA,South Pasadena HS,71.0,21.6,13.7,21.9,13.8
 2017,8,R4,South Pasadena HS,77.725,24.225,13.0,25.8,14.7
-2017,3,PSA,South St. Paul HS,66.525,22.125,13.0,18.2,13.2
-2017,6,PSO,South Torrance HS,75.15,22.05,15.4,23.4,14.3
-2017,5,PSA,Southaven HS,79.188,23.512,15.35,24.225,16.1
 2017,0,PSA,Southern Regional,74.2,20.6,23.4,16.2,14.0
 2017,4,PSA,Southern Regional,80.9,24.5,23.4,16.8,16.2
 2017,5,PSA,Southern Regional,85.95,25.8,26.55,16.9,16.7
 2017,7,PSA,Southern Regional,86.65,26.2,26.85,17.6,16.0
 2017,8,PSA,Southern Regional,88.1,25.25,27.75,18.3,16.8
-2017,6,PSA,Southern Regional HS,79.3,23.55,15.1,22.85,17.8
-2017,0,PSA,Southgate Anderson HS,68.201,20.7,13.9,20.2,13.4
-2017,4,PSA,Southgate Anderson HS,70.65,20.25,14.0,24.1,12.3
-2017,10,R4,Southgate Anderson HS,80.275,23.775,15.4,25.3,15.8
-2017,4,PSA,Southport HS,74.4,24.45,13.7,22.5,13.75
-2017,10,R1,Southport HS,76.5,24.0,14.925,22.725,14.85
-2017,5,PSO,Southridge HS,73.55,24.45,12.6,21.4,15.1
-2017,5,PIA,Southwest Independent Percussion,68.25,19.65,12.3,22.3,14.0
-2017,10,R1,Southwest Independent Percussion,75.15,22.05,14.95,23.2,14.95
-2017,6,PSO,Sparkman HS,86.388,25.388,17.0,27.2,16.8
-2017,3,PIO,Spirit Winter Percussion,86.9,26.7,17.6,25.5,17.1
-2017,6,PIO,Spirit Winter Percussion,90.075,27.375,18.25,26.35,18.1
-2017,10,R2,Spirit Winter Percussion,94.638,28.388,19.125,28.425,18.7
+2017,0,PSA,Southport Indoor Percussion Ensemble,62.55,17.25,14.0,18.7,12.6
+2017,1,PSA,Southport Indoor Percussion Ensemble,62.25,19.35,12.0,18.1,12.8
+2017,3,PSA,Southport Indoor Percussion Ensemble,66.851,18.75,13.4,21.4,13.3
+2017,5,R2,Southport Indoor Percussion Ensemble,70.675,21.525,13.7,21.4,14.05
+2017,9,PSA,Southport Indoor Percussion Ensemble,76.2,22.2,14.4,25.3,14.3
 2017,1,S,Spring Grove,71.4,35.6,35.8,0.0,0.0
-2017,6,PSA,Spring Hill HS,75.4,20.1,16.4,23.1,15.8
 2017,3,PSO,Springford,81.45,24.3,25.05,16.0,16.1
 2017,4,PSO,Springford,82.55,24.9,24.45,16.7,16.5
 2017,5,PSO,Springford,83.8,25.7,25.8,14.9,17.4
@@ -1227,29 +804,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSA,St. Genevieve HS,75.0,24.0,14.4,21.8,14.8
 2017,7,R1,St. Genevieve HS,76.801,22.5,15.5,24.2,14.6
 2017,8,R3,St. Genevieve HS,80.375,24.825,15.8,23.1,16.65
-2017,3,PSA,Stamford HS,76.851,23.25,15.9,22.9,14.8
-2017,6,PSA,Stockdale HS,76.55,23.25,16.2,22.4,14.7
-2017,2,PIA,Stratus Percussion,65.45,19.35,12.7,19.8,13.6
-2017,10,R2,Stratus Percussion,71.5,20.55,14.5,22.1,14.35
 2017,-1,PJHSA,Sundale Union Percussion,58.3,18.85,19.05,10.4,10.0
 2017,2,PJHSA,Sundale Union Percussion,67.75,21.9,20.55,12.5,12.8
 2017,4,PJHSA,Sundale Union Percussion,68.55,22.7,22.95,11.4,11.5
 2017,5,PJHSA,Sundale Union Percussion,74.95,21.3,23.55,16.0,14.1
 2017,7,PJHSA,Sundale Union Percussion,78.45,23.7,27.45,12.8,14.5
-2017,5,PSA,Sunlake HS,83.389,25.462,16.45,24.225,17.25
 2017,0,PSO,Sunny Hills HS,73.1,22.8,13.8,21.5,15.0
 2017,2,PSO,Sunny Hills HS,74.851,23.55,13.4,22.3,15.6
 2017,3,PSO,Sunny Hills HS,77.4,23.1,14.8,22.7,16.8
 2017,5,PSO,Sunny Hills HS,79.001,24.0,14.6,24.1,16.3
-2017,6,PSO,Sunny Hills HS,79.75,23.85,15.15,25.45,15.3
 2017,8,R2,Sunny Hills HS,84.676,24.975,15.2,27.3,17.2
-2017,5,PSA,Sunset HS,75.451,23.85,13.3,24.8,13.5
-2017,3,PIA,Tar River Independent Percussion,67.25,20.85,13.4,19.7,13.3
-2017,5,PIA,Tar River Independent Percussion,67.5,18.9,12.9,22.8,12.9
-2017,10,R1,Tar River Independent Percussion,73.0,21.6,14.7,22.05,14.65
-2017,1,PIW,Tates Creek Indoor Ensemble,71.101,20.4,14.1,22.4,14.2
-2017,6,PIW,Tates Creek Indoor Ensemble,77.851,24.15,15.2,23.7,14.8
-2017,10,R1,Tates Creek Indoor Ensemble,79.425,23.775,15.85,23.95,15.85
 2017,4,PSA,Temecula Valley HS,72.9,21.15,13.85,23.8,14.1
 2017,5,R2,Temecula Valley HS,76.151,23.1,15.4,23.55,14.1
 2017,7,PSA,Temecula Valley HS,76.8,23.1,15.4,22.9,15.4
@@ -1258,29 +822,28 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,2,PSA,Temescal Canyon HS,64.175,20.925,11.8,19.0,12.45
 2017,5,R1,Temescal Canyon HS,68.0,20.1,13.2,21.2,13.5
 2017,8,R2,Temescal Canyon HS,77.475,23.475,15.4,23.8,14.8
-2017,1,PSA,Temple City HS,76.425,23.625,15.9,21.8,15.1
 2017,3,R2,Temple City HS,79.0,22.8,15.4,24.5,16.3
-2017,6,PSA,Temple City HS,82.526,25.125,16.7,23.3,17.4
 2017,8,R1,Temple City HS,84.001,25.65,15.9,24.35,18.1
-2017,10,R2,Temple City HS,89.239,27.562,18.25,25.6,17.825
-2017,4,PSA,Terre Haute South HS,76.851,22.65,15.2,23.6,15.4
-2017,2,PIA,The Crescenters Indoor Percussion,76.85,23.55,14.9,23.0,15.4
-2017,5,PSA,Thomas Jefferson HS,83.251,24.45,16.0,26.8,16.0
+2017,0,PSB,Terre Haute North,62.85,19.35,13.6,17.8,12.1
+2017,1,PSB,Terre Haute North,62.475,19.275,12.5,18.2,12.5
+2017,2,PSB,Terre Haute North,67.25,21.0,13.2,19.05,14.0
+2017,3,PSB,Terre Haute North,66.05,20.25,12.7,19.6,13.5
+2017,4,PSB,Terre Haute North,70.325,20.925,13.4,21.8,14.2
+2017,5,PSB,Terre Haute North,70.951,20.175,14.2,22.55,14.025
+2017,0,PSA,Terre Haute South Indoor Percussion,67.5,18.6,14.1,20.6,14.2
+2017,1,PSA,Terre Haute South Indoor Percussion,67.776,19.275,14.3,18.9,15.3
+2017,2,PSA,Terre Haute South Indoor Percussion,70.801,19.5,15.7,21.5,14.1
+2017,3,PSA,Terre Haute South Indoor Percussion,68.551,19.35,14.3,20.4,14.5
+2017,5,R2,Terre Haute South Indoor Percussion,77.351,23.1,14.85,24.15,15.25
+2017,7,PSA,Terre Haute South Indoor Percussion,79.125,24.3,16.025,23.25,15.55
 2017,4,PJHSA,Thomas Jefferson JHS Percussion,66.25,23.4,23.85,9.0,10.0
 2017,-1,PSO,Thousand Oaks HS,66.85,20.25,13.5,19.7,13.4
 2017,0,PSO,Thousand Oaks HS,66.9,21.3,12.9,19.5,13.2
 2017,5,PSO,Thousand Oaks HS,75.401,22.5,14.9,23.2,14.8
 2017,8,R1,Thousand Oaks HS,82.201,24.9,16.8,25.8,14.7
-2017,5,PSA,Tigard HS,80.35,25.05,14.5,25.5,15.3
-2017,3,PSO,Timber Creek HS,78.7,25.8,15.9,22.6,14.4
-2017,4,PSO,Timber Creek HS,85.85,26.55,15.9,26.1,17.3
-2017,4,PIO,Timbre-Indoor Percussion Ensemble,71.95,20.85,14.4,23.0,13.7
-2017,1,PSA,Torrance HS,78.775,24.075,16.4,22.9,15.4
 2017,3,R1,Torrance HS,79.8,22.65,15.7,24.85,16.6
-2017,6,PSA,Torrance HS,86.65,24.6,17.7,27.25,17.1
 2017,8,R2,Torrance HS,89.6,27.45,18.2,25.35,18.6
 2017,9,PSA,Torrance HS,91.0,27.975,18.55,26.25,18.225
-2017,3,PSA,Totino-Grace HS,73.851,22.65,15.8,20.7,14.7
 2017,-1,PSJ,Townsend JHS,73.7,21.6,13.9,24.0,14.2
 2017,4,PSJ,Townsend JHS,80.475,24.375,15.75,23.8,16.55
 2017,7,PSJ,Townsend JHS,87.9,27.0,16.8,28.3,15.8
@@ -1290,38 +853,33 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,7,R2,Trabuco Hills HS,83.8,24.6,16.2,26.6,16.4
 2017,8,R2,Trabuco Hills HS,88.25,25.65,18.4,26.6,17.6
 2017,9,PSA,Trabuco Hills HS,83.65,24.15,17.6,24.45,17.45
-2017,3,PSA,Travis B. Bryan HS,77.9,25.5,15.0,24.2,13.2
-2017,5,PIO,Tri-City Percussion,67.7,19.5,13.0,20.8,14.4
-2017,3,PSO,Trumbull HS,83.4,25.5,16.5,25.4,16.0
-2017,6,PSO,Trumbull HS,87.125,26.625,17.55,26.05,16.9
-2017,10,R2,Trumbull HS,90.588,26.887,18.3,27.475,17.925
-2017,6,PSA,Tulare Union HS,77.45,21.75,16.8,23.0,15.9
+2017,0,PSB,Tri-West High School,62.9,19.5,13.7,16.5,13.2
+2017,1,PSB,Tri-West High School,59.8,19.05,11.75,15.4,13.6
+2017,2,PSB,Tri-West High School,63.401,19.8,13.0,16.1,14.5
+2017,3,PSB,Tri-West High School,65.05,19.65,13.5,18.9,13.0
+2017,4,PSB,Tri-West High School,72.3,23.4,15.4,19.4,14.1
+2017,5,PSB,Tri-West High School,72.564,22.238,15.3,21.425,13.6
+2017,0,PSB,Triton Central Indoor Percussion,69.05,20.25,12.6,21.7,14.5
+2017,1,PSB,Triton Central Indoor Percussion,66.1,21.6,13.9,17.2,13.4
+2017,2,PSB,Triton Central Indoor Percussion,71.0,20.4,15.1,20.9,14.6
+2017,3,PSB,Triton Central Indoor Percussion,69.3,21.6,15.1,18.8,13.8
+2017,4,PSB,Triton Central Indoor Percussion,77.4,24.0,15.1,21.9,16.4
+2017,5,PSB,Triton Central Indoor Percussion,77.575,24.075,16.05,22.575,14.875
 2017,-1,PHSSA-G,Tulare Union HS Percussion,73.35,21.5,22.65,15.7,13.5
 2017,2,PHSSA-G,Tulare Union HS Percussion,77.2,22.7,24.75,15.25,14.5
 2017,4,PHSSA-G,Tulare Union HS Percussion,81.2,25.05,25.05,16.0,15.1
 2017,5,PHSSA-G,Tulare Union HS Percussion,85.55,25.05,25.5,18.0,17.0
 2017,7,PHSSA-G,Tulare Union HS Percussion,89.4,26.8,28.2,17.6,16.8
-2017,3,PSW,Tulare Western HS,68.3,20.4,14.0,20.6,13.3
 2017,-1,PHSSW,Tulare Western Percussion,74.75,21.4,22.65,16.0,14.7
 2017,2,PHSSW,Tulare Western Percussion,77.45,24.0,23.25,15.1,15.1
 2017,5,PHSSW,Tulare Western Percussion,82.9,24.4,25.2,17.2,16.1
 2017,7,PHSSW,Tulare Western Percussion,79.55,22.6,23.85,16.9,16.2
-2017,5,PSA,Tupelo HS,77.7,24.3,15.3,22.9,15.2
-2017,3,PIO,Tyler Junior College,72.8,23.4,13.3,21.3,14.8
-2017,4,PIO,UTRGV Indoor Percussion Ensemble,74.55,21.45,14.8,24.6,13.7
 2017,2,PSA,Unionville,76.95,23.2,23.25,15.3,15.2
 2017,3,PSA,Unionville,79.8,24.0,25.2,15.0,15.6
 2017,7,PSA,Unionville,89.2,27.0,25.8,18.1,18.3
 2017,8,PSA,Unionville,89.7,26.4,27.6,18.4,17.3
-2017,6,PSA,Unionville HS,88.975,26.775,17.8,26.4,18.0
-2017,10,R2,Unionville HS,93.475,27.9,18.95,27.975,18.65
-2017,1,PIW,United Percussion,80.95,23.85,16.2,25.2,15.7
 2017,4,PIW,United Percussion,87.95,25.7,26.55,17.4,18.3
-2017,6,PIW,United Percussion,88.3,26.85,18.15,25.8,17.5
 2017,8,PIW,United Percussion,88.15,26.2,27.75,17.0,17.2
-2017,10,PIW,United Percussion,94.051,28.575,18.675,28.15,18.65
-2017,4,PIA,Unity Percussion,82.65,25.35,17.1,23.7,16.5
-2017,10,PIA,Unity Percussion,94.488,28.238,19.225,27.975,19.05
 2017,3,R1,Upland HS,68.301,19.2,13.8,21.3,14.0
 2017,4,PSA,Upland HS,74.08,21.6,15.03,23.2,14.25
 2017,5,R2,Upland HS,79.8,23.55,16.4,23.65,16.2
@@ -1338,9 +896,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,PSA,Upper Moreland,83.65,25.3,24.45,16.7,17.2
 2017,7,PSA,Upper Moreland,81.301,25.45,24.6,16.05,15.2
 2017,8,PSA,Upper Moreland,84.351,25.2,25.35,16.8,17.0
-2017,6,PSA,Upper Moreland HS,77.15,23.7,14.55,23.6,15.3
-2017,5,PSA,Urbana HS,75.625,22.275,14.2,24.4,14.75
-2017,10,R2,Urbana HS,82.3,25.2,15.8,24.9,16.4
+2017,3,PSO,VIctor J Andrew HS,81.275,26.475,17.1,21.4,16.3
 2017,0,PSJ,Vail Ranch MS,69.9,21.9,12.2,23.4,12.4
 2017,4,PSJ,Vail Ranch MS,70.55,21.0,12.95,22.6,14.0
 2017,5,PSJ,Vail Ranch MS,79.8,23.7,17.0,23.4,15.7
@@ -1351,14 +907,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,5,R1,Valencia HS (OC),82.75,25.05,16.2,24.5,17.0
 2017,7,PSA,Valencia HS (OC),82.9,25.2,17.0,23.8,16.9
 2017,8,R1,Valencia HS (OC),81.201,23.7,15.4,25.0,17.1
-2017,5,PSA,Vandebilt Catholic HS,74.05,22.05,14.4,24.0,13.6
-2017,3,PSA,Vanden HS,73.5,22.2,14.8,22.1,14.4
-2017,4,PIO,Vegas Vanguard,85.65,26.55,17.8,24.6,16.7
-2017,6,PIO,Vegas Vanguard,88.638,26.062,18.2,26.65,17.725
-2017,10,R3,Vegas Vanguard,86.389,25.087,16.825,26.95,17.525
 2017,3,PIO,Velocity Independent,79.4,24.3,15.9,22.6,16.6
 2017,5,PIO,Velocity Independent,75.1,21.6,14.8,23.3,15.4
-2017,6,PIO,Velocity Independent,77.201,22.2,15.0,24.7,15.3
 2017,7,PIO,Velocity Independent,80.65,24.45,16.7,23.1,16.4
 2017,8,PIO,Velocity Independent,84.45,25.05,17.1,25.6,16.7
 2017,9,PIO,Velocity Independent,82.65,23.85,16.9,25.1,16.8
@@ -1367,21 +917,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,3,PIO,Vessel,83.45,24.45,16.9,24.6,17.5
 2017,8,PIO,Vessel,91.3,27.3,18.1,27.7,18.2
 2017,9,PIO,Vessel,91.15,27.3,18.65,27.15,18.05
-2017,1,PSA,Victor HS,79.75,25.05,15.9,23.1,15.7
-2017,10,PSA,Victor HS,94.213,28.763,18.4,28.1,18.95
 2017,-1,PSA,Victor Indoor Percussion Ensemble,76.65,22.3,23.55,15.3,15.5
 2017,0,PSA,Victor Indoor Percussion Ensemble,78.6,23.8,23.4,15.5,15.9
 2017,3,PSA,Victor Indoor Percussion Ensemble,82.7,24.7,25.2,16.3,16.5
-2017,1,PSO,Victor J. Andrew HS,82.0,24.6,16.0,25.2,16.2
-2017,6,PSO,Victor J. Andrew HS,89.663,26.587,17.95,27.7,17.425
-2017,10,PSO,Victor J. Andrew HS,95.4,28.8,19.275,28.55,18.775
-2017,3,PIW,Vigilantes Indoor Percussion,78.45,23.25,16.2,23.8,15.2
-2017,10,PIW,Vigilantes Indoor Percussion,85.5,25.95,17.1,25.2,17.25
-2017,4,PIO,Violet Crown Independent,81.25,23.55,16.6,25.0,16.1
-2017,10,R3,Violet Crown Independent,82.851,25.05,16.1,25.2,16.5
-2017,4,PIA,Vision Percussion,79.9,24.0,16.5,23.0,16.4
-2017,6,PIA,Vision Percussion,88.05,27.15,17.5,24.8,18.6
-2017,4,PSA,Vista Grande HS,67.85,19.65,13.7,21.7,12.8
+2017,0,PSA,Vincennes Indoor Percussion,68.75,18.45,14.6,21.2,14.5
+2017,3,PSA,Vincennes Indoor Percussion,73.6,25.05,13.95,19.8,14.8
+2017,4,PSA,Vincennes Indoor Percussion,78.825,24.525,15.2,22.4,16.7
+2017,5,R1,Vincennes Indoor Percussion,80.95,24.375,16.05,25.225,15.3
+2017,7,PSA,Vincennes Indoor Percussion,83.901,26.85,16.475,23.7,16.875
 2017,0,PSA,Vista HS,73.025,21.225,13.4,24.2,14.2
 2017,3,R2,Vista HS,71.701,20.7,14.5,23.3,13.2
 2017,5,R2,Vista HS,80.2,24.15,15.7,24.85,15.5
@@ -1392,72 +935,56 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,7,PSO,Vista Murrieta HS,87.35,26.85,16.6,27.1,16.8
 2017,8,R1,Vista Murrieta HS,91.2,27.0,18.0,27.9,18.3
 2017,9,PSO,Vista Murrieta HS,92.438,27.638,17.9,28.45,18.45
-2017,6,PSW,Walled Lake Central HS,81.8,24.6,16.25,25.25,15.7
-2017,10,R2,Walled Lake Central HS,86.676,25.425,17.5,26.8,16.95
-2017,3,PSA,Waller HS,75.55,24.15,15.2,22.7,13.5
-2017,4,PSA,Waller HS,81.55,24.75,16.0,24.4,16.4
 2017,0,PSJ,Warm Springs MS,63.55,19.95,11.0,20.0,12.6
 2017,4,PSJ,Warm Springs MS,66.171,18.75,12.67,21.4,13.35
 2017,7,PSJ,Warm Springs MS,77.25,22.65,15.2,24.4,15.0
 2017,8,PSJ,Warm Springs MS,83.8,26.85,16.1,24.05,16.8
-2017,4,PIA,Warner University Royalty Percussion,77.001,22.8,15.9,22.6,15.7
-2017,10,R1,Warner University Royalty Percussion,82.676,23.85,16.5,25.4,16.925
-2017,5,PSA,Warren Central HS,79.701,24.15,16.45,23.15,15.95
-2017,10,R2,Warren Central HS,86.125,26.325,16.45,26.1,17.25
 2017,3,R2,Warren HS,68.401,19.5,13.8,21.5,13.6
 2017,5,R1,Warren HS,76.251,20.4,15.8,23.35,16.7
 2017,8,R2,Warren HS,84.276,24.525,17.2,26.15,16.4
-2017,4,PIO,Weber State Indoor Percussion,78.3,23.4,16.5,23.3,15.1
+2017,0,PSB,Washington Indoor Drumline,55.751,17.55,12.0,14.4,11.8
+2017,4,PSB,Washington Indoor Drumline,64.151,19.95,13.2,18.7,12.3
+2017,5,PSB,Washington Indoor Drumline,65.725,19.425,13.45,19.5,13.35
 2017,0,PSA,Webster Percussion Theater,65.05,20.6,18.45,12.9,13.1
 2017,3,PSA,Webster Percussion Theater,67.951,20.2,21.15,13.2,13.4
 2017,4,PSA,Webster Percussion Theater,67.251,21.0,19.65,13.2,13.4
 2017,6,PSA,Webster Percussion Theater,66.451,18.5,20.85,13.5,13.6
 2017,7,PSA,Webster Percussion Theater,72.451,22.2,21.15,14.5,14.6
-2017,0,PSA,West Bloomfield HS,71.9,21.9,14.9,21.4,13.7
-2017,6,PSA,West Bloomfield HS,86.375,25.95,17.1,26.05,17.275
-2017,10,R1,West Bloomfield HS,91.313,27.712,18.125,26.525,18.95
-2017,4,PSA,West Forsyth HS,84.05,25.95,17.0,24.6,16.5
+2017,0,PSB,West Clark Winter Percussion,61.001,18.0,10.0,21.2,11.8
+2017,1,PSB,West Clark Winter Percussion,56.451,18.15,10.1,15.5,12.7
+2017,3,PSB,West Clark Winter Percussion,63.05,21.45,13.1,15.7,12.8
+2017,4,PSB,West Clark Winter Percussion,63.55,18.75,12.4,19.2,13.2
+2017,5,PSB,West Clark Winter Percussion,65.425,18.675,13.25,20.3,13.2
 2017,-1,PSA,West HS (Torrance),71.2,19.8,13.2,24.2,14.0
 2017,2,PSA,West HS (Torrance),76.175,24.675,15.0,22.15,14.35
 2017,3,R2,West HS (Torrance),74.451,19.95,14.2,25.5,14.8
 2017,5,R2,West HS (Torrance),76.65,21.9,15.75,23.2,15.8
-2017,3,PSA,West Milford HS,71.7,22.5,14.5,21.3,13.4
-2017,6,PSA,West Milford HS,80.825,26.175,16.7,23.05,14.9
 2017,5,PSO,West Ranch HS,84.6,26.4,16.9,23.9,17.4
-2017,6,PSO,West Ranch HS,82.701,24.75,16.2,25.35,16.4
 2017,7,PSO,West Ranch HS,88.75,27.75,17.9,25.3,17.8
 2017,8,R2,West Ranch HS,87.5,26.4,18.7,26.1,16.3
 2017,9,PSO,West Ranch HS,83.25,24.825,16.825,25.0,16.6
 2017,5,PSA,Westfield,76.551,22.5,24.75,13.8,15.5
-2017,3,PSA,Westhill HS,78.451,24.9,15.2,23.6,14.75
-2017,6,PSA,Westhill HS,82.901,25.65,16.575,24.075,16.6
-2017,10,R4,Westhill HS,88.788,26.587,17.6,27.45,17.15
 2017,3,PSO,Westlake HS,82.6,24.6,16.7,23.9,17.4
 2017,5,PSO,Westlake HS,81.201,24.6,15.7,24.8,16.1
 2017,8,R1,Westlake HS,85.076,26.925,14.2,26.5,17.45
 2017,9,PSO,Westlake HS,84.176,24.825,17.05,25.85,16.45
 2017,-1,PSA,Westminster HS,70.801,20.1,14.1,22.7,13.9
-2017,1,PSA,Westminster HS,75.451,23.85,14.9,22.0,14.7
 2017,3,R1,Westminster HS,74.55,22.05,14.7,22.4,15.4
-2017,6,PSA,Westminster HS,85.301,25.5,16.9,25.9,17.0
 2017,7,R1,Westminster HS,84.35,25.35,16.2,27.3,15.5
 2017,8,R4,Westminster HS,88.5,27.6,17.6,25.0,18.3
 2017,9,PSA,Westminster HS,85.626,26.025,17.125,25.575,16.9
-2017,5,PSA,Westview HS,84.6,26.1,16.5,24.7,17.3
+2017,0,WSA,Wildkat Winter Winds,66.8,27.8,18.6,20.4,0.0
+2017,3,WSA,Wildkat Winter Winds,72.95,30.2,20.55,22.2,0.0
 2017,4,PSO,William S. Hart HS,80.04,24.6,15.64,23.8,16.0
 2017,7,PSO,William S. Hart HS,80.151,24.45,15.3,24.7,15.7
 2017,8,R1,William S. Hart HS,87.051,27.45,14.4,27.6,17.6
 2017,9,PSO,William S. Hart HS,83.613,24.188,16.575,26.3,16.55
-2017,4,PSO,Williams Field HS,79.4,24.0,15.3,24.6,15.5
-2017,6,PSO,Williams Field HS,80.451,24.0,15.95,24.7,15.8
 2017,2,PSA,Williamstown,69.55,22.1,20.25,13.5,13.7
 2017,3,PSA,Williamstown,73.501,23.2,22.5,13.3,14.5
 2017,4,PSA,Williamstown,76.501,23.8,24.45,13.45,14.8
-2017,6,PSA,Williamstown HS,78.05,24.3,15.25,22.9,15.6
-2017,5,PSA,Windsor HS,71.7,21.6,13.8,22.6,13.7
-2017,4,PSO,Winston Churchill HS,81.251,24.15,16.1,25.0,16.0
-2017,10,R1,Winston Churchill HS,83.8,25.65,15.925,26.25,15.975
-2017,5,PSA,Woodbridge Senior HS,82.601,24.0,17.2,26.5,14.9
+2017,3,PSB,Winchester Community High School,63.201,18.45,12.6,19.5,12.65
+2017,4,PSB,Winchester Community High School,65.65,19.8,12.9,20.2,12.75
+2017,5,PSB,Winchester Community High School,70.776,21.6,14.525,21.7,12.95
 2017,3,PSJ,Woodcrest JHS,69.45,20.55,14.1,21.5,13.3
 2017,5,PSJ,Woodcrest JHS,76.65,23.85,15.1,22.2,15.5
 2017,7,PSJ,Woodcrest JHS,76.35,23.55,15.5,22.1,15.2
@@ -1466,5 +993,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2017,4,PHSSRA,Woodlake HS Percussion,64.55,20.8,21.15,12.4,10.2
 2017,5,PHSSRA,Woodlake HS Percussion,64.75,17.5,21.15,14.9,11.2
 2017,7,PHSSRA,Woodlake HS Percussion,66.45,20.9,20.85,12.1,12.6
-2017,4,PSA,Zionsville Community HS,86.5,25.5,17.1,26.9,17.0
-2017,10,PSA,Zionsville Community HS,91.05,26.7,18.8,27.075,18.475
+2017,0,PSA,Zionsville Indoor Percussion,77.15,22.95,15.4,24.2,14.6
+2017,1,PSA,Zionsville Indoor Percussion,75.325,23.025,14.9,21.8,15.6
+2017,2,PSA,Zionsville Indoor Percussion,81.0,24.6,17.5,23.0,15.9
+2017,3,PSA,Zionsville Indoor Percussion,80.1,22.8,16.4,24.8,16.1
+2017,5,R2,Zionsville Indoor Percussion,86.85,25.95,17.05,26.65,17.2
+2017,7,PSA,Zionsville Indoor Percussion,91.85,27.75,18.3,27.725,18.075
+2017,9,PSA,Zionsville Indoor Percussion,85.1,24.3,17.5,25.9,17.4

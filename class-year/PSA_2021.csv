@@ -1,14 +1,106 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2021,0,PSA,Benton Indoor Percussion,66.7,20.1,13.1,20.5,13.0
-2021,1,PSA,Benton Indoor Percussion,71.2,22.2,13.7,21.1,14.2
-2021,2,PSA,Benton Indoor Percussion,75.9,23.4,14.3,23.3,14.9
-2021,7,PSA,Benton Indoor Percussion,83.8,26.4,16.0,25.3,16.1
-2021,0,PSA,Bryant Indoor Percussion,68.65,20.25,13.7,20.8,13.9
-2021,1,PSA,Bryant Indoor Percussion,72.9,23.4,13.8,21.0,14.7
-2021,7,PSA,Bryant Indoor Percussion,86.05,26.55,17.8,25.4,16.3
-2021,0,PSA,Lake Hamilton HS Indoor Percussion,71.7,21.9,14.1,21.2,14.5
-2021,1,PSA,Lake Hamilton HS Indoor Percussion,74.4,23.25,13.85,22.7,14.6
-2021,7,PSA,Lake Hamilton HS Indoor Percussion,89.3,27.9,18.3,26.1,17.0
-2021,0,PSA,Siloam Springs Indoor Percussion,66.55,19.65,13.2,20.9,12.8
-2021,2,PSA,Siloam Springs Indoor Percussion,79.15,24.15,15.3,24.1,15.6
-2021,7,PSA,Siloam Springs Indoor Percussion,83.95,26.25,16.8,25.0,15.9
+2021,2,PSA,Benton Indoor Percussion,66.7,20.1,13.1,20.5,13.0
+2021,3,PSA,Benton Indoor Percussion,71.2,22.2,13.7,21.1,14.2
+2021,4,PSA,Benton Indoor Percussion,75.9,23.4,14.3,23.3,14.9
+2021,9,PSA,Benton Indoor Percussion,83.8,26.4,16.0,25.3,16.1
+2021,2,PSA,Bryant Indoor Percussion,68.65,20.25,13.7,20.8,13.9
+2021,3,PSA,Bryant Indoor Percussion,72.9,23.4,13.8,21.0,14.7
+2021,9,PSA,Bryant Indoor Percussion,86.05,26.55,17.8,25.4,16.3
+2021,3,PSA,Corydon Central Winter Percussion,70.4,20.1,13.6,22.4,14.3
+2021,4,PSA,Corydon Central Winter Percussion,71.5,21.6,14.0,21.8,14.1
+2021,1,PSA,DeKalb Winter Percussion,71.5,22.2,13.9,22.3,13.1
+2021,3,PSA,DeKalb Winter Percussion,79.65,23.55,15.7,24.4,16.0
+2021,4,PSA,DeKalb Winter Percussion,79.325,24.075,15.0,25.1,15.15
+2021,5,PSA,DeKalb Winter Percussion,84.276,27.075,15.9,25.6,15.7
+2021,6,PSA,DeKalb Winter Percussion,83.401,25.8,16.0,24.8,16.8
+2021,1,PSA,Edgewood High School,72.051,22.65,13.6,22.4,13.4
+2021,4,PSA,Edgewood High School,81.176,24.825,16.8,23.6,15.95
+2021,5,PSA,Edgewood High School,86.175,27.675,17.0,24.3,17.2
+2021,6,PSA,Edgewood High School,87.4,27.3,18.1,25.0,17.0
+2021,1,PSA,Franklin Community High School Indoor Percussion,73.351,22.35,14.8,21.8,14.4
+2021,3,PSA,Franklin Community High School Indoor Percussion,78.65,22.65,15.4,24.3,16.3
+2021,4,PSA,Franklin Community High School Indoor Percussion,84.275,25.425,17.6,24.4,16.85
+2021,5,PSA,Franklin Community High School Indoor Percussion,86.775,26.025,17.9,25.2,17.65
+2021,6,PSA,Franklin Community High School Indoor Percussion,89.5,28.05,18.5,24.65,18.3
+2021,3,PSA,Goshen High School,83.35,24.45,16.7,25.6,16.6
+2021,4,PSA,Goshen High School,83.651,25.8,16.2,25.15,16.5
+2021,3,PSA,Greenwood Indoor Percussion,80.25,22.35,16.7,24.2,17.0
+2021,4,PSA,Greenwood Indoor Percussion,79.601,23.7,18.3,21.2,16.4
+2021,5,PSA,Greenwood Indoor Percussion,86.051,26.85,18.1,24.0,17.1
+2021,6,PSA,Greenwood Indoor Percussion,84.951,26.25,17.4,24.15,17.15
+2021,1,PSA,Hamilton Southeastern High School,75.3,22.5,15.8,22.8,14.2
+2021,4,PSA,Hamilton Southeastern High School,79.351,25.05,16.3,22.3,15.7
+2021,5,PSA,Hamilton Southeastern High School,86.076,26.175,16.5,25.5,17.9
+2021,6,PSA,Hamilton Southeastern High School,87.275,26.025,17.25,25.6,18.4
+2021,2,PSA,Knox Percussion Ensemble,74.4,22.05,14.3,23.25,14.8
+2021,3,PSA,Knox Percussion Ensemble,74.2,21.6,13.7,23.2,15.7
+2021,5,PSA,Knox Percussion Ensemble,81.65,26.25,16.2,24.4,14.8
+2021,6,PSA,Knox Percussion Ensemble,79.2,24.15,16.1,23.55,15.4
+2021,1,PSA,Lake Central High School,67.75,20.85,13.7,20.5,12.7
+2021,3,PSA,Lake Central High School,72.05,21.45,13.9,22.3,14.4
+2021,5,PSA,Lake Central High School,74.45,23.85,14.8,22.0,13.8
+2021,6,PSA,Lake Central High School,70.65,20.85,13.5,22.1,14.2
+2021,2,PSA,Lake Hamilton HS Indoor Percussion,71.7,21.9,14.1,21.2,14.5
+2021,3,PSA,Lake Hamilton HS Indoor Percussion,74.4,23.25,13.85,22.7,14.6
+2021,9,PSA,Lake Hamilton HS Indoor Percussion,89.3,27.9,18.3,26.1,17.0
+2021,0,PSA,Martinsville Indoor Percussion,67.951,20.55,12.9,21.5,13.0
+2021,1,PSA,Martinsville Indoor Percussion,71.751,22.2,13.95,22.1,13.5
+2021,2,PSA,Martinsville Indoor Percussion,71.501,20.7,14.3,21.8,14.7
+2021,3,PSA,Martinsville Indoor Percussion,77.801,23.4,14.2,22.6,17.6
+2021,4,PSA,Martinsville Indoor Percussion,75.95,22.2,15.35,23.0,15.4
+2021,5,PSA,Martinsville Indoor Percussion,78.85,24.15,16.0,22.5,16.2
+2021,6,PSA,Martinsville Indoor Percussion,79.95,24.45,15.8,23.7,16.0
+2021,0,PSA,New Palestine Audio Theater,64.151,20.85,12.2,18.8,12.3
+2021,2,PSA,New Palestine Audio Theater,72.15,22.65,12.5,23.1,13.9
+2021,3,PSA,New Palestine Audio Theater,66.1,18.9,13.2,21.7,12.3
+2021,1,PSA,Noblesville Indoor Percussion Ensemble,78.8,24.6,15.2,23.8,15.2
+2021,2,PSA,Noblesville Indoor Percussion Ensemble,83.0,25.8,15.6,24.8,16.8
+2021,3,PSA,Noblesville Indoor Percussion Ensemble,84.8,25.2,17.0,24.8,17.8
+2021,4,PSA,Noblesville Indoor Percussion Ensemble,84.85,24.9,17.55,25.3,17.1
+2021,5,PSA,Noblesville Indoor Percussion Ensemble,84.501,27.6,17.5,22.6,16.8
+2021,6,PSA,Noblesville Indoor Percussion Ensemble,88.65,27.6,18.65,24.7,17.7
+2021,1,PSA,Northview Indoor Percussion,72.0,21.6,14.2,21.2,15.0
+2021,2,PSA,Northview Indoor Percussion,72.25,21.45,14.5,21.2,15.1
+2021,3,PSA,Northview Indoor Percussion,80.4,23.1,17.2,22.8,17.3
+2021,4,PSA,Northview Indoor Percussion,83.675,23.625,18.8,23.05,18.2
+2021,5,PSA,Northview Indoor Percussion,85.701,26.4,18.5,22.8,18.0
+2021,6,PSA,Northview Indoor Percussion,84.576,25.725,17.1,23.95,17.8
+2021,0,PSA,Norwell Winter Percussion,69.65,21.45,14.3,20.9,13.0
+2021,1,PSA,Norwell Winter Percussion,70.901,21.6,13.9,21.5,13.9
+2021,3,PSA,Norwell Winter Percussion,70.05,20.25,14.3,20.6,14.9
+2021,4,PSA,Norwell Winter Percussion,71.4,21.15,14.5,20.7,15.05
+2021,5,PSA,Norwell Winter Percussion,76.675,25.275,14.9,21.2,15.3
+2021,6,PSA,Norwell Winter Percussion,75.7,22.2,15.0,22.6,15.9
+2021,0,PSA,Perry Meridian Indoor Percussion,70.95,22.65,12.8,23.0,12.5
+2021,2,PSA,Perry Meridian Indoor Percussion,73.0,21.6,14.9,21.7,14.8
+2021,3,PSA,Perry Meridian Indoor Percussion,77.401,22.5,16.2,22.2,16.5
+2021,5,PSA,Perry Meridian Indoor Percussion,80.25,26.1,15.85,22.7,15.6
+2021,6,PSA,Perry Meridian Indoor Percussion,76.9,23.1,15.1,23.2,15.5
+2021,0,PSA,Pike Indoor Percussion,70.85,22.05,13.4,22.0,13.4
+2021,3,PSA,Pike Indoor Percussion,76.151,21.75,16.5,22.0,15.9
+2021,4,PSA,Pike Indoor Percussion,76.4,23.25,15.8,22.45,14.9
+2021,5,PSA,Pike Indoor Percussion,83.9,26.7,16.6,24.7,15.9
+2021,6,PSA,Pike Indoor Percussion,81.4,24.3,16.5,23.9,16.7
+2021,2,PSA,Siloam Springs Indoor Percussion,66.55,19.65,13.2,20.9,12.8
+2021,4,PSA,Siloam Springs Indoor Percussion,79.15,24.15,15.3,24.1,15.6
+2021,9,PSA,Siloam Springs Indoor Percussion,83.95,26.25,16.8,25.0,15.9
+2021,0,PSA,Southport Indoor Percussion Ensemble,72.15,23.7,13.6,21.65,13.2
+2021,1,PSA,Southport Indoor Percussion Ensemble,74.1,23.1,14.2,23.1,13.7
+2021,3,PSA,Southport Indoor Percussion Ensemble,74.451,21.15,14.8,22.1,16.4
+2021,5,PSA,Southport Indoor Percussion Ensemble,78.9,25.8,15.4,22.2,15.5
+2021,6,PSA,Southport Indoor Percussion Ensemble,82.051,25.2,17.3,23.15,16.4
+2021,0,PSA,Vincennes Indoor Percussion,74.25,23.25,14.0,23.1,13.9
+2021,1,PSA,Vincennes Indoor Percussion,77.05,23.55,14.6,23.9,15.0
+2021,2,PSA,Vincennes Indoor Percussion,76.2,22.2,15.4,22.6,16.0
+2021,4,PSA,Vincennes Indoor Percussion,85.1,25.5,17.4,25.5,16.7
+2021,5,PSA,Vincennes Indoor Percussion,89.65,28.65,17.1,26.2,17.7
+2021,6,PSA,Vincennes Indoor Percussion,89.6,27.15,18.4,25.45,18.6
+2021,4,PSA,Westfield Indoor Percussion,77.75,23.1,15.1,23.7,15.85
+2021,5,PSA,Westfield Indoor Percussion,81.375,26.625,15.3,22.3,17.15
+2021,6,PSA,Westfield Indoor Percussion,81.9,24.6,16.65,24.05,16.6
+2021,0,PSA,Zionsville Indoor Percussion,76.4,24.0,14.8,22.5,15.1
+2021,1,PSA,Zionsville Indoor Percussion,82.6,24.9,16.2,25.0,16.5
+2021,2,PSA,Zionsville Indoor Percussion,80.9,24.3,16.2,24.3,16.1
+2021,3,PSA,Zionsville Indoor Percussion,84.55,25.35,17.4,24.9,16.9
+2021,4,PSA,Zionsville Indoor Percussion,89.8,27.9,18.7,24.85,18.35
+2021,5,PSA,Zionsville Indoor Percussion,93.7,28.8,18.8,27.1,19.0

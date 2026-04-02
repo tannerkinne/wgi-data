@@ -1,19 +1,15 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
 2018,4,PIA,Aftermath,68.75,20.0,22.35,12.8,13.6
 2018,11,PIA,Aftermath,75.6,21.9,22.2,15.2,16.3
-2018,7,PIA,Aftermath Percussion,70.95,21.75,14.45,20.25,14.5
-2018,8,PIA,Calgary Stampede Showband Indoor Percussion,82.4,24.6,16.45,24.9,16.45
-2018,5,PIA,Chops Percussion Indoor,73.1,21.9,14.9,22.3,14.0
 2018,5,PIA,Cornell Indoor Drumline,67.2,18.4,21.0,13.6,14.2
 2018,10,PIA,Cornell Indoor Drumline,73.2,21.6,21.6,15.3,14.7
 2018,3,PIA,Cornerstone Percussion,66.8,20.1,13.9,19.0,13.8
-2018,4,PIA,Cornerstone Percussion,73.45,22.05,13.8,22.0,15.6
 2018,6,PIA,Cornerstone Percussion,74.55,22.35,14.3,22.3,15.6
-2018,8,PIA,Cornerstone Percussion,74.751,22.8,14.85,22.35,14.75
 2018,10,PIA,Cornerstone Percussion,83.6,25.2,15.7,25.6,17.1
 2018,11,PIA,Cornerstone Percussion,82.775,24.975,15.75,25.45,16.6
-2018,5,PIA,Crossroads Percussion,80.3,22.8,16.3,25.1,16.1
-2018,6,PIA,Crystal Lake Thunder,70.55,20.55,13.4,22.9,13.7
+2018,3,PIA,Decatur County Indoor,65.05,20.25,12.6,19.1,13.1
+2018,6,PIA,Decatur County Indoor,65.75,20.55,12.6,19.4,13.2
+2018,10,PIA,Decatur County Indoor,70.838,21.938,13.7,20.2,15.0
 2018,2,PIA,Dundee Indoor Percussion,60.4,18.4,17.4,13.0,11.6
 2018,4,PIA,Dundee Indoor Percussion,66.25,20.4,19.95,13.4,12.5
 2018,7,PIA,Dundee Indoor Percussion,75.5,24.8,21.6,14.4,14.7
@@ -21,52 +17,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2018,10,PIA,Dundee Indoor Percussion,79.8,23.5,24.3,15.7,16.3
 2018,3,PIA,East Coast Percussion,72.0,22.8,20.7,14.1,14.4
 2018,4,PIA,East Coast Percussion,74.0,21.2,22.5,15.6,14.7
-2018,7,PIA,East Coast Percussion,80.475,25.575,16.2,23.1,15.6
 2018,11,PIA,East Coast Percussion,82.3,26.0,24.3,16.0,16.0
-2018,4,PIA,FIU Indoor Percussion,74.5,23.1,15.0,22.4,14.0
-2018,12,PIA,FIU Indoor Percussion,92.313,28.013,18.25,28.5,17.55
-2018,12,PIA,Farmington United Percussion Ensemble,91.076,27.525,18.3,27.4,17.85
-2018,6,PIA,IMPACT Percussion,84.75,25.95,17.2,24.9,16.7
-2018,12,PIA,IMPACT Percussion,95.3,29.25,18.975,28.5,18.575
-2018,4,PIA,Infinity 3,69.5,22.8,13.0,21.0,12.7
-2018,3,PIA,Marian University Knight Star Percussion,71.05,23.25,14.8,19.4,13.6
-2018,3,PIA,Modulation Z,79.15,24.45,16.1,23.1,15.5
-2018,5,PIA,Myrtle Beatz Independent Percussion,71.8,21.9,13.8,21.4,14.7
-2018,8,PIA,Nomad Indoor,82.95,24.75,16.6,24.8,16.8
-2018,5,PIA,North Greenville Indoor,75.55,20.55,15.7,24.1,15.2
-2018,6,PIA,North Star Independent,70.75,19.95,14.2,23.4,13.2
+2018,5,PIA,Marian University Knight Star Percussion,74.2,23.1,14.7,20.2,16.2
+2018,7,PIA,Marian University Knight Star Percussion,77.1,22.8,15.3,22.5,16.5
+2018,8,PIA,Marian University Knight Star Percussion,78.2,23.025,15.1,24.225,15.85
+2018,10,PIA,Marian University Knight Star Percussion,77.1,23.325,15.5,22.575,15.7
 2018,6,PIA,Onondaga Community College,71.75,23.3,20.55,13.9,14.0
 2018,9,PIA,Onondaga Community College,78.7,24.6,22.2,15.5,16.4
 2018,10,PIA,Onondaga Community College,79.9,22.7,24.0,16.2,17.0
 2018,1,PIA,Pace Percussion Ensemble,68.25,20.25,12.1,21.1,14.8
-2018,4,PIA,Pace Percussion Ensemble,72.4,21.9,14.4,21.2,14.9
-2018,8,PIA,Pace Percussion Ensemble,77.201,23.1,15.45,23.3,15.35
 2018,10,PIA,Pace Percussion Ensemble,83.15,25.65,16.2,24.6,16.7
-2018,5,PIA,Paradigm Percussion,76.75,22.95,16.4,22.0,15.4
-2018,12,PIA,Paradigm Percussion,92.013,28.163,18.85,26.625,18.375
 2018,5,PIA,Pasadena City College,71.15,20.25,13.3,23.2,14.4
-2018,6,PIA,Pasadena City College,76.2,23.7,13.8,23.7,15.0
 2018,10,PIA,Pasadena City College,85.05,26.25,16.7,25.5,16.6
 2018,11,PIA,Pasadena City College,82.163,25.312,16.4,24.0,16.45
-2018,5,PIA,Phoenix Drumline,66.0,20.7,13.5,18.7,13.1
-2018,5,PIA,Pinnacle Percussion,75.8,21.6,16.1,22.6,15.5
-2018,6,PIA,Pinnacle Percussion,71.1,20.7,13.9,22.4,14.1
-2018,8,PIA,Pinnacle Percussion,78.65,23.7,16.5,22.95,15.5
-2018,4,PIA,RPT PERCUSSION,68.35,22.05,13.3,19.9,13.1
-2018,8,PIA,Railmen Indoor Percussion,85.425,25.725,16.6,26.0,17.1
-2018,12,PIA,Railmen Indoor Percussion,91.713,27.712,18.4,27.625,17.975
-2018,6,PIA,Resistance Indoor Percussion,79.35,23.85,15.3,24.9,15.3
-2018,6,PIA,Rhythm Armada,68.45,21.45,13.9,19.2,13.9
-2018,6,PIA,Shadow Indoor Percussion,79.9,24.0,15.7,23.8,16.4
-2018,7,PIA,Southwest Independent Percussion,65.525,19.275,12.95,20.5,12.8
-2018,5,PIA,Tar River Independent Percussion,66.25,19.95,14.1,18.8,13.4
-2018,7,PIA,Tar River Independent Percussion,67.55,21.15,13.4,18.8,14.2
-2018,6,PIA,UTRGV Indoor Percussion Ensemble,73.45,21.45,14.4,22.7,14.9
-2018,4,PIA,Unity Percussion,75.95,24.15,15.1,21.6,15.1
-2018,12,PIA,Unity Percussion,92.375,28.95,19.25,25.475,18.7
-2018,6,PIA,Vegas Vanguard,81.3,24.3,14.9,25.9,16.2
-2018,8,PIA,Vegas Vanguard,87.75,26.85,18.3,24.6,18.0
 2018,6,PIA,Watchmen Percussion,76.7,23.7,14.8,22.9,15.3
-2018,8,PIA,Watchmen Percussion,82.475,24.525,16.25,25.05,16.65
 2018,10,PIA,Watchmen Percussion,87.05,26.55,17.0,25.9,17.6
 2018,11,PIA,Watchmen Percussion,85.75,25.95,17.1,25.75,16.95

@@ -6,6 +6,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSW,Arcadia HS,87.85,25.5,17.5,27.45,17.4
 2023,6,PSW,Avon HS,86.75,25.65,17.4,26.3,17.4
 2023,13,PSW,Avon HS,96.825,29.025,19.375,29.45,18.975
+2023,3,PSW,Avon High School,82.6,24.3,16.5,24.6,17.2
+2023,7,PSW,Avon High School,90.8,27.0,18.2,27.7,17.9
+2023,8,PSW,Avon High School,91.575,27.0,18.125,28.15,18.3
+2023,10,PSW,Avon High School,93.35,27.75,18.95,28.1,18.55
 2023,4,PSW,Ayala HS,84.1,26.25,17.2,23.95,16.7
 2023,6,PSW,Ayala HS,89.425,27.525,18.0,26.5,17.4
 2023,7,PSW,Ayala HS,89.25,27.75,17.7,26.1,17.7
@@ -23,6 +27,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSW,Carroll Senior HS,78.751,23.25,16.5,24.2,14.8
 2023,6,PSW,Center Grove HS,83.6,24.6,16.8,25.4,16.8
 2023,13,PSW,Center Grove HS,95.05,28.875,18.975,28.5,18.7
+2023,5,PSW,Center Grove High School,79.75,24.15,15.8,23.7,16.1
+2023,7,PSW,Center Grove High School,87.45,25.65,17.5,27.2,17.1
+2023,8,PSW,Center Grove High School,88.125,25.8,17.475,27.05,17.8
+2023,10,PSW,Center Grove High School,89.675,26.925,18.2,27.0,17.55
 2023,8,PSW,Centerville HS,83.75,26.25,16.1,24.7,16.7
 2023,3,PSW,Chino Hills HS,85.65,25.35,17.1,26.7,16.5
 2023,5,PSW,Chino Hills HS,90.05,27.45,17.9,26.7,18.0
@@ -45,7 +53,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSW,Etiwanda HS,90.45,27.15,18.0,27.3,18.0
 2023,12,PSW,Etiwanda HS,90.875,27.15,17.9,28.1,17.725
 2023,6,PSW,Fishers HS,78.7,23.7,15.5,24.1,15.4
+2023,7,PSW,Fishers Indoor Drumline (PSW),82.85,23.55,16.2,26.9,16.2
+2023,8,PSW,Fishers Indoor Drumline (PSW),84.5,25.275,15.875,26.55,16.8
+2023,10,PSW,Fishers Indoor Drumline (PSW),82.9,24.0,16.85,25.05,17.0
 2023,6,PSW,Franklin Central HS,81.35,23.85,15.8,25.8,15.9
+2023,3,PSW,Franklin Central Percussion Symphony,77.15,22.65,15.3,22.8,16.4
+2023,5,PSW,Franklin Central Percussion Symphony,82.0,24.9,16.2,24.3,16.6
+2023,8,PSW,Franklin Central Percussion Symphony,85.475,25.275,16.85,26.3,17.05
+2023,10,PSW,Franklin Central Percussion Symphony,85.0,25.5,17.4,24.55,17.55
 2023,9,PSW,Gahr HS,83.651,25.8,16.6,25.05,16.2
 2023,10,PSW,Gahr HS,85.351,25.95,17.0,25.6,16.8
 2023,12,PSW,Gahr HS,86.501,25.65,17.1,26.6,17.15

@@ -1,133 +1,71 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2019,8,PSO,Amador Valley HS,80.5,23.85,13.7,27.6,15.35
-2019,4,PSO,Arcadia HS,78.45,23.85,14.6,24.4,15.6
-2019,6,PSO,Ben Davis HS,72.251,21.15,13.1,22.6,15.4
-2019,4,PSO,Boswell HS,78.55,24.15,15.3,24.1,15.0
-2019,6,PSO,Boswell HS,80.4,24.3,15.8,24.5,15.8
-2019,4,PSO,Burleson HS,76.0,22.5,15.1,23.5,14.9
+2019,3,PSO,Ben Davis High School,68.05,21.45,13.1,20.2,13.3
+2019,5,PSO,Ben Davis High School,70.4,21.9,14.4,21.3,12.8
+2019,7,PSO,Ben Davis High School,73.325,21.825,14.35,22.75,14.4
+2019,9,PSO,Ben Davis High School,77.3,22.95,15.4,24.2,14.75
 2019,5,PSO,Cab Calloway,74.15,21.7,22.95,14.8,14.7
 2019,6,PSO,Cab Calloway,78.2,23.3,24.0,15.4,15.5
 2019,8,PSO,Cab Calloway,77.15,23.4,22.35,15.3,16.1
 2019,9,PSO,Cab Calloway,78.8,23.1,25.5,14.7,15.5
 2019,10,PSO,Cab Calloway,74.85,24.5,20.55,14.5,15.3
-2019,7,PSO,Cab Calloway HS,75.351,22.65,15.8,21.8,15.1
-2019,6,PSO,Campo Verde HS,75.6,21.6,15.3,23.3,15.4
-2019,8,PSO,Campo Verde HS,77.5,23.7,15.2,23.6,15.0
 2019,2,PSO,Carlsbad HS,72.15,22.35,14.2,20.9,14.7
 2019,6,PSO,Carlsbad HS,77.35,22.05,15.2,24.0,16.1
 2019,7,PSO,Carlsbad HS,79.701,23.25,16.0,24.5,15.95
-2019,8,PSO,Carlsbad HS,79.9,22.95,16.8,24.5,15.65
-2019,6,PSO,Casa Grande HS,82.75,23.25,17.5,25.6,16.4
-2019,8,PSO,Casa Grande HS,86.213,26.062,17.35,25.275,17.525
-2019,8,PSO,Central Crossing HS,82.5,24.9,16.8,24.5,16.3
-2019,8,PSO,Central HS,73.1,21.9,13.4,23.3,14.5
-2019,7,PSO,Central Lafourche HS,82.95,25.2,15.85,25.5,16.4
-2019,8,PSO,Century HS,76.45,23.55,15.1,23.6,14.2
-2019,5,PSO,Cesar E Chavez HS,84.7,25.8,17.0,25.0,16.9
 2019,1,PSO,Cesar E. Chavez HS,74.85,23.25,14.8,22.2,14.6
-2019,4,PSO,Chantilly HS,76.0,23.1,15.2,22.4,15.3
 2019,3,PSO,Chino HS,77.05,23.85,16.4,22.1,14.7
 2019,5,PSO,Chino HS,81.9,24.3,16.0,25.3,16.3
-2019,8,PSO,Chino HS,86.563,26.062,17.25,26.05,17.2
 2019,10,PSO,Chino HS,89.063,26.362,17.35,27.15,18.2
-2019,7,PSO,Choctawhatchee HS,82.1,24.9,15.8,25.0,16.4
-2019,4,PSO,Clear Brook HS,84.55,25.95,16.5,25.7,16.4
-2019,11,PSO,Clear Brook HS,96.05,28.425,18.975,29.025,19.625
-2019,8,PSO,Clovis HS,78.0,24.0,15.4,22.6,16.0
-2019,5,PSO,Clovis West HS,79.65,23.85,16.1,23.7,16.0
-2019,5,PSO,Collins Hill HS,76.25,22.35,15.6,24.7,13.6
-2019,7,PSO,Collins Hill HS,79.65,23.85,16.0,23.6,16.2
-2019,6,PSO,Cypress Falls HS,79.875,24.075,15.5,24.7,15.6
 2019,9,PSO,Downingtown,86.6,26.0,27.0,16.6,17.0
 2019,10,PSO,Downingtown,88.05,27.9,25.05,17.3,17.8
 2019,8,PSO,East Syracuse Minoa,85.55,25.5,25.35,17.2,17.5
 2019,9,PSO,East Syracuse Minoa,89.2,28.0,27.9,16.4,16.9
 2019,10,PSO,East Syracuse Minoa,86.55,26.1,25.65,17.8,17.0
-2019,4,PSO,Edinburg HS,74.35,22.95,14.1,23.2,14.1
-2019,6,PSO,Edinburg HS,72.351,21.75,13.9,22.2,14.5
 2019,3,PSO,El Dorado HS,82.25,24.15,17.1,24.2,16.8
 2019,5,PSO,El Dorado HS,84.5,26.1,17.1,24.0,17.3
 2019,7,PSO,El Dorado HS,85.35,26.25,17.8,24.2,17.1
-2019,8,PSO,El Dorado HS,91.725,28.05,18.4,26.85,18.425
 2019,10,PSO,El Dorado HS,93.413,28.012,19.05,27.525,18.825
-2019,7,PSO,Escambia HS,85.513,25.612,16.95,25.45,17.5
 2019,3,PSO,Fair Lawn,71.9,22.4,21.6,13.3,14.6
-2019,7,PSO,Fair Lawn HS,89.625,26.925,18.1,27.15,17.45
-2019,11,PSO,Fair Lawn HS,93.925,27.975,18.45,28.35,19.15
-2019,8,PSO,Foothill HS,83.588,25.163,16.5,24.8,17.125
-2019,4,PSO,Foothill HS (NV),75.151,22.35,14.9,22.4,15.5
-2019,6,PSO,Foothill HS (NV),81.75,24.15,16.8,25.1,15.7
-2019,8,PSO,Foothill HS (NV),87.075,26.325,17.825,25.975,16.95
 2019,3,PSO,Fountain Valley HS,75.701,21.6,16.3,22.5,15.3
-2019,4,PSO,Fountain Valley HS,75.6,23.7,13.7,24.1,14.1
 2019,5,PSO,Fountain Valley HS,81.1,25.2,16.3,23.0,16.6
 2019,7,PSO,Fountain Valley HS,83.45,24.75,17.2,25.4,16.1
 2019,10,PSO,Fountain Valley HS,89.65,26.7,17.75,27.55,17.65
-2019,11,PSO,Fountain Valley HS,92.451,27.525,18.475,27.725,18.725
-2019,3,PSO,Francis Howell HS,71.6,21.9,13.8,21.4,14.5
-2019,6,PSO,Francis Howell HS,75.501,22.5,14.9,22.9,15.2
-2019,7,PSO,Fred J Page HS,81.0,24.6,16.6,24.1,15.7
-2019,4,PSO,Freedom HS,75.85,23.25,14.8,23.1,14.7
 2019,6,PSO,Gahr HS,80.15,25.35,14.8,24.6,15.4
 2019,7,PSO,Gahr HS,82.15,23.55,17.1,24.5,17.0
-2019,6,PSO,George Ranch HS,75.001,22.2,15.3,21.6,15.9
-2019,4,PSO,Governor Thomas Johnson HS,79.35,24.45,16.1,22.7,16.1
 2019,3,PSO,Granada Hills CHS,67.451,19.65,14.3,20.9,12.6
 2019,6,PSO,Granada Hills CHS,76.451,21.75,14.6,24.2,15.9
-2019,8,PSO,Granada Hills Charter HS,72.5,21.15,14.2,22.3,14.85
 2019,2,PSO,Great Oak HS,76.65,23.55,15.4,22.5,15.2
-2019,4,PSO,Great Oak HS,77.4,24.15,14.2,23.85,15.2
 2019,6,PSO,Great Oak HS,83.4,25.35,16.6,24.45,17.0
 2019,10,PSO,Great Oak HS,91.825,27.6,18.35,27.775,18.1
-2019,6,PSO,Greenfield-Central HS,82.8,23.7,16.9,26.0,16.2
-2019,7,PSO,Halls HS,83.8,25.35,16.7,24.85,16.9
+2019,2,PSO,Greenfield-Central Indoor Percussion Ensemble,69.95,19.35,13.7,23.4,13.5
+2019,4,PSO,Greenfield-Central Indoor Percussion Ensemble,72.6,21.3,14.5,22.4,14.4
+2019,7,PSO,Greenfield-Central Indoor Percussion Ensemble,79.4,22.5,15.2,25.1,16.6
+2019,9,PSO,Greenfield-Central Indoor Percussion Ensemble,82.325,24.075,16.8,25.7,15.75
 2019,9,PSO,Halls Indoor Percussion Ensemble,89.65,26.4,27.0,17.9,18.35
-2019,5,PSO,Harrison HS,74.85,22.65,14.6,23.8,13.8
 2019,9,PSO,Hilton HS Percussion,89.75,27.6,28.05,16.9,17.2
 2019,10,PSO,Hilton HS Percussion,85.4,25.8,25.5,17.4,16.7
 2019,5,PSO,Hoover HS,74.75,22.65,14.5,23.2,14.4
 2019,7,PSO,Independence HS,75.301,21.3,16.1,22.0,15.9
-2019,8,PSO,Independence HS (Bakersfield),82.575,24.825,16.85,24.3,16.6
-2019,3,PSO,Kickapoo HS,75.6,22.8,14.5,23.0,15.3
-2019,4,PSO,La Quinta HS,80.65,23.55,16.2,25.2,15.7
 2019,6,PSO,La Quinta HS (W),82.0,24.9,16.4,24.5,16.2
-2019,6,PSO,Lawrence Township,83.7,24.9,16.5,25.9,16.4
-2019,8,PSO,Lawrence Township,87.55,26.55,17.6,26.4,17.0
-2019,8,PSO,Liberty HS,75.175,22.275,13.6,24.6,14.7
+2019,2,PSO,Lawrence Township Winter Percussion,71.2,20.4,14.4,22.8,13.6
+2019,5,PSO,Lawrence Township Winter Percussion,82.6,24.0,15.9,26.3,16.4
+2019,7,PSO,Lawrence Township Winter Percussion,82.075,23.625,16.1,25.55,16.8
+2019,9,PSO,Lawrence Township Winter Percussion,86.075,25.725,17.9,25.45,17.0
 2019,8,PSO,Liverpool Indoor Percussion,81.05,24.0,23.55,16.5,17.0
 2019,9,PSO,Liverpool Indoor Percussion,85.25,26.8,26.55,15.7,16.2
 2019,10,PSO,Liverpool Indoor Percussion,81.85,25.3,23.85,16.5,16.2
-2019,6,PSO,Longmont HS,74.55,22.35,14.5,22.4,15.3
 2019,3,PSO,Los Alamitos HS,78.05,21.75,16.4,23.7,16.2
-2019,4,PSO,Los Alamitos HS,79.5,23.1,15.6,24.7,16.1
 2019,7,PSO,Los Alamitos HS,87.1,26.55,17.75,25.5,17.3
-2019,8,PSO,Los Alamitos HS,91.0,27.6,18.125,27.4,17.875
 2019,10,PSO,Los Alamitos HS,93.488,27.788,18.5,28.5,18.7
-2019,11,PSO,Los Alamitos HS,93.35,28.05,18.1,27.975,19.225
-2019,8,PSO,Los Gatos HS,74.0,22.35,14.3,22.1,15.25
 2019,2,PSO,Mission Hills HS,70.5,21.9,13.7,21.3,13.6
-2019,4,PSO,Mission Hills HS,70.751,20.55,14.1,22.4,13.7
 2019,6,PSO,Mission Hills HS,77.45,23.25,15.8,23.3,15.1
 2019,7,PSO,Mission Hills HS,80.501,23.1,16.3,24.4,16.7
 2019,3,PSO,Mission Viejo HS,73.45,22.05,14.6,22.2,14.6
-2019,4,PSO,Mission Viejo HS,74.701,22.8,13.1,24.1,14.7
 2019,6,PSO,Mission Viejo HS,78.95,23.85,15.0,24.2,15.9
-2019,8,PSO,Mission Viejo HS,83.313,24.938,16.325,25.7,16.35
-2019,8,PSO,Mt. Juliet HS,85.65,25.95,16.4,26.6,16.7
-2019,4,PSO,Nease HS,69.35,20.55,13.3,21.3,14.2
-2019,7,PSO,North Paulding HS,71.201,20.1,13.6,23.2,14.3
-2019,6,PSO,Norton HS,75.951,21.45,15.1,23.4,16.0
-2019,7,PSO,Norwalk HS,89.2,26.475,17.975,27.0,17.75
-2019,11,PSO,Norwalk HS,95.1,28.575,19.025,28.275,19.225
-2019,7,PSO,Oak Grove HS (MS),76.05,24.45,14.8,22.1,14.7
 2019,4,PSO,Old Bridge,76.0,22.1,24.6,14.7,14.6
 2019,6,PSO,Old Bridge,84.95,24.7,27.15,16.6,16.5
 2019,9,PSO,Old Bridge,88.35,27.1,28.05,16.7,16.5
 2019,10,PSO,Old Bridge,90.85,27.8,26.25,18.3,18.5
-2019,7,PSO,Old Bridge HS,83.388,25.762,16.825,24.7,16.1
-2019,7,PSO,Orange County HS,80.15,24.15,16.1,24.4,15.5
 2019,3,PSO,Palisades CHS,65.3,19.5,13.4,19.6,12.8
-2019,5,PSO,Panther Creek HS,78.2,23.4,15.9,24.2,14.7
 2019,3,PSO,Patriot HS,73.501,21.9,14.8,22.7,14.1
 2019,5,PSO,Patriot HS,76.8,23.7,15.5,22.0,15.6
 2019,7,PSO,Patriot HS,81.6,24.6,16.9,23.8,16.3
@@ -136,31 +74,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,4,PSO,Perkiomen Valley,69.1,20.8,20.1,14.0,14.2
 2019,9,PSO,Perkiomen Valley,83.15,25.4,26.85,15.1,15.8
 2019,10,PSO,Perkiomen Valley,81.7,23.9,24.6,16.8,16.4
-2019,7,PSO,Perkiomen Valley HS,78.201,23.1,16.0,23.4,15.7
-2019,6,PSO,Plainfield HS,81.75,25.35,15.5,24.9,16.0
-2019,11,PSO,Plainfield HS,92.338,28.237,17.575,27.5,19.025
-2019,3,PSO,Plymouth Canton Community Schools,75.5,22.8,15.3,22.1,15.3
-2019,4,PSO,Powhatan HS,79.4,24.0,15.5,24.9,15.0
+2019,5,PSO,Plainfield High School Winter Percussion Ensemble,83.5,24.9,16.3,24.6,17.7
+2019,6,PSO,Plainfield High School Winter Percussion Ensemble,83.75,25.35,16.6,24.5,17.3
+2019,7,PSO,Plainfield High School Winter Percussion Ensemble,84.75,24.6,16.55,26.3,17.3
+2019,9,PSO,Plainfield High School Winter Percussion Ensemble,88.375,26.775,17.5,26.8,17.3
 2019,3,PSO,Rancho Cucamonga HS,78.3,23.7,15.9,24.0,14.7
 2019,5,PSO,Rancho Cucamonga HS,75.651,23.55,14.8,22.1,15.2
 2019,7,PSO,Rancho Cucamonga HS,85.0,25.5,17.1,25.5,16.9
-2019,8,PSO,Rancho Cucamonga HS,83.963,25.688,16.85,24.6,16.825
 2019,10,PSO,Rancho Cucamonga HS,86.376,26.1,17.2,26.5,16.575
-2019,4,PSO,Robert Vela HS,67.201,19.8,12.9,21.7,12.8
 2019,3,PSO,San Marino HS,77.675,22.275,15.6,24.4,15.4
 2019,7,PSO,San Marino HS,83.1,25.65,16.85,24.6,16.0
-2019,8,PSO,San Marino HS,86.725,26.175,16.75,26.8,17.0
 2019,10,PSO,San Marino HS,83.3,24.525,16.75,25.375,16.65
-2019,4,PSO,Sharyland HS,72.001,21.9,14.0,22.5,13.6
-2019,6,PSO,Sharyland HS,77.0,23.7,15.7,22.7,14.9
-2019,8,PSO,Sherwood HS,86.85,25.35,18.1,26.0,17.4
 2019,6,PSO,Sierra Vista HS,73.651,22.05,14.3,23.2,14.1
-2019,8,PSO,Skyview HS,79.4,24.0,14.7,25.7,15.0
 2019,1,PSO,South Torrance HS,69.1,21.0,13.4,21.1,13.6
 2019,3,PSO,South Torrance HS,71.051,21.15,15.4,21.0,13.5
 2019,6,PSO,South Torrance HS,73.351,22.35,14.8,21.9,14.3
-2019,7,PSO,Sparkman HS,86.8,26.4,17.9,26.4,16.1
-2019,11,PSO,Sparkman HS,96.2,29.175,19.3,28.425,19.3
 2019,4,PSO,Springford,71.65,20.7,23.25,13.8,13.9
 2019,5,PSO,Springford,78.0,23.4,24.3,15.1,15.2
 2019,6,PSO,Springford,82.3,24.0,25.8,16.3,16.2
@@ -168,34 +96,24 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2019,10,PSO,Springford,85.05,25.6,24.75,16.6,18.1
 2019,3,PSO,Sunny Hills HS,76.9,23.1,15.3,23.1,15.4
 2019,5,PSO,Sunny Hills HS,79.5,24.3,15.0,24.7,15.5
-2019,8,PSO,Temple City HS,81.475,23.325,17.0,24.95,16.2
 2019,10,PSO,Temple City HS,84.35,24.525,16.85,26.15,16.825
-2019,4,PSO,Timber Creek HS,81.65,25.05,15.8,25.0,15.8
-2019,6,PSO,Timber Creek HS,86.2,25.8,17.4,25.6,17.4
 2019,5,PSO,Trabuco Hills HS,78.45,23.85,15.8,22.7,16.1
 2019,6,PSO,Trabuco Hills HS,80.35,22.95,16.2,25.2,16.0
 2019,7,PSO,Trabuco Hills HS,80.2,24.3,16.7,22.5,16.7
 2019,10,PSO,Trabuco Hills HS,81.325,23.775,16.05,25.05,16.45
-2019,7,PSO,Trumbull HS,85.95,26.175,17.125,26.05,16.6
-2019,3,PSO,Victor HS,66.1,19.8,13.8,18.9,13.6
+2019,6,PSO,VIctor J Andrew HS,80.65,24.75,15.5,23.4,17.0
 2019,2,PSO,Victor Indoor Percussion Ensemble,61.95,18.9,18.45,12.2,12.4
 2019,5,PSO,Victor Indoor Percussion Ensemble,68.0,19.9,20.7,13.5,13.9
 2019,7,PSO,Victor Indoor Percussion Ensemble,75.7,21.9,24.6,14.8,14.4
 2019,8,PSO,Victor Indoor Percussion Ensemble,78.9,24.1,22.2,16.0,16.6
 2019,9,PSO,Victor Indoor Percussion Ensemble,79.35,23.1,24.45,15.5,16.3
 2019,10,PSO,Victor Indoor Percussion Ensemble,77.4,23.7,22.5,15.9,15.3
-2019,6,PSO,Victor J. Andrew HS,79.05,23.25,15.9,23.7,16.2
 2019,6,PSO,West Ranch HS,83.3,24.9,16.9,24.9,16.6
 2019,7,PSO,West Ranch HS,76.851,21.75,16.8,22.6,15.7
-2019,8,PSO,West Ranch HS,84.288,25.988,17.2,24.475,16.625
 2019,3,PSO,Westminster HS,66.05,19.35,13.0,21.2,12.5
-2019,4,PSO,Westminster HS,69.251,22.05,12.0,20.7,14.5
 2019,6,PSO,Westminster HS,76.001,21.9,15.5,23.9,14.7
 2019,7,PSO,Westminster HS,77.001,23.4,15.4,21.9,16.3
-2019,8,PSO,Westminster HS,75.425,23.025,15.0,21.9,15.5
 2019,3,PSO,William S. Hart HS,72.701,21.3,15.2,21.9,14.3
 2019,6,PSO,William S. Hart HS,74.301,22.8,14.4,22.4,14.7
 2019,7,PSO,William S. Hart HS,80.951,24.45,15.6,24.7,16.2
 2019,10,PSO,William S. Hart HS,87.888,26.887,17.725,26.025,17.25
-2019,6,PSO,Williams Field HS,78.8,22.5,16.2,24.8,15.3
-2019,8,PSO,Williams Field HS,76.625,23.775,14.95,22.5,15.4

@@ -1,8 +1,16 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2022,3,PIA,1 Indoor Percussion,61.0,18.3,10.3,20.2,12.2
+2022,5,PIA,1 Indoor Percussion,66.6,19.2,12.8,21.1,13.5
+2022,7,PIA,1 Indoor Percussion,66.3,19.5,13.0,20.0,13.8
+2022,8,PIA,1 Indoor Percussion,75.65,23.25,14.9,22.45,15.05
+2022,10,PIA,1 Indoor Percussion,76.8,23.1,15.6,22.45,15.65
 2022,2,PIA,Albany Indoor Percussion,62.15,17.9,20.25,12.4,11.6
 2022,8,PIA,Albany Indoor Percussion,67.35,18.9,22.05,13.5,12.9
 2022,9,PIA,Albany Indoor Percussion,71.8,21.5,21.6,14.2,14.5
 2022,10,PIA,Albany Indoor Percussion,75.0,21.9,23.4,14.6,15.1
+2022,3,PIA,Alliance Indoor Percussion,62.75,19.95,12.6,18.1,12.1
+2022,6,PIA,Alliance Indoor Percussion,68.15,19.65,13.6,20.6,14.3
+2022,8,PIA,Alliance Indoor Percussion,71.825,21.825,14.45,21.4,14.15
 2022,3,PIA,Ascension Percussion,75.15,22.05,15.7,23.6,13.8
 2022,5,PIA,Ascension Percussion,75.65,23.55,13.6,23.2,15.3
 2022,8,PIA,Ascension Percussion,82.45,24.15,16.5,24.7,17.1
@@ -26,6 +34,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,11,PIA,Cornerstone Percussion,88.7,25.8,19.1,26.6,17.2
 2022,12,PIA,Cornerstone Percussion,86.525,26.325,17.25,25.6,17.35
 2022,3,PIA,Crystal Lake Thunder,67.6,20.7,14.1,20.3,12.5
+2022,4,PIA,Decatur County Greensburg Indoor,65.0,21.6,11.8,18.4,13.2
+2022,5,PIA,Decatur County Greensburg Indoor,66.8,21.6,12.4,20.2,12.6
+2022,8,PIA,Decatur County Greensburg Indoor,74.45,23.1,14.1,22.25,15.0
+2022,10,PIA,Decatur County Greensburg Indoor,73.875,21.975,14.5,22.45,14.95
 2022,7,PIA,ECR Independent,71.55,21.15,14.1,22.3,14.0
 2022,11,PIA,ECR Independent,85.1,25.5,18.4,24.9,16.3
 2022,12,PIA,ECR Independent,84.075,24.525,17.1,25.55,16.9
@@ -38,6 +50,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,4,PIA,Huron Valley Percussion,68.45,20.55,14.1,19.8,14.0
 2022,7,PIA,Huron Valley Percussion,77.05,23.55,15.5,22.8,15.2
 2022,11,PIA,Huron Valley Percussion,80.35,23.85,16.75,23.65,16.1
+2022,3,PIA,IGNITE Winter Percussion,63.05,18.75,12.8,18.5,13.0
+2022,4,PIA,IGNITE Winter Percussion,70.55,22.95,13.5,19.5,14.6
+2022,6,PIA,IGNITE Winter Percussion,73.725,21.825,14.2,22.5,15.2
+2022,8,PIA,IGNITE Winter Percussion,79.875,24.675,15.8,23.3,16.1
+2022,10,PIA,IGNITE Winter Percussion,81.25,24.45,16.25,24.2,16.35
 2022,7,PIA,LINEA,76.7,22.5,13.5,25.1,15.6
 2022,3,PIA,Lake Effect Percussion,71.65,20.25,15.1,21.8,14.5
 2022,4,PIA,Lake Effect Percussion,70.5,20.4,15.0,20.6,14.5
@@ -79,3 +96,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,6,PIA,Vortex Percussion,75.55,22.95,14.8,22.5,15.3
 2022,8,PIA,Vortex Percussion,76.25,22.95,15.5,22.0,15.8
 2022,11,PIA,Vortex Percussion,75.401,22.2,15.7,22.15,15.35
+2022,3,PIA,,63.05,18.75,12.8,18.5,13.0
+2022,4,PIA,,70.55,22.95,13.5,19.5,14.6
+2022,5,PIA,,66.8,21.6,12.4,20.2,12.6
+2022,6,PIA,,73.725,21.825,14.2,22.5,15.2
+2022,8,PIA,,79.875,24.675,15.8,23.3,16.1

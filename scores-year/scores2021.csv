@@ -1,47 +1,276 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2021,0,PSA,Benton Indoor Percussion,66.7,20.1,13.1,20.5,13.0
-2021,1,PSA,Benton Indoor Percussion,71.2,22.2,13.7,21.1,14.2
-2021,2,PSA,Benton Indoor Percussion,75.9,23.4,14.3,23.3,14.9
-2021,7,PSA,Benton Indoor Percussion,83.8,26.4,16.0,25.3,16.1
-2021,2,GSRA,Bentonville West Winter Guard,73.47,13.22,15.35,15.7,14.4
-2021,0,GSRA,Bryant High School Winter Guard,62.8,12.61,15.39,12.0,12.2
-2021,1,GSRA,Bryant High School Winter Guard,71.59,14.88,16.21,12.7,13.5
-2021,6,GSRA,Bryant High School Winter Guard,70.19,13.74,12.35,13.7,15.0
-2021,7,GSRA,Bryant High School Winter Guard,80.25,17.61,17.74,14.7,14.3
-2021,0,PSA,Bryant Indoor Percussion,68.65,20.25,13.7,20.8,13.9
-2021,1,PSA,Bryant Indoor Percussion,72.9,23.4,13.8,21.0,14.7
-2021,7,PSA,Bryant Indoor Percussion,86.05,26.55,17.8,25.4,16.3
-2021,0,GSRA,Cabot High School Winter Guard,74.19,14.61,16.48,12.8,14.9
-2021,1,GSRA,Cabot High School Winter Guard,78.89,16.61,16.68,15.4,14.8
-2021,2,GSRA,Cabot High School Winter Guard,82.05,15.21,17.94,16.1,16.7
-2021,7,GSRA,Cabot High School Winter Guard,86.56,15.02,18.54,17.6,18.3
-2021,0,GSRA,Gurdon High School Winter Guard,62.55,12.07,15.48,11.6,12.6
-2021,1,GSRA,Gurdon High School Winter Guard,70.29,14.61,14.48,13.4,12.9
-2021,1,GSRA,Hollister High School Winter Guard,80.95,16.81,16.74,16.0,15.9
-2021,2,GSRA,Hollister High School Winter Guard,80.49,15.48,17.61,15.4,16.2
-2021,7,GSRA,Hollister High School Winter Guard,88.71,17.34,18.87,17.5,18.0
-2021,2,GSRA,Joplin High School Winter Guard,76.01,15.94,17.07,13.3,15.0
-2021,2,PSB,Joplin Indoor Percussion,67.15,19.95,13.3,19.8,14.1
-2021,0,GSC,Lake Hamilton Cadet Winter Guard,59.39,11.34,14.95,8.2,12.3
-2021,1,GSC,Lake Hamilton Cadet Winter Guard,71.52,14.74,14.08,14.0,14.4
-2021,7,GSC,Lake Hamilton Cadet Winter Guard,77.58,15.41,15.47,15.0,15.4
-2021,0,PSA,Lake Hamilton HS Indoor Percussion,71.7,21.9,14.1,21.2,14.5
-2021,1,PSA,Lake Hamilton HS Indoor Percussion,74.4,23.25,13.85,22.7,14.6
-2021,7,PSA,Lake Hamilton HS Indoor Percussion,89.3,27.9,18.3,26.1,17.0
-2021,0,GSRA,Lake Hamilton JV Winter Guard,67.73,12.94,15.59,12.3,13.3
-2021,1,GSRA,Lake Hamilton JV Winter Guard,73.19,15.35,15.54,14.4,13.2
-2021,7,GSRA,Lake Hamilton JV Winter Guard,82.95,16.68,16.87,16.7,16.1
-2021,0,GSA,Lake Hamilton Varsity Winter Guard,70.74,16.87,12.1,13.7,13.8
-2021,1,GSA,Lake Hamilton Varsity Winter Guard,72.95,16.41,16.14,14.6,11.8
-2021,7,GSA,Lake Hamilton Varsity Winter Guard,89.17,18.14,18.08,17.6,18.4
-2021,1,GSRA,Malvern Indoor Guard,68.421,14.28,14.94,12.9,13.6
-2021,6,GSRA,Malvern Indoor Guard,62.56,11.88,9.08,13.4,14.1
-2021,7,GSRA,Malvern Indoor Guard,67.59,13.28,15.81,14.4,11.8
-2021,0,PSN,Paragould Indoor Percussion,62.8,19.2,12.3,19.0,12.3
-2021,1,PSN,Paragould Indoor Percussion,71.3,21.9,15.2,19.1,15.1
-2021,7,PSB,Paragould Indoor Percussion,82.8,25.5,15.6,26.1,15.6
-2021,0,PSA,Siloam Springs Indoor Percussion,66.55,19.65,13.2,20.9,12.8
-2021,2,PSA,Siloam Springs Indoor Percussion,79.15,24.15,15.3,24.1,15.6
-2021,7,PSA,Siloam Springs Indoor Percussion,83.95,26.25,16.8,25.0,15.9
-2021,2,GSA,Siloam Springs Paragon Winter Guard,77.25,14.34,16.41,15.6,15.2
-2021,7,GSA,Siloam Springs Paragon Winter Guard,88.41,17.34,18.0,18.1,16.7
+2021,0,PIA,Alliance Indoor Percussion,67.3,21.6,12.8,19.4,13.5
+2021,1,PIA,Alliance Indoor Percussion,72.05,21.75,13.6,22.6,14.1
+2021,2,PIA,Alliance Indoor Percussion,70.25,20.25,14.5,21.2,14.3
+2021,3,PIA,Alliance Indoor Percussion,72.1,21.9,13.8,20.9,15.5
+2021,4,PIA,Alliance Indoor Percussion,71.45,21.45,14.5,20.4,15.1
+2021,5,PIA,Alliance Indoor Percussion,75.45,22.35,15.1,22.3,15.7
+2021,6,PIA,Alliance Indoor Percussion,76.15,22.95,15.8,22.2,15.2
+2021,0,PSW,Avon High School,79.4,24.9,16.5,21.7,16.3
+2021,2,PSW,Avon High School,84.1,25.5,17.2,25.1,16.3
+2021,3,PSW,Avon High School,87.5,25.8,17.8,26.6,17.3
+2021,4,PSW,Avon High School,89.9,27.0,18.3,26.5,18.1
+2021,5,PSW,Avon High School,92.55,27.45,18.7,28.1,18.3
+2021,6,PSW,Avon High School,95.15,29.25,19.4,27.4,19.1
+2021,0,PSB,Bedford North Lawrence Winter Percussion,63.55,19.65,11.8,20.3,11.8
+2021,1,PSB,Bedford North Lawrence Winter Percussion,72.05,21.75,14.2,22.9,13.2
+2021,2,PSB,Bedford North Lawrence Winter Percussion,67.801,19.2,13.5,21.6,13.5
+2021,3,PSB,Bedford North Lawrence Winter Percussion,67.401,20.4,13.1,20.4,13.5
+2021,5,PSB,Bedford North Lawrence Winter Percussion,75.9,21.6,13.95,26.2,14.15
+2021,0,PSO,Ben Davis High School,72.7,22.5,14.5,21.2,14.5
+2021,3,PSO,Ben Davis High School,77.4,22.2,15.7,25.1,14.4
+2021,5,PSO,Ben Davis High School,79.301,23.7,15.8,23.8,16.0
+2021,2,PSA,Benton Indoor Percussion,66.7,20.1,13.1,20.5,13.0
+2021,3,PSA,Benton Indoor Percussion,71.2,22.2,13.7,21.1,14.2
+2021,4,PSA,Benton Indoor Percussion,75.9,23.4,14.3,23.3,14.9
+2021,9,PSA,Benton Indoor Percussion,83.8,26.4,16.0,25.3,16.1
+2021,4,GSRA,Bentonville West Winter Guard,73.47,13.22,15.35,15.7,14.4
+2021,0,PSB,Bishop Dwenger Winter Percussion,66.4,19.2,14.8,19.7,12.7
+2021,1,PSB,Bishop Dwenger Winter Percussion,69.7,21.0,14.0,20.4,14.3
+2021,2,PSB,Bishop Dwenger Winter Percussion,73.6,22.2,14.5,22.1,14.8
+2021,3,PSB,Bishop Dwenger Winter Percussion,75.35,22.35,14.2,23.6,15.2
+2021,5,PSB,Bishop Dwenger Winter Percussion,79.95,22.35,14.5,27.4,15.7
+2021,3,PSO,Brownsburg Percussion,84.0,23.4,17.1,26.7,16.8
+2021,5,PSO,Brownsburg Percussion,87.95,26.85,17.7,25.6,17.8
+2021,6,PSO,Brownsburg Percussion,86.45,26.25,16.9,25.8,17.5
+2021,2,GSRA,Bryant High School Winter Guard,62.8,12.61,15.39,12.0,12.2
+2021,3,GSRA,Bryant High School Winter Guard,71.59,14.88,16.21,12.7,13.5
+2021,8,GSRA,Bryant High School Winter Guard,70.19,13.74,12.35,13.7,15.0
+2021,9,GSRA,Bryant High School Winter Guard,80.25,17.61,17.74,14.7,14.3
+2021,2,PSA,Bryant Indoor Percussion,68.65,20.25,13.7,20.8,13.9
+2021,3,PSA,Bryant Indoor Percussion,72.9,23.4,13.8,21.0,14.7
+2021,9,PSA,Bryant Indoor Percussion,86.05,26.55,17.8,25.4,16.3
+2021,2,GSRA,Cabot High School Winter Guard,74.19,14.61,16.48,12.8,14.9
+2021,3,GSRA,Cabot High School Winter Guard,78.89,16.61,16.68,15.4,14.8
+2021,4,GSRA,Cabot High School Winter Guard,82.05,15.21,17.94,16.1,16.7
+2021,9,GSRA,Cabot High School Winter Guard,86.56,15.02,18.54,17.6,18.3
+2021,0,PSW,Center Grove High School,75.45,24.15,15.3,20.6,15.4
+2021,1,PSW,Center Grove High School,80.4,24.6,15.8,24.0,16.0
+2021,3,PSW,Center Grove High School,79.6,23.7,16.3,24.4,15.2
+2021,4,PSW,Center Grove High School,85.75,26.1,17.1,25.7,16.85
+2021,5,PSW,Center Grove High School,86.25,26.85,17.3,25.3,16.8
+2021,6,PSW,Center Grove High School,87.15,26.85,17.3,25.8,17.2
+2021,3,PSA,Corydon Central Winter Percussion,70.4,20.1,13.6,22.4,14.3
+2021,4,PSA,Corydon Central Winter Percussion,71.5,21.6,14.0,21.8,14.1
+2021,1,PSA,DeKalb Winter Percussion,71.5,22.2,13.9,22.3,13.1
+2021,3,PSA,DeKalb Winter Percussion,79.65,23.55,15.7,24.4,16.0
+2021,4,PSA,DeKalb Winter Percussion,79.325,24.075,15.0,25.1,15.15
+2021,5,PSA,DeKalb Winter Percussion,84.276,27.075,15.9,25.6,15.7
+2021,6,PSA,DeKalb Winter Percussion,83.401,25.8,16.0,24.8,16.8
+2021,1,PSO,Decatur Central Winter Percussion Ensemble,74.2,21.6,14.9,22.7,15.0
+2021,3,PSO,Decatur Central Winter Percussion Ensemble,83.65,24.75,16.4,26.8,15.7
+2021,5,PSO,Decatur Central Winter Percussion Ensemble,85.5,25.8,17.2,25.3,17.2
+2021,6,PSO,Decatur Central Winter Percussion Ensemble,81.351,24.0,15.6,25.15,16.6
+2021,0,PSB,East Noble High School Indoor Percussion Ensemble,62.55,17.55,13.6,19.4,12.0
+2021,1,PSB,East Noble High School Indoor Percussion Ensemble,61.35,17.55,12.7,18.5,12.6
+2021,3,PSB,East Noble High School Indoor Percussion Ensemble,66.95,21.15,13.1,20.0,12.7
+2021,4,PSB,East Noble High School Indoor Percussion Ensemble,70.025,20.625,14.1,22.5,12.8
+2021,5,PSB,East Noble High School Indoor Percussion Ensemble,67.45,19.05,13.0,22.3,13.1
+2021,0,PSB,Eastside Indoor,61.251,18.45,13.1,19.1,10.6
+2021,1,PSB,Eastside Indoor,64.95,19.95,12.1,19.5,13.4
+2021,3,PSB,Eastside Indoor,68.0,20.1,12.8,22.0,13.1
+2021,5,PSB,Eastside Indoor,72.201,20.4,13.2,23.7,14.9
+2021,1,PSA,Edgewood High School,72.051,22.65,13.6,22.4,13.4
+2021,4,PSA,Edgewood High School,81.176,24.825,16.8,23.6,15.95
+2021,5,PSA,Edgewood High School,86.175,27.675,17.0,24.3,17.2
+2021,6,PSA,Edgewood High School,87.4,27.3,18.1,25.0,17.0
+2021,2,PSW,Fishers Indoor Drumline,81.15,24.75,16.4,24.4,15.6
+2021,4,PSW,Fishers Indoor Drumline,89.9,27.6,17.6,27.2,17.5
+2021,5,PSW,Fishers Indoor Drumline,87.85,26.55,17.7,25.9,17.7
+2021,6,PSW,Fishers Indoor Drumline,93.1,28.5,18.6,27.3,18.7
+2021,1,PSO,Fort Wayne IN,74.3,21.9,15.3,22.4,14.7
+2021,3,PSO,Fort Wayne IN,80.2,23.7,16.5,24.6,15.4
+2021,5,PSO,Fort Wayne IN,84.4,24.6,17.9,24.6,17.3
+2021,6,PSO,Fort Wayne IN,85.751,25.95,16.8,25.1,17.9
+2021,0,PSW,Franklin Central Percussion Symphony,76.65,22.95,15.7,22.9,15.1
+2021,1,PSW,Franklin Central Percussion Symphony,81.15,24.75,15.3,24.6,16.5
+2021,2,PSW,Franklin Central Percussion Symphony,81.55,24.45,16.1,24.8,16.2
+2021,4,PSW,Franklin Central Percussion Symphony,86.75,26.25,17.3,26.0,17.2
+2021,5,PSW,Franklin Central Percussion Symphony,88.5,26.7,17.9,26.4,17.5
+2021,6,PSW,Franklin Central Percussion Symphony,94.0,29.1,19.3,27.0,18.6
+2021,1,PSA,Franklin Community High School Indoor Percussion,73.351,22.35,14.8,21.8,14.4
+2021,3,PSA,Franklin Community High School Indoor Percussion,78.65,22.65,15.4,24.3,16.3
+2021,4,PSA,Franklin Community High School Indoor Percussion,84.275,25.425,17.6,24.4,16.85
+2021,5,PSA,Franklin Community High School Indoor Percussion,86.775,26.025,17.9,25.2,17.65
+2021,6,PSA,Franklin Community High School Indoor Percussion,89.5,28.05,18.5,24.65,18.3
+2021,3,PSA,Goshen High School,83.35,24.45,16.7,25.6,16.6
+2021,4,PSA,Goshen High School,83.651,25.8,16.2,25.15,16.5
+2021,5,PSO,Goshen High School,81.901,24.9,16.1,24.5,16.4
+2021,6,PSO,Goshen High School,82.351,24.75,15.4,25.3,16.9
+2021,1,PSO,Greenfield-Central Indoor Percussion Ensemble,75.95,22.05,15.7,23.0,15.2
+2021,2,PSO,Greenfield-Central Indoor Percussion Ensemble,79.7,24.0,15.9,24.5,15.3
+2021,3,PSO,Greenfield-Central Indoor Percussion Ensemble,84.25,24.45,17.2,26.2,16.4
+2021,4,PSO,Greenfield-Central Indoor Percussion Ensemble,85.9,25.8,17.1,26.2,16.8
+2021,5,PSO,Greenfield-Central Indoor Percussion Ensemble,88.625,27.525,17.2,26.2,17.7
+2021,6,PSO,Greenfield-Central Indoor Percussion Ensemble,88.9,27.3,17.1,26.8,17.7
+2021,1,PSB,Greenwood Indoor Percussion,79.05,22.95,16.0,24.2,15.9
+2021,3,PSA,Greenwood Indoor Percussion,80.25,22.35,16.7,24.2,17.0
+2021,4,PSA,Greenwood Indoor Percussion,79.601,23.7,18.3,21.2,16.4
+2021,5,PSA,Greenwood Indoor Percussion,86.051,26.85,18.1,24.0,17.1
+2021,6,PSA,Greenwood Indoor Percussion,84.951,26.25,17.4,24.15,17.15
+2021,2,GSRA,Gurdon High School Winter Guard,62.55,12.07,15.48,11.6,12.6
+2021,3,GSRA,Gurdon High School Winter Guard,70.29,14.61,14.48,13.4,12.9
+2021,1,PSA,Hamilton Southeastern High School,75.3,22.5,15.8,22.8,14.2
+2021,4,PSA,Hamilton Southeastern High School,79.351,25.05,16.3,22.3,15.7
+2021,5,PSA,Hamilton Southeastern High School,86.076,26.175,16.5,25.5,17.9
+2021,6,PSA,Hamilton Southeastern High School,87.275,26.025,17.25,25.6,18.4
+2021,3,GSRA,Hollister High School Winter Guard,80.95,16.81,16.74,16.0,15.9
+2021,4,GSRA,Hollister High School Winter Guard,80.49,15.48,17.61,15.4,16.2
+2021,9,GSRA,Hollister High School Winter Guard,88.71,17.34,18.87,17.5,18.0
+2021,1,PSO,Homestead Indoor Percussion,74.3,21.9,15.3,22.4,14.7
+2021,3,PSO,Homestead Indoor Percussion,80.2,23.7,16.5,24.6,15.4
+2021,5,PSO,Homestead Indoor Percussion,84.4,24.6,17.9,24.6,17.3
+2021,6,PSO,Homestead Indoor Percussion,85.751,25.95,16.8,25.1,17.9
+2021,0,PIA,IGNITE Winter Percussion,62.55,18.45,12.6,18.7,12.8
+2021,3,PIA,IGNITE Winter Percussion,70.55,20.55,14.3,21.6,14.1
+2021,4,PIA,IGNITE Winter Percussion,72.6,21.9,15.4,20.8,14.5
+2021,5,PIA,IGNITE Winter Percussion,73.85,23.25,16.0,19.8,14.8
+2021,6,PIA,IGNITE Winter Percussion,73.75,22.05,14.9,21.2,15.6
+2021,4,GSRA,Joplin High School Winter Guard,76.01,15.94,17.07,13.3,15.0
+2021,4,PSB,Joplin Indoor Percussion,67.15,19.95,13.3,19.8,14.1
+2021,0,PSB,Knox Percussion Ensemble,70.75,19.95,14.5,22.9,13.4
+2021,2,PSA,Knox Percussion Ensemble,74.4,22.05,14.3,23.25,14.8
+2021,3,PSA,Knox Percussion Ensemble,74.2,21.6,13.7,23.2,15.7
+2021,5,PSA,Knox Percussion Ensemble,81.65,26.25,16.2,24.4,14.8
+2021,6,PSA,Knox Percussion Ensemble,79.2,24.15,16.1,23.55,15.4
+2021,1,PSA,Lake Central High School,67.75,20.85,13.7,20.5,12.7
+2021,3,PSA,Lake Central High School,72.05,21.45,13.9,22.3,14.4
+2021,5,PSA,Lake Central High School,74.45,23.85,14.8,22.0,13.8
+2021,6,PSA,Lake Central High School,70.65,20.85,13.5,22.1,14.2
+2021,2,GSC,Lake Hamilton Cadet Winter Guard,59.39,11.34,14.95,8.2,12.3
+2021,3,GSC,Lake Hamilton Cadet Winter Guard,71.52,14.74,14.08,14.0,14.4
+2021,9,GSC,Lake Hamilton Cadet Winter Guard,77.58,15.41,15.47,15.0,15.4
+2021,2,PSA,Lake Hamilton HS Indoor Percussion,71.7,21.9,14.1,21.2,14.5
+2021,3,PSA,Lake Hamilton HS Indoor Percussion,74.4,23.25,13.85,22.7,14.6
+2021,9,PSA,Lake Hamilton HS Indoor Percussion,89.3,27.9,18.3,26.1,17.0
+2021,2,GSRA,Lake Hamilton JV Winter Guard,67.73,12.94,15.59,12.3,13.3
+2021,3,GSRA,Lake Hamilton JV Winter Guard,73.19,15.35,15.54,14.4,13.2
+2021,9,GSRA,Lake Hamilton JV Winter Guard,82.95,16.68,16.87,16.7,16.1
+2021,2,GSA,Lake Hamilton Varsity Winter Guard,70.74,16.87,12.1,13.7,13.8
+2021,3,GSA,Lake Hamilton Varsity Winter Guard,72.95,16.41,16.14,14.6,11.8
+2021,9,GSA,Lake Hamilton Varsity Winter Guard,89.17,18.14,18.08,17.6,18.4
+2021,3,GSRA,Malvern Indoor Guard,68.421,14.28,14.94,12.9,13.6
+2021,8,GSRA,Malvern Indoor Guard,62.56,11.88,9.08,13.4,14.1
+2021,9,GSRA,Malvern Indoor Guard,67.59,13.28,15.81,14.4,11.8
+2021,0,PSA,Martinsville Indoor Percussion,67.951,20.55,12.9,21.5,13.0
+2021,1,PSA,Martinsville Indoor Percussion,71.751,22.2,13.95,22.1,13.5
+2021,2,PSA,Martinsville Indoor Percussion,71.501,20.7,14.3,21.8,14.7
+2021,3,PSA,Martinsville Indoor Percussion,77.801,23.4,14.2,22.6,17.6
+2021,4,PSA,Martinsville Indoor Percussion,75.95,22.2,15.35,23.0,15.4
+2021,5,PSA,Martinsville Indoor Percussion,78.85,24.15,16.0,22.5,16.2
+2021,6,PSA,Martinsville Indoor Percussion,79.95,24.45,15.8,23.7,16.0
+2021,0,PSB,Mater Dei Winter Percussion,64.85,20.85,12.8,18.7,12.5
+2021,2,PSB,Mater Dei Winter Percussion,64.751,20.55,13.2,18.4,12.6
+2021,3,PSB,Mater Dei Winter Percussion,67.101,18.9,14.2,19.7,14.3
+2021,5,PSB,Mater Dei Winter Percussion,70.2,19.95,14.2,21.3,14.75
+2021,1,PSB,Monrovia,62.401,19.5,12.0,18.4,12.5
+2021,3,PSB,Monrovia,68.65,21.45,12.9,20.5,13.8
+2021,5,PSB,Monrovia,68.65,20.55,13.1,21.4,13.6
+2021,0,PSA,New Palestine Audio Theater,64.151,20.85,12.2,18.8,12.3
+2021,2,PSA,New Palestine Audio Theater,72.15,22.65,12.5,23.1,13.9
+2021,3,PSA,New Palestine Audio Theater,66.1,18.9,13.2,21.7,12.3
+2021,1,PSB,New Prairie High School,58.401,16.5,12.3,17.5,12.1
+2021,2,PSB,New Prairie High School,59.7,18.6,12.1,17.5,11.5
+2021,4,PSB,New Prairie High School,73.401,23.1,14.3,22.8,13.2
+2021,5,PSB,New Prairie High School,73.351,20.7,13.25,25.6,13.8
+2021,1,PSA,Noblesville Indoor Percussion Ensemble,78.8,24.6,15.2,23.8,15.2
+2021,2,PSA,Noblesville Indoor Percussion Ensemble,83.0,25.8,15.6,24.8,16.8
+2021,3,PSA,Noblesville Indoor Percussion Ensemble,84.8,25.2,17.0,24.8,17.8
+2021,4,PSA,Noblesville Indoor Percussion Ensemble,84.85,24.9,17.55,25.3,17.1
+2021,5,PSA,Noblesville Indoor Percussion Ensemble,84.501,27.6,17.5,22.6,16.8
+2021,6,PSA,Noblesville Indoor Percussion Ensemble,88.65,27.6,18.65,24.7,17.7
+2021,1,PSB,Northeastern Indoor Percussion,64.501,20.1,12.6,19.0,12.8
+2021,2,PSB,Northeastern Indoor Percussion,68.875,20.475,13.1,22.0,13.3
+2021,3,PSB,Northeastern Indoor Percussion,67.851,19.65,14.0,20.8,13.4
+2021,4,PSB,Northeastern Indoor Percussion,72.15,22.95,13.3,21.8,14.1
+2021,5,PSB,Northeastern Indoor Percussion,71.15,20.25,13.6,23.4,13.9
+2021,1,PSA,Northview Indoor Percussion,72.0,21.6,14.2,21.2,15.0
+2021,2,PSA,Northview Indoor Percussion,72.25,21.45,14.5,21.2,15.1
+2021,3,PSA,Northview Indoor Percussion,80.4,23.1,17.2,22.8,17.3
+2021,4,PSA,Northview Indoor Percussion,83.675,23.625,18.8,23.05,18.2
+2021,5,PSA,Northview Indoor Percussion,85.701,26.4,18.5,22.8,18.0
+2021,6,PSA,Northview Indoor Percussion,84.576,25.725,17.1,23.95,17.8
+2021,0,PSA,Norwell Winter Percussion,69.65,21.45,14.3,20.9,13.0
+2021,1,PSA,Norwell Winter Percussion,70.901,21.6,13.9,21.5,13.9
+2021,3,PSA,Norwell Winter Percussion,70.05,20.25,14.3,20.6,14.9
+2021,4,PSA,Norwell Winter Percussion,71.4,21.15,14.5,20.7,15.05
+2021,5,PSA,Norwell Winter Percussion,76.675,25.275,14.9,21.2,15.3
+2021,6,PSA,Norwell Winter Percussion,75.7,22.2,15.0,22.6,15.9
+2021,2,PSN,Paragould Indoor Percussion,62.8,19.2,12.3,19.0,12.3
+2021,3,PSN,Paragould Indoor Percussion,71.3,21.9,15.2,19.1,15.1
+2021,9,PSB,Paragould Indoor Percussion,82.8,25.5,15.6,26.1,15.6
+2021,0,PSA,Perry Meridian Indoor Percussion,70.95,22.65,12.8,23.0,12.5
+2021,2,PSA,Perry Meridian Indoor Percussion,73.0,21.6,14.9,21.7,14.8
+2021,3,PSA,Perry Meridian Indoor Percussion,77.401,22.5,16.2,22.2,16.5
+2021,5,PSA,Perry Meridian Indoor Percussion,80.25,26.1,15.85,22.7,15.6
+2021,6,PSA,Perry Meridian Indoor Percussion,76.9,23.1,15.1,23.2,15.5
+2021,0,PSA,Pike Indoor Percussion,70.85,22.05,13.4,22.0,13.4
+2021,3,PSA,Pike Indoor Percussion,76.151,21.75,16.5,22.0,15.9
+2021,4,PSA,Pike Indoor Percussion,76.4,23.25,15.8,22.45,14.9
+2021,5,PSA,Pike Indoor Percussion,83.9,26.7,16.6,24.7,15.9
+2021,6,PSA,Pike Indoor Percussion,81.4,24.3,16.5,23.9,16.7
+2021,2,PSO,Plainfield High School Winter Percussion Ensemble,78.8,23.7,15.7,23.5,15.9
+2021,5,PSO,Plainfield High School Winter Percussion Ensemble,87.775,27.375,18.1,25.05,17.25
+2021,6,PSO,Plainfield High School Winter Percussion Ensemble,87.75,26.85,17.2,26.1,17.6
+2021,1,PSB,Scottsburg High School Winter Percussion,64.95,19.05,13.4,18.7,13.8
+2021,2,PSB,Scottsburg High School Winter Percussion,68.55,20.1,13.8,21.25,13.4
+2021,3,PSB,Scottsburg High School Winter Percussion,67.351,19.05,13.4,22.0,12.9
+2021,5,PSB,Scottsburg High School Winter Percussion,63.7,18.3,12.3,20.8,12.3
+2021,2,PSA,Siloam Springs Indoor Percussion,66.55,19.65,13.2,20.9,12.8
+2021,4,PSA,Siloam Springs Indoor Percussion,79.15,24.15,15.3,24.1,15.6
+2021,9,PSA,Siloam Springs Indoor Percussion,83.95,26.25,16.8,25.0,15.9
+2021,4,GSA,Siloam Springs Paragon Winter Guard,77.25,14.34,16.41,15.6,15.2
+2021,9,GSA,Siloam Springs Paragon Winter Guard,88.41,17.34,18.0,18.1,16.7
+2021,0,PSA,Southport Indoor Percussion Ensemble,72.15,23.7,13.6,21.65,13.2
+2021,1,PSA,Southport Indoor Percussion Ensemble,74.1,23.1,14.2,23.1,13.7
+2021,3,PSA,Southport Indoor Percussion Ensemble,74.451,21.15,14.8,22.1,16.4
+2021,5,PSA,Southport Indoor Percussion Ensemble,78.9,25.8,15.4,22.2,15.5
+2021,6,PSA,Southport Indoor Percussion Ensemble,82.051,25.2,17.3,23.15,16.4
+2021,0,PSB,Springs Valley Percussion Ensemble,66.85,21.15,13.0,19.8,12.9
+2021,1,PSB,Springs Valley Percussion Ensemble,65.45,19.95,13.3,19.9,12.3
+2021,4,PSB,Springs Valley Percussion Ensemble,74.9,24.3,15.0,22.0,13.6
+2021,5,PSB,Springs Valley Percussion Ensemble,72.501,21.3,13.9,22.7,14.6
+2021,0,PSB,Terre Haute North Winter Percussion,59.651,18.45,11.4,18.4,11.4
+2021,2,PSB,Terre Haute North Winter Percussion,61.701,18.9,12.5,18.5,11.8
+2021,3,PSB,Terre Haute North Winter Percussion,63.45,19.35,12.7,18.4,13.0
+2021,5,PSB,Terre Haute North Winter Percussion,68.1,19.8,12.7,22.6,13.0
+2021,0,PSB,Terre Haute South Indoor Percussion,67.0,21.6,12.4,20.7,12.3
+2021,2,PSB,Terre Haute South Indoor Percussion,69.8,21.0,12.9,23.6,12.3
+2021,3,PSB,Terre Haute South Indoor Percussion,71.2,20.7,14.4,21.7,14.4
+2021,4,PSB,Terre Haute South Indoor Percussion,77.7,25.2,13.6,24.8,14.1
+2021,5,PSB,Terre Haute South Indoor Percussion,75.05,22.05,14.0,24.8,14.2
+2021,0,PSA,Vincennes Indoor Percussion,74.25,23.25,14.0,23.1,13.9
+2021,1,PSA,Vincennes Indoor Percussion,77.05,23.55,14.6,23.9,15.0
+2021,2,PSA,Vincennes Indoor Percussion,76.2,22.2,15.4,22.6,16.0
+2021,4,PSA,Vincennes Indoor Percussion,85.1,25.5,17.4,25.5,16.7
+2021,5,PSA,Vincennes Indoor Percussion,89.65,28.65,17.1,26.2,17.7
+2021,6,PSA,Vincennes Indoor Percussion,89.6,27.15,18.4,25.45,18.6
+2021,2,PSB,Warren Central High School,73.4,21.9,14.1,23.1,14.3
+2021,3,PSB,Warren Central High School,73.2,22.2,13.7,22.6,14.7
+2021,5,PSB,Warren Central High School,80.225,22.425,14.7,27.3,15.8
+2021,2,PSB,Washington Indoor Percussion,64.301,19.5,14.4,17.6,12.8
+2021,3,PSB,Washington Indoor Percussion,73.75,22.95,14.8,20.9,15.1
+2021,5,PSB,Washington Indoor Percussion,79.1,22.8,15.0,26.1,15.2
+2021,1,PSB,Westfield Indoor Percussion,72.15,22.35,14.5,20.8,14.5
+2021,3,PSB,Westfield Indoor Percussion,76.2,23.7,13.8,22.7,16.0
+2021,4,PSA,Westfield Indoor Percussion,77.75,23.1,15.1,23.7,15.85
+2021,5,PSA,Westfield Indoor Percussion,81.375,26.625,15.3,22.3,17.15
+2021,6,PSA,Westfield Indoor Percussion,81.9,24.6,16.65,24.05,16.6
+2021,0,PSB,Woodlan Indoor Percussion,65.1,18.9,13.5,20.2,12.5
+2021,1,PSB,Woodlan Indoor Percussion,65.15,19.05,13.5,19.3,13.3
+2021,3,PSB,Woodlan Indoor Percussion,72.2,22.5,14.5,21.2,14.0
+2021,5,PSB,Woodlan Indoor Percussion,72.651,21.9,13.85,22.2,14.7
+2021,0,PSA,Zionsville Indoor Percussion,76.4,24.0,14.8,22.5,15.1
+2021,1,PSA,Zionsville Indoor Percussion,82.6,24.9,16.2,25.0,16.5
+2021,2,PSA,Zionsville Indoor Percussion,80.9,24.3,16.2,24.3,16.1
+2021,3,PSA,Zionsville Indoor Percussion,84.55,25.35,17.4,24.9,16.9
+2021,4,PSA,Zionsville Indoor Percussion,89.8,27.9,18.7,24.85,18.35
+2021,5,PSA,Zionsville Indoor Percussion,93.7,28.8,18.8,27.1,19.0
+2021,6,PSO,Zionsville Indoor Percussion,91.8,27.9,19.0,26.4,18.5
+2021,0,PIA,,67.3,21.6,12.8,19.4,13.5
+2021,1,PIA,,72.05,21.75,13.6,22.6,14.1
+2021,2,PIA,,70.25,20.25,14.5,21.2,14.3
+2021,3,PIA,,72.1,21.9,13.8,20.9,15.5
+2021,4,PIA,,72.6,21.9,15.4,20.8,14.5
+2021,5,PIA,,75.45,22.35,15.1,22.3,15.7
+2021,6,PIA,,76.15,22.95,15.8,22.2,15.2
