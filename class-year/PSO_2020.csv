@@ -1,77 +1,88 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2020,3,PSO,Ben Davis High School,70.95,22.35,13.7,20.6,14.3
-2020,4,PSO,Ben Davis High School,69.8,23.1,13.4,19.5,13.8
-2020,6,PSO,Ben Davis High School,77.6,23.1,15.5,23.9,15.1
-2020,6,PSO,Brownsburg Percussion,85.15,25.65,17.5,25.6,16.4
-2020,3,PSO,Buena HS,74.001,22.5,14.7,23.2,13.6
-2020,5,PSO,Buena HS,75.501,23.4,15.2,22.9,14.0
-2020,3,PSO,Carlsbad HS,73.076,22.275,15.3,21.5,14.0
-2020,6,PSO,Carlsbad HS,76.85,22.95,16.6,21.8,15.5
-2020,4,PSO,Carroll High School Indoor Percussion Ensemble,76.9,23.1,14.8,24.3,14.7
-2020,6,PSO,Carroll High School Indoor Percussion Ensemble,83.1,24.6,17.1,24.5,16.9
-2020,3,PSO,Cesar E. Chavez HS,82.0,24.3,16.9,24.5,16.3
-2020,1,PSO,Chino HS,76.45,24.15,16.2,22.2,13.9
-2020,3,PSO,Chino HS,82.05,25.05,15.9,25.2,15.9
-2020,6,PSO,Chino HS,84.55,25.65,17.0,25.2,16.7
-2020,2,PSO,East Irondequoit,68.25,23.6,18.75,12.9,13.0
-2020,3,PSO,East Irondequoit,74.15,23.4,21.75,14.4,14.6
-2020,6,PSO,East Irondequoit,77.35,21.7,23.25,16.1,16.3
-2020,2,PSO,East Syracuse Minoa,70.0,22.7,20.1,13.6,13.6
-2020,4,PSO,East Syracuse Minoa,78.55,23.3,24.15,15.5,15.6
-2020,5,PSO,East Syracuse Minoa,81.1,24.2,24.3,16.3,16.3
-2020,6,PSO,East Syracuse Minoa,82.6,25.9,24.9,15.8,16.0
-2020,5,PSO,El Dorado HS,80.9,24.3,16.6,23.1,16.9
-2020,3,PSO,Fair Lawn,69.6,20.5,20.1,15.2,13.8
-2020,5,PSO,Fountain Valley HS,79.55,24.15,14.8,23.8,16.8
-2020,2,PSO,Gahr HS,73.65,24.15,13.6,22.4,13.5
-2020,5,PSO,Gahr HS,77.35,23.55,15.1,23.7,15.0
-2020,1,PSO,Granada Hills CHS,67.1,20.1,13.8,19.6,13.6
-2020,3,PSO,Granada Hills CHS,74.651,23.25,15.1,22.5,13.8
-2020,6,PSO,Great Oak HS,85.375,25.575,17.2,25.3,17.3
-2020,6,PSO,Greenfield-Central Indoor Percussion Ensemble,80.6,24.6,15.6,24.7,15.7
-2020,0,PSO,Halls Indoor Percussion Ensemble,71.15,22.1,20.25,14.4,14.4
-2020,2,PSO,Hilton HS Percussion,67.9,23.7,18.9,13.3,12.0
-2020,3,PSO,Hilton HS Percussion,75.35,23.0,22.95,14.7,14.7
-2020,6,PSO,Hilton HS Percussion,79.95,23.9,24.75,15.6,15.7
-2020,3,PSO,Hoover HS,79.05,23.4,15.8,24.9,14.95
-2020,5,PSO,Hoover HS,78.95,23.25,15.4,24.4,15.9
-2020,6,PSO,La Quinta HS (W),84.2,25.2,17.1,24.8,17.1
-2020,2,PSO,Liverpool Indoor Percussion,67.35,22.8,19.05,12.7,12.8
-2020,3,PSO,Liverpool Indoor Percussion,72.5,22.4,21.9,14.0,14.2
-2020,4,PSO,Liverpool Indoor Percussion,74.85,21.4,23.85,14.8,14.8
-2020,6,PSO,Liverpool Indoor Percussion,78.8,24.0,24.0,15.3,15.5
-2020,2,PSO,Los Alamitos HS,73.95,23.55,14.1,22.3,14.0
-2020,6,PSO,Mission Hills HS,78.7,24.9,16.2,21.7,15.9
-2020,5,PSO,Mission Viejo HS,76.951,23.25,16.0,22.8,14.9
-2020,6,PSO,Mission Viejo HS,78.25,24.3,15.6,22.8,15.55
-2020,4,PSO,Old Bridge,78.7,22.7,24.6,15.8,15.6
-2020,6,PSO,Old Bridge,82.95,24.4,24.75,16.8,17.0
-2020,3,PSO,Patriot HS,74.85,22.2,14.5,23.25,14.9
-2020,5,PSO,Patriot HS,79.35,24.6,15.5,24.3,14.95
-2020,3,PSO,Rancho Cucamonga HS,79.85,24.0,16.6,24.55,14.7
-2020,5,PSO,Rancho Cucamonga HS,82.95,25.05,16.9,25.1,15.9
-2020,3,PSO,San Marcos HS,75.251,23.25,15.3,22.4,14.3
-2020,5,PSO,San Marcos HS,70.801,21.3,15.0,20.5,14.0
-2020,6,PSO,San Marcos HS,67.15,20.85,12.8,20.4,13.1
-2020,3,PSO,San Marino HS,80.05,24.6,16.3,24.0,15.15
-2020,3,PSO,Sierra Vista HS,75.85,24.15,14.3,23.7,13.7
-2020,5,PSO,Sierra Vista HS,74.201,22.8,14.9,22.7,13.8
-2020,4,PSO,Spring-Ford,75.2,22.0,23.1,15.3,14.8
-2020,5,PSO,Spring-Ford,77.25,23.4,22.95,15.4,15.5
-2020,5,PSO,Trabuco Hills HS,76.451,22.05,15.8,23.5,15.1
-2020,6,PSO,Trabuco Hills HS,73.9,21.0,15.8,21.1,16.0
-2020,4,PSO,Unionville,75.45,22.1,23.25,15.0,15.1
-2020,5,PSO,Unionville,76.7,22.9,23.4,15.3,15.1
-2020,2,PSO,Upland HS,73.55,22.35,14.8,21.5,14.9
-2020,3,PSO,Upland HS,74.801,21.3,14.4,23.9,15.2
-2020,6,PSO,VIctor J Andrew HS,82.9,25.2,16.5,25.1,16.1
-2020,2,PSO,Victor Indoor Percussion Ensemble,64.501,23.2,17.7,12.4,11.2
-2020,5,PSO,Victor Indoor Percussion Ensemble,73.7,21.0,22.5,15.2,15.0
-2020,6,PSO,Victor Indoor Percussion Ensemble,72.951,21.0,22.35,14.7,14.9
-2020,1,PSO,West Ranch HS,72.1,21.9,14.9,20.9,14.4
-2020,2,PSO,West Ranch HS,74.45,22.65,15.1,22.0,14.7
-2020,5,PSO,West Ranch HS,79.7,24.0,15.3,24.6,15.8
-2020,3,PSO,Westminster HS,72.0,21.0,14.3,23.1,13.6
-2020,5,PSO,Westminster HS,73.601,22.8,14.6,22.5,13.7
-2020,3,PSO,William S. Hart HS,73.801,22.65,14.55,23.2,13.4
-2020,5,PSO,William S. Hart HS,75.65,22.35,15.1,22.6,15.6
+2020,4,PSO,Ben Davis High School,70.95,22.35,13.7,20.6,14.3
+2020,5,PSO,Ben Davis High School,69.8,23.1,13.4,19.5,13.8
+2020,7,PSO,Ben Davis High School,77.6,23.1,15.5,23.9,15.1
+2020,4,PSO,Bingham High School,72.8,21.9,13.6,22.8,14.5
+2020,7,PSO,Bingham High School,78.8,22.1,24.0,15.6,17.1
+2020,7,PSO,Brownsburg Percussion,85.15,25.65,17.5,25.6,16.4
+2020,4,PSO,Buena HS,74.001,22.5,14.7,23.2,13.6
+2020,6,PSO,Buena HS,75.501,23.4,15.2,22.9,14.0
+2020,4,PSO,Carlsbad HS,73.076,22.275,15.3,21.5,14.0
+2020,7,PSO,Carlsbad HS,76.85,22.95,16.6,21.8,15.5
+2020,5,PSO,Carroll High School Indoor Percussion Ensemble,76.9,23.1,14.8,24.3,14.7
+2020,7,PSO,Carroll High School Indoor Percussion Ensemble,83.1,24.6,17.1,24.5,16.9
+2020,4,PSO,Cesar E. Chavez HS,82.0,24.3,16.9,24.5,16.3
+2020,2,PSO,Chino HS,76.45,24.15,16.2,22.2,13.9
+2020,4,PSO,Chino HS,82.05,25.05,15.9,25.2,15.9
+2020,7,PSO,Chino HS,84.55,25.65,17.0,25.2,16.7
+2020,5,PSO,Davis High School,76.5,22.8,24.6,14.9,14.2
+2020,7,PSO,Davis High School,81.55,24.0,24.9,15.65,17.0
+2020,3,PSO,East Irondequoit,68.25,23.6,18.75,12.9,13.0
+2020,4,PSO,East Irondequoit,74.15,23.4,21.75,14.4,14.6
+2020,7,PSO,East Irondequoit,77.35,21.7,23.25,16.1,16.3
+2020,3,PSO,East Syracuse Minoa,70.0,22.7,20.1,13.6,13.6
+2020,5,PSO,East Syracuse Minoa,78.55,23.3,24.15,15.5,15.6
+2020,6,PSO,East Syracuse Minoa,81.1,24.2,24.3,16.3,16.3
+2020,7,PSO,East Syracuse Minoa,82.6,25.9,24.9,15.8,16.0
+2020,4,PSO,Eden Prairie High School,72.7,21.3,13.8,22.2,15.4
+2020,5,PSO,Eden Prairie High School,76.35,24.75,14.0,22.8,14.8
+2020,7,PSO,Eden Prairie High School,83.4,25.05,16.8,25.85,15.7
+2020,6,PSO,El Dorado HS,80.9,24.3,16.6,23.1,16.9
+2020,4,PSO,Fair Lawn,69.6,20.5,20.1,15.2,13.8
+2020,4,PSO,Farmington High School,68.85,19.65,14.6,21.0,13.6
+2020,7,PSO,Farmington High School,76.4,21.6,22.5,15.0,17.3
+2020,6,PSO,Fountain Valley HS,79.55,24.15,14.8,23.8,16.8
+2020,3,PSO,Gahr HS,73.65,24.15,13.6,22.4,13.5
+2020,6,PSO,Gahr HS,77.35,23.55,15.1,23.7,15.0
+2020,2,PSO,Granada Hills CHS,67.1,20.1,13.8,19.6,13.6
+2020,4,PSO,Granada Hills CHS,74.651,23.25,15.1,22.5,13.8
+2020,7,PSO,Great Oak HS,85.375,25.575,17.2,25.3,17.3
+2020,7,PSO,Greenfield-Central Indoor Percussion Ensemble,80.6,24.6,15.6,24.7,15.7
+2020,1,PSO,Halls Indoor Percussion Ensemble,71.15,22.1,20.25,14.4,14.4
+2020,3,PSO,Hilton HS Percussion,67.9,23.7,18.9,13.3,12.0
+2020,4,PSO,Hilton HS Percussion,75.35,23.0,22.95,14.7,14.7
+2020,7,PSO,Hilton HS Percussion,79.95,23.9,24.75,15.6,15.7
+2020,4,PSO,Hoover HS,79.05,23.4,15.8,24.9,14.95
+2020,6,PSO,Hoover HS,78.95,23.25,15.4,24.4,15.9
+2020,3,PSO,Irondale High School,70.6,21.6,14.4,20.0,14.6
+2020,7,PSO,Irondale High School,82.25,23.85,17.1,25.4,15.9
+2020,7,PSO,La Quinta HS (W),84.2,25.2,17.1,24.8,17.1
+2020,3,PSO,Liverpool Indoor Percussion,67.35,22.8,19.05,12.7,12.8
+2020,4,PSO,Liverpool Indoor Percussion,72.5,22.4,21.9,14.0,14.2
+2020,5,PSO,Liverpool Indoor Percussion,74.85,21.4,23.85,14.8,14.8
+2020,7,PSO,Liverpool Indoor Percussion,78.8,24.0,24.0,15.3,15.5
+2020,3,PSO,Los Alamitos HS,73.95,23.55,14.1,22.3,14.0
+2020,7,PSO,Mission Hills HS,78.7,24.9,16.2,21.7,15.9
+2020,6,PSO,Mission Viejo HS,76.951,23.25,16.0,22.8,14.9
+2020,7,PSO,Mission Viejo HS,78.25,24.3,15.6,22.8,15.55
+2020,5,PSO,Old Bridge,78.7,22.7,24.6,15.8,15.6
+2020,7,PSO,Old Bridge,82.95,24.4,24.75,16.8,17.0
+2020,4,PSO,Patriot HS,74.85,22.2,14.5,23.25,14.9
+2020,6,PSO,Patriot HS,79.35,24.6,15.5,24.3,14.95
+2020,4,PSO,Rancho Cucamonga HS,79.85,24.0,16.6,24.55,14.7
+2020,6,PSO,Rancho Cucamonga HS,82.95,25.05,16.9,25.1,15.9
+2020,4,PSO,San Marcos HS,75.251,23.25,15.3,22.4,14.3
+2020,6,PSO,San Marcos HS,70.801,21.3,15.0,20.5,14.0
+2020,7,PSO,San Marcos HS,67.15,20.85,12.8,20.4,13.1
+2020,4,PSO,San Marino HS,80.05,24.6,16.3,24.0,15.15
+2020,4,PSO,Sierra Vista HS,75.85,24.15,14.3,23.7,13.7
+2020,6,PSO,Sierra Vista HS,74.201,22.8,14.9,22.7,13.8
+2020,5,PSO,Spring-Ford,75.2,22.0,23.1,15.3,14.8
+2020,6,PSO,Spring-Ford,77.25,23.4,22.95,15.4,15.5
+2020,6,PSO,Trabuco Hills HS,76.451,22.05,15.8,23.5,15.1
+2020,7,PSO,Trabuco Hills HS,73.9,21.0,15.8,21.1,16.0
+2020,5,PSO,Unionville,75.45,22.1,23.25,15.0,15.1
+2020,6,PSO,Unionville,76.7,22.9,23.4,15.3,15.1
+2020,3,PSO,Upland HS,73.55,22.35,14.8,21.5,14.9
+2020,4,PSO,Upland HS,74.801,21.3,14.4,23.9,15.2
+2020,7,PSO,VIctor J Andrew HS,82.9,25.2,16.5,25.1,16.1
+2020,3,PSO,Victor Indoor Percussion Ensemble,64.501,23.2,17.7,12.4,11.2
+2020,6,PSO,Victor Indoor Percussion Ensemble,73.7,21.0,22.5,15.2,15.0
+2020,7,PSO,Victor Indoor Percussion Ensemble,72.951,21.0,22.35,14.7,14.9
+2020,2,PSO,West Ranch HS,72.1,21.9,14.9,20.9,14.4
+2020,3,PSO,West Ranch HS,74.45,22.65,15.1,22.0,14.7
+2020,6,PSO,West Ranch HS,79.7,24.0,15.3,24.6,15.8
+2020,4,PSO,Westminster HS,72.0,21.0,14.3,23.1,13.6
+2020,6,PSO,Westminster HS,73.601,22.8,14.6,22.5,13.7
+2020,4,PSO,William S. Hart HS,73.801,22.65,14.55,23.2,13.4
+2020,6,PSO,William S. Hart HS,75.65,22.35,15.1,22.6,15.6

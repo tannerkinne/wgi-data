@@ -1,101 +1,110 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2018,2,PSO,Arcadia HS,74.35,22.65,14.0,22.8,14.9
-2018,5,PSO,Arcadia HS,80.0,22.5,16.7,24.5,16.3
-2018,5,PSO,Arroyo HS,68.451,20.25,11.7,21.7,14.8
-2018,6,PSO,Arroyo HS,69.25,21.15,12.6,22.3,13.2
-2018,7,PSO,Arroyo HS,72.251,21.75,14.3,22.7,13.5
-2018,7,PSO,Buena HS,79.85,25.65,15.1,24.6,14.5
-2018,11,PSO,Buena HS,82.425,24.525,16.7,24.85,16.35
-2018,6,PSO,Cab Calloway,75.15,21.3,25.35,14.8,13.7
-2018,3,PSO,Carmel High School,76.55,24.15,14.6,23.4,14.4
-2018,5,PSO,Carmel High School,78.1,24.0,16.3,21.8,16.0
-2018,7,PSO,Carmel High School,76.35,22.05,15.0,24.5,14.8
-2018,10,PSO,Carmel High School,81.325,24.225,16.4,25.0,15.7
-2018,2,PSO,Cesar E. Chavez HS,72.85,22.95,14.7,20.8,14.4
-2018,3,PSO,Chino HS,69.001,21.3,13.4,21.1,13.2
-2018,7,PSO,Chino HS,79.951,23.85,15.9,25.7,14.5
-2018,11,PSO,Clovis HS,87.613,26.438,16.95,27.175,17.05
-2018,4,PSO,Downingtown,70.45,21.8,23.25,12.8,12.6
-2018,6,PSO,Downingtown,76.6,23.2,24.9,14.5,14.0
-2018,8,PSO,Downingtown,77.0,22.4,23.7,15.4,15.5
-2018,10,PSO,Downingtown,80.7,23.9,24.6,15.8,16.4
-2018,11,PSO,Downingtown,80.45,24.3,24.75,16.0,15.4
-2018,4,PSO,East Syracuse Minoa,79.85,25.0,23.85,15.5,15.5
-2018,5,PSO,East Syracuse Minoa,81.6,24.7,24.6,16.2,16.1
-2018,7,PSO,East Syracuse Minoa,84.8,25.7,25.5,16.9,16.7
-2018,8,PSO,East Syracuse Minoa,87.85,26.8,26.55,17.1,17.4
-2018,9,PSO,East Syracuse Minoa,87.75,26.8,25.65,17.8,17.5
-2018,10,PSO,East Syracuse Minoa,91.4,27.8,28.2,17.5,17.9
-2018,3,PSO,El Dorado HS,81.1,23.1,17.6,23.5,16.9
-2018,5,PSO,El Dorado HS,82.05,25.95,16.3,23.9,15.9
-2018,11,PSO,El Dorado HS,88.7,27.0,17.6,26.425,17.675
-2018,3,PSO,Fair Lawn,70.6,22.0,21.0,13.7,13.9
-2018,3,PSO,Fountain Valley HS,78.5,24.0,13.9,24.7,15.9
-2018,5,PSO,Fountain Valley HS,76.25,23.7,13.6,23.95,15.0
-2018,6,PSO,Fountain Valley HS,82.25,24.75,16.3,25.3,15.9
-2018,11,PSO,Fountain Valley HS,88.275,26.625,17.35,26.575,17.725
-2018,1,PSO,Granada Hills CHS,70.75,20.85,13.3,21.1,15.5
-2018,6,PSO,Granada Hills CHS,76.05,22.95,14.8,23.2,15.1
-2018,11,PSO,Granada Hills CHS,84.15,25.5,17.0,24.875,16.775
-2018,6,PSO,Great Oak HS,80.4,24.3,16.6,23.0,16.5
-2018,7,PSO,Great Oak HS,86.15,27.15,17.4,25.0,16.6
-2018,11,PSO,Great Oak HS,91.575,27.825,18.55,26.8,18.4
-2018,3,PSO,Greenfield-Central Indoor Percussion Ensemble,74.9,21.9,15.5,23.6,13.9
-2018,5,PSO,Greenfield-Central Indoor Percussion Ensemble,81.65,24.45,16.8,23.6,16.8
-2018,7,PSO,Greenfield-Central Indoor Percussion Ensemble,83.85,24.75,16.6,25.9,16.6
-2018,10,PSO,Greenfield-Central Indoor Percussion Ensemble,86.063,25.462,17.05,26.65,16.9
-2018,5,PSO,La Quinta HS,82.05,24.45,15.8,24.9,16.9
-2018,7,PSO,La Quinta HS (W),86.75,25.95,17.9,25.6,17.3
-2018,11,PSO,La Quinta HS (W),93.838,27.938,19.1,28.05,18.75
-2018,3,PSO,Lawrence Township Winter Percussion,78.9,24.6,15.2,24.2,14.9
-2018,5,PSO,Lawrence Township Winter Percussion,81.15,23.85,16.7,24.1,16.5
-2018,10,PSO,Lawrence Township Winter Percussion,87.0,26.25,17.45,25.3,18.0
-2018,3,PSO,Los Alamitos HS,78.15,22.65,16.6,23.8,15.1
-2018,6,PSO,Los Alamitos HS,84.2,24.9,16.9,25.7,16.7
-2018,7,PSO,Los Alamitos HS,86.0,26.4,15.8,26.9,16.9
-2018,5,PSO,Mission Viejo HS,75.35,22.35,15.5,23.0,14.5
-2018,7,PSO,Mission Viejo HS,79.801,24.6,15.4,24.1,15.7
-2018,11,PSO,Mission Viejo HS,85.401,25.35,16.75,25.65,17.65
-2018,6,PSO,Nogales HS,76.1,22.8,15.7,21.5,16.1
-2018,11,PSO,Nogales HS,85.038,25.238,17.0,25.55,17.25
-2018,6,PSO,Old Bridge,87.25,25.8,27.15,17.0,17.3
-2018,8,PSO,Old Bridge,90.4,27.4,27.3,18.1,17.6
-2018,10,PSO,Old Bridge,91.65,27.5,27.45,18.2,18.5
-2018,11,PSO,Old Bridge,91.55,27.4,27.45,18.3,18.4
-2018,5,PSO,Palisades CHS,74.45,21.15,14.7,23.4,15.2
-2018,7,PSO,Palisades CHS,79.701,25.2,15.5,24.0,15.0
-2018,11,PSO,Palisades CHS,79.675,23.625,15.95,23.9,16.2
-2018,5,PSO,Patriot HS,77.85,21.75,16.3,23.5,16.3
-2018,7,PSO,Patriot HS,82.05,24.75,16.4,25.3,15.6
-2018,3,PSO,Perkiomen Valley,69.35,21.9,21.45,13.0,13.0
-2018,4,PSO,Perkiomen Valley,73.65,22.5,24.75,12.9,13.5
-2018,10,PSO,Perkiomen Valley,84.15,24.7,25.65,16.7,17.1
-2018,11,PSO,Perkiomen Valley,84.75,25.4,26.25,16.8,16.3
-2018,3,PSO,Rancho Cucamonga HS,71.251,22.2,13.8,22.0,13.25
-2018,5,PSO,Rancho Cucamonga HS,76.7,22.2,14.6,25.6,14.3
-2018,7,PSO,Rancho Cucamonga HS,80.201,24.9,16.1,24.4,14.8
-2018,3,PSO,San Marino HS,76.95,21.15,17.2,22.1,16.5
-2018,7,PSO,San Marino HS,85.2,25.8,17.2,26.1,16.1
-2018,5,PSO,Springford,77.9,23.8,24.6,15.0,14.5
-2018,6,PSO,Springford,81.7,25.0,27.0,14.9,14.8
-2018,8,PSO,Springford,83.4,25.3,26.1,15.8,16.2
-2018,10,PSO,Springford,85.5,25.2,27.0,16.6,16.7
-2018,11,PSO,Springford,86.9,26.4,26.1,17.2,17.2
-2018,3,PSO,Sunny Hills HS,71.501,21.6,14.2,21.6,14.1
-2018,5,PSO,Sunny Hills HS,77.1,24.0,13.2,24.5,15.4
-2018,11,PSO,Sunny Hills HS,87.763,26.513,16.95,27.25,17.05
-2018,1,PSO,Thousand Oaks HS,65.05,18.75,12.3,19.7,14.3
-2018,2,PSO,Thousand Oaks HS,66.0,20.4,13.4,19.8,12.4
-2018,5,PSO,Thousand Oaks HS,72.251,20.25,15.1,23.0,13.9
-2018,7,PSO,Trabuco Hills HS,83.2,24.9,16.5,25.7,16.1
-2018,6,PSO,VIctor J Andrew HS,83.15,24.45,16.9,26.0,15.8
-2018,5,PSO,Victor Indoor Percussion Ensemble,80.2,23.7,24.3,15.9,16.3
-2018,7,PSO,Victor Indoor Percussion Ensemble,83.4,24.8,24.6,17.1,16.9
-2018,8,PSO,Victor Indoor Percussion Ensemble,87.15,26.3,25.65,17.2,18.0
-2018,9,PSO,Victor Indoor Percussion Ensemble,86.75,26.3,24.75,17.9,17.8
-2018,10,PSO,Victor Indoor Percussion Ensemble,90.2,27.2,27.0,17.8,18.2
-2018,3,PSO,William S. Hart HS,74.25,22.35,14.8,22.8,14.3
-2018,7,PSO,William S. Hart HS,82.3,25.5,16.7,24.1,16.0
-2018,11,PSO,William S. Hart HS,86.638,26.212,17.25,25.925,17.25
-2018,7,PSO,Zionsville Indoor Percussion,79.85,23.25,16.5,24.9,15.2
-2018,10,PSO,Zionsville Indoor Percussion,83.975,24.825,17.05,24.9,17.2
+2018,3,PSO,Arcadia HS,74.35,22.65,14.0,22.8,14.9
+2018,6,PSO,Arcadia HS,80.0,22.5,16.7,24.5,16.3
+2018,6,PSO,Arroyo HS,68.451,20.25,11.7,21.7,14.8
+2018,7,PSO,Arroyo HS,69.25,21.15,12.6,22.3,13.2
+2018,8,PSO,Arroyo HS,72.251,21.75,14.3,22.7,13.5
+2018,8,PSO,Buena HS,79.85,25.65,15.1,24.6,14.5
+2018,12,PSO,Buena HS,82.425,24.525,16.7,24.85,16.35
+2018,7,PSO,Cab Calloway,75.15,21.3,25.35,14.8,13.7
+2018,4,PSO,Carmel High School,76.55,24.15,14.6,23.4,14.4
+2018,6,PSO,Carmel High School,78.1,24.0,16.3,21.8,16.0
+2018,8,PSO,Carmel High School,76.35,22.05,15.0,24.5,14.8
+2018,11,PSO,Carmel High School,81.325,24.225,16.4,25.0,15.7
+2018,9,PSO,Central Lafourche H.S.,85.5,25.5,25.8,16.7,17.5
+2018,3,PSO,Cesar E. Chavez HS,72.85,22.95,14.7,20.8,14.4
+2018,4,PSO,Chino HS,69.001,21.3,13.4,21.1,13.2
+2018,8,PSO,Chino HS,79.951,23.85,15.9,25.7,14.5
+2018,12,PSO,Clovis HS,87.613,26.438,16.95,27.175,17.05
+2018,12,PSO,Davis HS,85.35,25.6,24.75,16.9,18.1
+2018,5,PSO,Downingtown,70.45,21.8,23.25,12.8,12.6
+2018,7,PSO,Downingtown,76.6,23.2,24.9,14.5,14.0
+2018,9,PSO,Downingtown,77.0,22.4,23.7,15.4,15.5
+2018,11,PSO,Downingtown,80.7,23.9,24.6,15.8,16.4
+2018,12,PSO,Downingtown,80.45,24.3,24.75,16.0,15.4
+2018,9,PSO,E.D. White Catholic H.S.,88.15,25.9,27.0,16.95,18.3
+2018,5,PSO,East Syracuse Minoa,79.85,25.0,23.85,15.5,15.5
+2018,6,PSO,East Syracuse Minoa,81.6,24.7,24.6,16.2,16.1
+2018,8,PSO,East Syracuse Minoa,84.8,25.7,25.5,16.9,16.7
+2018,9,PSO,East Syracuse Minoa,87.85,26.8,26.55,17.1,17.4
+2018,10,PSO,East Syracuse Minoa,87.75,26.8,25.65,17.8,17.5
+2018,11,PSO,East Syracuse Minoa,91.4,27.8,28.2,17.5,17.9
+2018,4,PSO,El Dorado HS,81.1,23.1,17.6,23.5,16.9
+2018,6,PSO,El Dorado HS,82.05,25.95,16.3,23.9,15.9
+2018,12,PSO,El Dorado HS,88.7,27.0,17.6,26.425,17.675
+2018,4,PSO,Fair Lawn,70.6,22.0,21.0,13.7,13.9
+2018,4,PSO,Fountain Valley HS,78.5,24.0,13.9,24.7,15.9
+2018,6,PSO,Fountain Valley HS,76.25,23.7,13.6,23.95,15.0
+2018,7,PSO,Fountain Valley HS,82.25,24.75,16.3,25.3,15.9
+2018,12,PSO,Fountain Valley HS,88.275,26.625,17.35,26.575,17.725
+2018,2,PSO,Granada Hills CHS,70.75,20.85,13.3,21.1,15.5
+2018,7,PSO,Granada Hills CHS,76.05,22.95,14.8,23.2,15.1
+2018,12,PSO,Granada Hills CHS,84.15,25.5,17.0,24.875,16.775
+2018,7,PSO,Great Oak HS,80.4,24.3,16.6,23.0,16.5
+2018,8,PSO,Great Oak HS,86.15,27.15,17.4,25.0,16.6
+2018,12,PSO,Great Oak HS,91.575,27.825,18.55,26.8,18.4
+2018,4,PSO,Greenfield-Central Indoor Percussion Ensemble,74.9,21.9,15.5,23.6,13.9
+2018,6,PSO,Greenfield-Central Indoor Percussion Ensemble,81.65,24.45,16.8,23.6,16.8
+2018,8,PSO,Greenfield-Central Indoor Percussion Ensemble,83.85,24.75,16.6,25.9,16.6
+2018,11,PSO,Greenfield-Central Indoor Percussion Ensemble,86.063,25.462,17.05,26.65,16.9
+2018,3,PSO,Kettering Fairmont,72.95,22.8,21.15,14.5,14.5
+2018,5,PSO,Kettering Fairmont,77.8,23.6,23.7,16.0,14.5
+2018,7,PSO,Kettering Fairmont,76.65,24.3,22.95,14.7,14.7
+2018,11,PSO,Kettering Fairmont,83.55,24.8,24.75,16.9,17.1
+2018,6,PSO,La Quinta HS,82.05,24.45,15.8,24.9,16.9
+2018,8,PSO,La Quinta HS (W),86.75,25.95,17.9,25.6,17.3
+2018,12,PSO,La Quinta HS (W),93.838,27.938,19.1,28.05,18.75
+2018,4,PSO,Lawrence Township Winter Percussion,78.9,24.6,15.2,24.2,14.9
+2018,6,PSO,Lawrence Township Winter Percussion,81.15,23.85,16.7,24.1,16.5
+2018,11,PSO,Lawrence Township Winter Percussion,87.0,26.25,17.45,25.3,18.0
+2018,4,PSO,Los Alamitos HS,78.15,22.65,16.6,23.8,15.1
+2018,7,PSO,Los Alamitos HS,84.2,24.9,16.9,25.7,16.7
+2018,8,PSO,Los Alamitos HS,86.0,26.4,15.8,26.9,16.9
+2018,6,PSO,Mission Viejo HS,75.35,22.35,15.5,23.0,14.5
+2018,8,PSO,Mission Viejo HS,79.801,24.6,15.4,24.1,15.7
+2018,12,PSO,Mission Viejo HS,85.401,25.35,16.75,25.65,17.65
+2018,7,PSO,Nogales HS,76.1,22.8,15.7,21.5,16.1
+2018,12,PSO,Nogales HS,85.038,25.238,17.0,25.55,17.25
+2018,9,PSO,Oak Grove H.S.,87.85,26.2,27.15,16.9,17.6
+2018,7,PSO,Old Bridge,87.25,25.8,27.15,17.0,17.3
+2018,9,PSO,Old Bridge,90.4,27.4,27.3,18.1,17.6
+2018,11,PSO,Old Bridge,91.65,27.5,27.45,18.2,18.5
+2018,12,PSO,Old Bridge,91.55,27.4,27.45,18.3,18.4
+2018,6,PSO,Palisades CHS,74.45,21.15,14.7,23.4,15.2
+2018,8,PSO,Palisades CHS,79.701,25.2,15.5,24.0,15.0
+2018,12,PSO,Palisades CHS,79.675,23.625,15.95,23.9,16.2
+2018,6,PSO,Patriot HS,77.85,21.75,16.3,23.5,16.3
+2018,8,PSO,Patriot HS,82.05,24.75,16.4,25.3,15.6
+2018,4,PSO,Perkiomen Valley,69.35,21.9,21.45,13.0,13.0
+2018,5,PSO,Perkiomen Valley,73.65,22.5,24.75,12.9,13.5
+2018,11,PSO,Perkiomen Valley,84.15,24.7,25.65,16.7,17.1
+2018,12,PSO,Perkiomen Valley,84.75,25.4,26.25,16.8,16.3
+2018,12,PSO,Pleasant Grove HS,86.65,26.1,25.05,17.2,18.3
+2018,4,PSO,Rancho Cucamonga HS,71.251,22.2,13.8,22.0,13.25
+2018,6,PSO,Rancho Cucamonga HS,76.7,22.2,14.6,25.6,14.3
+2018,8,PSO,Rancho Cucamonga HS,80.201,24.9,16.1,24.4,14.8
+2018,4,PSO,San Marino HS,76.95,21.15,17.2,22.1,16.5
+2018,8,PSO,San Marino HS,85.2,25.8,17.2,26.1,16.1
+2018,6,PSO,Springford,77.9,23.8,24.6,15.0,14.5
+2018,7,PSO,Springford,81.7,25.0,27.0,14.9,14.8
+2018,9,PSO,Springford,83.4,25.3,26.1,15.8,16.2
+2018,11,PSO,Springford,85.5,25.2,27.0,16.6,16.7
+2018,12,PSO,Springford,86.9,26.4,26.1,17.2,17.2
+2018,4,PSO,Sunny Hills HS,71.501,21.6,14.2,21.6,14.1
+2018,6,PSO,Sunny Hills HS,77.1,24.0,13.2,24.5,15.4
+2018,12,PSO,Sunny Hills HS,87.763,26.513,16.95,27.25,17.05
+2018,2,PSO,Thousand Oaks HS,65.05,18.75,12.3,19.7,14.3
+2018,3,PSO,Thousand Oaks HS,66.0,20.4,13.4,19.8,12.4
+2018,6,PSO,Thousand Oaks HS,72.251,20.25,15.1,23.0,13.9
+2018,8,PSO,Trabuco Hills HS,83.2,24.9,16.5,25.7,16.1
+2018,7,PSO,VIctor J Andrew HS,83.15,24.45,16.9,26.0,15.8
+2018,6,PSO,Victor Indoor Percussion Ensemble,80.2,23.7,24.3,15.9,16.3
+2018,8,PSO,Victor Indoor Percussion Ensemble,83.4,24.8,24.6,17.1,16.9
+2018,9,PSO,Victor Indoor Percussion Ensemble,87.15,26.3,25.65,17.2,18.0
+2018,10,PSO,Victor Indoor Percussion Ensemble,86.75,26.3,24.75,17.9,17.8
+2018,11,PSO,Victor Indoor Percussion Ensemble,90.2,27.2,27.0,17.8,18.2
+2018,4,PSO,William S. Hart HS,74.25,22.35,14.8,22.8,14.3
+2018,8,PSO,William S. Hart HS,82.3,25.5,16.7,24.1,16.0
+2018,12,PSO,William S. Hart HS,86.638,26.212,17.25,25.925,17.25
+2018,8,PSO,Zionsville Indoor Percussion,79.85,23.25,16.5,24.9,15.2
+2018,11,PSO,Zionsville Indoor Percussion,83.975,24.825,17.05,24.9,17.2

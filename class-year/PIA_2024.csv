@@ -37,10 +37,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,12,PIA,Fruitport Independent,81.225,24.675,16.2,24.25,16.1
 2024,6,PIA,Fruitport Independent Percussion,69.2,18.9,13.7,22.8,13.8
 2024,13,PIA,Fruitport Independent Percussion,83.901,25.65,16.85,25.1,16.3
+2024,5,PIA,Govenaires,63.9,16.5,12.5,21.6,13.3
+2024,9,PIA,Govenaires,65.75,18.75,12.8,21.8,12.4
+2024,11,PIA,Govenaires,71.326,21.375,14.05,21.3,14.6
+2024,12,PIA,Govenaires,73.425,21.525,14.55,22.4,14.95
+2024,7,PIA,Groove Pursuit,78.4,23.7,16.6,23.6,14.5
 2024,8,PIA,Groove Pursuit,81.5,24.3,16.8,24.1,16.3
+2024,11,PIA,Groove Pursuit,84.075,26.475,16.55,25.1,15.95
+2024,12,PIA,Groove Pursuit,85.325,25.725,16.9,25.85,16.85
 2024,13,PIA,Groove Pursuit,89.076,26.55,18.35,25.875,18.3
+2024,4,PIA,Horizon Percussion,72.5,21.1,21.6,15.1,14.7
+2024,5,PIA,Horizon Percussion,71.65,21.7,21.45,14.7,13.8
 2024,7,PIA,Horizon Percussion,76.7,22.2,16.0,21.6,16.9
 2024,9,PIA,Horizon Percussion,82.45,23.85,17.4,24.0,17.2
+2024,10,PIA,Horizon Percussion,78.1,23.7,15.3,22.7,16.4
+2024,12,PIA,Horizon Percussion,82.85,23.85,15.8,25.8,17.4
 2024,5,PIA,Huron Valley Percussion,73.8,20.4,15.7,22.2,15.5
 2024,6,PIA,Huron Valley Percussion,75.95,22.35,15.1,23.2,15.3
 2024,3,PIA,IGNITE Winter Percussion,58.3,17.1,12.0,17.4,11.8
@@ -48,6 +59,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PIA,IGNITE Winter Percussion,70.6,19.8,15.0,23.0,12.8
 2024,11,PIA,IGNITE Winter Percussion,71.775,21.075,14.35,21.85,14.5
 2024,13,PIA,IGNITE Winter Percussion,79.963,24.112,15.75,24.0,16.1
+2024,7,PIA,Impulse Drumline,72.75,23.25,15.0,20.9,13.6
 2024,4,PIA,Impulse Drumline (OH),62.4,18.0,12.2,19.7,12.5
 2024,13,PIA,Impulse Drumline (OH),81.975,24.375,16.85,24.15,16.6
 2024,6,PIA,Lake Effect Percussion,74.9,21.3,14.9,22.7,16.0
@@ -55,6 +67,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,9,PIA,Lake Effect Percussion,77.5,23.4,15.7,22.8,15.6
 2024,12,PIA,Lake Effect Percussion,82.525,23.925,16.9,25.15,16.55
 2024,13,PIA,Lake Effect Percussion,89.55,27.6,17.55,27.6,16.8
+2024,3,PIA,Lakeville Area Percussion,69.95,21.15,14.1,21.0,13.7
+2024,4,PIA,Lakeville Area Percussion,69.75,20.25,14.6,20.4,14.5
+2024,5,PIA,Lakeville Area Percussion,68.45,18.75,14.5,20.3,14.9
+2024,11,PIA,Lakeville Area Percussion,79.55,23.55,16.2,23.35,16.45
+2024,12,PIA,Lakeville Area Percussion,83.9,25.2,16.7,25.25,16.75
 2024,6,PIA,M3,83.05,25.05,16.6,25.5,15.9
 2024,13,PIA,M3,93.425,28.275,18.5,28.35,18.3
 2024,5,PIA,MidMichigan Impact,66.55,18.45,13.3,20.9,13.9
@@ -65,9 +82,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PIA,Mission Independent,70.0,22.7,20.4,14.0,12.9
 2024,11,PIA,Mission Independent,72.2,23.5,19.5,15.4,13.8
 2024,12,PIA,Mission Independent,79.65,24.1,25.95,15.0,14.6
+2024,5,PIA,North Star Independent,73.95,22.2,22.2,14.85,14.7
 2024,7,PIA,North Star Independent,81.85,24.75,17.1,22.7,17.3
+2024,9,PIA,North Star Independent,80.25,23.1,24.15,16.4,16.6
+2024,10,PIA,North Star Independent,80.325,23.625,16.4,23.5,16.8
+2024,12,PIA,North Star Independent,85.6,25.8,17.2,24.8,17.8
 2024,13,PIA,North Star Independent,89.65,27.45,17.9,26.8,17.5
 2024,7,PIA,Ogden HS,79.35,24.15,16.5,23.0,15.7
+2024,4,PIA,Ogden Indoor Percussion,70.8,21.5,21.3,14.8,13.2
+2024,5,PIA,Ogden Indoor Percussion,71.3,21.6,21.9,14.3,13.5
+2024,10,PIA,Ogden Indoor Percussion,76.2,22.8,15.8,21.6,16.0
+2024,12,PIA,Ogden Indoor Percussion,83.35,24.75,16.2,25.3,17.1
+2024,3,PIA,Owatonna High School,63.8,18.3,13.0,20.4,12.1
+2024,4,PIA,Owatonna High School,62.95,18.75,13.0,18.5,12.7
 2024,4,PIA,Palm Desert Percussion,71.35,22.35,14.3,21.3,13.4
 2024,7,PIA,Palm Desert Percussion,66.35,19.35,12.5,21.1,13.4
 2024,11,PIA,Palm Desert Percussion,79.1,24.0,15.0,23.9,16.2
@@ -75,7 +102,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,4,PIA,Pi Percussion Inc.,76.9,23.4,15.0,23.5,15.0
 2024,6,PIA,Pi Percussion Inc.,73.95,21.75,15.0,22.0,15.2
 2024,6,PIA,Pinnacle Percussion,75.0,22.2,16.7,21.0,15.1
+2024,4,PIA,Quad City Percussion,65.9,19.5,13.9,20.1,12.4
+2024,6,PIA,Quad City Percussion,71.95,21.15,14.6,21.2,15.0
 2024,8,PIA,Quad City Percussion,74.9,21.6,15.5,23.2,14.6
+2024,9,PIA,Quad City Percussion,75.7,21.9,15.8,23.6,14.4
+2024,11,PIA,Quad City Percussion,77.6,24.0,15.3,23.0,15.3
+2024,12,PIA,Quad City Percussion,80.1,24.15,15.8,24.2,15.95
 2024,13,PIA,Quad City Percussion,85.626,26.025,17.15,25.95,16.5
 2024,5,PIA,RPT PERCUSSION,72.5,23.7,13.6,21.0,14.2
 2024,6,PIA,Revelation,80.05,23.85,16.3,23.1,16.8
@@ -85,6 +117,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,10,PIA,Rochester Institute of Technology (RIT),62.5,17.8,18.6,12.8,13.3
 2024,11,PIA,Rochester Institute of Technology (RIT),69.1,21.8,20.4,13.0,13.9
 2024,8,PIA,Rochester Lourdes Drumline,77.75,24.15,15.6,23.3,14.7
+2024,4,PIA,Rochester Lourdes High School,71.5,21.6,14.9,21.0,14.0
+2024,9,PIA,Rochester Lourdes High School,79.5,23.7,16.2,24.2,15.4
+2024,11,PIA,Rochester Lourdes High School,82.75,25.5,16.8,23.9,16.55
+2024,12,PIA,Rochester Lourdes High School,84.375,25.125,16.7,26.15,16.4
+2024,7,PIA,SHOCKWAVE,68.7,21.9,14.1,20.0,12.7
 2024,6,PIA,Shockwave,62.251,18.15,12.0,20.2,11.9
 2024,13,PIA,Shockwave,76.075,23.475,15.05,22.6,14.95
 2024,7,PIA,Sun City Independent A,75.1,22.2,15.0,22.6,15.3

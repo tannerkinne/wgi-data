@@ -4,6 +4,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,10,PIO,Bakersfield College,88.75,26.25,17.5,27.1,17.9
 2025,11,PIO,Bakersfield College,89.175,26.325,17.6,27.6,17.65
 2025,6,PIO,Breakthrough Indoor Percussion,83.15,24.75,16.0,25.8,16.6
+2025,5,PIO,Cap City 2,82.95,25.35,17.4,23.2,17.0
 2025,6,PIO,Cap City 2,86.95,26.55,17.1,25.9,17.4
 2025,12,PIO,Cap City 2,94.826,28.65,18.675,28.8,18.7
 2025,6,PIO,Civitas Independent,86.35,25.95,16.8,26.8,16.8
@@ -20,7 +21,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,10,PIO,Flower City Percussion,77.0,23.8,22.8,15.0,15.4
 2025,6,PIO,Freedom Percussion,82.85,24.45,16.0,26.6,15.8
 2025,12,PIO,Freedom Percussion,95.113,28.612,18.9,29.2,18.4
+2025,4,PIO,Gold Spike Percussion,75.3,22.2,15.2,22.4,15.5
+2025,5,PIO,Gold Spike Percussion,80.35,22.95,15.8,25.15,16.45
 2025,7,PIO,Gold Spike Percussion,80.75,24.45,16.6,23.2,16.5
+2025,10,PIO,Gold Spike Percussion,86.85,26.25,17.3,25.7,17.6
+2025,13,PIO,Gold Spike Percussion,85.85,25.95,17.5,24.9,17.5
 2025,6,PIO,Huron Valley Percussion,78.4,24.3,15.2,23.5,15.4
 2025,7,PIO,Huron Valley Percussion,78.9,23.7,16.4,23.2,15.6
 2025,10,PIO,Huron Valley Percussion,83.75,25.65,18.1,23.7,16.3
@@ -56,7 +61,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,6,PIO,Q2,83.8,25.2,16.6,25.3,16.7
 2025,12,PIO,Q2,93.951,28.575,19.0,27.825,18.55
 2025,7,PIO,Rift Percussion,78.2,23.1,16.4,22.4,16.3
+2025,4,PIO,River City Rhythm,78.45,23.85,14.7,24.4,15.5
 2025,7,PIO,River City Rhythm,83.7,26.1,16.3,24.8,16.5
+2025,8,PIO,River City Rhythm,82.6,24.3,16.0,26.2,16.1
+2025,11,PIO,River City Rhythm,88.15,27.0,18.0,26.55,16.6
 2025,5,PIO,Siege Percussion,77.05,23.25,13.8,24.6,15.4
 2025,8,PIO,Sparta Indoor Percussion,83.95,24.75,16.6,25.9,16.7
 2025,7,PIO,Spectre Percussion,88.7,27.3,17.5,26.5,17.4

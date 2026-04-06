@@ -2,6 +2,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,6,PSA,Agua Fria HS,72.151,21.15,15.8,20.7,14.5
 2024,7,PSA,Albemarle County Combined Schools,71.25,21.3,15.3,20.85,13.8
 2024,9,PSA,Aliso Niguel HS,76.101,23.1,14.4,24.3,14.3
+2024,4,PSA,Alta HS,70.95,21.4,21.3,14.45,13.8
+2024,5,PSA,Alta HS,68.35,21.4,20.7,12.65,13.6
+2024,12,PSA,Alta HS,83.0,25.2,15.4,25.0,17.4
 2024,9,PSA,Appoquinimink HS,77.05,24.0,14.8,23.1,15.15
 2024,6,PSA,Arbor View HS,81.3,23.85,17.25,23.5,16.7
 2024,9,PSA,Arbor View HS,84.725,25.275,17.5,24.85,17.1
@@ -14,13 +17,22 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,1,PSA,Bearden High School Indoor Percussion,64.151,18.9,18.6,13.6,13.05
 2024,11,PSA,Bearden High School Indoor Percussion,82.3,24.7,24.9,16.4,16.3
 2024,4,PSA,Bellbrook HS,68.001,21.0,12.9,20.2,13.9
+2024,1,PSA,Bellbrook High School Indoor Percussion Ensemble,71.45,21.15,14.7,20.6,15.0
+2024,3,PSA,Bellbrook High School Indoor Percussion Ensemble,72.85,22.05,15.4,22.4,13.0
+2024,7,PSA,Bellbrook High School Indoor Percussion Ensemble,79.9,23.7,16.8,23.7,15.7
+2024,11,PSA,Bellbrook High School Indoor Percussion Ensemble,86.85,26.1,17.6,25.85,17.3
 2024,8,PSA,Bellevue Combined Schools,77.4,24.3,15.1,23.3,14.7
+2024,3,PSA,Bellevue West High School Percussion,67.951,21.45,12.5,21.0,13.0
 2024,3,PSA,Ben Davis High School,71.0,19.5,15.2,22.0,14.3
 2024,5,PSA,Ben Davis High School,75.3,21.3,14.0,23.8,16.2
 2024,8,PSA,Ben Davis High School,81.95,23.85,16.1,25.8,16.2
 2024,11,PSA,Ben Davis High School,88.489,25.538,16.975,28.75,17.225
 2024,5,PSA,Biddeford HS,71.85,21.45,14.4,20.9,15.1
+2024,4,PSA,Bingham HS,70.8,20.3,21.9,14.7,13.9
+2024,5,PSA,Bingham HS,71.2,22.6,21.45,12.85,14.3
 2024,7,PSA,Bingham HS,76.75,22.95,15.2,23.0,15.6
+2024,9,PSA,Bingham HS,76.3,22.3,21.9,16.8,15.3
+2024,12,PSA,Bingham HS,81.1,24.0,16.8,22.8,17.5
 2024,5,PSA,Bloomington HS (CA),66.001,18.3,13.7,21.2,12.8
 2024,9,PSA,Bloomington HS (CA),69.6,20.4,13.4,22.5,13.3
 2024,4,PSA,Bloomington HS (IL),70.201,21.3,14.1,20.8,14.0
@@ -36,13 +48,39 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,5,PSA,Bridgewater Raritan HS,75.451,23.55,15.0,22.4,14.5
 2024,9,PSA,Bridgewater Raritan HS,84.201,26.25,15.35,25.6,17.0
 2024,8,PSA,Brookings HS,75.951,22.65,14.8,22.9,15.6
+2024,4,PSA,Brookings HS Drumline,70.5,20.7,14.3,20.6,14.9
+2024,7,PSA,Brookings HS Drumline,75.8,21.6,15.3,22.4,16.5
+2024,11,PSA,Brookings HS Drumline,79.176,24.225,16.5,23.4,15.05
+2024,12,PSA,Brookings HS Drumline,77.876,23.1,15.05,24.275,15.45
+2024,2,PSA,Brookville High School Winter Percussion,68.05,21.15,13.3,20.5,13.1
+2024,5,PSA,Brookville High School Winter Percussion,73.851,21.45,15.8,22.1,14.5
+2024,7,PSA,Brookville High School Winter Percussion,75.55,23.25,15.8,21.7,14.8
+2024,8,PSA,Brookville High School Winter Percussion,78.65,24.6,15.25,22.8,16.0
+2024,11,PSA,Brookville High School Winter Percussion,82.251,23.55,16.4,26.1,16.2
 2024,7,PSA,Bryant HS,78.401,23.7,16.3,22.7,15.7
 2024,5,PSA,Bryant Indoor Percussion,88.2,22.8,27.6,18.8,19.0
 2024,6,PSA,Bryant Indoor Percussion,85.0,23.3,27.6,17.4,16.7
 2024,11,PSA,Bryant Indoor Percussion,87.55,25.8,26.25,18.0,17.5
 2024,6,PSA,Buckeye Union HS,76.451,23.85,16.6,20.8,15.2
 2024,8,PSA,Buffalo HS,68.501,20.4,14.2,20.2,13.7
+2024,3,PSA,Buffalo High School,65.451,19.95,12.4,20.6,12.5
+2024,5,PSA,Buffalo High School,66.9,18.6,13.8,20.8,13.7
+2024,6,PSA,Buffalo High School,71.05,20.55,14.4,21.9,14.2
+2024,11,PSA,Buffalo High School,74.576,22.875,14.95,21.85,14.9
+2024,12,PSA,Buffalo High School,75.126,21.375,14.7,24.1,14.95
 2024,8,PSA,Burnsville HS,82.05,25.35,16.7,23.5,16.5
+2024,3,PSA,Burnsville High School,73.2,23.25,13.9,21.35,14.7
+2024,4,PSA,Burnsville High School,76.15,21.75,16.2,21.9,16.3
+2024,5,PSA,Burnsville High School,78.05,22.95,16.5,22.1,16.5
+2024,9,PSA,Burnsville High School,82.4,25.2,16.6,24.4,16.2
+2024,11,PSA,Burnsville High School,86.0,26.4,16.9,24.95,17.75
+2024,1,PSA,Butler Indoor Percussion Ensemble,61.7,18.0,12.6,18.8,12.3
+2024,2,PSA,Butler Indoor Percussion Ensemble,62.45,18.75,12.5,18.9,12.3
+2024,3,PSA,Butler Indoor Percussion Ensemble,64.8,20.1,13.1,19.6,12.0
+2024,5,PSA,Butler Indoor Percussion Ensemble,70.151,21.15,13.7,20.9,14.4
+2024,7,PSA,Butler Indoor Percussion Ensemble,69.101,22.5,14.1,19.6,12.9
+2024,8,PSA,Butler Indoor Percussion Ensemble,69.6,21.0,14.7,20.0,13.9
+2024,11,PSA,Butler Indoor Percussion Ensemble,72.3,20.7,14.3,23.4,13.9
 2024,6,PSA,Campo Verde HS,77.9,23.55,17.1,21.55,15.7
 2024,7,PSA,Carlisle HS,69.95,19.65,13.5,20.8,16.0
 2024,5,PSA,Carlsbad HS,78.5,22.95,15.9,23.7,15.95
@@ -51,6 +89,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,7,PSA,Center Hill HS,81.65,24.45,17.3,23.5,16.4
 2024,4,PSA,Centerville HS,78.25,23.55,15.3,23.1,16.3
 2024,13,PSA,Centerville HS,94.55,28.425,19.3,28.15,18.675
+2024,2,PSA,Centerville Winter Drumline,79.85,24.15,16.7,22.7,16.3
+2024,5,PSA,Centerville Winter Drumline,82.9,24.0,17.1,24.9,16.9
+2024,7,PSA,Centerville Winter Drumline,84.45,25.35,17.2,26.6,15.3
+2024,11,PSA,Centerville Winter Drumline,93.0,27.6,18.4,28.5,18.5
 2024,5,PSA,Central Dauphin East HS,65.1,19.5,13.8,19.8,12.0
 2024,7,PSA,Central Dauphin HS,83.6,25.2,17.2,25.3,15.9
 2024,13,PSA,Central Dauphin HS,89.163,26.062,17.625,27.35,18.125
@@ -81,7 +123,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Coatesville,79.275,22.1,25.275,16.25,15.65
 2024,7,PSA,Columbus HS,75.8,21.3,15.5,23.5,15.5
 2024,7,PSA,Columbus HS (MS),72.825,23.325,14.6,21.9,13.0
+2024,4,PSA,Copper Hills HS,70.35,21.8,20.25,14.3,14.0
+2024,5,PSA,Copper Hills HS,70.4,21.7,20.85,13.35,14.5
 2024,7,PSA,Copper Hills HS,79.325,23.925,16.0,23.1,16.3
+2024,9,PSA,Copper Hills HS,74.05,22.0,21.45,15.4,15.2
+2024,12,PSA,Copper Hills HS,78.901,23.1,16.5,23.1,16.2
 2024,3,PSA,Corning-Painted Post,65.35,21.4,19.05,12.6,12.3
 2024,5,PSA,Corning-Painted Post,70.6,22.7,21.3,13.8,12.8
 2024,8,PSA,Corning-Painted Post,76.201,23.2,24.3,14.2,14.5
@@ -101,6 +147,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Daniel Boone,68.95,19.9,22.05,14.0,13.0
 2024,11,PSA,Daniel Boone,55.7,18.2,15.0,11.0,11.5
 2024,8,PSA,Dassel-Cokato HS,82.0,24.6,16.8,24.9,15.7
+2024,3,PSA,Dassel-Cokato High School,69.9,22.2,13.7,21.1,12.9
+2024,5,PSA,Dassel-Cokato High School,72.35,21.75,15.0,21.3,14.3
+2024,6,PSA,Dassel-Cokato High School,76.65,22.65,16.0,22.9,15.1
+2024,11,PSA,Dassel-Cokato High School,85.1,26.925,16.325,24.6,17.25
+2024,12,PSA,Dassel-Cokato High School,84.4,25.65,16.65,24.8,17.3
 2024,4,PSA,Dawson Bryant HS,66.251,19.95,12.4,21.4,12.5
 2024,4,PSA,DeKalb Winter Percussion,77.1,23.55,14.55,24.7,14.3
 2024,5,PSA,DeKalb Winter Percussion,77.4,21.3,15.6,25.7,14.8
@@ -112,6 +163,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,5,PSA,Decatur Central Winter Percussion Ensemble,72.801,20.1,13.8,23.6,15.3
 2024,7,PSA,Decatur Central Winter Percussion Ensemble,77.401,24.15,15.7,23.5,14.05
 2024,11,PSA,Decatur Central Winter Percussion Ensemble,81.3,23.625,16.0,25.475,16.2
+2024,4,PSA,Destrehan H.S.,70.15,21.4,21.75,13.1,13.9
+2024,6,PSA,Destrehan H.S.,79.2,24.6,23.7,15.5,15.4
 2024,4,PSA,Dobyns-Bennett HS,79.75,23.25,16.0,24.2,16.3
 2024,6,PSA,Dobyns-Bennett HS,81.0,24.0,17.0,22.9,17.1
 2024,2,PSA,Don Lugo HS,67.001,21.0,11.9,22.2,11.9
@@ -123,9 +176,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Downingtown HS East,80.9,26.15,22.5,16.65,15.6
 2024,4,PSA,Downingtown HS West,78.1,22.6,24.3,15.3,15.9
 2024,6,PSA,Downingtown HS West,80.9,24.9,23.7,16.5,15.8
+2024,4,PSA,Dutchtown H.S.,70.0,20.7,21.0,13.8,14.5
+2024,6,PSA,Dutchtown H.S.,80.3,24.5,23.1,16.5,16.2
 2024,7,PSA,Dutchtown HS (LA),78.901,24.9,15.2,23.0,15.8
 2024,6,PSA,E.D. White Catholic HS,81.15,22.35,16.4,26.1,16.3
 2024,8,PSA,E.D. White Catholic HS,86.9,27.15,17.7,23.75,18.3
+2024,2,PSA,E.D.White Catholic High School,72.75,21.5,22.05,14.4,14.8
+2024,4,PSA,E.D.White Catholic High School,78.25,22.7,23.25,15.3,17.0
+2024,5,PSA,E.D.White Catholic High School,79.9,23.9,23.7,15.7,16.6
 2024,2,PSA,East Syracuse Minoa,68.801,21.8,21.3,12.7,13.0
 2024,4,PSA,East Syracuse Minoa,72.175,21.5,22.575,14.4,13.7
 2024,6,PSA,East Syracuse Minoa,73.251,22.3,22.35,14.3,14.3
@@ -163,6 +221,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,9,PSA,Everett HS,87.975,26.4,18.175,26.2,17.2
 2024,13,PSA,Everett HS,89.238,26.288,18.85,26.675,17.425
 2024,3,PSA,Floyd Central High School,57.6,17.4,11.6,17.2,11.4
+2024,2,PSA,Forest Hills Indoor Percussion Ensemble,70.05,21.15,13.8,21.0,14.1
+2024,7,PSA,Forest Hills Indoor Percussion Ensemble,73.2,22.2,14.6,21.5,14.9
+2024,9,PSA,Forest Hills Indoor Percussion Ensemble,77.1,23.1,15.1,23.7,15.2
 2024,7,PSA,Germantown HS,87.325,26.325,18.2,25.0,17.8
 2024,6,PSA,Gilbert HS,75.351,22.2,15.05,23.8,14.3
 2024,9,PSA,Gilbert HS,81.701,24.6,15.7,25.9,15.5
@@ -203,6 +264,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,7,PSA,Greenwood Indoor Percussion,85.7,25.8,16.9,26.3,16.7
 2024,8,PSA,Greenwood Indoor Percussion,84.35,26.25,16.3,24.8,17.0
 2024,11,PSA,Greenwood Indoor Percussion,91.438,26.888,18.15,28.15,18.25
+2024,3,PSA,Grove Area Percussion of ISD 279,72.15,22.95,13.0,22.2,14.0
+2024,4,PSA,Grove Area Percussion of ISD 279,75.9,21.3,15.5,22.9,16.2
+2024,5,PSA,Grove Area Percussion of ISD 279,76.85,22.65,14.9,22.9,16.4
+2024,9,PSA,Grove Area Percussion of ISD 279,84.0,25.8,16.2,25.0,17.0
+2024,11,PSA,Grove Area Percussion of ISD 279,88.175,27.825,17.6,25.1,17.65
+2024,12,PSA,Grove Area Percussion of ISD 279,89.25,27.0,17.35,26.85,18.05
 2024,4,PSA,Halls HS,76.9,21.9,15.1,23.7,16.2
 2024,6,PSA,Halls HS,79.001,24.6,15.0,23.0,16.4
 2024,1,PSA,Halls Indoor Percussion Ensemble,73.0,22.3,22.8,13.6,14.3
@@ -213,6 +280,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Hamilton Heights Indoor Percussion,72.251,22.05,13.6,21.8,14.8
 2024,11,PSA,Hamilton Heights Indoor Percussion,75.9,21.075,15.175,23.65,16.0
 2024,7,PSA,Hancock HS,73.25,22.35,16.0,21.3,13.6
+2024,2,PSA,Hancock Indoor Percussion,69.0,20.2,21.3,13.8,13.7
+2024,6,PSA,Hancock Indoor Percussion,77.75,25.3,21.75,15.8,14.9
 2024,7,PSA,Harrison HS,73.55,22.05,15.8,22.3,13.4
 2024,2,PSA,Helix CHS,71.101,21.3,14.9,21.0,13.9
 2024,12,PSA,Helix CHS,86.389,25.763,18.0,25.125,17.5
@@ -226,6 +295,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,1,PSA,Heritage Indoor Percussion Ensemble,66.751,20.3,21.45,12.4,12.6
 2024,11,PSA,Heritage Indoor Percussion Ensemble,78.151,23.0,23.85,15.6,15.7
 2024,7,PSA,Herriman HS,69.551,20.85,14.0,20.5,14.2
+2024,5,PSA,Herriman High School,67.251,20.8,19.65,12.8,14.0
+2024,9,PSA,Herriman High School,73.25,22.8,20.25,16.0,14.2
+2024,12,PSA,Herriman High School,78.401,23.7,15.9,22.9,15.9
 2024,5,PSA,Hialeah Gardens HS,77.15,24.45,15.5,22.8,14.4
 2024,7,PSA,Hickory HS,85.95,26.55,17.7,25.9,15.8
 2024,6,PSA,Highland Park HS,77.15,20.85,15.2,26.0,15.1
@@ -253,6 +325,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Hudsonville Winter Percussion,80.0,24.75,16.2,22.75,16.3
 2024,9,PSA,Hudsonville Winter Percussion,79.95,25.05,15.7,22.8,16.4
 2024,12,PSA,Hudsonville Winter Percussion,84.75,25.125,17.25,25.525,16.85
+2024,6,PSA,Irondale High School,82.15,24.45,17.0,24.2,16.5
 2024,6,PSA,Ironwood Ridge HS,71.275,19.875,14.3,22.25,14.85
 2024,7,PSA,Jefferson Forest HS,71.0,20.7,12.6,22.9,14.8
 2024,8,PSA,Jenks HS,78.326,23.175,16.5,23.2,15.45
@@ -271,6 +344,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,1,PSA,Karns Indoor Percussion,68.35,21.6,21.75,12.0,13.0
 2024,11,PSA,Karns Indoor Percussion,83.75,25.3,25.05,16.8,16.6
 2024,6,PSA,Kickapoo HS,83.6,25.2,17.0,25.1,16.3
+2024,1,PSA,Kings,70.2,20.7,13.6,21.2,14.7
+2024,3,PSA,Kings,74.65,22.95,15.0,23.2,13.5
+2024,5,PSA,Kings,77.7,23.7,15.5,24.2,14.3
+2024,11,PSA,Kings,88.65,26.25,17.4,27.0,18.0
 2024,4,PSA,Kings HS,71.35,21.15,13.7,22.7,13.8
 2024,6,PSA,Kingsway Regional HS,72.6,22.1,19.65,14.55,16.3
 2024,8,PSA,Kingsway Regional HS,75.551,24.8,21.75,14.6,14.4
@@ -288,6 +365,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,5,PSA,Lawrence Township Winter Percussion,78.05,23.4,15.05,24.2,15.4
 2024,8,PSA,Lawrence Township Winter Percussion,82.45,25.65,15.8,25.5,15.5
 2024,11,PSA,Lawrence Township Winter Percussion,88.501,26.1,17.1,27.2,18.1
+2024,2,PSA,Lebanon High School Drumline,68.7,21.6,13.6,19.7,13.8
+2024,7,PSA,Lebanon High School Drumline,71.901,21.9,16.0,20.5,13.5
+2024,8,PSA,Lebanon High School Drumline,77.3,24.3,14.8,23.7,14.5
+2024,11,PSA,Lebanon High School Drumline,80.851,24.15,16.9,24.9,14.9
 2024,8,PSA,Lees Summit HS,75.1,23.7,14.8,22.1,14.5
 2024,6,PSA,Lewisville HS,83.65,24.15,16.7,26.0,16.8
 2024,8,PSA,Liberty HS (OR),76.1,23.1,15.9,21.8,15.3
@@ -306,12 +387,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,9,PSA,Los Alamitos HS,88.2,26.4,18.2,26.4,17.2
 2024,12,PSA,Los Alamitos HS,91.75,27.15,18.7,27.35,18.55
 2024,9,PSA,Lower Dauphin HS,86.013,25.762,17.35,25.675,17.225
+2024,4,PSA,Madison HS,64.551,20.5,18.45,14.0,11.6
+2024,9,PSA,Madison HS,65.951,19.2,18.15,14.1,14.5
+2024,12,PSA,Madison HS,69.9,21.3,14.4,20.0,14.2
 2024,5,PSA,Mansfield HS,82.35,25.05,17.2,23.9,16.2
 2024,8,PSA,Marcus Whitman,63.301,18.1,19.2,13.3,12.7
 2024,9,PSA,Marcus Whitman,65.401,19.3,20.1,13.1,12.9
 2024,10,PSA,Marcus Whitman,64.801,18.3,19.8,13.3,13.4
 2024,11,PSA,Marcus Whitman,68.85,20.5,20.25,14.1,14.0
 2024,6,PSA,Marian Catholic HS,65.251,18.75,13.2,21.2,12.1
+2024,7,PSA,Marian Catholic High School,72.95,21.75,15.7,21.1,14.4
 2024,6,PSA,Marple Newtown,71.5,21.2,22.2,14.0,14.1
 2024,8,PSA,Marple Newtown,73.65,21.7,22.95,15.0,14.0
 2024,11,PSA,Marple Newtown,75.05,22.2,22.65,14.8,15.4
@@ -340,8 +425,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Morton Ranch HS,82.85,25.65,14.9,25.5,16.8
 2024,5,PSA,Mount Vernon Sr. HS,66.75,19.6,20.25,13.3,13.6
 2024,7,PSA,Mount Vernon Sr. HS,68.8,21.3,20.7,13.5,13.3
+2024,4,PSA,Mountain Ridge HS,69.45,21.1,19.65,14.4,14.3
+2024,10,PSA,Mountain Ridge HS,77.8,23.1,15.9,23.0,15.8
+2024,12,PSA,Mountain Ridge HS,88.4,26.4,16.9,26.8,18.3
 2024,7,PSA,Mountain Ridge HS (UT),82.65,24.15,16.6,25.5,16.4
 2024,4,PSA,Mt. Juliet Combined Schools,79.55,22.65,16.1,24.7,16.1
+2024,5,PSA,Nebo District Percussion,68.9,22.3,19.95,13.65,13.0
+2024,9,PSA,Nebo District Percussion,78.45,23.4,22.05,16.6,16.4
+2024,10,PSA,Nebo District Percussion,79.45,23.85,16.4,23.5,15.7
+2024,12,PSA,Nebo District Percussion,86.75,25.65,17.1,26.0,18.0
 2024,7,PSA,Nebo School District Combined Schools,79.45,23.85,16.4,24.9,14.3
 2024,2,PSA,New Hartford,73.7,23.3,22.8,14.4,13.2
 2024,3,PSA,New Hartford,71.85,22.7,21.15,14.6,13.4
@@ -381,6 +473,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,12,PSA,Novi Winter Percussion,83.25,24.9,16.5,25.2,16.65
 2024,5,PSA,Nutley HS,75.101,22.5,15.6,22.7,14.3
 2024,9,PSA,Nutley HS,86.488,25.988,18.4,24.7,17.4
+2024,2,PSA,Oak Hills Indoor Percussion Ensemble,64.65,19.05,13.0,20.1,12.5
+2024,5,PSA,Oak Hills Indoor Percussion Ensemble,74.35,22.65,14.7,21.8,15.2
+2024,7,PSA,Oak Hills Indoor Percussion Ensemble,75.75,24.45,16.3,20.9,14.1
+2024,11,PSA,Oak Hills Indoor Percussion Ensemble,79.651,23.55,15.8,24.7,15.6
 2024,4,PSA,Oak Ridge HS (TN),72.75,22.05,13.5,22.2,15.0
 2024,1,PSA,Oak Ridge Indoor Percussion,74.35,21.9,22.05,15.0,15.4
 2024,6,PSA,Oak Ridge Indoor Percussion,84.25,24.8,25.35,17.0,17.1
@@ -391,6 +487,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,6,PSA,Odessa High School,69.8,20.5,21.15,13.9,14.25
 2024,7,PSA,Odessa High School,75.651,21.9,24.45,14.7,14.6
 2024,11,PSA,Odessa High School,77.525,23.4,21.525,16.7,15.9
+2024,11,PSA,Onalaska High School,80.05,24.9,15.55,23.2,16.4
 2024,5,PSA,Orange HS,71.101,21.3,14.6,20.6,14.6
 2024,9,PSA,Orange HS,72.55,20.55,14.7,22.8,14.5
 2024,2,PSA,Orange Vista HS,62.2,18.0,11.6,20.1,12.5
@@ -409,6 +506,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Parkland,77.725,22.7,24.225,14.3,16.5
 2024,9,PSA,Parkland HS,73.15,22.5,13.95,22.5,14.2
 2024,9,PSA,Paul V. Moore HS,81.45,25.05,16.95,23.0,16.45
+2024,5,PSA,Payson HS,61.901,19.0,19.05,12.55,11.3
+2024,9,PSA,Payson HS,71.35,20.7,20.85,13.9,15.9
+2024,10,PSA,Payson HS,70.451,21.15,13.6,22.3,13.4
+2024,12,PSA,Payson HS,77.651,22.95,15.7,22.7,16.3
 2024,7,PSA,Pearl HS,82.8,24.6,17.0,24.4,16.8
 2024,4,PSA,Penn Manor High School,65.9,20.4,20.1,12.8,12.6
 2024,5,PSA,Penn Manor High School,68.801,21.1,20.1,13.6,14.0
@@ -442,7 +543,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Phoenixville,78.55,21.4,23.1,17.45,16.6
 2024,9,PSA,Phoenixville Area HS,74.4,22.8,13.7,21.9,16.0
 2024,4,PSA,Plainfield Combined Schools,75.8,23.7,15.1,22.4,14.6
+2024,5,PSA,Pleasant Grove HS,66.851,20.7,19.35,13.0,13.8
 2024,7,PSA,Pleasant Grove HS,72.451,21.45,14.8,21.9,14.3
+2024,9,PSA,Pleasant Grove HS,71.101,21.0,20.1,14.6,15.4
+2024,10,PSA,Pleasant Grove HS,75.4,23.4,14.9,22.1,15.0
+2024,12,PSA,Pleasant Grove HS,80.1,24.45,16.0,23.5,16.15
 2024,5,PSA,Ponte Vedra Combined Schools,68.551,22.65,12.8,19.1,14.0
 2024,5,PSA,Port Huron Northern Thunder Percussion,70.35,19.05,15.8,22.4,13.1
 2024,9,PSA,Port Huron Northern Thunder Percussion,73.15,21.75,14.6,21.9,14.9
@@ -454,6 +559,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,7,PSA,Princeton Community,72.7,21.3,14.9,22.6,13.9
 2024,8,PSA,Princeton Community,72.251,20.85,14.0,23.1,14.3
 2024,11,PSA,Princeton Community,71.25,19.35,14.45,22.5,14.95
+2024,4,PSA,Provo City Percussion,66.451,19.2,20.1,13.45,13.7
+2024,5,PSA,Provo City Percussion,65.601,20.3,20.4,12.2,12.7
+2024,10,PSA,Provo City Percussion,73.675,21.675,14.8,22.8,14.4
+2024,12,PSA,Provo City Percussion,77.101,22.95,16.1,22.05,16.0
 2024,7,PSA,Provo City School District,76.15,23.55,15.8,21.5,15.3
 2024,4,PSA,Quakertown,75.05,22.4,23.1,14.65,14.9
 2024,6,PSA,Quakertown,78.4,23.0,23.55,15.8,16.05
@@ -465,12 +574,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Rex Putnam Combined Schools,84.15,25.65,16.3,24.9,17.3
 2024,13,PSA,Rex Putnam Combined Schools,86.925,25.575,17.775,26.075,17.5
 2024,9,PSA,Ridgeview HS,74.3,21.9,14.7,23.3,14.4
+2024,3,PSA,River Valley Percussion Theatre of Elk River High School,71.0,21.6,13.6,21.9,13.9
+2024,5,PSA,River Valley Percussion Theatre of Elk River High School,75.3,21.0,15.3,22.2,16.8
+2024,9,PSA,River Valley Percussion Theatre of Elk River High School,81.85,25.35,15.7,24.7,16.1
+2024,11,PSA,River Valley Percussion Theatre of Elk River High School,87.0,27.6,16.95,25.0,17.45
+2024,12,PSA,River Valley Percussion Theatre of Elk River High School,87.65,27.3,16.5,26.65,17.2
 2024,8,PSA,Robert Vela HS,73.9,21.45,14.4,23.25,14.8
 2024,6,PSA,Rock Hill HS,75.25,22.05,15.3,22.5,15.4
 2024,8,PSA,Rocori HS,69.701,21.3,15.1,19.2,14.1
 2024,6,PSA,Rogers Heritage Indoor Percussion,61.65,16.5,19.05,12.9,13.2
 2024,7,PSA,Rogers Heritage Indoor Percussion,66.4,19.1,20.4,13.0,13.9
 2024,11,PSA,Rogers Heritage Indoor Percussion,72.201,22.8,20.1,15.0,14.3
+2024,2,PSA,Ross High School,66.15,19.35,13.5,19.8,13.5
+2024,5,PSA,Ross High School,70.301,20.4,14.3,21.4,14.2
+2024,8,PSA,Ross High School,75.8,22.8,15.2,22.8,15.0
+2024,9,PSA,Ross High School,76.2,21.6,15.3,23.8,15.5
+2024,11,PSA,Ross High School,77.6,21.9,16.4,23.1,16.2
+2024,4,PSA,Roy HS,59.851,17.6,17.25,12.9,12.1
+2024,9,PSA,Roy HS,64.701,19.8,18.9,13.2,12.8
+2024,10,PSA,Roy HS,66.301,20.4,13.1,20.0,12.8
+2024,12,PSA,Roy HS,69.6,21.6,15.0,19.7,13.3
 2024,6,PSA,Sabino HS,66.2,20.7,12.9,18.9,13.7
 2024,2,PSA,San Bernardino City USD,74.7,21.9,14.6,23.1,15.1
 2024,2,PSA,San Marino HS,68.201,20.1,13.2,21.9,13.0
@@ -486,6 +609,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Seymour Percussion,86.7,26.7,25.8,17.1,17.1
 2024,8,PSA,Sherwood Middle School,73.051,21.75,15.4,21.1,14.8
 2024,2,PSA,Simi Valley HS,64.45,19.65,12.3,21.1,11.4
+2024,11,PSA,Sioux Falls Jefferson High School,73.601,22.125,15.375,21.95,14.15
+2024,12,PSA,Sioux Falls Jefferson High School,75.601,22.2,14.8,23.55,15.05
 2024,8,PSA,Skyview HS,75.4,22.8,15.0,22.8,14.8
 2024,8,PSA,Sonia Sotomayor HS,84.65,25.8,16.7,24.35,17.8
 2024,8,PSA,South Albany HS,70.15,20.55,14.9,21.7,13.0
@@ -517,9 +642,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Spring-Ford,93.8,27.6,28.5,18.6,19.1
 2024,5,PSA,Spring-Ford HS,84.45,25.65,17.5,24.5,16.8
 2024,9,PSA,Spring-Ford HS,90.938,26.812,18.7,27.4,18.025
+2024,2,PSA,Springboro High School Indoor Percussion,66.751,19.65,13.8,20.3,13.0
+2024,5,PSA,Springboro High School Indoor Percussion,75.2,21.9,15.1,23.4,14.8
+2024,7,PSA,Springboro High School Indoor Percussion,75.65,22.95,15.9,22.6,14.2
+2024,11,PSA,Springboro High School Indoor Percussion,84.925,24.225,17.5,26.3,16.9
 2024,2,PSA,St. Genevieve HS,72.525,20.025,14.2,24.3,14.0
 2024,12,PSA,Sunny Hills HS,84.651,25.05,16.825,25.6,17.175
 2024,4,PSA,Sycamore HS,75.9,21.9,14.8,23.8,15.4
+2024,2,PSA,Sycamore High School Winter Drumline,75.85,23.85,15.3,22.3,14.4
+2024,5,PSA,Sycamore High School Winter Drumline,80.25,23.85,16.5,24.1,15.8
+2024,7,PSA,Sycamore High School Winter Drumline,82.45,25.05,16.7,24.8,15.9
+2024,11,PSA,Sycamore High School Winter Drumline,91.05,27.15,18.1,27.7,18.1
 2024,9,PSA,Temple City HS,90.425,26.925,18.45,27.3,17.75
 2024,12,PSA,Temple City HS,91.225,26.625,18.6,27.5,18.5
 2024,5,PSA,Terre Haute South Indoor Percussion,72.351,23.1,14.85,21.5,12.9
@@ -529,6 +662,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,11,PSA,Terre Haute South Indoor Percussion,74.55,20.4,15.1,24.1,14.95
 2024,6,PSA,Thomas Worthington HS,74.201,22.2,15.4,21.6,15.0
 2024,4,PSA,Troy HS,69.8,20.1,13.4,22.0,14.3
+2024,2,PSA,Troy Indoor Percussion,66.9,20.4,12.8,19.8,13.9
+2024,7,PSA,Troy Indoor Percussion,78.8,24.0,16.5,22.9,15.4
+2024,8,PSA,Troy Indoor Percussion,79.9,23.55,15.85,24.0,16.5
+2024,11,PSA,Troy Indoor Percussion,81.901,24.3,16.5,25.3,15.8
 2024,3,PSA,Unionville,74.8,22.2,22.8,14.7,15.1
 2024,8,PSA,Unionville,87.45,26.0,26.85,17.2,17.4
 2024,11,PSA,Unionville,91.225,26.9,27.525,18.3,18.5
@@ -561,6 +698,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,8,PSA,Warren Central High School,82.525,24.225,14.9,26.3,17.1
 2024,11,PSA,Warren Central High School,87.801,25.125,17.75,26.775,18.15
 2024,7,PSA,Wasatch Combined Schools,62.001,18.3,12.2,19.3,12.2
+2024,4,PSA,Wasatch HS,62.801,18.4,18.9,13.8,11.7
+2024,9,PSA,Wasatch HS,64.55,19.3,19.05,12.8,13.4
+2024,10,PSA,Wasatch HS,69.276,21.375,14.4,20.5,13.0
+2024,12,PSA,Wasatch HS,69.9,21.6,15.0,19.5,13.8
+2024,11,PSA,Waukee HS,71.851,21.9,14.35,21.55,14.05
 2024,6,PSA,Weatherford HS,76.7,22.2,15.6,23.6,15.3
 2024,8,PSA,Weatherford HS,80.176,24.075,15.8,24.5,15.8
 2024,2,PSA,Webster,66.35,22.3,19.95,12.1,12.0
@@ -572,6 +714,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2024,5,PSA,West Broward HS,70.75,22.05,15.0,20.0,13.7
 2024,4,PSA,West HS,67.151,19.95,11.8,22.0,13.4
 2024,7,PSA,West Harrison HS,81.05,25.05,16.8,24.2,15.0
+2024,2,PSA,West Harrison Indoor Percussion Theatre,70.35,21.6,20.55,14.9,13.3
+2024,4,PSA,West Harrison Indoor Percussion Theatre,73.3,21.8,22.5,14.4,14.6
+2024,4,PSA,West Jordan HS,64.751,19.4,19.2,13.65,12.5
+2024,5,PSA,West Jordan HS,61.701,19.3,18.15,12.45,11.8
+2024,9,PSA,West Jordan HS,66.551,20.4,18.75,13.6,13.8
+2024,10,PSA,West Jordan HS,69.751,20.85,14.5,20.6,13.8
+2024,12,PSA,West Jordan HS,72.05,22.65,14.7,20.1,14.6
 2024,5,PSA,West Milford HS,78.326,22.425,16.2,24.0,15.7
 2024,9,PSA,West Milford HS,81.95,24.15,17.5,24.1,16.2
 2024,7,PSA,West Shore School District,79.601,25.2,14.3,24.8,15.3

@@ -40,7 +40,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PIA,Fruitport Independent,68.4,20.1,12.5,22.6,13.2
 2023,10,PIA,Fruitport Independent,76.175,23.175,15.35,22.9,14.75
 2023,9,PIA,Fruitport Independent Percussion,76.0,23.1,15.7,23.0,14.2
+2023,7,PIA,Groove Pursuit,77.6,22.8,16.0,22.6,16.2
+2023,9,PIA,Groove Pursuit,77.125,23.175,14.85,23.5,15.6
+2023,10,PIA,Groove Pursuit,80.025,23.925,15.65,23.8,16.65
+2023,4,PIA,Horizon Percussion,70.3,19.0,21.9,15.0,14.4
+2023,5,PIA,Horizon Percussion,69.8,20.7,19.5,15.5,14.1
 2023,7,PIA,Horizon Percussion,75.6,23.7,14.4,22.8,14.7
+2023,10,PIA,Horizon Percussion,80.65,23.1,24.15,17.1,16.3
+2023,12,PIA,Horizon Percussion,82.3,23.4,24.9,17.3,16.7
 2023,4,PIA,Huron Valley Percussion,69.15,20.85,13.3,21.0,14.0
 2023,7,PIA,Huron Valley Percussion,73.45,23.25,14.3,21.8,14.1
 2023,9,PIA,Huron Valley Percussion,83.0,25.2,16.3,25.3,16.2
@@ -59,6 +66,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,13,PIA,Kannapolis Independent,81.85,25.05,16.1,24.9,15.8
 2023,4,PIA,Lake Effect Percussion,72.0,21.3,15.1,20.9,14.7
 2023,7,PIA,Lake Effect Percussion,82.35,24.75,17.0,24.7,15.9
+2023,9,PIA,Lakeville Area Percussion,77.9,23.55,15.9,23.5,14.95
+2023,10,PIA,Lakeville Area Percussion,79.825,22.875,15.8,24.5,16.65
 2023,6,PIA,Lincoln-Way Indoor Drumline,74.4,21.9,14.3,22.8,15.4
 2023,4,PIA,MidMichigan Impact,66.6,20.4,12.9,20.0,13.3
 2023,5,PIA,MidMichigan Impact,66.95,18.75,14.1,20.8,13.3
@@ -74,6 +83,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PIA,Montgomery County United Percussion,61.7,19.05,13.0,17.05,12.6
 2023,10,PIA,Montgomery County United Percussion,68.025,19.575,14.0,20.0,14.45
 2023,7,PIA,North Star Independent,84.4,25.5,17.7,25.1,16.1
+2023,10,PIA,North Star Independent,84.75,25.55,24.75,17.4,17.05
+2023,12,PIA,North Star Independent,86.6,24.4,26.4,18.4,17.4
+2023,2,PIA,Owatonna High School,58.95,16.65,10.9,19.7,11.7
+2023,4,PIA,Owatonna High School,59.65,19.05,12.9,17.3,10.4
 2023,4,PIA,Pace Percussion Ensemble,70.55,21.45,14.7,19.5,14.9
 2023,7,PIA,Pace Percussion Ensemble,78.6,22.5,16.3,23.7,16.1
 2023,9,PIA,Pace Percussion Ensemble,81.3,24.0,16.7,24.6,16.0
@@ -82,12 +95,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PIA,Pi Percussion Inc.,78.85,23.25,15.2,25.5,14.9
 2023,13,PIA,Pi Percussion Inc.,89.8,27.45,17.3,27.7,17.35
 2023,7,PIA,Pinnacle Percussion,75.325,22.125,15.4,23.0,14.8
+2023,5,PIA,Pocatello,69.725,20.9,19.425,14.8,14.6
+2023,10,PIA,Pocatello,82.9,24.6,25.05,16.75,16.5
+2023,12,PIA,Pocatello,82.1,24.3,24.9,16.9,16.0
+2023,6,PIA,Quad City Percussion,71.4,21.6,14.4,21.7,13.7
 2023,8,PIA,Quad City Percussion,70.45,20.85,14.2,21.7,13.7
+2023,9,PIA,Quad City Percussion,75.35,23.4,14.4,22.75,14.8
+2023,10,PIA,Quad City Percussion,76.701,23.1,14.8,23.7,15.1
 2023,5,PIA,RPT PERCUSSION,70.75,21.15,14.6,21.0,14.0
 2023,6,PIA,Revelation,75.2,22.5,14.6,22.1,16.0
+2023,5,PIA,Rift Percussion,69.725,20.9,19.425,14.8,14.6
 2023,7,PIA,Rift Percussion,81.45,24.75,16.9,25.2,14.6
 2023,9,PIA,Rift Percussion,83.4,24.9,17.8,24.9,15.8
+2023,10,PIA,Rift Percussion,82.9,24.6,25.05,16.75,16.5
+2023,12,PIA,Rift Percussion,82.1,24.3,24.9,16.9,16.0
 2023,8,PIA,Rochester Lourdes Drumline,74.3,22.5,14.7,22.1,15.0
+2023,2,PIA,Rochester Lourdes High School,61.25,16.95,12.9,18.5,12.9
+2023,4,PIA,Rochester Lourdes High School,71.45,21.15,15.6,21.6,13.1
+2023,5,PIA,Rochester Lourdes High School,69.7,19.8,15.7,21.3,12.9
+2023,9,PIA,Rochester Lourdes High School,80.1,24.15,16.1,24.2,15.65
+2023,10,PIA,Rochester Lourdes High School,82.45,24.0,16.45,25.05,16.95
 2023,6,PIA,Shelby County IGNITE Winter Percussion,69.1,21.9,13.7,20.6,12.9
 2023,9,PIA,Shockwave,62.4,18.3,12.2,19.8,12.1
 2023,13,PIA,Shockwave,70.05,21.75,14.5,20.1,13.7
@@ -99,6 +126,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PIA,Sun City Independent,75.6,21.3,14.5,25.5,14.3
 2023,6,PIA,Trilogy Independent,80.95,24.45,15.8,24.7,16.0
 2023,6,PIA,UTRGV Percussion,79.05,22.65,15.2,24.2,17.0
+2023,4,PIA,UW‐Eau Claire Blugold Indoor Drumline,63.4,18.3,14.3,20.0,10.8
+2023,6,PIA,UW‐Eau Claire Blugold Indoor Drumline,68.95,20.25,13.6,20.7,14.4
+2023,9,PIA,UW‐Eau Claire Blugold Indoor Drumline,70.175,21.075,14.5,19.5,15.1
+2023,10,PIA,UW‐Eau Claire Blugold Indoor Drumline,77.725,23.475,15.25,23.25,15.75
 2023,9,PIA,Viking Independent Percussion,70.6,22.5,14.5,19.9,13.7
 2023,5,PIA,Vortex Percussion,69.6,20.4,15.0,19.8,14.4
 2023,9,PIA,Vortex Percussion,80.0,24.6,15.0,24.8,15.6

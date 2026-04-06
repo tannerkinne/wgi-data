@@ -1,10 +1,12 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PSO,Basha HS,74.75,23.85,14.8,21.2,14.9
 2023,7,PSO,Basha HS,81.4,24.9,15.9,24.7,15.9
+2023,10,PSO,Bellbrook High School Indoor Percussion Ensemble,87.425,27.225,16.8,26.3,17.1
 2023,3,PSO,Ben Davis High School,64.8,19.2,12.3,19.8,13.5
 2023,5,PSO,Ben Davis High School,71.65,23.25,12.6,21.5,14.3
 2023,8,PSO,Ben Davis High School,77.125,23.85,14.65,23.825,14.8
 2023,10,PSO,Ben Davis High School,77.85,23.85,15.2,23.2,15.6
+2023,7,PSO,Brandon Valley High School,83.25,25.65,16.7,24.0,16.9
 2023,6,PSO,Bridgeland HS,84.55,25.35,17.0,25.0,17.2
 2023,9,PSO,Bridgeland HS,88.35,26.85,17.8,26.3,17.4
 2023,6,PSO,Brownsburg HS,84.1,24.6,17.3,26.2,16.0
@@ -29,7 +31,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSO,Carroll High School Indoor Percussion Ensemble,79.726,24.375,15.9,22.5,16.95
 2023,9,PSO,Casa Grande HS,77.651,23.25,15.8,23.6,15.0
 2023,8,PSO,Central Crossing HS,77.05,23.55,15.3,23.5,14.7
+2023,7,PSO,Central Crossing HS Indoor Percussion Ensemble,76.65,23.55,14.8,22.7,15.6
 2023,8,PSO,Central Dauphin HS,80.001,23.7,16.2,23.9,16.2
+2023,10,PSO,Central Lafourche H.S.,86.65,26.0,27.45,16.4,16.8
 2023,7,PSO,Central Lafourche HS,75.3,22.5,15.6,23.0,14.2
 2023,8,PSO,Cerritos HS,83.15,25.05,17.5,24.4,16.2
 2023,12,PSO,Cerritos HS,87.901,26.475,16.75,26.6,18.075
@@ -44,7 +48,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PSO,Collins Hill HS,74.601,22.2,15.8,22.4,14.2
 2023,6,PSO,Cypress Park HS,85.2,25.2,16.7,24.9,18.4
 2023,6,PSO,Cypress Ranch HS,82.05,24.15,16.2,24.7,17.0
+2023,4,PSO,Davis HS,66.65,18.8,19.8,14.45,13.6
+2023,5,PSO,Davis HS,69.11,21.1,20.1,14.71,13.2
 2023,7,PSO,Davis HS,76.65,22.95,14.5,24.6,14.6
+2023,10,PSO,Davis HS,84.5,26.1,24.75,16.55,17.1
+2023,12,PSO,Davis HS,87.8,25.9,26.1,17.7,18.1
 2023,6,PSO,Decatur Central HS,75.401,21.9,14.8,23.3,15.4
 2023,4,PSO,Decatur Central Winter Percussion Ensemble,75.55,22.5,14.9,22.8,15.35
 2023,5,PSO,Decatur Central Winter Percussion Ensemble,76.9,23.1,15.8,22.6,15.4
@@ -54,6 +62,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PSO,Dobyns-Bennett HS,78.851,23.1,16.7,22.55,16.5
 2023,6,PSO,Dorman HS,86.7,26.1,17.6,26.2,16.8
 2023,8,PSO,Eden Prairie HS,81.45,24.15,16.1,25.5,15.7
+2023,9,PSO,Eden Prairie High School,82.475,25.875,15.75,24.4,16.45
+2023,10,PSO,Eden Prairie High School,83.075,24.975,15.35,25.7,17.05
 2023,4,PSO,El Dorado HS,72.25,21.75,15.0,20.5,15.0
 2023,6,PSO,El Dorado HS,76.8,23.7,15.7,21.9,15.5
 2023,8,PSO,El Dorado HS,81.5,25.5,16.3,24.7,15.0
@@ -95,6 +105,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PSO,Greenfield-Central Indoor Percussion Ensemble,84.15,25.2,16.25,25.65,17.05
 2023,10,PSO,Greenfield-Central Indoor Percussion Ensemble,87.5,26.1,16.6,27.15,17.65
 2023,8,PSO,Gulfport HS,83.25,25.95,18.5,22.6,16.2
+2023,10,PSO,Gulfport Percussion,87.75,25.5,27.75,17.0,17.5
 2023,8,PSO,Gwinnett County Combined Schools,76.051,22.05,16.4,22.3,15.3
 2023,6,PSO,Hamilton Southeastern High School,79.5,24.75,15.2,23.85,15.7
 2023,8,PSO,Hamilton Southeastern High School,79.676,25.275,14.85,22.55,17.0
@@ -114,6 +125,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSO,John Marshall HS,78.701,23.4,15.8,23.4,16.1
 2023,9,PSO,Kamiak HS,85.75,26.25,17.8,25.2,16.5
 2023,9,PSO,Keller HS,81.451,23.55,17.1,25.2,15.6
+2023,2,PSO,Kettering Fairmont,73.9,21.6,14.7,22.7,14.9
+2023,5,PSO,Kettering Fairmont,76.85,22.95,15.3,23.6,15.0
+2023,7,PSO,Kettering Fairmont,83.35,25.35,16.4,25.6,16.0
+2023,10,PSO,Kettering Fairmont,92.95,28.05,18.5,27.9,18.5
 2023,6,PSO,Kettering Fairmont HS,80.05,24.75,15.2,24.8,15.3
 2023,8,PSO,Kettering Fairmont HS,88.25,27.45,17.5,26.0,17.3
 2023,13,PSO,Kettering Fairmont HS,93.051,27.675,18.75,28.1,18.525
@@ -124,14 +139,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSO,La Quinta HS,87.026,26.325,16.7,26.05,17.95
 2023,9,PSO,Lake Orion HS,87.5,25.5,17.0,28.0,17.0
 2023,10,PSO,Lake Orion Percussion,86.8,25.65,17.6,26.85,16.7
+2023,4,PSO,Lehi HS,68.4,18.4,20.85,14.75,14.4
+2023,12,PSO,Lehi HS,84.85,23.8,24.75,17.8,18.5
 2023,7,PSO,Lehi HS Combined Schools,74.45,21.45,14.5,23.0,15.5
 2023,9,PSO,Liberty HS,83.05,27.45,16.9,23.4,15.3
+2023,4,PSO,Lone Peak HS,66.9,18.1,20.4,13.8,14.6
+2023,5,PSO,Lone Peak HS,71.075,21.6,20.175,15.1,14.2
 2023,7,PSO,Lone Peak HS,78.55,23.55,15.4,25.2,14.4
 2023,9,PSO,Lone Peak HS,76.2,24.0,15.0,21.5,15.7
+2023,10,PSO,Lone Peak HS,83.05,25.4,24.15,16.5,17.0
+2023,12,PSO,Lone Peak HS,89.35,26.7,25.95,17.9,18.8
 2023,7,PSO,Loveland HS,79.15,23.55,15.8,24.3,15.5
 2023,6,PSO,Mauldin HS,74.751,22.05,14.8,22.0,15.9
 2023,8,PSO,Mauldin HS,75.551,23.25,16.4,20.6,15.3
 2023,8,PSO,Milford HS (OH),82.0,24.9,16.1,24.8,16.2
+2023,10,PSO,Milford Indoor Percussion Ensemble,89.3,27.3,17.4,26.9,17.7
 2023,7,PSO,Mission Hills HS,76.2,21.9,15.6,23.6,15.1
 2023,8,PSO,Mission Hills HS,77.7,22.2,17.0,23.1,15.4
 2023,9,PSO,Mission Hills HS,80.551,25.2,16.8,22.95,15.6

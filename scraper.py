@@ -54,6 +54,7 @@ def crawler(start_url):
     unknown_links = []
 
     links_on_last = False
+    kill_condition = False
 
     while to_visit:
         url = to_visit.pop(0)
@@ -67,14 +68,12 @@ def crawler(start_url):
                 iframe_recaps = get_iframe_links(url)
                 for recap in iframe_recaps:
                     recap_links.append(recap)
-                links_on_last = True
-                links_found = True
+                kill_condition = True
             elif driver.find_elements(By.ID, 'cs-org-scores-area'):
                 mouse_needed_recaps = mouse_finder(url)
                 for recap in mouse_needed_recaps:
                     recap_links.append(recap)
-                links_on_last = True
-                links_found = True
+                kill_condition = True
 
             time.sleep(2)
 
@@ -95,7 +94,7 @@ def crawler(start_url):
                 elif 'bit.ly' in href:
                     unknown_links.append(link.get_attribute('href'))
 
-            if not links_found and links_on_last:
+            if not links_found and links_on_last or kill_condition:
                 break
 
     for link in unknown_links:
@@ -142,30 +141,39 @@ def mouse_finder(url):
     years_area = driver.find_element(By.ID, 'cs-org-scores-area')
     years = years_area.find_elements(By.CLASS_NAME, 'event')
 
+
     for i in range(len(years)):
         years = years_area.find_elements(By.CLASS_NAME, 'event')
         actions.click(years[i]).perform()
-        time.sleep(1)
+        time.sleep(0.5)
 
         event_area = driver.find_element(By.ID, 'cs-org-scores-area')
         events = event_area.find_elements(By.CLASS_NAME, 'event')
 
         for j in range(len(events)):
             events = event_area.find_elements(By.CLASS_NAME, 'event')
+            driver.execute_script('window.scrollTo({behavior: "instant", top: 0, left: 0})')
+            time.sleep(0.1)
+            actions.scroll_to_element(events[j]).perform()
+            time.sleep(0.2)
             actions.click(events[j]).perform()
 
-            time.sleep(1)
+            time.sleep(0.5)
 
             links = driver.find_elements(By.TAG_NAME, 'a')
             for link in links:
                 if link.get_attribute('href') and 'recaps.competitionsuite.com' in link.get_attribute('href'):
                     recap_links.append(link.get_attribute('href'))
 
+            driver.execute_script('window.scrollTo({behavior: "instant", top: 0, left: 0})')
+            time.sleep(0.1)
             actions.click(event_button).perform()
-            time.sleep(1)
+            time.sleep(0.5)
 
+        driver.execute_script('window.scrollTo({behavior: "instant", top: 0, left: 0})')
+        time.sleep(0.1)
         actions.click(menu_button).perform()
-        time.sleep(1)
+        time.sleep(0.5)
 
     driver.quit()
     return recap_links
@@ -438,32 +446,33 @@ if __name__ == "__main__":
     #Adding some myself
     recap_links = []
 
-    local_links = [ #'https://www.nyspercussion.org/',
-                    # 'https://www.mapsdrumlines.org/',
-                    # 'https://www.armarchingarts.org/',
-                    # 'https://cweaindoor.org/',
-                    # 'https://www.cs-pa.org/',
-                    # 'https://www.cvgpa.org/',
-                    # 'https://www.etpaa.org/',
-                    # 'http://gipacircuit.com/',
-                    # 'https://gcgpc.org/',
-                    # 'https://www.hwaa.org/',
+    local_links = [ 'https://www.nyspercussion.org/',
+                   'https://www.mapsdrumlines.org/',
+                   'https://www.armarchingarts.org/',
+                   'https://cweaindoor.org/', #need better way
+                   'https://www.cs-pa.org/', #need better way
+                   'https://www.cvgpa.org/',
+                    'https://www.etpaa.org/',
+                    'http://gipacircuit.com/',
+                    'https://gcgpc.org/',
+                    'https://www.hwaa.org/',
                     'https://indianapercussion.org/',
-                    # 'https://www.im-pa.org/',
-                    # 'https://www.kida.org/',
-                    # 'https://www.magnoliaarts.org/',
-                    # 'https://www.performmapa.org/',
-                    # 'https://mepa-circuit.org/',
-                    # #'https://mpacircuit.org/index.php',
-                    # 'https://www.ohiocircuit.org/',
-                    # 'https://www.pacificperformingarts.org/',
-                    # 'https://www.svwaa.com/',
-                    # 'https://scpa.live/',
-                    # 'https://tristatemarchingarts.org/'
+                    'https://www.im-pa.org/',
+                    'https://www.kida.org/',
+                    'https://www.magnoliaarts.org/',
+                    'https://www.performmapa.org/',
+                    'https://mepa-circuit.org/',
+                    'https://mpacircuit.org/index.php',
+                    'https://www.ohiocircuit.org/',
+                    'https://www.pacificperformingarts.org/',
+                    'https://www.svwaa.com/',
+                    'https://scpa.live/',
+                    'https://tristatemarchingarts.org/'
                     ]
 
     recap_links = pd.read_csv('recap_links.csv')['links'].tolist()
     for link in local_links:
+        print(f'Processing {link}')
         recap_links_grouped.append(crawler(link))
     #
     # #recap_links.append(get_iframe_links('https://www.mapsdrumlines.org/scores'))

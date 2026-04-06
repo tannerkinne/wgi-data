@@ -59,6 +59,10 @@ def mlp_regression(x_train, y_train, x_test, y_test):
 
     return model
 
+def mega_predictor(models, x):
+    predictions = np.array([model.predict(x) for model in models])
+    return np.mean(predictions, axis=0)
+
 if __name__ == '__main__':
     #
     # df = pd.read_csv('final_stats.csv')
@@ -91,6 +95,7 @@ if __name__ == '__main__':
     #df = df.drop(df[df['year'] == 2014].index)
     df = df.drop(df[df['year'] == 2020].index)
     df = df.drop(df[df['year'] == 2021].index)
+    df = df.drop(df[df['show_count'] == 7].index)
 
 
     df_train= df[df['year'] < 2026]
@@ -152,33 +157,40 @@ if __name__ == '__main__':
     #     prediction = mlp_model.predict(row_df)
     #     print(f"{name} prediction: {prediction[0]} actual: {actual}")
 
-    residuals = y_test - lr_model.predict(x_test)
 
-    # df["residual"] = residuals
+    print("----------------------------------------------------------------------------------------------")
+
+    lr_residuals = y_test - lr_model.predict(x_test)
+
+    # df["residual"] = lr_residuals
     # df.groupby("show_count")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by show count")
     # plt.show()
     #
-    # # 2. Residuals by class — is one class dragging you down?
+    # # 2. lr_residuals by class — is one class dragging you down?
     # df.groupby("class")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by class")
     # plt.show()
     #
-    # # 3. Residuals by year — model degrading over time?
+    # # 3. lr_residuals by year — model degrading over time?
     # df.groupby("year")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by year")
     # plt.show()
-
-    # plt.scatter(lr_model.predict(x_test), residuals)
+    #
+    # plt.scatter(lr_model.predict(x_test), lr_residuals)
+    # plt.title("lr_residuals vs Predicted Values")
     # plt.show()
     #
-    # plt.scatter(x_test['current_overall_average'], residuals)
+    # plt.scatter(x_test['current_overall_average'], lr_residuals)
+    # plt.title("lr_residuals vs Current Overall Average")
     # plt.show()
     #
-    # plt.scatter(x_test['show_count'], residuals)
+    # plt.scatter(x_test['show_count'], lr_residuals)
+    # plt.title("lr_residuals vs Show Count")
     # plt.show()
     #
-    # plt.scatter(x_test['week'], residuals)
+    # plt.scatter(x_test['week'], lr_residuals)
+    # plt.title("lr_residuals vs Week")
     # plt.show()
 
     print('For Gradient Boosting Regressor:')
@@ -186,6 +198,19 @@ if __name__ == '__main__':
     within_1 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 1.0)
     within_2 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 2.0)
     within_3 = np.mean(np.abs(y_test - gb_model.predict(x_test)) < 3.0)
+
+    print(f"MAE:           {mae:.2f} pts")
+    print(f"Within 1 pt:   {within_1:.1%}")
+    print(f"Within 2 pts:  {within_2:.1%}")
+    print(f"Within 3 pts:  {within_3:.1%}")
+
+    mega_model = [lr_model, rf_model, gb_model, mlp_model]
+
+    print('For Mega Predictor:')
+    mae = mean_absolute_error(y_test, mega_predictor(mega_model, x_test))
+    within_1 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 1.0)
+    within_2 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 2.0)
+    within_3 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 3.0)
 
     print(f"MAE:           {mae:.2f} pts")
     print(f"Within 1 pt:   {within_1:.1%}")

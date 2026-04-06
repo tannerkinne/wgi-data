@@ -1,38 +1,62 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2019,3,PIA,Albany Indoor Percussion,66.65,19.1,21.45,12.5,13.6
-2019,4,PIA,Albany Indoor Percussion,63.6,21.3,17.4,12.2,12.7
-2019,10,PIA,Albany Indoor Percussion,72.35,21.9,21.75,14.4,14.3
-2019,6,PIA,Cornell Indoor Drumline,65.2,19.3,19.2,13.2,13.5
-2019,10,PIA,Cornell Indoor Drumline,68.5,20.2,21.0,13.5,13.8
-2019,6,PIA,Cornerstone Percussion,70.15,21.45,14.7,19.4,14.6
-2019,9,PIA,Cornerstone Percussion,79.8,24.6,14.4,23.7,17.1
-2019,10,PIA,Cornerstone Percussion,78.7,24.3,15.25,23.9,15.25
-2019,3,PIA,Decatur County Indoor,61.8,20.7,11.6,18.5,11.0
-2019,4,PIA,Decatur County Indoor,62.2,18.3,13.0,18.7,12.2
-2019,7,PIA,Decatur County Indoor,71.25,22.65,13.6,20.8,14.2
-2019,9,PIA,Decatur County Indoor,70.775,19.725,14.35,22.0,14.7
-2019,7,PIA,Incognito,66.5,19.2,13.1,20.4,13.8
-2019,9,PIA,Incognito,75.8,22.5,15.4,21.8,16.1
-2019,2,PIA,Montgomery County United,55.4,16.5,11.3,17.0,10.6
-2019,4,PIA,Montgomery County United,58.65,17.25,12.4,17.0,12.0
-2019,6,PIA,Montgomery County United,64.45,19.95,12.8,19.2,12.5
-2019,7,PIA,Montgomery County United,63.325,18.675,13.35,18.2,13.1
-2019,9,PIA,Montgomery County United,62.675,18.525,12.65,18.85,12.65
-2019,4,PIA,Onondaga Community College,72.1,23.4,22.5,13.2,13.0
-2019,8,PIA,Onondaga Community College,73.85,24.3,21.15,13.8,14.6
-2019,10,PIA,Onondaga Community College,78.525,25.5,22.725,15.3,15.0
-2019,7,PIA,Pasadena City College,75.0,22.2,15.4,22.8,14.6
-2019,9,PIA,Pasadena City College,80.25,23.25,15.7,24.1,17.2
-2019,10,PIA,Pasadena City College,81.175,24.075,16.2,24.85,16.05
-2019,5,PIA,SB Percussion,74.8,22.8,14.7,22.8,14.5
-2019,6,PIA,SB Percussion,71.55,22.05,15.2,20.9,13.4
-2019,3,PIA,United 2,69.6,22.4,19.8,14.3,13.1
-2019,8,PIA,United 2,81.45,25.0,22.95,16.8,16.7
-2019,10,PIA,United 2,80.6,24.9,22.8,16.3,16.6
-2019,9,PIA,Vegas Vanguard,84.35,24.9,16.9,25.4,17.15
-2019,10,PIA,Vegas Vanguard,84.6,25.5,16.45,26.55,16.1
-2019,2,PIA,Webster Percussion Theater,60.45,18.4,18.45,11.5,12.1
-2019,5,PIA,Webster Percussion Theater,68.35,20.2,21.75,13.4,13.0
-2019,8,PIA,Webster Percussion Theater,70.6,22.1,21.9,13.4,13.2
-2019,9,PIA,Webster Percussion Theater,82.3,25.6,26.55,14.95,15.2
-2019,10,PIA,Webster Percussion Theater,72.8,21.8,21.6,14.9,14.5
+2019,4,PIA,Albany Indoor Percussion,66.65,19.1,21.45,12.5,13.6
+2019,5,PIA,Albany Indoor Percussion,63.6,21.3,17.4,12.2,12.7
+2019,11,PIA,Albany Indoor Percussion,72.35,21.9,21.75,14.4,14.3
+2019,5,PIA,Avant Garde,66.3,18.75,12.85,20.5,14.2
+2019,7,PIA,Cornell Indoor Drumline,65.2,19.3,19.2,13.2,13.5
+2019,11,PIA,Cornell Indoor Drumline,68.5,20.2,21.0,13.5,13.8
+2019,7,PIA,Cornerstone Percussion,70.15,21.45,14.7,19.4,14.6
+2019,10,PIA,Cornerstone Percussion,79.8,24.6,14.4,23.7,17.1
+2019,11,PIA,Cornerstone Percussion,78.7,24.3,15.25,23.9,15.25
+2019,4,PIA,Decatur County Indoor,61.8,20.7,11.6,18.5,11.0
+2019,5,PIA,Decatur County Indoor,62.2,18.3,13.0,18.7,12.2
+2019,8,PIA,Decatur County Indoor,71.25,22.65,13.6,20.8,14.2
+2019,10,PIA,Decatur County Indoor,70.775,19.725,14.35,22.0,14.7
+2019,10,PIA,ELITE 2,79.9,24.4,23.7,17.0,14.8
+2019,2,PIA,Forest Lake High School,61.85,18.15,12.2,19.0,12.5
+2019,3,PIA,Forest Lake High School,65.6,18.75,13.7,20.3,12.85
+2019,5,PIA,Forest Lake High School,70.0,21.3,13.9,20.4,14.4
+2019,8,PIA,Forest Lake High School,70.5,21.9,14.0,19.6,15.0
+2019,10,PIA,Forest Lake High School,69.775,20.625,13.5,21.7,13.95
+2019,11,PIA,Forest Lake High School,68.088,19.538,12.95,22.25,13.35
+2019,4,PIA,Groove Pursuit,67.55,19.05,13.7,21.2,13.6
+2019,10,PIA,Groove Pursuit,78.375,23.625,15.75,24.3,14.7
+2019,11,PIA,Groove Pursuit,76.175,20.85,15.025,24.45,15.85
+2019,11,PIA,Impact Percussion,89.55,26.7,26.55,18.2,18.1
+2019,8,PIA,Incognito,66.5,19.2,13.1,20.4,13.8
+2019,10,PIA,Incognito,75.8,22.5,15.4,21.8,16.1
+2019,3,PIA,Montgomery County United,55.4,16.5,11.3,17.0,10.6
+2019,5,PIA,Montgomery County United,58.65,17.25,12.4,17.0,12.0
+2019,7,PIA,Montgomery County United,64.45,19.95,12.8,19.2,12.5
+2019,8,PIA,Montgomery County United,63.325,18.675,13.35,18.2,13.1
+2019,10,PIA,Montgomery County United,62.675,18.525,12.65,18.85,12.65
+2019,11,PIA,North Star Independent,84.6,25.1,25.2,17.1,17.2
+2019,5,PIA,Onondaga Community College,72.1,23.4,22.5,13.2,13.0
+2019,9,PIA,Onondaga Community College,73.85,24.3,21.15,13.8,14.6
+2019,11,PIA,Onondaga Community College,78.525,25.5,22.725,15.3,15.0
+2019,8,PIA,Pasadena City College,75.0,22.2,15.4,22.8,14.6
+2019,10,PIA,Pasadena City College,80.25,23.25,15.7,24.1,17.2
+2019,11,PIA,Pasadena City College,81.175,24.075,16.2,24.85,16.05
+2019,2,PIA,Phoenix Drumline,61.55,18.75,12.7,17.7,12.4
+2019,3,PIA,Phoenix Drumline,65.75,19.2,14.1,19.2,13.25
+2019,4,PIA,Phoenix Drumline,68.15,19.35,13.4,22.0,13.4
+2019,6,PIA,Phoenix Drumline,67.0,20.1,13.5,19.0,14.4
+2019,8,PIA,Phoenix Drumline,70.2,21.6,13.5,19.3,15.8
+2019,10,PIA,Phoenix Drumline,71.25,21.3,14.35,21.8,13.8
+2019,11,PIA,Phoenix Drumline,72.525,20.475,14.15,23.3,14.6
+2019,2,PIA,Rochester Lourdes High School,67.3,19.8,12.3,21.3,13.9
+2019,8,PIA,Rochester Lourdes High School,77.45,23.55,15.1,23.7,15.1
+2019,10,PIA,Rochester Lourdes High School,79.3,24.45,14.6,24.7,15.55
+2019,11,PIA,Rochester Lourdes High School,80.6,23.85,15.35,25.45,15.95
+2019,6,PIA,SB Percussion,74.8,22.8,14.7,22.8,14.5
+2019,7,PIA,SB Percussion,71.55,22.05,15.2,20.9,13.4
+2019,4,PIA,United 2,69.6,22.4,19.8,14.3,13.1
+2019,9,PIA,United 2,81.45,25.0,22.95,16.8,16.7
+2019,11,PIA,United 2,80.6,24.9,22.8,16.3,16.6
+2019,10,PIA,Vegas Vanguard,84.35,24.9,16.9,25.4,17.15
+2019,11,PIA,Vegas Vanguard,84.6,25.5,16.45,26.55,16.1
+2019,3,PIA,Webster Percussion Theater,60.45,18.4,18.45,11.5,12.1
+2019,6,PIA,Webster Percussion Theater,68.35,20.2,21.75,13.4,13.0
+2019,9,PIA,Webster Percussion Theater,70.6,22.1,21.9,13.4,13.2
+2019,10,PIA,Webster Percussion Theater,82.3,25.6,26.55,14.95,15.2
+2019,11,PIA,Webster Percussion Theater,72.8,21.8,21.6,14.9,14.5

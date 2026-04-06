@@ -2,6 +2,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,5,PIA,357 N. 6th Ave,71.0,21.6,13.8,21.0,14.6
 2025,9,PIA,357 N. 6th Ave,78.45,24.75,15.4,23.2,15.1
 2025,10,PIA,357 N. 6th Ave,78.4,23.7,15.4,23.9,15.4
+2025,3,N,ARCA Colorguard,61.58,12.27,12.21,13.1,13.5
+2025,5,N,ARCA Colorguard,71.46,12.95,16.21,14.5,13.5
+2025,7,N,ARCA Colorguard,80.57,16.6,16.67,15.9,15.3
+2025,8,N,ARCA Colorguard,84.66,17.73,17.73,16.6,16.4
+2025,9,N,ARCA Colorguard,86.04,17.14,17.8,17.4,17.4
+2025,7,N,Abbeville H.S.,70.88,14.14,14.94,13.5,13.6
 2025,2,PJHSA,Abraham Lincoln MS Percussion,62.55,20.8,18.45,11.7,11.6
 2025,4,PJHSA,Abraham Lincoln MS Percussion,65.05,20.6,20.25,12.0,12.2
 2025,6,PJHSO,Abraham Lincoln MS Percussion,68.05,20.1,20.85,14.6,12.5
@@ -12,6 +18,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,9,GJHSO,Abraham Lincoln MS Winterguard,74.95,147.4,148.1,15.7,14.7
 2025,10,GJHSO,Abraham Lincoln MS Winterguard,79.82,151.4,150.8,17.0,16.3
 2025,8,PSO,Academy District 20 Combined Schools,78.05,23.25,16.6,22.8,15.4
+2025,3,SA,Acadiana H.S.,60.52,12.48,11.94,13.2,11.2
+2025,7,SA,Acadiana H.S.,64.38,13.67,13.61,11.7,13.0
+2025,9,SA,Acadiana H.S.,62.9,12.68,13.42,12.9,12.9
 2025,2,SRA,Adair Co,58.94,12.33,11.61,11.2,12.6
 2025,4,SRA,Adair Co,61.65,11.21,12.14,13.6,12.6
 2025,8,SRA,Adair Co,72.281,14.74,14.74,14.0,14.4
@@ -41,10 +50,19 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Alcoa High School Winter Guard,72.18,15.74
 2025,8,B1,Aliso Niguel HS,78.7,24.9,15.3,24.1,14.4
 2025,9,R4,Aliso Niguel HS,82.001,26.25,17.0,24.1,14.65
 2025,10,R1,Aliso Niguel HS,86.351,25.8,17.6,25.85,17.1
+2025,10,PBIA,All City Music,93.25,47.7,47.5,45.4,45.9
 2025,6,BR,Allen Co Scottsville HS,71.48,13.61,13.87,14.2,13.5
 2025,4,GSRB,Alma High School Winterguard,60.84,14.32,11.62,10.7,11.6
 2025,8,GSRB,Alma High School Winterguard,66.18,13.72,13.06,13.3,13.1
 2025,9,GSRB,Alma High School Winterguard,73.46,13.24,15.12,15.4,14.8
+2025,5,PSA,Alpine Combined Schools,69.401,19.2,13.0,24.0,13.2
+2025,9,PSA,Alpine Combined Schools,76.4,21.3,18.0,22.2,14.9
+2025,10,PSA,Alpine Combined Schools,81.6,24.6,17.1,24.3,15.6
+2025,13,PSA,Alpine Combined Schools,81.351,24.15,17.1,23.3,16.8
+2025,4,PSA,Alta HS,74.05,21.75,15.0,23.0,14.3
+2025,5,PSA,Alta HS,78.2,22.65,15.8,23.95,15.8
+2025,10,PSA,Alta HS,86.15,25.05,18.0,26.0,17.1
+2025,13,PSA,Alta HS,88.5,26.4,18.7,25.1,18.3
 2025,9,PSO,Amador Valley HS,79.775,23.775,15.4,24.7,15.9
 2025,6,PSA,American Leadership Academy Gilbert North,64.401,18.9,13.1,18.8,13.6
 2025,6,PSO,Angleton HS,74.301,23.1,14.8,21.5,14.9
@@ -57,10 +75,18 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Alcoa High School Winter Guard,72.18,15.74
 2025,10,PSW,Arcadia HS,92.2,28.2,17.9,28.3,17.8
 2025,11,PSW,Arcadia HS,92.275,27.375,18.45,28.2,18.25
 2025,12,PSW,Arcadia HS,93.076,27.975,18.125,28.225,18.75
+2025,2,SRA,Archbishop Alter High School Winterguard,60.28,11.72,12.46,12.4,11.2
+2025,5,SRA,Archbishop Alter High School Winterguard,60.75,11.98,12.92,11.2,13.25
+2025,6,SRA,Archbishop Alter High School Winterguard,63.961,12.86,12.9,13.1,13.2
+2025,9,SRA,Archbishop Alter High School Winterguard,74.261,16.16,15.1,14.8,13.9
+2025,10,SRA,Archbishop Alter High School Winterguard,77.66,15.74,15.72,15.2,14.3
 2025,4,GSRB,Arkadelphia High School Varsity Guard,63.7,15.18,12.32,11.5,11.8
 2025,9,GSRB,Arkadelphia High School Varsity Guard,79.84,15.72,14.92,16.4,16.3
 2025,7,SA,Arlington County Winter Guard,70.361,15.15,13.21,14.3,13.8
 2025,7,P-SA,Arlington Indoor Percussion,80.7,25.8,24.0,16.1,14.8
+2025,3,C,Arnett M.S.,58.06,11.35,11.61,11.6,12.9
+2025,7,C,Arnett M.S.,75.59,14.68,14.61,14.9,16.6
+2025,9,C,Arnett M.S.,79.1,16.22,14.88,17.0,15.3
 2025,2,PSO,Arroyo HS,67.25,21.75,12.8,19.4,13.3
 2025,4,PSO,Arroyo HS,74.4,22.8,15.0,21.7,14.9
 2025,7,PSO,Arroyo HS,79.3,23.7,16.1,23.2,16.3
@@ -72,6 +98,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Alcoa High School Winter Guard,72.18,15.74
 2025,4,PSA,Arvin HS,72.126,21.675,14.1,21.65,14.7
 2025,6,PIW,Atlanta Quest,84.55,25.35,16.6,25.9,16.7
 2025,12,PIW,Atlanta Quest,90.425,27.525,17.6,27.6,17.7
+2025,3,R2,Atwater HS,52.5,10.24,10.06,10.6,10.8
+2025,4,SRA,Atwater HS,50.84,10.52,10.12,9.8,10.4
+2025,6,R2,Atwater HS,71.1,21.0,14.8,19.9,15.4
+2025,8,R2,Atwater HS,72.6,21.6,14.7,22.9,13.4
+2025,10,G,Atwater HS,81.4,24.6,15.8,25.0,16.0
 2025,3,PSA,Auburn,66.251,20.6,21.45,12.0,12.2
 2025,4,PSA,Auburn,69.2,21.4,21.3,13.0,13.5
 2025,7,PSA,Auburn,74.1,24.0,22.8,13.5,13.8
@@ -109,6 +140,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Alcoa High School Winter Guard,72.18,15.74
 2025,7,SA,Ballard HS,65.511,14.74,13.87,10.7,12.6
 2025,8,SA,Ballard HS,69.69,14.81,13.88,12.3,14.3
 2025,10,PR,Ballard HS,74.78,15.54,15.34,15.3,14.6
+2025,5,SRA,Barbe H.S.,64.561,13.34,13.42,13.1,11.3
+2025,7,SRA,Barbe H.S.,67.361,13.62,13.2,13.4,12.4
+2025,9,RD,Barbe H.S.,75.18,15.18,14.1,15.0,15.5
 2025,5,PSO,Basha HS,81.25,25.65,16.4,23.6,15.6
 2025,6,PSO,Basha HS,82.9,25.2,16.3,25.4,16.0
 2025,12,R1,Basha HS,90.464,27.712,17.75,27.6,17.4
@@ -118,6 +152,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Alcoa High School Winter Guard,72.18,15.74
 2025,7,GSRB,Batesville Winter Guard,72.74,13.72,14.72,15.9,14.2
 2025,8,GSRB,Batesville Winter Guard,70.94,14.66,13.78,14.1,14.6
 2025,4,PSA,Bay Port HS,67.7,20.4,13.6,20.0,13.7
+2025,4,IRA,Bayou Winterguard,51.54,9.48,8.16,10.1,12.1
+2025,8,IRA,Bayou Winterguard,67.9,13.72,12.88,12.1,14.9
+2025,9,IRA,Bayou Winterguard,68.02,13.04,13.38,13.7,14.3
 2025,2,PSA,Bearden High School Indoor Percussion,62.401,17.8,19.8,12.8,12.0
 2025,7,PSA,Bearden High School Indoor Percussion,72.4,21.5,21.6,14.9,14.4
 2025,10,PSA,Bearden High School Indoor Percussion,76.751,22.6,23.25,15.3,15.6
@@ -135,6 +172,20 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,5,IA,Beau Monde Independent,72.52,14.01,14.61,14.3,14.8
 2025,10,IA,Beau Monde Independent,84.05,17.01,17.34,16.7,16.1
 2025,12,R2,Beavercreek HS,89.501,26.25,18.2,26.95,18.1
+2025,2,,Beavercreek High School,65.64,12.88,12.66,12.8,13.7
+2025,3,,Beavercreek High School,63.89,12.88,13.61,12.6,12.7
+2025,6,,Beavercreek High School,73.75,14.61,14.74,14.4,14.8
+2025,7,,Beavercreek High School,74.91,14.89,14.62,15.1,15.1
+2025,10,,Beavercreek High School,75.151,15.33,14.82,15.1,15.1
+2025,2,N,Beavercreek High School Junior Varsity,60.68,11.72,12.9,13.1,12.6
+2025,3,N,Beavercreek High School Junior Varsity,64.08,12.66,11.92,13.9,13.3
+2025,5,N,Beavercreek High School Junior Varsity,72.72,12.3,13.12,14.8,16.0
+2025,6,N,Beavercreek High School Junior Varsity,72.12,14.18,13.04,14.3,16.2
+2025,7,N,Beavercreek High School Junior Varsity,79.56,15.38,15.58,16.9,15.7
+2025,10,N,Beavercreek High School Junior Varsity,85.02,14.08,17.14,18.1,18.4
+2025,2,PSO,Beavercreek Indoor Percussion Ensemble,71.75,21.45,14.3,21.4,14.6
+2025,7,PSO,Beavercreek Indoor Percussion Ensemble,83.35,25.05,16.7,25.0,16.6
+2025,10,PSO,Beavercreek Indoor Percussion Ensemble,88.9,26.7,18.4,25.9,17.9
 2025,8,PSA,Beaverton HS,72.451,21.75,14.5,22.0,14.2
 2025,4,PRA,Beech Grove Percussion,70.1,20.7,14.2,21.7,13.5
 2025,5,PSA,Beech Grove Percussion,70.501,20.1,13.6,22.5,14.3
@@ -148,6 +199,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,7,SA,Beechwood HS,76.02,15.08,14.74,14.1,15.8
 2025,10,BR,Beechwood HS,85.4,17.07,16.93,17.0,17.2
 2025,12,R2,Bellbrook HS,84.876,25.575,18.05,24.65,16.6
+2025,2,SW,Bellbrook High School,70.2,14.3,14.0,13.3,15.0
+2025,3,SW,Bellbrook High School,71.0,14.2,13.9,14.8,14.2
+2025,7,SW,Bellbrook High School,78.7,15.6,15.8,15.5,16.0
+2025,10,SW,Bellbrook High School,84.8,16.9,17.7,16.7,15.8
+2025,2,PSA,Bellbrook High School Indoor Percussion Ensemble,72.85,21.75,14.5,21.7,14.9
+2025,3,PSA,Bellbrook High School Indoor Percussion Ensemble,73.1,22.2,13.3,22.4,15.2
+2025,5,PSA,Bellbrook High School Indoor Percussion Ensemble,74.85,22.95,15.4,21.6,14.9
+2025,7,PSA,Bellbrook High School Indoor Percussion Ensemble,81.05,24.15,16.4,24.8,15.7
+2025,10,PSA,Bellbrook High School Indoor Percussion Ensemble,82.651,24.45,16.5,25.1,16.6
+2025,1,JCG,Bellbrook Middle School,57.6,12.3,11.8,11.7,11.1
+2025,2,JCG,Bellbrook Middle School,71.6,13.0,13.0,13.9,16.7
+2025,3,JCG,Bellbrook Middle School,67.5,12.9,12.2,13.6,14.3
+2025,5,JCG,Bellbrook Middle School,76.4,14.1,14.3,13.7,17.8
+2025,6,JCG,Bellbrook Middle School,73.5,14.2,14.1,14.1,16.8
+2025,7,JCG,Bellbrook Middle School,75.9,15.2,14.6,15.3,15.4
+2025,10,JCG,Bellbrook Middle School,86.0,17.9,15.9,18.1,15.2
 2025,9,PSA,Bellevue Combined Schools,80.05,22.95,16.3,23.5,17.3
 2025,12,R2,Bellevue Combined Schools,86.925,25.725,17.825,25.8,17.575
 2025,4,PSA,Bellflower HS,73.75,21.45,14.8,23.3,14.2
@@ -162,6 +229,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,10,PSA,Ben Davis Percussion Ensemble,90.975,27.375,18.2,27.4,18.0
 2025,8,PSA,Benicia HS,68.75,19.95,13.0,21.7,14.1
 2025,8,PSA,Benicia MS,62.651,18.75,12.6,19.8,11.5
+2025,3,R2,Beyer HS,57.26,11.6,11.66,11.2,11.4
+2025,4,R2,Beyer HS,61.78,12.74,11.84,11.6,12.9
+2025,8,R2,Beyer HS,76.94,15.12,15.32,15.0,15.9
+2025,10,G,Beyer HS,87.5,16.56,18.34,17.9,17.6
 2025,7,PIA,Biddeford BlackOut Percussion,73.4,21.6,14.6,22.6,14.6
 2025,2,SRA,Big Spring HS Guard,70.62,13.81,13.81,14.8,13.4
 2025,7,SRA,Big Spring HS Guard,78.01,15.54,16.47,15.9,14.8
@@ -170,7 +241,17 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,7,SA,Biglerville HS Guard,77.28,14.94,15.14,15.3,16.1
 2025,9,SA,Biglerville HS Guard,79.12,14.81,16.01,16.0,16.3
 2025,10,SP-SA,Biglerville HS Percussion,79.9,37.7,38.4,39.7,44.0
+2025,2,SRA,Biloxi H.S.,59.391,12.81,12.48,11.2,12.0
+2025,4,PSRA,Biloxi H.S.,68.9,21.3,13.4,20.6,13.6
+2025,5,SRA,Biloxi H.S.,68.5,14.18,13.92,13.3,13.9
+2025,9,PSRA,Biloxi H.S.,80.428,24.428,16.4,23.5,16.1
+2025,2,C,Biloxi J.H.S.,57.02,11.21,11.21,11.4,11.9
+2025,4,C,Biloxi J.H.S.,64.15,12.48,11.87,12.6,13.6
+2025,9,C,Biloxi J.H.S.,77.02,15.75,15.07,16.7,14.3
+2025,5,PSA,Bingham HS,75.401,21.0,16.0,23.8,14.6
 2025,7,PSA,Bingham HS,72.95,21.45,15.3,21.8,14.4
+2025,9,PSO,Bingham HS,83.3,24.3,17.6,24.5,16.9
+2025,13,PSO,Bingham HS,83.05,25.65,16.5,24.0,16.9
 2025,4,PRA,Bishop Dwenger High School,58.701,17.7,11.5,17.9,11.6
 2025,5,PRA,Bishop Dwenger High School,63.55,19.65,11.8,20.3,11.8
 2025,7,PRA,Bishop Dwenger High School,68.1,21.3,12.8,21.4,12.6
@@ -178,6 +259,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,9,PRA,Bishop Dwenger High School,66.4,20.25,13.55,18.3,14.3
 2025,6,PR,Blanchester HS,63.25,13.01,13.54,11.4,12.4
 2025,8,SRA,Blanchester HS,65.316,13.475,12.94,12.8,13.2
+2025,3,SRA,Blanchester Winterguard,53.781,11.18,10.9,9.5,10.3
 2025,4,PSO,Bloomington HS,71.25,22.35,13.6,22.0,13.3
 2025,7,PSO,Bloomington HS,73.75,22.35,14.2,21.7,15.5
 2025,10,R2,Bloomington HS,77.3,21.6,16.0,24.3,15.4
@@ -206,6 +288,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,8,SDS,Bowie HS Dance,84.125,21.0,21.5,21.0,20.625
 2025,9,SDS,Bowie HS Dance,82.75,19.875,21.375,21.25,20.25
 2025,10,SDS,Bowie HS Dance,83.625,21.0,21.25,20.75,20.625
+2025,2,C,Boyet J.H.S.,53.62,9.74,10.08,11.2,11.8
+2025,4,C,Boyet J.H.S.,57.22,10.48,10.34,11.8,13.1
+2025,5,C,Boyet J.H.S.,63.33,12.35,13.68,12.8,12.1
+2025,9,C,Boyet J.H.S.,73.981,15.21,14.87,15.6,13.7
 2025,2,SRA,Boyle Co HS,56.17,11.76,12.61,10.3,10.7
 2025,4,SRA,Boyle Co HS,58.95,10.61,11.94,12.1,12.7
 2025,7,BR,Boyle Co HS,66.151,12.94,13.21,11.8,14.9
@@ -213,6 +299,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,7,PSO,Brandon Valley HS,80.75,24.75,16.2,23.7,16.1
 2025,9,PSO,Brandon Valley HS,84.0,24.6,16.9,25.7,16.8
 2025,12,R2,Brandon Valley HS,84.951,25.35,17.05,24.95,17.6
+2025,4,PSO,Brandon Valley High School,74.05,23.25,13.7,23.4,13.7
+2025,8,PSO,Brandon Valley High School,81.9,23.4,16.5,25.4,16.6
+2025,11,PSO,Brandon Valley High School,86.4,25.5,17.7,26.35,16.85
 2025,8,PSO,Branham HS,86.85,25.05,17.2,27.9,16.7
 2025,6,PIO,Breakthrough Indoor Percussion,83.15,24.75,16.0,25.8,16.6
 2025,12,R2,Breakthrough Indoor Percussion,87.464,25.763,18.2,26.05,17.45
@@ -240,7 +329,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,11,PIW,Broken City,95.175,28.425,18.8,28.9,19.05
 2025,12,PIW,Broken City,97.95,29.475,19.6,29.3,19.575
 2025,7,PSA,Brookings HS,71.901,22.2,13.6,20.9,15.2
+2025,4,PSA,Brookings HS Drumline,62.4,16.8,13.3,20.0,12.3
+2025,8,PSA,Brookings HS Drumline,72.6,22.5,14.8,20.4,14.9
+2025,10,PSA,Brookings HS Drumline,78.151,22.65,15.7,23.9,15.9
+2025,11,PSA,Brookings HS Drumline,79.076,22.95,16.0,24.35,15.775
 2025,4,PSB,Brookland Indoor Percussion,63.0,18.0,12.4,20.4,12.2
+2025,2,PSA,Brookville High School Winter Percussion,63.201,18.3,11.9,20.2,12.8
+2025,5,PSA,Brookville High School Winter Percussion,70.651,19.95,14.8,22.1,13.8
+2025,7,PSA,Brookville High School Winter Percussion,71.3,22.2,13.4,21.6,14.1
+2025,9,PSA,Brookville High School Winter Percussion,73.0,21.3,14.6,21.9,15.2
+2025,10,PSA,Brookville High School Winter Percussion,79.801,23.7,16.8,23.4,15.9
+2025,2,SRA,Brookville High School Winterguard,54.721,11.24,11.18,10.3,10.9
+2025,3,SRA,Brookville High School Winterguard,53.941,10.82,9.82,11.0,10.8
+2025,5,SRA,Brookville High School Winterguard,56.32,10.58,11.64,10.4,12.5
+2025,7,SRA,Brookville High School Winterguard,70.62,15.16,12.96,14.0,14.1
+2025,9,SRA,Brookville High School Winterguard,74.241,15.68,14.56,16.1,12.9
+2025,10,SRA,Brookville High School Winterguard,73.62,14.24,15.18,14.6,15.1
 2025,6,PSW,Brownsburg HS,77.55,24.15,14.8,24.4,14.2
 2025,12,R2,Brownsburg HS,87.689,26.363,17.7,25.775,17.85
 2025,4,PSW,Brownsburg High School Winter Percussion,75.65,22.95,15.2,22.4,15.1
@@ -269,6 +373,15 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,8,PSJ,Buena Park MS,84.8,25.2,16.4,26.7,16.5
 2025,10,PSJ,Buena Park MS,91.751,27.75,18.7,27.2,18.1
 2025,7,PSA,Buffalo HS,74.55,22.65,15.9,20.4,15.6
+2025,4,PSRA,Buffalo High School,74.55,24.45,14.4,21.2,14.5
+2025,5,PSRA,Buffalo High School,76.5,23.7,16.1,22.0,14.7
+2025,6,PSRA,Buffalo High School,81.05,25.65,16.4,22.6,16.4
+2025,10,PSA,Buffalo High School,77.201,23.025,15.05,23.675,15.45
+2025,11,PSA,Buffalo High School,79.601,24.0,16.3,23.5,15.8
+2025,4,R1,Buhach Colony HS,63.8,13.18,12.12,12.5,12.9
+2025,6,R3,Buhach Colony HS,70.5,14.72,13.8,13.6,14.6
+2025,8,R1,Buhach Colony HS,76.74,14.38,16.26,15.6,15.6
+2025,10,G,Buhach Colony HS,84.18,16.26,17.52,16.8,16.9
 2025,4,R2,Bullard HS Winterguard,52.281,10.24,9.44,10.5,10.8
 2025,9,GHSSRA,Bullard HS Winterguard,51.06,12.32,11.44,8.6,8.9
 2025,10,GHSSRA,Bullard HS Winterguard,60.52,11.64,11.6,12.9,11.0
@@ -280,6 +393,25 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,9,PSW,Burleson Centennial HS,90.55,27.15,18.0,26.8,18.6
 2025,12,PSW,Burleson Centennial HS,94.725,28.425,19.05,27.8,19.45
 2025,9,PSO,Burleson HS,82.4,24.3,16.4,24.4,17.3
+2025,2,PSA,Burnsville High School,71.6,21.9,13.9,20.3,15.5
+2025,4,PSA,Burnsville High School,77.85,25.05,14.0,23.6,15.2
+2025,6,PSA,Burnsville High School,82.7,25.5,16.5,24.2,16.5
+2025,9,PSA,Burnsville High School,83.2,24.0,16.0,25.3,17.9
+2025,11,PSA,Burnsville High School,88.95,26.25,18.2,26.9,17.6
+2025,1,SRA,Butler High School Winterguard,52.42,11.14,9.28,10.7,10.8
+2025,2,SRA,Butler High School Winterguard,55.001,11.98,10.12,10.6,10.5
+2025,5,SRA,Butler High School Winterguard,61.52,11.44,12.58,11.7,12.9
+2025,6,SRA,Butler High School Winterguard,69.44,13.8,13.44,14.5,14.2
+2025,8,SRA,Butler High School Winterguard,70.581,13.5,14.78,12.4,15.2
+2025,9,SRA,Butler High School Winterguard,77.6,15.12,15.58,15.6,15.5
+2025,10,SRA,Butler High School Winterguard,80.12,14.58,17.34,17.1,16.1
+2025,1,PSA,Butler Indoor Percussion Ensemble,63.6,18.9,13.2,19.4,12.1
+2025,2,PSA,Butler Indoor Percussion Ensemble,58.001,17.4,11.6,17.3,11.7
+2025,5,PSA,Butler Indoor Percussion Ensemble,63.301,18.3,13.5,19.1,12.4
+2025,6,PSA,Butler Indoor Percussion Ensemble,70.5,20.7,13.7,22.9,13.2
+2025,8,PSA,Butler Indoor Percussion Ensemble,66.45,20.55,13.6,19.1,13.2
+2025,9,PSA,Butler Indoor Percussion Ensemble,66.701,19.5,13.6,20.0,13.6
+2025,10,PSA,Butler Indoor Percussion Ensemble,73.25,21.75,15.2,21.3,15.0
 2025,7,SRA,C. G. Woodson HS Guard,76.51,16.07,17.14,16.4,13.1
 2025,6,PSO,C.E. King HS,75.001,24.0,14.7,22.8,13.5
 2025,4,R1,CHS Blue Thunder Drumline,52.05,17.0,15.15,9.9,10.0
@@ -320,8 +452,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,8,PSJ,Canyon Hills JHS,84.25,25.35,16.8,25.7,16.4
 2025,10,PSJ,Canyon Hills JHS,94.175,29.325,19.0,27.65,18.2
 2025,7,PSA,Canyons School District Combined Schools,82.8,25.8,17.3,23.4,16.3
+2025,5,PIW,Cap City,83.55,25.65,17.2,23.9,16.8
 2025,6,PIW,Cap City,85.85,25.65,17.8,25.4,17.0
 2025,12,PIW,Cap City,92.114,28.237,18.25,27.1,18.525
+2025,5,PIO,Cap City 2,82.95,25.35,17.4,23.2,17.0
 2025,6,PIO,Cap City 2,86.95,26.55,17.1,25.9,17.4
 2025,12,PIO,Cap City 2,94.826,28.65,18.675,28.8,18.7
 2025,7,PSA,Carlisle HS,72.101,22.8,14.0,21.1,14.2
@@ -343,6 +477,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,8,PSO,Carroll High School Indoor Percussion,84.9,25.2,17.7,25.1,16.9
 2025,9,PSO,Carroll High School Indoor Percussion,84.876,25.725,17.65,24.7,16.8
 2025,10,PSO,Carroll High School Indoor Percussion,82.864,25.612,16.7,24.75,15.8
+2025,2,SRA,Carroll High School Winter Guard,56.861,11.92,11.24,11.0,10.1
+2025,3,SRA,Carroll High School Winter Guard,55.581,11.78,9.9,11.2,11.1
+2025,6,SRA,Carroll High School Winter Guard,67.421,13.08,14.94,15.1,12.7
+2025,8,SRA,Carroll High School Winter Guard,73.461,14.9,15.36,13.1,14.4
+2025,10,SRA,Carroll High School Winter Guard,75.72,15.52,15.8,14.9,14.6
 2025,2,PSRA,Carter Indoor Percussion,58.551,18.0,17.25,12.0,11.3
 2025,5,PSRA,Carter Indoor Percussion,62.95,18.6,18.75,13.5,12.1
 2025,10,PSRA,Carter Indoor Percussion,71.801,21.5,21.0,14.1,15.2
@@ -369,7 +508,20 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,9,PSW,Center Grove High School,88.375,26.475,17.8,26.5,17.6
 2025,10,PSW,Center Grove High School,90.475,27.225,18.45,27.45,17.35
 2025,7,PSA,Center Hill HS,73.05,22.35,13.6,21.8,15.3
+2025,2,SW,Centerville HS,66.2,13.2,12.5,11.9,14.8
+2025,7,SW,Centerville HS,71.5,14.4,14.7,14.4,14.3
+2025,10,SW,Centerville HS,76.1,14.8,15.3,15.0,14.9
 2025,12,R3,Centerville HS,82.05,24.525,17.4,23.6,16.525
+2025,1,JCG,Centerville Junior Guard,60.8,12.2,12.5,12.5,11.6
+2025,2,JCG,Centerville Junior Guard,74.2,13.4,13.3,14.4,17.8
+2025,5,JCG,Centerville Junior Guard,73.0,13.0,13.7,14.5,16.2
+2025,6,JCG,Centerville Junior Guard,74.0,14.4,14.2,14.6,16.4
+2025,7,JCG,Centerville Junior Guard,80.4,16.2,15.4,16.5,16.2
+2025,10,JCG,Centerville Junior Guard,90.4,18.0,18.1,18.3,18.1
+2025,2,PSO,Centerville Winter Drumline,71.45,22.05,14.1,21.0,14.3
+2025,5,PSO,Centerville Winter Drumline,74.25,23.55,15.0,20.7,15.0
+2025,7,PSO,Centerville Winter Drumline,79.5,24.3,16.5,22.9,15.8
+2025,10,PSO,Centerville Winter Drumline,84.35,26.55,17.2,23.6,17.0
 2025,4,SRA,Central Anne Arundel County Color Guard,71.46,14.35,14.21,14.6,14.2
 2025,6,SRA,Central Anne Arundel County Color Guard,77.11,15.74,15.67,15.5,15.5
 2025,7,SRA,Central Anne Arundel County Color Guard,78.35,16.01,16.74,15.9,15.0
@@ -383,6 +535,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,10,PIA,Central Bucks School District,77.1,25.1,21.3,15.2,15.5
 2025,11,PIA,Central Bucks School District,76.35,24.4,21.75,15.0,15.2
 2025,12,R1,Central Crossing HS,84.276,24.15,17.35,25.825,16.95
+2025,5,PSA,Central Crossing HS Indoor Percussion Ensemble,74.4,21.6,14.9,22.0,15.9
 2025,0,SRA,Central Dauphin East HS Guard,71.18,12.14,12.94,15.7,15.7
 2025,2,SRA,Central Dauphin East HS Guard,68.12,13.28,13.74,12.5,12.7
 2025,5,SRA,Central Dauphin East HS Guard,73.58,14.34,14.74,14.6,15.3
@@ -402,18 +555,35 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,9,P-SA,Central Dauphin HS Percussion,85.7,25.2,27.6,16.9,16.0
 2025,10,P-SA,Central Dauphin HS Percussion,85.701,26.85,24.9,16.75,17.2
 2025,4,R1,Central East High School Winterguard,60.16,12.92,10.94,10.8,12.5
+2025,3,SRA,Central H.S.,58.081,11.2,11.98,12.0,11.0
+2025,5,SRA,Central H.S.,62.381,12.66,13.12,12.4,12.3
+2025,7,SRA,Central H.S.,66.281,13.18,12.6,12.0,12.7
+2025,9,BD,Central H.S.,72.901,14.78,14.32,15.1,14.6
 2025,9,PSA,Central HS (TX),77.8,22.8,16.4,22.7,15.9
 2025,4,SA,Central Hardin HS,67.42,13.48,13.94,12.8,13.0
 2025,6,SA,Central Hardin HS,72.79,14.68,14.81,13.9,15.3
 2025,8,SA,Central Hardin HS,76.79,15.55,16.14,15.0,15.2
 2025,10,PR,Central Hardin HS,82.871,17.0,16.67,16.3,16.1
+2025,7,SA,Central Hardin High School,70.79,13.55,14.14,15.0,13.9
+2025,2,JV,Central Lafourche H.S. JV,63.85,13.34,13.61,12.1,12.5
+2025,3,JV,Central Lafourche H.S. JV,67.84,13.98,13.86,12.7,13.3
+2025,8,JV,Central Lafourche H.S. JV,78.94,15.82,14.62,15.6,16.9
+2025,9,JV,Central Lafourche H.S. JV,83.48,16.32,16.46,16.8,17.2
+2025,2,SA,Central Lafourche H.S. Varsity,66.85,14.34,14.21,12.7,13.0
+2025,3,SA,Central Lafourche H.S. Varsity,64.851,12.54,12.81,13.0,12.5
+2025,8,SA,Central Lafourche H.S. Varsity,76.64,15.06,14.68,15.4,15.6
+2025,9,SA,Central Lafourche H.S. Varsity,78.501,15.49,15.01,15.7,16.4
 2025,2,PSA,Central Square High School,68.875,20.9,20.775,12.9,14.3
 2025,6,PSA,Central Square High School,75.05,22.5,22.05,16.0,14.5
 2025,7,PSA,Central Square High School,79.95,23.7,24.15,17.0,15.1
 2025,8,PSA,Central Square High School,82.7,24.4,25.2,17.1,16.0
 2025,10,PSA,Central Square High School,87.775,28.0,25.575,17.2,17.0
 2025,8,PSA,Central Valley Combined Schools,72.85,22.05,14.0,23.4,13.4
-2025,8,PSA,Central Valley HS,72.9,21.3,13.8,22.3,15.5
+2025,3,R2,Central Valley HS,61.88,11.98,12.3,12.6,12.5
+2025,4,SRA,Central Valley HS,61.42,13.32,12.9,11.1,12.1
+2025,6,PSRA,Central Valley HS,75.5,23.1,15.8,20.5,16.1
+2025,8,SRA,Central Valley HS,74.76,14.98,15.18,13.7,15.5
+2025,10,S,Central Valley HS,84.4,15.6,15.8,17.9,17.9
 2025,7,PSA,Centreville Combined Schools,65.7,19.2,12.6,20.5,13.4
 2025,8,PSO,Century HS,75.1,22.5,14.8,23.4,14.4
 2025,0,SRA,Century HS Guard,63.16,11.22,10.14,14.5,13.7
@@ -429,11 +599,21 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Bearden JV,70.91,13.94,13.27,14.2,15.0
 2025,8,P-SA,Century HS Percussion,70.851,22.5,19.35,14.4,14.6
 2025,9,P-SA,Century HS Percussion,77.851,22.8,24.15,16.2,14.7
 2025,10,P-SA,Century HS Percussion,74.925,23.325,21.45,14.9,15.25
+2025,6,R1,Ceres High School,58.05,18.45,10.4,18.3,10.9
+2025,8,R2,Ceres High School,61.1,18.0,11.8,19.5,11.8
+2025,6,R1,Ceres High School Winter Percussion Ensemble,58.05,18.45,10.4,18.3,10.9
+2025,8,R2,Ceres High School Winter Percussion Ensemble,61.1,18.0,11.8,19.5,11.8
 2025,3,PSO,Cerritos HS,72.15,21.75,14.7,21.4,14.3
 2025,6,PSO,Cerritos HS,78.65,24.45,16.6,22.2,15.4
 2025,8,PSO,Cerritos HS,85.3,25.5,16.7,26.2,16.9
 2025,10,R1,Cerritos HS,83.9,24.9,16.3,25.7,17.0
 2025,11,PSO,Cerritos HS,83.625,25.575,16.65,25.15,16.25
+2025,3,R2,Cesar Chavez HS,53.82,12.12,11.4,10.3,10.0
+2025,4,R1,Cesar Chavez HS,58.9,12.16,11.44,10.5,12.4
+2025,6,R2,Cesar Chavez HS,64.72,12.38,12.64,13.0,13.2
+2025,10,S,Cesar Chavez HS,81.48,15.24,16.54,16.7,16.6
+2025,6,R2,Cesar Chavez High School Winter Percussion,71.5,20.1,15.4,20.2,15.8
+2025,10,G,Cesar Chavez High School Winter Percussion,80.9,24.9,15.5,23.7,16.8
 2025,4,R2,Cesar E Chavez Winter Guard,62.16,12.64,13.12,13.9,9.6
 2025,9,GHSSA,Cesar E Chavez Winter Guard,76.61,15.47,14.54,16.8,15.0
 2025,10,GHSSA,Cesar E Chavez Winter Guard,81.52,15.87,16.7,16.7,16.1
@@ -524,6 +704,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,8,P,Clinton TN,75.23,14.26,15.07,15.1,15.3
 2025,9,P,Clinton TN,82.38,17.21,16.47,15.6,16.7
 2025,10,P,Clinton TN,86.3,17.74,17.66,17.3,16.4
+2025,2,SRA,Clinton-Massie Winter Guard,60.74,11.46,10.78,12.5,12.0
+2025,5,SRA,Clinton-Massie Winter Guard,71.95,12.84,14.26,13.8,14.55
+2025,6,SRA,Clinton-Massie Winter Guard,72.84,14.26,12.38,14.3,16.4
+2025,7,SRA,Clinton-Massie Winter Guard,81.3,15.98,15.32,16.6,17.1
+2025,9,SRA,Clinton-Massie Winter Guard,86.2,18.12,16.58,17.1,17.3
+2025,10,SRA,Clinton-Massie Winter Guard,89.64,19.0,18.14,18.1,17.9
 2025,6,PSW,Clover HS,78.9,25.2,14.8,24.3,14.6
 2025,9,PSW,Clover HS,91.1,27.9,18.45,27.25,17.5
 2025,8,PSO,Clovis East HS,87.35,25.65,16.8,27.3,17.6
@@ -543,14 +729,29 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,7,PSA,Columbus HS,79.3,23.7,16.2,23.0,16.4
 2025,7,PSA,Columbus HS (MS),72.05,18.75,16.5,22.1,14.7
 2025,12,R2,Columbus HS (MS),80.925,23.175,16.0,25.425,16.325
+2025,1,IA,Columbus Saints Winterguard,55.02,12.01,11.61,10.1,10.2
+2025,7,IA,Columbus Saints Winterguard,64.16,12.48,12.28,12.5,12.5
+2025,8,IA,Columbus Saints Winterguard,64.76,12.28,12.88,12.5,13.5
+2025,10,IA,Columbus Saints Winterguard,69.08,13.01,14.67,13.8,13.4
+2025,3,SA,Comeaux H.S.,60.161,12.55,13.01,11.9,10.9
+2025,7,SA,Comeaux H.S.,73.221,14.01,14.41,14.6,15.6
+2025,9,SA,Comeaux H.S.,73.38,15.14,15.54,14.3,14.9
 2025,10,CP-SA,Conestoga Valley HS Indoor Percussion,81.85,36.6,42.8,41.4,42.9
+2025,2,PIW,ConneXus,76.55,23.55,15.1,22.4,15.5
+2025,5,PIW,ConneXus,80.05,24.75,16.7,21.9,16.7
 2025,6,PIW,ConneXus,81.45,23.25,17.1,25.5,15.6
+2025,7,PIW,ConneXus,85.8,25.8,16.6,27.1,16.3
+2025,10,PIW,ConneXus,87.55,25.65,18.3,25.6,18.0
 2025,12,PIW,ConneXus,84.913,26.288,17.05,24.75,16.825
 2025,6,PIO,Convergence Indoor Percussion,76.5,23.7,14.8,23.3,14.7
 2025,12,R1,Convergence Indoor Percussion,79.425,24.3,14.85,23.65,16.625
 2025,9,SA,Cookeville High School Winterguard,63.291,12.75,12.74,12.6,12.9
 2025,10,SA,Cookeville High School Winterguard,68.381,14.61,14.67,12.6,13.0
+2025,4,PSA,Copper Hills HS,64.9,19.2,12.2,20.8,12.7
 2025,7,PSA,Copper Hills HS,67.601,19.8,14.5,19.7,13.6
+2025,9,PSA,Copper Hills HS,78.4,21.0,17.6,24.1,15.7
+2025,10,PSA,Copper Hills HS,79.751,23.85,16.4,24.0,15.5
+2025,13,PSA,Copper Hills HS,77.301,23.1,15.6,22.3,16.3
 2025,6,PIA,Cornell University,59.4,19.5,16.8,11.7,11.4
 2025,8,PIA,Cornell University,65.15,20.4,19.95,12.6,12.2
 2025,10,PIA,Cornell University,70.35,21.8,21.15,13.3,14.1
@@ -572,12 +773,26 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,8,PSA,Council Rock South,76.85,22.45,23.55,14.45,16.4
 2025,10,PSA,Council Rock South,73.9,23.4,21.9,14.2,14.4
 2025,11,PSA,Council Rock South,76.35,22.2,23.1,15.4,15.65
+2025,3,N,Covenant Christian Academy,64.32,13.15,13.07,13.0,14.0
+2025,5,N,Covenant Christian Academy,71.55,14.21,14.74,14.1,14.6
+2025,8,N,Covenant Christian Academy,81.26,17.19,15.27,15.9,16.2
+2025,9,N,Covenant Christian Academy,81.051,16.74,15.41,16.4,16.7
 2025,7,PSA,Cranston Combined Schools,83.775,25.575,16.8,24.8,16.6
 2025,12,R1,Cranston Combined Schools,84.901,25.5,17.05,25.65,16.7
 2025,8,PSA,Crater HS,70.251,20.85,13.7,22.2,13.5
+2025,6,SJH,Creekside Junior High School,59.78,12.28,11.0,11.9,12.3
+2025,8,R1,Creekside Junior High School,69.34,13.38,14.26,13.8,13.9
+2025,10,G,Creekside Junior High School,73.44,14.18,14.86,14.7,14.5
+2025,2,IA,Crescent City Color Guard,68.82,13.81,13.81,14.0,13.9
+2025,3,IA,Crescent City Color Guard,71.55,14.34,14.01,14.9,13.6
+2025,9,IA,Crescent City Color Guard,84.33,16.02,16.61,17.2,17.2
 2025,4,GSN,Cross County Guard,50.981,9.66,10.42,10.6,10.1
 2025,7,GSN,Cross County Guard,52.44,10.12,11.0,11.2,10.1
 2025,9,GSN,Cross County Guard,58.461,10.5,10.26,12.6,12.7
+2025,3,R1,Cruickshank MS,51.66,8.98,10.18,10.5,11.0
+2025,4,SJH,Cruickshank MS,54.66,11.04,10.72,10.7,10.9
+2025,6,SJH,Cruickshank MS,59.88,11.84,11.04,12.5,12.0
+2025,10,S,Cruickshank MS,74.72,14.92,15.2,14.7,14.7
 2025,4,PIO,Crystal Lake Thunder,70.85,21.15,14.9,21.0,13.8
 2025,6,PIO,Crystal Lake Thunder,73.951,22.95,15.0,21.6,14.4
 2025,12,R1,Crystal Lake Thunder,77.275,24.15,15.575,22.15,15.4
@@ -606,6 +821,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,11,PSA,Cypress HS,90.738,27.337,17.3,28.35,17.75
 2025,6,PSW,Cypress Park HS,81.2,25.8,16.2,24.0,15.2
 2025,6,PSO,Cypress Ranch HS,76.85,21.45,14.5,25.7,15.2
+2025,4,N,D'Iberville H.S.,52.131,9.6,10.13,10.2,12.2
+2025,5,N,D'Iberville H.S.,55.451,11.0,11.55,10.4,11.6
+2025,9,N,D'Iberville H.S.,71.32,14.61,14.21,14.2,13.9
 2025,7,PSA,Dakota Combined Schools,84.75,25.05,17.0,25.5,17.2
 2025,12,PSA,Dakota Combined Schools,91.939,28.312,18.825,26.85,17.95
 2025,6,PSA,Dakota High School,78.6,23.4,15.2,24.0,16.0
@@ -627,6 +845,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,12,R1,Dartmouth HS,92.45,27.825,18.95,27.3,18.375
 2025,7,PSA,Dassel-Cokato HS,81.15,23.85,17.1,23.4,16.8
 2025,12,R4,Dassel-Cokato HS,86.126,24.225,18.15,25.3,18.45
+2025,2,PSA,Dassel-Cokato High School,69.9,22.2,13.5,19.3,14.9
+2025,4,PSA,Dassel-Cokato High School,75.8,24.0,14.4,22.9,14.5
+2025,5,PSA,Dassel-Cokato High School,73.4,21.9,15.9,21.4,14.2
+2025,9,PSA,Dassel-Cokato High School,83.2,25.2,16.6,24.9,16.5
+2025,11,PSA,Dassel-Cokato High School,87.2,26.4,17.95,26.25,16.6
 2025,3,SA,Daviess Co HS Varsity,58.33,12.15,11.48,10.4,11.8
 2025,5,SA,Daviess Co HS Varsity,64.52,12.88,13.74,11.8,12.7
 2025,6,SA,Daviess Co HS Varsity,63.21,12.87,13.14,12.4,12.8
@@ -635,7 +858,13 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,6,PR,Daviess Co HS-JV,56.711,12.23,11.88,10.4,10.4
 2025,9,PR,Daviess Co HS-JV,69.081,13.54,13.74,13.2,13.2
 2025,10,SRA,Daviess Co HS-JV,71.141,13.81,14.93,13.8,14.4
+2025,4,PSO,Davis HS,72.4,21.6,13.8,22.7,14.3
+2025,5,PSO,Davis HS,76.05,22.05,14.4,24.85,14.75
 2025,7,PSO,Davis HS,77.85,23.55,15.5,23.3,15.5
+2025,10,PSO,Davis HS,84.3,25.2,16.6,26.0,16.5
+2025,13,PSO,Davis HS,88.1,26.7,17.7,26.3,17.4
+2025,5,PSA,Dawson Bryant High School,73.4,20.7,15.5,21.5,15.7
+2025,6,PSA,Dawson Bryant High School,77.05,22.95,15.0,23.3,15.8
 2025,4,GSN,De Queen Leopard Colorguard,59.341,12.72,10.82,11.4,12.6
 2025,8,GSN,De Queen Leopard Colorguard,70.48,15.46,13.32,13.7,13.5
 2025,9,GSN,De Queen Leopard Colorguard,63.641,11.58,11.86,13.9,13.2
@@ -666,13 +895,33 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,GHSSA,Delano CA,81.52,15.87,16.7,16.7,16.1
 2025,4,R2,Delano HS Percussion,74.65,22.8,22.95,14.7,14.2
 2025,8,PHSSA,Delano HS Percussion,83.7,25.1,26.1,16.0,16.5
+2025,2,N,Denham Springs H.S. JV,64.61,14.07,14.14,11.6,13.0
+2025,3,N,Denham Springs H.S. JV,66.25,12.08,14.07,13.2,13.7
+2025,5,N,Denham Springs H.S. JV,75.96,14.26,16.4,15.0,15.4
+2025,9,N,Denham Springs H.S. JV,85.09,17.46,17.33,16.9,16.8
+2025,2,SRA,Denham Springs H.S. Varsity,63.98,14.14,13.14,12.0,12.8
+2025,3,SRA,Denham Springs H.S. Varsity,68.08,14.52,13.86,13.7,12.7
+2025,5,SRA,Denham Springs H.S. Varsity,70.08,14.52,14.86,13.2,13.1
+2025,9,BD,Denham Springs H.S. Varsity,82.62,17.12,17.4,15.8,16.7
 2025,7,PSA,Dennis-Yarmouth HS,74.551,22.65,15.1,21.8,15.0
 2025,12,R1,Desert Vox,82.3,25.5,16.75,23.9,16.15
 2025,2,PJHSA,Desmond MS Percussion,65.55,20.5,19.35,13.9,11.8
 2025,4,PJHSA,Desmond MS Percussion,71.15,21.5,21.45,14.4,13.8
 2025,6,PJHSO,Desmond MS Percussion,71.75,21.7,22.05,14.5,13.5
 2025,8,PJHSO,Desmond MS Percussion,74.2,21.1,22.5,15.4,15.2
+2025,2,PSA,Destrehan H.S.,72.05,21.4,20.55,14.9,15.2
+2025,3,N,Destrehan H.S.,57.531,10.02,12.41,11.6,11.9
+2025,4,N,Destrehan H.S.,65.51,13.14,12.87,12.0,13.7
+2025,5,PSA,Destrehan H.S.,76.95,22.1,22.95,16.9,15.0
+2025,8,N,Destrehan H.S.,81.86,17.0,16.66,16.3,15.8
+2025,9,PSA,Destrehan H.S.,82.245,25.0,24.945,15.2,17.1
 2025,7,PSA,Destrehan HS,76.751,24.75,14.6,21.5,15.9
+2025,2,N,Diamond Dolphin Colorguard,56.521,11.61,12.21,10.5,11.8
+2025,3,N,Diamond Dolphin Colorguard,54.761,10.48,11.68,10.8,11.7
+2025,4,N,Diamond Dolphin Colorguard,59.121,11.41,11.41,11.5,12.8
+2025,7,N,Diamond Dolphin Colorguard,70.41,14.94,14.27,13.2,13.9
+2025,8,N,Diamond Dolphin Colorguard,73.641,15.0,14.34,15.1,14.5
+2025,9,N,Diamond Dolphin Colorguard,73.22,14.28,14.54,15.2,14.5
 2025,2,PHSSRA,Dinuba High School Percussion,59.95,19.2,18.3,10.5,11.95
 2025,4,R1,Dinuba High School Percussion,64.65,19.4,20.25,12.0,13.0
 2025,8,PHSSRA,Dinuba High School Percussion,74.3,23.5,23.1,15.4,12.3
@@ -696,6 +945,8 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,R2,Dorothy McElhinney MS,83.75,24.3,17.4,25.9,16.15
 2025,10,R1,Dorothy McElhinney MS,88.35,27.45,18.2,26.2,16.5
 2025,11,PSA,Dorothy McElhinney MS,86.201,26.625,16.8,26.325,16.45
+2025,8,R2,Dos Palos HS,66.3,19.5,13.0,21.3,12.5
+2025,10,S,Dos Palos HS,74.25,22.05,14.8,24.0,13.4
 2025,5,P-SRA,Dover Area HS Indoor Percussion,64.35,19.65,19.5,12.6,12.6
 2025,7,P-SRA,Dover Area HS Indoor Percussion,74.3,21.3,22.5,15.6,14.9
 2025,9,P-SRA,Dover Area HS Indoor Percussion,77.5,23.55,23.55,15.2,15.2
@@ -715,12 +966,29 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,12,R2,Downingtown West HS,83.05,25.275,16.525,24.95,16.3
 2025,6,PRA,Downriver Indoor Percussion,64.9,18.9,13.3,19.6,13.1
 2025,11,PRA,Downriver Indoor Percussion,81.65,24.0,16.05,25.1,16.5
+2025,2,SA,Dublin Coffman Winter Guard,58.96,11.94,11.22,11.9,12.2
+2025,3,SA,Dublin Coffman Winter Guard,56.48,11.07,13.01,9.6,11.4
+2025,6,SA,Dublin Coffman Winter Guard,66.81,13.34,13.67,12.7,14.0
+2025,10,SA,Dublin Coffman Winter Guard,76.4,14.53,15.87,15.6,14.3
 2025,8,PSO,Dublin HS,82.15,24.15,16.1,25.7,16.2
 2025,9,PSO,Dublin HS,85.988,25.462,16.8,26.8,16.925
+2025,3,PSO,Dutchtown H.S.,68.95,21.1,20.85,12.9,14.1
+2025,5,PSO,Dutchtown H.S.,76.35,21.8,22.35,17.3,14.9
+2025,3,JV,Dutchtown H.S. JV,68.18,13.48,13.5,13.4,13.0
+2025,7,JV,Dutchtown H.S. JV,74.16,15.32,13.24,16.1,14.6
+2025,9,JV,Dutchtown H.S. JV,77.361,14.8,14.16,16.1,16.9
+2025,3,SA,Dutchtown H.S. Varsity,69.32,14.21,13.61,14.9,13.4
+2025,7,SA,Dutchtown H.S. Varsity,75.47,14.16,14.61,14.9,16.1
+2025,9,SA,Dutchtown H.S. Varsity,81.86,16.75,17.01,15.6,16.9
 2025,7,PSO,Dutchtown HS (LA),77.451,22.35,16.3,22.6,16.2
 2025,12,R2,Dutchtown HS (LA),81.9,24.225,16.7,24.175,16.8
 2025,7,PSA,E.D. White Catholic HS,87.1,26.4,17.9,25.2,17.6
 2025,12,PSA,E.D. White Catholic HS,94.275,28.725,19.4,27.275,18.875
+2025,2,SO,E.D.White Catholic H.S.,66.6,13.7,13.2,12.4,13.5
+2025,3,PSA,E.D.White Catholic H.S.,75.0,22.6,21.9,15.0,15.5
+2025,7,SO,E.D.White Catholic H.S.,74.0,14.2,14.5,14.9,15.5
+2025,8,PSA,E.D.White Catholic H.S.,85.2,26.2,24.3,18.1,16.6
+2025,9,PSA,E.D.White Catholic H.S.,87.955,27.1,25.755,17.0,18.1
 2025,8,SRA,ECCA Winter Guard,59.71,11.74,12.07,12.4,12.0
 2025,9,SRA,ECCA Winter Guard,62.251,12.41,12.34,12.6,12.6
 2025,2,PIA,ECR Independent,69.45,22.35,13.4,20.9,12.8
@@ -739,6 +1007,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,4,PJHSA,Earlimart MS Percussion,58.85,17.7,18.75,11.4,11.0
 2025,8,PJHSA,Earlimart MS Percussion,61.35,18.0,18.15,12.6,12.6
 2025,9,PJHSA,Earlimart MS Percussion,69.1,23.5,19.5,13.2,12.9
+2025,2,N,East Ascension H.S. JV,58.641,12.08,12.36,11.1,12.1
+2025,4,N,East Ascension H.S. JV,66.78,13.74,12.54,13.5,13.6
+2025,5,N,East Ascension H.S. JV,69.18,13.54,14.54,14.3,13.6
+2025,9,N,East Ascension H.S. JV,78.281,15.74,16.34,16.5,15.1
+2025,2,SRA,East Ascension H.S. Varsity,64.98,13.94,13.74,12.2,13.3
+2025,4,SRA,East Ascension H.S. Varsity,67.981,13.98,14.6,13.5,13.0
+2025,5,SRA,East Ascension H.S. Varsity,65.321,12.48,14.24,13.5,11.4
+2025,9,BD,East Ascension H.S. Varsity,78.421,15.96,16.06,14.9,15.8
 2025,1,SRA,East Central HS,55.161,10.61,11.55,12.0,10.5
 2025,5,SRA,East Central HS,65.681,12.21,13.87,13.5,13.4
 2025,7,PR,East Central HS,71.191,14.15,14.14,13.4,15.1
@@ -782,6 +1058,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,7,SA,Eastern HS (KY),65.711,13.94,14.87,12.8,12.2
 2025,8,SA,Eastern HS (KY),73.75,14.14,14.61,15.0,14.7
 2025,10,PR,Eastern HS (KY),78.04,14.67,16.07,15.8,15.9
+2025,2,SRA,Eastern Hancock,64.3,12.98,11.32,12.2,13.9
+2025,3,SRA,Eastern Hancock,61.64,12.32,11.12,11.6,13.0
+2025,7,SRA,Eastern Hancock,76.281,15.6,13.48,15.8,15.9
+2025,10,SRA,Eastern Hancock,82.681,16.54,17.54,16.7,16.6
 2025,0,SRA,Eastern York HS Guard,67.32,10.68,12.54,14.8,14.7
 2025,5,SRA-E,Eastern York HS Guard,67.16,13.42,14.14,12.4,13.7
 2025,9,SRA,Eastern York HS Guard,76.35,15.87,16.28,15.2,14.4
@@ -794,7 +1074,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,6,PSA,Eastridge,74.95,21.4,23.85,16.4,13.3
 2025,7,PSA,Eastridge,80.5,24.6,24.3,16.8,14.8
 2025,10,PSA,Eastridge,82.876,25.1,24.525,16.55,16.7
+2025,2,N,Eaton Winterguard,62.92,12.32,12.4,13.5,13.6
+2025,5,N,Eaton Winterguard,70.52,12.86,12.66,13.6,16.5
+2025,6,N,Eaton Winterguard,76.92,14.26,17.06,14.0,16.6
+2025,7,N,Eaton Winterguard,80.78,15.72,17.26,16.6,15.3
+2025,10,N,Eaton Winterguard,87.36,16.12,16.74,17.3,19.1
 2025,12,R1,Eden Prairie HS,88.651,26.925,17.275,27.175,17.275
+2025,4,PSO,Eden Prairie High School,76.85,23.85,14.5,23.9,14.6
+2025,11,PSO,Eden Prairie High School,89.075,26.625,18.1,27.25,17.1
 2025,4,PSA,Edgewood High School,71.651,21.75,13.6,22.0,14.3
 2025,5,PSA,Edgewood High School,70.5,21.0,14.3,20.8,14.4
 2025,7,PSA,Edgewood High School,75.8,21.6,15.6,22.7,15.9
@@ -803,7 +1090,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,PSA,Edgewood High School,86.588,25.387,17.8,25.7,17.7
 2025,6,PSA,Edison HS,75.351,22.9,23.25,16.1,13.1
 2025,7,PSA,Edison HS,74.1,21.6,22.8,14.6,15.1
-2025,10,PSA,Edison HS,75.35,22.55,23.1,14.7,15.0
+2025,10,PSRA,Edison HS,79.95,24.75,15.1,24.5,15.6
 2025,11,PSA,Edison HS,78.7,23.8,25.05,14.75,15.1
 2025,9,PSA,Edison HS (NJ),75.85,22.95,14.8,21.6,16.5
 2025,4,R1,Edison HS Winterguard,51.081,10.04,9.64,9.7,10.6
@@ -815,6 +1102,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,7,PSO,Egg Harbor Township HS,80.0,25.3,24.3,15.5,14.9
 2025,10,PSO,Egg Harbor Township HS,84.0,26.8,24.6,15.3,17.3
 2025,11,PSO,Egg Harbor Township HS,84.2,24.3,25.5,17.2,17.2
+2025,6,SO,El Capitan HS,73.1,14.7,14.3,14.3,14.7
+2025,8,SO,El Capitan HS,75.4,15.1,15.1,15.2,15.2
+2025,10,SO,El Capitan HS,80.3,16.4,15.9,16.1,15.7
 2025,2,PHSSA,El Diamante HS Percussion,60.3,20.0,19.2,9.6,11.5
 2025,4,R1,El Diamante HS Percussion,66.95,20.8,20.55,12.4,13.2
 2025,6,PHSSRA,El Diamante HS Percussion,65.85,19.7,20.25,13.7,12.2
@@ -848,6 +1138,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,R1,El Toro HS,80.751,25.05,14.9,25.1,15.7
 2025,5,PIO,Elan Percussion,79.15,24.75,16.2,23.4,14.8
 2025,9,PIO,Elan Percussion,83.626,25.725,16.85,24.95,16.1
+2025,2,SRA,Elder High School Winterguard,64.64,13.78,13.56,12.1,13.2
+2025,5,SRA,Elder High School Winterguard,71.89,13.58,14.06,14.2,13.75
+2025,6,SRA,Elder High School Winterguard,73.7,14.46,14.84,13.7,17.0
+2025,8,SRA,Elder High School Winterguard,78.62,16.46,15.86,14.8,16.3
+2025,10,SRA,Elder High School Winterguard,85.12,17.96,15.86,16.8,16.2
 2025,4,IW,Elevate,71.2,14.3,14.3,13.7,14.5
 2025,10,IW,Elevate,88.1,18.3,18.1,18.0,16.8
 2025,3,IA,Elevate A,60.03,11.75,11.68,12.3,11.9
@@ -879,6 +1174,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,PSW,Etiwanda HS,87.413,26.513,17.05,26.5,17.35
 2025,10,PSW,Etiwanda HS,88.55,26.55,17.5,26.6,17.9
 2025,11,PSW,Etiwanda HS,90.025,27.225,18.1,27.15,17.55
+2025,3,SRA,Eunice H.S.,56.58,10.8,11.78,11.0,11.7
+2025,7,SRA,Eunice H.S.,56.88,12.14,9.5,10.5,11.4
+2025,2,IA,Evidence Winterguard,53.66,11.55,12.01,10.2,11.3
+2025,9,IA,Evidence Winterguard,65.87,12.62,12.35,13.4,13.4
 2025,2,PHSSRA,Exeter Union HS Percussion,55.951,18.7,17.1,9.6,10.55
 2025,4,R1,Exeter Union HS Percussion,58.0,18.8,17.7,10.5,11.0
 2025,8,PHSSRA,Exeter Union HS Percussion,66.9,20.4,12.0,20.7,13.8
@@ -889,12 +1188,20 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,GHSSRA,Exeter Union HS Winterguard,78.44,15.72,15.72,15.4,15.9
 2025,9,PSW,Fair Lawn HS,83.625,25.575,16.85,24.95,16.25
 2025,12,R2,Fair Lawn HS,83.9,25.8,16.75,24.925,16.425
+2025,1,,Fairfield High School Varsity Winter Guard,65.51,13.07,13.34,13.1,13.6
+2025,2,,Fairfield High School Varsity Winter Guard,64.56,13.41,12.35,12.3,13.2
+2025,6,,Fairfield High School Varsity Winter Guard,70.09,13.54,13.35,13.8,15.0
+2025,7,,Fairfield High School Varsity Winter Guard,76.87,14.28,15.39,15.7,14.9
+2025,10,,Fairfield High School Varsity Winter Guard,79.311,15.67,16.94,15.4,16.2
 2025,4,PRA,Fairfield Indoor Percussion,66.7,20.1,13.6,20.0,13.0
 2025,6,PRA,Fairfield Indoor Percussion,69.5,21.0,14.0,20.5,14.0
 2025,7,PRA,Fairfield Indoor Percussion,74.1,22.5,14.1,22.7,14.8
 2025,8,PRA,Fairfield Indoor Percussion,74.6,23.4,15.1,22.1,14.0
 2025,9,PRA,Fairfield Indoor Percussion,77.2,23.85,14.3,23.5,15.55
+2025,5,PSA,Farmington HS,76.1,20.7,14.6,24.7,16.1
 2025,7,PSO,Farmington HS,78.85,22.95,16.9,22.5,16.5
+2025,10,PSO,Farmington HS,82.45,25.05,17.3,24.2,15.9
+2025,13,PSO,Farmington HS,85.1,26.1,17.1,24.4,17.5
 2025,1,SA,Farragut High School Varsity,54.25,9.41,10.14,11.4,11.8
 2025,3,SA,Farragut High School Varsity,64.31,12.67,12.74,13.8,12.2
 2025,5,SA,Farragut High School Varsity,63.91,13.01,13.0,12.1,13.0
@@ -902,6 +1209,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,3,SRA,Farragut JV,52.62,10.01,10.01,11.8,9.3
 2025,5,SRA,Farragut JV,57.68,11.34,11.34,12.1,11.4
 2025,10,SRA,Farragut JV,68.581,13.61,13.87,13.9,14.0
+2025,2,SRA,Finneytown Winter Guard,65.0,13.32,13.18,12.9,12.8
+2025,5,SRA,Finneytown Winter Guard,63.501,13.18,13.32,12.4,12.1
+2025,6,SRA,Finneytown Winter Guard,68.21,13.71,13.1,12.8,15.7
+2025,10,SRA,Finneytown Winter Guard,78.68,15.86,14.32,16.1,15.5
 2025,4,PHSSRA,Firebaugh HS Percussion,56.75,19.95,16.5,10.3,10.0
 2025,6,PHSSRA,Firebaugh HS Percussion,60.55,19.35,11.2,19.1,10.9
 2025,3,IRA,First Baptist Academy,63.55,12.34,12.21,13.1,12.5
@@ -929,6 +1240,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,SRA,Floyd Central HS JV,87.8,17.27,17.93,17.3,17.6
 2025,6,PIW,Flux Indoor Percussion,81.85,24.15,15.5,25.2,17.0
 2025,9,PIW,Flux Indoor Percussion,83.451,24.75,16.5,25.3,16.9
+2025,2,SA,Fontainebleau H.S.,57.89,12.28,12.21,11.9,11.5
+2025,3,SA,Fontainebleau H.S.,58.531,11.15,12.28,12.0,11.0
+2025,4,SA,Fontainebleau H.S.,62.981,12.41,12.27,12.7,12.6
+2025,9,SA,Fontainebleau H.S.,65.991,12.88,14.21,13.5,13.3
 2025,8,PSO,Foothill HS (CA),77.851,22.95,14.9,24.4,15.6
 2025,6,PSO,Foothill HS (NV),75.7,23.4,15.9,20.9,15.5
 2025,9,PSW,Foothill HS (NV),82.051,25.35,16.8,24.3,15.6
@@ -965,6 +1280,29 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,7,PSO,Franklin Community Indoor Percussion,82.15,24.3,16.85,24.5,16.5
 2025,9,PSO,Franklin Community Indoor Percussion,85.476,25.425,17.85,25.4,16.8
 2025,10,PSO,Franklin Community Indoor Percussion,86.439,26.137,17.9,25.4,17.0
+2025,1,ECG,Franklin Elementary Wildkittens,78.5,15.4,16.1,15.7,15.2
+2025,2,ECG,Franklin Elementary Wildkittens,80.4,16.3,15.8,15.8,16.5
+2025,3,ECG,Franklin Elementary Wildkittens,81.3,15.5,14.8,15.8,17.2
+2025,5,ECG,Franklin Elementary Wildkittens,86.0,16.5,17.4,16.5,17.3
+2025,7,ECG,Franklin Elementary Wildkittens,87.4,18.5,17.7,17.8,17.1
+2025,9,ECG,Franklin Elementary Wildkittens,89.0,19.0,18.7,17.7,16.6
+2025,10,ECG,Franklin Elementary Wildkittens,91.7,17.7,19.3,18.1,18.0
+2025,6,R3,Franklin HS,54.12,10.58,11.1,11.0,11.0
+2025,10,B,Franklin HS,66.061,13.0,13.26,13.1,13.7
+2025,1,,Franklin HS Winter Guard,70.28,13.94,14.14,13.8,14.2
+2025,2,,Franklin HS Winter Guard,70.62,13.68,14.54,14.3,14.3
+2025,3,,Franklin HS Winter Guard,69.85,13.34,14.01,13.9,14.6
+2025,5,,Franklin HS Winter Guard,78.61,15.34,15.67,15.0,16.3
+2025,7,,Franklin HS Winter Guard,81.84,16.87,14.07,16.5,16.9
+2025,9,,Franklin HS Winter Guard,88.5,18.53,18.07,16.7,17.7
+2025,10,,Franklin HS Winter Guard,86.77,18.73,16.14,17.5,17.9
+2025,1,JCG,Franklin Junior High Winter Guard,63.1,11.8,12.1,13.7,12.6
+2025,2,JCG,Franklin Junior High Winter Guard,63.5,12.6,13.0,12.3,13.4
+2025,3,JCG,Franklin Junior High Winter Guard,66.3,12.4,12.5,14.3,13.4
+2025,5,JCG,Franklin Junior High Winter Guard,71.5,13.8,13.3,13.2,15.7
+2025,7,JCG,Franklin Junior High Winter Guard,76.6,16.4,14.1,15.7,16.1
+2025,9,JCG,Franklin Junior High Winter Guard,82.2,18.1,17.8,15.1,15.9
+2025,10,JCG,Franklin Junior High Winter Guard,89.2,18.4,17.8,17.3,17.3
 2025,8,PIA,Frederick HS,74.0,21.6,15.1,22.5,14.8
 2025,6,SN,Frederick HS Guard,73.31,14.74,14.47,15.3,15.8
 2025,7,SN,Frederick HS Guard,77.22,15.48,16.14,15.7,14.5
@@ -998,6 +1336,15 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,GHSSA,Frontier HS Guard,82.61,164.7,167.4,16.7,17.0
 2025,10,GHSSA,Frontier HS Guard,87.55,169.4,168.1,18.1,17.8
 2025,5,PIA,Frontier Percussion,73.5,22.2,14.0,21.5,15.8
+2025,4,PSRA,Fusion Drumline of ISD 622,70.45,23.25,13.6,19.9,13.7
+2025,6,PSRA,Fusion Drumline of ISD 622,70.9,22.5,14.7,19.9,13.8
+2025,9,PSRA,Fusion Drumline of ISD 622,73.5,21.3,14.6,23.2,14.4
+2025,10,PSRA,Fusion Drumline of ISD 622,83.075,25.725,15.9,24.95,16.5
+2025,11,PSRA,Fusion Drumline of ISD 622,86.05,25.35,16.9,26.3,17.5
+2025,2,IO,Future Independent,51.5,11.4,11.5,9.8,9.4
+2025,3,IO,Future Independent,50.7,9.5,10.2,10.1,10.1
+2025,7,IO,Future Independent,59.6,12.6,13.5,11.0,11.2
+2025,9,IO,Future Independent,63.1,12.8,14.0,11.5,12.0
 2025,9,PSW,Gahr HS,83.926,25.875,16.5,26.1,15.45
 2025,10,PSW,Gahr HS,85.851,26.1,16.7,26.55,16.5
 2025,11,PSW,Gahr HS,86.526,26.1,17.05,27.225,16.15
@@ -1057,12 +1404,24 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,6,PSO,Glenn HS,84.7,26.4,16.0,26.5,15.8
 2025,9,PSO,Glenn HS,88.1,25.95,18.0,27.1,17.05
 2025,9,PSA,Godley HS,79.8,24.3,15.6,23.9,16.0
+2025,4,PIO,Gold Spike Percussion,75.3,22.2,15.2,22.4,15.5
+2025,5,PIO,Gold Spike Percussion,80.35,22.95,15.8,25.15,16.45
 2025,7,PIO,Gold Spike Percussion,80.75,24.45,16.6,23.2,16.5
+2025,10,PIO,Gold Spike Percussion,86.85,26.25,17.3,25.7,17.6
 2025,12,R1,Gold Spike Percussion,84.25,25.8,17.0,24.375,17.075
+2025,13,PIO,Gold Spike Percussion,85.85,25.95,17.5,24.9,17.5
+2025,3,SA,Golden Valley HS,58.33,12.35,11.88,12.1,11.0
+2025,6,SA,Golden Valley HS,73.65,14.14,15.0,15.1,15.0
+2025,8,SA,Golden Valley HS,76.76,14.81,16.35,15.7,14.6
+2025,10,SA,Golden Valley HS,83.22,16.61,17.21,16.6,16.3
 2025,2,GHSSA,Golden Valley HS (Varsity),55.92,110.1,102.1,11.5,11.8
 2025,4,GHSSA,Golden Valley HS (Varsity),61.35,122.1,131.4,11.0,12.5
 2025,2,R2,Golden Valley HS JV,54.56,10.48,11.98,10.6,12.6
+2025,3,R1,Golden Valley HS JV,56.02,11.78,11.84,12.2,10.1
 2025,4,R2,Golden Valley HS JV,60.7,11.98,10.32,12.2,12.1
+2025,6,SRA,Golden Valley HS JV,66.66,13.38,14.7,12.5,13.5
+2025,8,SRA,Golden Valley HS JV,74.121,14.52,15.0,14.6,15.1
+2025,10,S,Golden Valley HS JV,82.5,14.94,15.26,17.5,17.4
 2025,2,PHSSA,Golden Valley HS Percussion,66.25,19.3,21.15,13.0,12.8
 2025,4,PHSSA,Golden Valley HS Percussion,67.8,19.15,20.55,13.5,14.6
 2025,8,PHSSA,Golden Valley HS Percussion,76.051,24.9,22.35,15.4,13.4
@@ -1079,6 +1438,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,8,PSO,Goshen High School,84.3,24.3,16.7,25.4,17.9
 2025,9,PSO,Goshen High School,84.726,25.275,16.45,26.2,16.8
 2025,10,PSO,Goshen High School,82.901,25.125,15.95,24.95,16.875
+2025,1,N,Goshen High School Winterguard,53.09,9.88,8.21,11.0,11.9
+2025,2,N,Goshen High School Winterguard,56.4,11.32,10.58,10.9,10.8
+2025,3,N,Goshen High School Winterguard,63.18,12.18,11.7,14.3,12.3
+2025,6,N,Goshen High School Winterguard,67.68,13.1,13.58,13.9,13.6
+2025,7,N,Goshen High School Winterguard,73.44,15.0,13.64,15.0,16.3
+2025,10,N,Goshen High School Winterguard,79.82,13.18,15.74,16.7,17.5
 2025,4,SRA,Gov. Thomas Johnson HS Guard,58.82,10.91,12.21,11.9,12.1
 2025,6,SRA,Gov. Thomas Johnson HS Guard,64.201,12.56,13.74,13.0,12.5
 2025,7,SRA,Gov. Thomas Johnson HS Guard,69.91,14.14,14.87,14.3,13.3
@@ -1109,6 +1474,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,PSA,Grand Blanc HS,83.85,24.75,16.3,26.0,16.8
 2025,11,PSA,Grand Blanc HS,85.0,25.05,16.65,26.3,17.0
 2025,12,R4,Grand Blanc HS,85.226,25.875,16.95,25.7,16.7
+2025,4,C,Grand Calliou M.S.,59.38,11.01,10.67,11.3,14.0
+2025,8,C,Grand Calliou M.S.,73.93,15.26,15.07,15.2,13.6
+2025,9,C,Grand Calliou M.S.,76.21,16.47,15.74,15.5,14.2
 2025,8,PSO,Granite Bay HS,77.251,21.75,15.2,24.2,16.1
 2025,6,PIA,Granite Mountain Indoor Percussion,60.7,18.3,12.8,17.2,12.4
 2025,2,SA,Grant Co,56.53,11.75,10.88,10.4,11.0
@@ -1189,8 +1557,37 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,4,GSN,Greenwood Varsity Guard,70.08,14.72,13.86,14.2,13.8
 2025,8,GSN,Greenwood Varsity Guard,78.08,15.72,15.46,14.9,15.8
 2025,9,GSN,Greenwood Varsity Guard,81.24,15.46,17.68,16.1,16.1
+2025,6,R2,Gregori HS,53.4,10.98,11.72,10.3,9.8
+2025,8,R2,Gregori HS,62.581,12.0,13.08,12.0,13.0
+2025,10,B,Gregori HS,69.32,13.78,13.84,13.8,13.8
+2025,2,PSA,Grove Area Percussion of ISD 279,72.55,22.65,14.0,20.9,15.0
+2025,4,PSA,Grove Area Percussion of ISD 279,75.85,24.45,14.2,23.1,14.1
+2025,5,PSA,Grove Area Percussion of ISD 279,76.1,22.5,16.2,22.4,15.0
+2025,11,PSA,Grove Area Percussion of ISD 279,87.45,26.25,17.75,26.35,17.1
+2025,1,SRA,Grove City High School,62.27,12.93,11.74,13.0,12.4
+2025,5,SRA,Grove City High School,66.841,12.18,12.66,13.9,13.8
+2025,6,SRA,Grove City High School,70.56,13.06,12.7,14.9,14.8
+2025,7,SRA,Grove City High School,75.401,14.92,13.38,15.5,15.6
+2025,8,SRA,Grove City High School,75.361,14.92,15.14,14.1,15.8
+2025,10,SRA,Grove City High School,76.82,15.08,15.04,15.8,14.5
+2025,2,PSO,Gulfport H.S.,70.3,20.7,20.7,14.7,14.2
+2025,2,SA,Gulfport H.S. JV,63.45,13.34,13.41,12.3,12.2
+2025,2,SA,Gulfport H.S. Varsity,68.22,13.61,13.41,13.4,13.8
 2025,7,PSO,Gulfport HS,82.75,24.75,16.3,25.1,16.6
 2025,12,R2,Gulfport HS,85.551,26.25,17.85,25.05,16.4
+2025,2,SA,H.L. Bourgeois H.S. Varsity,59.79,12.01,11.88,11.6,12.5
+2025,4,SA,H.L. Bourgeois H.S. Varsity,65.76,12.95,13.21,14.4,12.3
+2025,8,SA,H.L. Bourgeois H.S. Varsity,73.33,13.55,15.08,15.0,15.3
+2025,9,SA,H.L. Bourgeois H.S. Varsity,74.15,14.94,15.21,15.4,14.6
+2025,2,JV,H.L.Bourgeois H.S. JV,59.68,12.07,12.21,11.2,12.4
+2025,4,JV,H.L.Bourgeois H.S. JV,69.04,13.24,13.2,14.0,14.6
+2025,8,JV,H.L.Bourgeois H.S. JV,78.08,15.52,16.26,14.7,15.4
+2025,9,JV,H.L.Bourgeois H.S. JV,82.58,16.66,16.72,16.2,17.0
+2025,2,IA,HOPE Independent,61.82,13.34,12.88,11.4,12.9
+2025,3,SA,Hahnville H.S.,58.121,12.21,11.41,12.6,10.6
+2025,5,SA,Hahnville H.S.,63.66,12.28,13.28,13.5,11.8
+2025,8,SA,Hahnville H.S.,70.52,14.14,13.68,13.4,15.0
+2025,9,SA,Hahnville H.S.,68.521,13.61,14.01,13.7,14.3
 2025,0,SN,Halifax HS Color Guard,59.19,10.88,12.61,11.9,12.0
 2025,2,SN,Halifax HS Color Guard,62.09,11.48,13.01,12.8,13.1
 2025,5,SN,Halifax HS Color Guard,63.86,12.95,13.41,12.1,13.0
@@ -1211,11 +1608,24 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,5,PSA,Halls Indoor Percussion Ensemble,74.8,21.8,22.2,15.9,14.9
 2025,7,PSO,Halls Indoor Percussion Ensemble,75.9,23.6,21.9,15.3,15.1
 2025,10,PSO,Halls Indoor Percussion Ensemble,82.6,25.4,24.3,16.5,16.4
-2025,3,PSA,Hamilton Heights Indoor Percussion,68.75,20.25,13.1,21.1,14.3
 2025,5,PSA,Hamilton Heights Indoor Percussion,67.8,20.4,13.9,18.6,14.9
 2025,7,PSA,Hamilton Heights Indoor Percussion,76.2,23.1,14.8,22.8,15.5
 2025,9,PSA,Hamilton Heights Indoor Percussion,75.138,22.462,14.325,22.35,16.0
 2025,10,PSA,Hamilton Heights Indoor Percussion,76.675,22.35,14.85,22.925,16.55
+2025,2,PSRA,Hamilton High School Indoor Percussion,62.3,18.3,12.2,19.1,12.7
+2025,5,PSRA,Hamilton High School Indoor Percussion,74.05,21.75,15.3,22.1,14.9
+2025,7,PSRA,Hamilton High School Indoor Percussion,76.85,22.05,14.6,25.5,14.7
+2025,8,PSRA,Hamilton High School Indoor Percussion,77.5,23.4,16.1,22.1,15.9
+2025,10,PSRA,Hamilton High School Indoor Percussion,85.85,26.55,16.7,25.9,16.7
+2025,2,N,Hamilton High School JV Winter Guard,56.62,10.12,10.9,11.9,11.9
+2025,5,N,Hamilton High School JV Winter Guard,63.16,11.78,11.58,13.2,14.5
+2025,9,N,Hamilton High School JV Winter Guard,73.36,14.32,13.64,14.9,14.7
+2025,10,N,Hamilton High School JV Winter Guard,81.56,15.48,13.98,17.6,16.7
+2025,1,,Hamilton High School Winter Guard,64.19,12.75,12.74,12.7,13.0
+2025,2,,Hamilton High School Winter Guard,66.83,13.08,12.95,14.0,13.6
+2025,5,,Hamilton High School Winter Guard,77.21,15.14,15.27,14.8,16.3
+2025,9,,Hamilton High School Winter Guard,81.64,16.27,16.67,16.0,16.9
+2025,10,,Hamilton High School Winter Guard,82.39,17.13,16.46,16.3,16.8
 2025,6,PSA,Hamilton Southeastern HS,84.7,27.0,17.75,24.45,15.5
 2025,12,R1,Hamilton Southeastern HS,90.325,26.925,17.85,26.9,18.65
 2025,4,PSA,Hamilton Southeastern High School,73.151,22.05,15.8,21.7,13.6
@@ -1223,6 +1633,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,PSA,Hamilton Southeastern High School,88.013,26.438,18.025,26.15,17.4
 2025,10,PSA,Hamilton Southeastern High School,88.9,26.55,18.3,27.1,16.95
 2025,6,PSA,Hampton Township HS,79.051,24.9,15.75,23.85,14.55
+2025,2,PSRA,Hancock H.S.,72.8,20.7,14.7,23.0,14.4
+2025,4,N,Hancock H.S.,76.7,14.87,14.33,15.0,17.4
+2025,9,N,Hancock H.S.,85.94,18.0,16.74,17.5,16.9
 2025,4,PIA,Hanford,71.15,19.2,21.75,14.2,16.0
 2025,6,PIA,Hanford,75.7,22.3,21.9,14.9,16.6
 2025,8,PIA,Hanford,79.9,23.7,23.7,16.2,16.3
@@ -1263,6 +1676,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,2,PSA,Hardin Valley Percussion,63.651,18.7,20.25,12.0,12.7
 2025,5,PSA,Hardin Valley Percussion,71.05,21.2,20.85,15.1,13.9
 2025,10,PSA,Hardin Valley Percussion,83.75,25.0,25.2,16.55,17.0
+2025,4,SJH,Harriet Eddy Middle School,57.94,11.98,11.26,11.6,11.5
+2025,8,R1,Harriet Eddy Middle School,76.76,14.44,16.32,15.3,15.3
+2025,10,G,Harriet Eddy Middle School,82.62,16.26,16.46,16.7,16.7
+2025,2,SRA,Harrison Central H.S. Varsity,61.48,13.27,13.01,11.6,11.9
+2025,4,SRA,Harrison Central H.S. Varsity,75.02,15.66,15.66,14.2,14.5
+2025,9,BD,Harrison Central H.S. Varsity,80.081,16.46,16.72,16.3,15.6
 2025,6,PSA,Harrison HS,76.65,23.25,15.1,22.4,15.9
 2025,3,B1,Helix CHS,73.9,22.2,15.5,21.3,14.9
 2025,7,B2,Helix CHS,81.65,24.75,17.1,22.6,17.2
@@ -1308,7 +1727,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,SRA,Heritage Indoor Performance Ensemble - HIPE RED,67.571,13.6,13.47,13.3,13.3
 2025,7,PSO,Hernando HS,79.75,23.55,16.0,24.2,16.0
 2025,12,R4,Hernando HS,87.001,27.15,16.5,25.95,17.4
+2025,4,PSA,Herriman HS,65.2,19.05,12.8,20.9,12.45
+2025,5,PSA,Herriman HS,69.201,19.5,13.8,22.4,13.5
 2025,7,PSA,Herriman HS,68.9,21.3,13.7,20.8,13.1
+2025,13,PSA,Herriman HS,76.151,21.45,16.5,21.5,16.7
 2025,6,PSA,Hewitt-Trussville HS,80.95,25.35,16.3,23.0,16.3
 2025,12,R2,Hewitt-Trussville HS,85.314,25.163,17.1,25.65,17.4
 2025,5,PSO,Hialeah Gardens HS,74.7,21.3,14.1,24.1,15.2
@@ -1336,8 +1758,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,10,PR,Highlands HS,73.041,14.07,14.67,14.0,15.1
 2025,6,PSA,Higley HS,73.501,22.5,15.1,21.3,14.6
 2025,9,PSA,Higley HS,77.913,23.512,15.65,23.05,15.7
+2025,1,SA,Hilliard Bradley Winter Guard,59.42,12.28,12.74,11.8,12.1
+2025,5,SA,Hilliard Bradley Winter Guard,69.5,13.94,13.46,13.5,14.7
+2025,7,SA,Hilliard Bradley Winter Guard,72.72,15.06,13.26,15.6,14.2
+2025,9,SA,Hilliard Bradley Winter Guard,79.2,16.39,14.81,16.1,15.7
+2025,10,SA,Hilliard Bradley Winter Guard,77.23,15.46,15.07,16.1,15.1
+2025,7,SRA,Hilliard Davidson Winterguard,76.7,16.32,13.98,15.4,15.4
 2025,1,IA,Homage Independent,72.21,14.21,14.6,14.5,14.7
-2025,7,IA,Homage Independent,83.84,16.67,16.47,16.9,16.9
+2025,7,IA,Homage Independent,84.31,17.54,14.87,17.2,18.1
 2025,10,IA,Homage Independent,91.47,18.4,18.67,18.1,18.1
 2025,9,PSW,Homestead HS (CA),85.176,25.875,17.5,25.3,16.5
 2025,12,R2,Homestead HS (CA),86.889,25.913,17.7,25.825,17.45
@@ -1355,6 +1783,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,6,GHSSRA,Hoover HS Winterguard,61.82,12.9,13.12,11.9,12.7
 2025,8,GHSSRA,Hoover HS Winterguard,68.18,13.58,13.3,13.6,13.6
 2025,10,GHSSRA,Hoover HS Winterguard,72.76,15.4,14.16,14.1,14.7
+2025,6,SJH,Hoover MS,61.24,11.82,11.72,12.2,12.8
+2025,8,R2,Hoover MS,70.76,14.36,14.5,13.6,14.3
+2025,10,G,Hoover MS,71.641,14.16,14.38,14.2,14.2
 2025,4,PSN,Hope Indoor Percussion,56.05,16.65,11.1,17.1,11.2
 2025,7,PSN,Hope Indoor Percussion,57.1,16.8,12.7,17.0,10.6
 2025,9,PSN,Hope Indoor Percussion,63.0,19.8,11.0,20.8,11.4
@@ -1371,8 +1802,28 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,11,PSA,Hopewell Valley Central,87.101,25.75,26.55,16.9,17.9
 2025,9,PSA,Hopewell Valley Central HS,80.225,24.375,16.15,23.55,16.15
 2025,6,PSA,Horizon Combined Schools,77.3,23.4,15.3,22.7,15.9
+2025,4,PIA,Horizon Percussion,71.15,20.85,15.0,20.4,14.9
+2025,5,PIA,Horizon Percussion,75.6,21.0,15.4,23.6,15.6
 2025,7,PIA,Horizon Percussion,78.05,22.05,17.2,21.9,16.9
 2025,9,PIA,Horizon Percussion,82.7,25.2,16.7,24.2,16.6
+2025,10,PIA,Horizon Percussion,82.5,24.9,17.6,23.2,16.8
+2025,13,PIA,Horizon Percussion,88.1,26.4,18.5,24.7,18.5
+2025,2,C,Houma Christian Cadets,58.65,10.74,12.01,11.6,12.5
+2025,3,C,Houma Christian Cadets,59.45,11.01,12.14,12.3,12.5
+2025,7,C,Houma Christian Cadets,75.04,14.6,14.34,14.5,16.7
+2025,8,C,Houma Christian Cadets,77.46,15.86,15.6,15.3,15.1
+2025,9,C,Houma Christian Cadets,80.33,16.8,16.53,16.1,15.4
+2025,2,SA,Houma Christian Elite,62.891,13.01,12.88,12.4,12.9
+2025,3,SA,Houma Christian Elite,64.941,12.23,13.41,12.6,13.3
+2025,7,SA,Houma Christian Elite,74.821,15.68,14.94,14.4,14.6
+2025,9,SA,Houma Christian Elite,77.321,15.48,15.94,15.5,15.4
+2025,4,C,Houma J.H.S.,64.82,12.95,11.47,13.3,13.9
+2025,8,C,Houma J.H.S.,78.99,15.83,16.26,16.1,15.6
+2025,9,C,Houma J.H.S.,79.1,16.07,16.93,16.2,14.9
+2025,2,SA,Houma. LA,62.891,13.01,12.88,12.4,12.9
+2025,3,SA,Houma. LA,64.941,12.23,13.41,12.6,13.3
+2025,7,SA,Houma. LA,74.821,15.68,14.94,14.4,14.6
+2025,9,SA,Houma. LA,77.321,15.48,15.94,15.5,15.4
 2025,7,PSO,Hudsonville HS,81.3,24.9,14.8,25.3,16.3
 2025,12,R4,Hudsonville HS,85.601,25.8,16.55,25.95,17.3
 2025,5,PSA,Hudsonville Winter Percussion,74.7,22.2,14.8,23.0,14.7
@@ -1399,7 +1850,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,PIO,Imperial Dynasty,90.05,27.3,18.15,26.95,17.65
 2025,11,PIO,Imperial Dynasty,89.95,28.3,25.65,17.5,18.5
 2025,12,R2,Imperial Dynasty,90.139,27.038,17.175,27.75,18.175
+2025,5,PSA,Impulse,68.001,19.95,15.2,20.5,12.35
+2025,9,PSA,Impulse,71.25,20.25,14.4,21.9,14.7
 2025,9,GHSSRA,Independence HS Varsity,79.6,15.58,16.12,15.8,16.0
+2025,2,JCG,Indian Lake Junior Guard,58.2,11.8,10.6,11.1,12.7
+2025,5,JCG,Indian Lake Junior Guard,64.1,11.2,10.5,12.3,15.5
+2025,8,JCG,Indian Lake Junior Guard,67.0,12.7,13.2,12.2,15.7
+2025,9,JCG,Indian Lake Junior Guard,65.1,13.4,13.0,12.6,12.5
+2025,10,JCG,Indian Lake Junior Guard,76.4,15.7,14.5,16.3,14.4
+2025,1,SRA,Indian Lake Winter Guard,56.861,11.15,10.81,11.1,11.2
+2025,2,SRA,Indian Lake Winter Guard,60.6,12.38,12.22,11.3,12.1
+2025,3,SRA,Indian Lake Winter Guard,61.06,12.1,10.16,12.2,13.3
+2025,5,SRA,Indian Lake Winter Guard,65.371,12.64,13.18,12.5,13.55
+2025,7,SRA,Indian Lake Winter Guard,75.741,14.7,12.64,16.5,16.0
+2025,8,SRA,Indian Lake Winter Guard,79.04,15.86,16.38,13.7,16.7
+2025,9,SRA,Indian Lake Winter Guard,83.02,17.18,16.84,16.5,15.8
+2025,10,SRA,Indian Lake Winter Guard,84.16,17.64,16.32,17.3,17.0
 2025,5,PIW,Infinity,86.05,26.25,17.4,24.6,17.8
 2025,12,PIW,Infinity,95.826,29.025,19.175,28.475,19.15
 2025,5,PIW,Infinity 2,79.85,24.15,16.3,23.3,16.1
@@ -1411,12 +1877,26 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Clinton High School Winterguard,69.881,15.
 2025,9,PIW,Instinct,79.55,24.15,15.9,23.75,15.75
 2025,10,PIW,Instinct,79.751,24.15,16.4,23.2,16.0
 2025,11,PIW,Instinct,80.476,24.825,15.3,24.85,15.5
+2025,4,SRA,Iowa H.S.,66.381,13.5,13.58,12.5,13.5
+2025,7,SRA,Iowa H.S.,64.96,13.58,11.9,13.0,12.5
+2025,9,RD,Iowa H.S.,71.941,13.84,14.5,14.8,14.6
+2025,2,IW,Iris,60.6,13.1,12.6,11.4,11.4
+2025,3,IW,Iris,59.2,11.9,12.0,11.8,11.2
+2025,9,IW,Iris,63.4,13.4,13.3,12.0,12.5
 2025,7,PSO,Irondale Combined Schools,83.9,25.5,17.1,24.4,16.9
 2025,12,R2,Irondale Combined Schools,86.989,25.462,17.65,26.0,17.875
+2025,4,PSO,Irondale High School,70.45,20.55,13.8,21.9,14.2
+2025,10,PSO,Irondale High School,87.025,26.025,17.25,26.15,17.6
+2025,11,PSO,Irondale High School,90.15,27.15,18.5,26.85,17.65
 2025,6,SRA,James Buchanan HS Guard,71.48,14.74,12.74,15.2,15.3
 2025,9,SRA,James Buchanan HS Guard,74.81,15.74,14.67,15.1,14.2
 2025,10,SRA,James Buchanan HS Guard,78.176,15.81,15.065,15.8,15.8
 2025,10,SP-SRA,James Buchanan HS Percussion,79.95,35.4,42.1,40.5,41.9
+2025,3,SA,James C. Enoch HS,62.28,13.07,12.61,12.6,12.0
+2025,4,SA,James C. Enoch HS,65.42,13.68,13.34,12.9,12.5
+2025,8,SA,James C. Enoch HS,78.84,16.54,16.2,15.1,15.3
+2025,10,SA,James C. Enoch HS,85.57,17.06,17.61,17.1,16.8
+2025,6,PSA,James C. Enochs HS,78.15,24.15,16.3,21.3,16.4
 2025,8,PSW,James Logan HS,88.325,25.125,17.4,27.7,18.1
 2025,7,SA,James Madison HS Guard,80.75,16.41,15.34,16.2,16.2
 2025,2,PSRA,Jefferson County High School Indoor Percussion,63.4,19.2,18.6,12.5,13.1
@@ -1430,7 +1910,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Jefferson County Winter Guard,71.58,15.54,
 2025,7,BR,Jeffersonville HS,59.62,13.01,12.01,10.2,12.7
 2025,8,SRA,Jeffersonville HS,61.121,12.75,12.27,11.5,12.3
 2025,9,BR,Jeffersonville HS,63.261,12.75,12.81,12.9,13.3
+2025,8,N,Jena H.S.,71.831,14.46,14.07,14.6,14.4
 2025,7,PSA,Jenks HS,78.901,22.2,18.0,22.95,15.75
+2025,3,N,Jennings H.S.,51.5,10.43,10.07,10.2,10.5
+2025,7,N,Jennings H.S.,64.781,13.74,13.74,11.9,13.2
+2025,9,N,Jennings H.S.,68.66,13.55,13.61,14.3,13.1
+2025,4,R2,Johansen HS,55.6,11.34,10.16,10.7,11.6
+2025,8,R2,Johansen HS,72.1,14.32,14.08,14.3,15.1
+2025,10,S,Johansen HS,78.8,15.42,16.08,16.3,15.7
 2025,5,PRA,John Adams Indoor Percussion,60.0,18.0,12.0,17.5,12.5
 2025,8,PRA,John Adams Indoor Percussion,74.6,22.5,16.4,21.0,14.7
 2025,9,PSA,John C. Birdlebough HS,78.95,24.75,16.1,23.9,14.2
@@ -1462,6 +1949,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Jefferson County Winter Guard,71.58,15.54,
 2025,4,R1,Justin Garza Winter Guard,60.34,12.32,12.72,12.9,10.9
 2025,6,GHSSRA,Justin Garza Winter Guard,65.52,14.0,14.12,14.4,11.6
 2025,10,GHSSRA,Justin Garza Winter Guard,75.12,15.4,14.32,15.2,15.7
+2025,2,IW,Juxtaposition,77.4,15.5,15.0,15.7,15.6
+2025,7,IW,Juxtaposition,88.2,17.9,18.0,17.5,17.8
+2025,10,IW,Juxtaposition,90.6,18.3,18.5,18.0,17.6
 2025,8,PSO,Kamiak HS,83.2,24.6,17.3,24.9,16.4
 2025,12,R2,Kamiak HS,91.663,27.788,17.75,28.05,18.075
 2025,6,PIA,Kannapolis Independent,78.9,24.3,15.8,23.6,15.2
@@ -1485,11 +1975,39 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Jefferson County Winter Guard,71.58,15.54,
 2025,10,P,Karns Middle School Winterguard,83.14,17.34,16.8,16.6,15.9
 2025,6,PSO,Keller Central HS,75.5,24.0,14.4,23.7,13.4
 2025,9,PSO,Keller Central HS,82.1,25.2,16.8,23.6,16.5
+2025,2,PSW,Kettering Fairmont,70.25,20.85,13.5,22.2,13.7
+2025,5,PSW,Kettering Fairmont,72.2,23.1,15.3,19.9,13.9
+2025,7,PSW,Kettering Fairmont,80.15,24.15,15.4,24.9,15.7
+2025,10,PSW,Kettering Fairmont,84.95,26.25,17.5,24.0,17.2
 2025,6,PSW,Kettering Fairmont HS,74.851,23.55,14.7,22.2,14.4
 2025,12,R2,Kettering Fairmont HS,84.038,25.462,16.9,25.4,16.275
+2025,2,,Kettering Fairmont High School,70.63,13.73,13.6,14.5,14.2
+2025,5,,Kettering Fairmont High School,75.01,15.07,15.34,14.6,14.1
+2025,9,,Kettering Fairmont High School,87.11,18.07,17.54,16.3,18.0
+2025,10,,Kettering Fairmont High School,86.14,18.4,17.74,16.6,17.3
+2025,2,SRA,Kettering JV,57.361,11.14,12.12,10.7,10.4
+2025,5,SRA,Kettering JV,58.33,11.16,12.12,10.7,11.9
+2025,7,SRA,Kettering JV,75.621,13.38,16.24,16.1,14.3
+2025,9,SRA,Kettering JV,77.261,16.68,15.48,15.0,15.3
+2025,10,SRA,Kettering JV,77.8,13.98,15.32,15.5,15.9
 2025,6,PSA,Kickapoo HS,80.301,24.6,15.5,24.8,15.4
 2025,12,R1,Kickapoo HS,81.55,24.375,16.65,24.0,16.525
+2025,1,PSA,Kings,72.6,21.9,14.3,22.3,14.1
+2025,3,PSA,Kings,72.75,21.15,15.2,21.9,14.5
+2025,5,PSA,Kings,79.1,23.7,16.2,23.4,15.8
+2025,10,PSA,Kings,90.4,26.7,18.5,26.9,18.3
+2025,1,,Kings HS,61.99,12.28,12.41,12.8,12.9
+2025,2,,Kings HS,61.67,12.61,11.96,12.6,12.0
+2025,6,,Kings HS,67.79,13.74,12.35,13.7,14.4
+2025,7,,Kings HS,71.73,14.89,12.74,15.2,13.7
+2025,9,,Kings HS,80.13,15.95,16.68,15.5,15.8
+2025,10,,Kings HS,79.951,16.21,16.54,15.8,16.1
 2025,12,R2,Kings HS,90.039,27.712,18.6,25.325,18.4
+2025,2,JCG,Kings Juniors,50.4,11.2,10.3,10.3,10.1
+2025,6,JCG,Kings Juniors,59.2,11.2,10.8,12.6,12.0
+2025,7,JCG,Kings Juniors,62.9,13.3,11.0,12.3,12.8
+2025,9,JCG,Kings Juniors,65.0,14.1,13.1,12.4,12.2
+2025,10,JCG,Kings Juniors,74.101,15.1,13.4,15.9,14.0
 2025,1,SRA,Kingston,54.321,11.08,8.74,11.9,11.6
 2025,5,SRA,Kingston,65.0,12.74,12.66,13.1,13.2
 2025,9,"EAE&P
@@ -1505,6 +2023,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,5,SRA,Knoxville Central High School Varisty Winterguard,65.17,13.41,12.46,13.5,13.0
 2025,8,R2,Knoxville Central High School Varisty Winterguard,65.99,13.6,13.99,12.6,13.1
 2025,10,R2,Knoxville Central High School Varisty Winterguard,71.37,14.21,14.46,13.6,14.5
+2025,2,PSN,Kosciusko H.S.,79.7,23.3,24.3,16.0,16.1
+2025,5,PSRA,Kosciusko H.S.,68.35,19.05,13.8,23.4,12.1
+2025,7,PSRA,Kosciusko H.S.,78.3,24.0,15.5,23.4,15.4
+2025,9,PSRA,Kosciusko H.S.,79.105,24.105,15.3,24.7,15.0
 2025,6,PIO,LINEA,74.25,22.35,14.4,22.1,15.4
 2025,6,B2,La Canada HS,72.601,21.0,14.0,23.3,14.3
 2025,8,B2,La Cañada HS,73.251,22.5,15.2,22.8,12.75
@@ -1536,6 +2058,17 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,SRA,LaRue Co HS,75.32,13.75,15.07,13.9,15.5
 2025,9,BR,LaRue Co HS,73.58,14.41,15.07,14.0,16.0
 2025,10,SRA,LaRue Co HS,77.3,15.27,16.13,14.4,15.8
+2025,3,SRA,Lafayette H.S.,66.6,13.38,13.12,13.2,13.1
+2025,7,SRA,Lafayette H.S.,73.1,13.28,15.4,14.9,15.0
+2025,8,SRA,Lafayette H.S.,77.1,16.02,14.58,15.3,15.8
+2025,9,RD,Lafayette H.S.,78.72,15.64,15.58,16.2,15.6
+2025,3,JV,Lafayette H.S. JV,69.38,13.44,13.24,13.8,13.8
+2025,7,JV,Lafayette H.S. JV,78.78,16.06,14.12,16.7,15.5
+2025,8,JV,Lafayette H.S. JV,84.14,17.42,17.02,16.1,16.7
+2025,9,JV,Lafayette H.S. JV,87.08,16.92,17.26,17.9,18.0
+2025,3,SA,Lafayette H.S. Varsity,71.54,13.73,13.81,14.4,14.8
+2025,7,SA,Lafayette H.S. Varsity,78.85,15.67,15.08,15.1,16.7
+2025,9,SA,Lafayette H.S. Varsity,86.65,17.08,17.47,17.7,17.2
 2025,2,SA,Lafayette HS,72.04,15.06,13.88,14.5,14.0
 2025,4,SA,Lafayette HS,75.56,15.55,14.81,15.4,14.4
 2025,6,SA,Lafayette HS,79.45,16.14,16.01,16.1,15.7
@@ -1545,12 +2078,16 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,4,SA,Lafayette HS - JV,62.42,12.28,12.54,12.0,12.8
 2025,6,SA,Lafayette HS - JV,65.01,12.67,13.34,12.9,13.5
 2025,10,BR,Lafayette HS - JV,77.25,14.68,15.47,15.0,16.1
+2025,2,PSO,Lafourche Parish,72.5,21.5,21.9,14.4,14.7
+2025,5,PSO,Lafourche Parish,81.35,24.0,23.85,17.6,15.9
+2025,8,PSO,Lafourche Parish,83.3,25.6,24.3,17.0,16.4
+2025,4,SO,Laguna Creek HS,69.4,14.1,13.8,13.8,13.8
 2025,9,PSO,Laguna Creek HS,77.288,23.288,15.05,24.05,14.9
+2025,10,SO,Laguna Creek HS,89.5,18.3,17.5,17.5,18.1
 2025,3,B1,Laguna Hills HS,68.9,19.5,14.1,20.8,14.5
 2025,8,B2,Laguna Hills HS,78.35,24.15,14.9,26.3,13.0
 2025,9,R3,Laguna Hills HS,78.251,23.1,16.25,25.5,13.4
 2025,4,PSA,Lake Central HS,69.45,22.05,13.4,21.2,12.8
-2025,3,PSA,Lake Central High School,66.776,19.875,13.3,20.0,13.6
 2025,6,PSA,Lake Central High School,73.7,21.3,15.0,23.3,14.1
 2025,9,PSA,Lake Central High School,75.338,21.637,16.55,21.7,15.45
 2025,6,PIA,Lake Effect Percussion,75.35,22.65,15.0,22.1,15.6
@@ -1566,8 +2103,18 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,12,R1,Lake Orion HS,79.9,24.0,15.8,24.25,15.85
 2025,6,PSO,Lake Orion Percussion,75.65,23.55,15.0,22.5,14.6
 2025,11,PSO,Lake Orion Percussion,84.05,25.65,16.65,25.8,15.95
+2025,2,SRA,Lakeshore H.S.,60.851,13.47,12.88,11.3,12.4
+2025,3,PSRA,Lakeshore H.S.,60.85,18.15,12.1,18.2,12.4
+2025,4,SRA,Lakeshore H.S.,67.401,13.16,13.24,12.7,14.1
+2025,7,PSRA,Lakeshore H.S.,74.05,22.65,14.8,22.9,13.7
+2025,9,PSRA,Lakeshore H.S.,74.6,20.7,16.6,22.1,15.2
+2025,2,PIA,Lakeville Area Percussion,69.75,21.15,14.6,19.9,14.1
+2025,4,PIA,Lakeville Area Percussion,74.25,24.45,13.6,22.4,13.8
 2025,7,PIA,Lakeville Area Percussion,77.3,23.4,15.7,22.7,15.5
+2025,10,PIA,Lakeville Area Percussion,84.725,25.725,16.65,25.3,17.05
+2025,11,PIA,Lakeville Area Percussion,86.788,25.688,17.15,26.65,17.3
 2025,12,PIA,Lakeville Area Percussion,86.026,26.1,17.125,26.0,16.8
+2025,10,PBSA,Lakeville South Middle School,87.05,44.9,44.5,40.4,44.3
 2025,6,PSA,Lakeway Christian Academy,74.451,21.45,15.5,21.5,16.0
 2025,12,R1,Lakeway Christian Academy,89.014,26.738,18.05,26.075,18.15
 2025,2,PSA,Lakeway Christian Academy Percussion,70.65,20.3,21.45,14.6,14.3
@@ -1582,6 +2129,17 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,7,B2,Lakewood HS,74.5,23.4,15.4,19.4,16.3
 2025,9,R1,Lakewood HS,68.0,19.5,14.7,20.5,13.3
 2025,5,PSA,Lakewood Ranch HS,72.901,22.5,15.2,20.3,14.9
+2025,2,SRA,Lakota East JV Winter Guard,51.361,10.52,10.84,9.6,9.9
+2025,5,SRA,Lakota East JV Winter Guard,55.6,10.78,11.32,10.3,11.5
+2025,6,SRA,Lakota East JV Winter Guard,58.7,11.58,10.82,11.8,12.4
+2025,7,SRA,Lakota East JV Winter Guard,65.34,12.3,12.44,11.7,13.2
+2025,10,SRA,Lakota East JV Winter Guard,70.6,13.24,13.86,14.4,14.0
+2025,2,SA,Lakota East Varsity Winter Guard,60.9,11.95,11.95,11.3,13.4
+2025,3,SA,Lakota East Varsity Winter Guard,59.66,11.48,13.28,10.1,12.4
+2025,5,SA,Lakota East Varsity Winter Guard,58.12,12.41,12.81,11.2,10.5
+2025,6,SA,Lakota East Varsity Winter Guard,69.03,13.53,14.2,13.1,14.2
+2025,7,SA,Lakota East Varsity Winter Guard,71.65,14.61,14.74,14.7,13.2
+2025,10,SA,Lakota East Varsity Winter Guard,75.451,15.01,15.54,14.8,14.8
 2025,1,SA,Lakota West HS Varsity,65.85,14.41,14.54,12.3,12.5
 2025,5,SA,Lakota West HS Varsity,74.0,15.6,14.8,14.9,14.5
 2025,7,SA,Lakota West HS Varsity,76.32,15.55,15.27,14.6,15.4
@@ -1606,11 +2164,35 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,7,PSA,Lawrence Township Winter Percussion,73.85,23.55,13.5,21.8,15.0
 2025,9,PSA,Lawrence Township Winter Percussion,83.576,24.825,16.25,25.45,17.05
 2025,10,PSA,Lawrence Township Winter Percussion,85.276,25.5,16.5,25.9,17.375
+2025,6,R3,Le Grand HS,59.1,11.18,11.8,11.7,12.0
+2025,8,R2,Le Grand HS,69.54,14.12,13.72,13.0,15.0
+2025,10,G,Le Grand HS,76.001,15.16,15.54,15.4,15.4
 2025,7,PSA,Lebanon HS,76.6,22.8,15.0,22.7,16.1
 2025,10,PSA,Lebanon HS,81.25,23.85,16.5,24.1,16.8
+2025,2,PSRA,Lebanon High School Indoor Percussion,67.25,20.25,13.5,20.3,13.2
+2025,5,PSA,Lebanon High School Indoor Percussion,69.351,20.85,14.0,20.9,13.6
+2025,7,PSA,Lebanon High School Indoor Percussion,74.751,22.65,14.4,23.9,13.8
+2025,10,PSA,Lebanon High School Indoor Percussion,79.051,23.85,15.8,23.3,16.1
+2025,2,N,Lebanon High School Junior Varsity Winterguard,59.24,10.66,11.98,12.0,11.7
+2025,5,N,Lebanon High School Junior Varsity Winterguard,63.62,11.24,10.78,13.0,13.3
+2025,7,N,Lebanon High School Junior Varsity Winterguard,70.26,14.18,13.18,14.7,16.2
+2025,9,N,Lebanon High School Junior Varsity Winterguard,71.06,14.52,14.24,14.2,13.1
+2025,10,N,Lebanon High School Junior Varsity Winterguard,77.441,13.98,14.06,15.9,16.3
+2025,1,SA,Lebanon High School Winterguard,62.52,12.88,13.34,12.2,12.2
+2025,2,SA,Lebanon High School Winterguard,64.35,13.34,13.01,12.2,13.6
+2025,5,SA,Lebanon High School Winterguard,67.62,13.21,13.61,13.2,14.3
+2025,7,SA,Lebanon High School Winterguard,73.76,15.15,14.41,14.9,14.5
+2025,9,SA,Lebanon High School Winterguard,82.02,16.48,17.34,16.5,15.9
+2025,10,SA,Lebanon High School Winterguard,80.3,16.53,16.27,15.2,15.8
 2025,4,PRA,Lebanon Indoor Percussion,68.5,21.0,13.4,20.6,13.5
 2025,5,PRA,Lebanon Indoor Percussion,73.85,22.35,14.6,22.1,14.8
 2025,9,PRA,Lebanon Indoor Percussion,78.075,24.825,15.15,22.25,15.85
+2025,1,ECG,Lebanon Little Arrows,76.8,15.5,14.3,16.0,15.5
+2025,2,ECG,Lebanon Little Arrows,78.9,15.8,16.3,15.5,15.4
+2025,5,ECG,Lebanon Little Arrows,85.95,15.5,17.2,17.6,17.65
+2025,7,ECG,Lebanon Little Arrows,89.1,18.6,18.5,17.9,17.5
+2025,9,ECG,Lebanon Little Arrows,90.2,18.6,18.6,18.3,17.3
+2025,10,ECG,Lebanon Little Arrows,93.9,18.6,19.4,18.7,17.9
 2025,9,PSO,Lees Summit HS,76.85,22.65,15.5,23.4,15.3
 2025,12,R2,Lees Summit HS,81.85,25.2,16.65,24.1,15.9
 2025,5,PIA,Legacy Percussion,72.4,21.9,14.0,22.0,14.5
@@ -1651,8 +2233,15 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,10,GJHSO,Liberty MS Winterguard,78.29,148.1,154.8,15.7,16.7
 2025,8,PSO,Liberty Union High Combined Schools,81.001,23.55,15.9,24.95,16.6
 2025,7,PSA,Lightridge HS,76.451,22.95,15.2,23.7,14.6
+2025,4,R2,Lincoln HS,57.16,10.48,11.18,10.9,12.2
+2025,6,PSRA,Lincoln HS,74.3,22.5,15.2,21.3,15.3
+2025,10,S,Lincoln HS,83.38,15.46,16.92,16.9,17.2
 2025,4,PSA,Lincoln-Way Community Schools,67.25,20.85,13.0,20.3,13.1
 2025,6,PSA,Lincoln-Way Community Schools,70.05,20.1,14.15,22.4,13.4
+2025,3,R2,Linden HS,55.52,11.92,11.3,10.9,10.7
+2025,4,R2,Linden HS,56.8,10.7,11.5,10.8,11.8
+2025,6,R1,Linden HS,59.28,11.64,12.1,11.8,12.3
+2025,10,B,Linden HS,73.32,14.24,14.38,14.8,15.0
 2025,10,PIO,Linea,82.7,24.6,16.3,25.1,16.7
 2025,2,SA,Linganore HS Guard,62.07,11.74,12.13,12.5,12.8
 2025,4,SA,Linganore HS Guard,66.72,13.21,13.61,13.5,13.2
@@ -1671,6 +2260,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,7,PSA,Liverpool,74.05,22.2,22.35,15.2,14.3
 2025,10,PSA,Liverpool,82.901,25.6,24.9,16.6,15.8
 2025,9,PSA,Liverpool HS,76.35,21.75,15.4,24.1,15.1
+2025,6,R2,Livingston HS,68.6,20.7,13.8,19.2,14.9
+2025,8,R1,Livingston HS,67.8,19.8,13.6,21.5,12.9
+2025,10,S,Livingston HS,77.25,22.95,15.3,24.4,14.6
 2025,5,SRA,Lloyd Memorial HS JV,58.901,11.29,13.21,11.3,11.4
 2025,7,BR,Lloyd Memorial HS JV,59.62,10.94,13.48,10.4,12.9
 2025,9,PR,Lloyd Memorial HS JV,63.081,12.94,12.94,11.4,11.8
@@ -1685,6 +2277,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,9,PSO,Los Alamitos HS,83.1,24.6,16.35,25.8,16.35
 2025,10,R2,Los Alamitos HS,83.826,26.175,15.45,25.5,16.7
 2025,11,PSO,Los Alamitos HS,85.314,25.462,16.75,26.3,16.8
+2025,3,R1,Los Banos HS,52.74,11.32,10.12,10.1,10.6
+2025,4,SRA,Los Banos HS,56.04,11.82,10.32,10.5,11.7
+2025,10,S,Los Banos HS,79.54,14.36,15.08,16.6,17.0
+2025,6,SJH,Los Banos JH Winter Guard,50.021,9.04,9.58,10.4,10.5
+2025,10,S,Los Banos JH Winter Guard,66.74,13.32,13.92,13.2,13.2
 2025,8,PSA,Los Gatos HS,70.55,21.15,13.4,20.8,15.2
 2025,4,PSA,Los Osos HS,74.2,22.5,14.4,22.7,14.6
 2025,6,B2,Los Osos HS,73.9,22.8,15.5,21.3,14.3
@@ -1706,7 +2303,19 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,SRA,Loudoun County Gold,77.68,16.14,15.74,15.4,15.2
 2025,10,SRA,Loudoun County Gold,79.111,15.54,15.67,15.2,16.7
 2025,2,SRA,Loudoun County Gold Guard,66.85,12.14,12.41,14.5,13.5
+2025,2,IO,Louisiana St. University,68.2,14.2,14.2,12.9,13.3
+2025,3,IO,Louisiana St. University,68.9,13.8,14.3,13.3,13.4
+2025,5,IO,Louisiana St. University,73.7,14.3,15.4,14.9,14.6
+2025,7,IO,Louisiana St. University,74.6,14.9,15.3,14.7,14.6
+2025,9,IO,Louisiana St. University,77.3,15.4,16.1,15.1,14.8
+2025,5,S,Louisiana Tech University,52.17,10.89,11.08,10.0,9.9
 2025,8,PSO,Loveland HS,80.0,23.4,17.1,23.6,15.9
+2025,2,SRA,Loveland HS Varsity Winterguard,57.001,12.58,12.82,10.3,10.4
+2025,7,SRA,Loveland HS Varsity Winterguard,72.82,15.5,13.12,15.4,14.2
+2025,9,SRA,Loveland HS Varsity Winterguard,75.941,17.86,14.58,14.5,14.5
+2025,10,SRA,Loveland HS Varsity Winterguard,71.66,14.44,13.92,14.7,13.9
+2025,2,N,Loveland JV Winterguard,51.041,9.72,9.92,10.2,9.8
+2025,7,N,Loveland JV Winterguard,60.221,11.82,11.1,12.7,12.8
 2025,7,PSA,Lower Dauphin HS,84.0,24.9,17.1,26.2,15.8
 2025,12,R4,Lower Dauphin HS,88.751,27.525,16.95,26.375,17.9
 2025,0,P-SA,Lower Dauphin HS Percussion,68.9,21.3,19.5,14.9,13.2
@@ -1722,7 +2331,13 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,10,IA,Lyra Winterguard,77.68,14.94,15.14,14.3,16.7
 2025,7,PIA,M3,83.75,25.05,17.2,25.2,16.3
 2025,12,PIA,M3,93.9,28.5,18.6,28.25,18.55
+2025,2,PIW,MBI Indoor Percussion,70.5,20.7,14.6,20.3,14.9
+2025,4,PIW,MBI Indoor Percussion,76.75,23.55,14.3,24.7,14.2
 2025,7,PIW,MBI Indoor Percussion,82.1,24.9,16.5,24.2,16.5
+2025,8,PIW,MBI Indoor Percussion,82.95,24.75,16.2,25.5,16.5
+2025,10,PIW,MBI Indoor Percussion,87.325,25.875,17.5,26.55,17.4
+2025,11,PIW,MBI Indoor Percussion,87.025,26.475,17.6,26.15,16.8
+2025,10,WIO,MBI Winds,83.325,26.4,24.9,24.15,25.2
 2025,2,SA,Madeira HS,54.891,11.13,11.46,10.6,11.2
 2025,4,SA,Madeira HS,62.68,12.81,13.07,12.3,12.2
 2025,5,SA,Madeira HS,66.62,14.27,12.75,13.6,12.7
@@ -1759,6 +2374,8 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,SRA,Madison Consolidated HS,66.061,13.08,12.48,12.6,14.1
 2025,9,BR,Madison Consolidated HS,67.09,13.21,13.08,13.1,14.1
 2025,10,SRA,Madison Consolidated HS,70.26,14.53,14.73,14.2,13.4
+2025,9,PSA,Madison HS,72.251,19.65,16.0,22.5,14.1
+2025,13,PSA,Madison HS,71.55,20.85,14.8,21.3,14.6
 2025,2,SRA,Madison Southern HS,59.99,11.93,12.66,12.3,11.4
 2025,6,SRA,Madison Southern HS,68.48,13.01,14.27,12.9,13.7
 2025,7,PR,Madison Southern HS,77.02,15.68,14.94,14.9,16.2
@@ -1767,6 +2384,13 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,2,GIA,Maharlika,62.75,122.1,125.4,13.0,13.2
 2025,9,GIA,Maharlika,83.82,155.4,166.8,17.2,17.2
 2025,10,GIA,Maharlika,86.68,170.0,166.8,17.4,17.3
+2025,2,SA,Mandeville H.S. Varsity,60.05,12.47,12.88,11.3,12.3
+2025,3,SA,Mandeville H.S. Varsity,63.16,12.75,12.81,13.5,11.7
+2025,4,SA,Mandeville H.S. Varsity,67.62,12.96,13.46,14.5,13.0
+2025,9,SA,Mandeville H.S. Varsity,67.671,13.36,14.41,13.2,13.9
+2025,3,PSRA,Mandeville HS,61.35,18.75,11.9,18.2,12.5
+2025,4,PSRA,Mandeville HS,66.5,18.9,13.6,20.2,13.8
+2025,9,PSRA,Mandeville HS,72.726,20.925,15.5,21.8,14.5
 2025,7,PSA,Mansfield HS,82.001,25.35,16.1,24.75,15.8
 2025,5,SRA,Marion Co HS,50.761,11.35,9.61,9.6,9.9
 2025,6,BR,Marion Co HS,53.02,10.74,10.28,9.8,10.9
@@ -1791,6 +2415,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,SRA,Mason Co HS,68.49,13.35,13.34,14.1,14.2
 2025,9,BR,Mason Co HS,70.56,13.68,14.28,13.5,14.9
 2025,10,SRA,Mason Co HS,74.701,14.0,15.4,14.7,15.3
+2025,2,SO,Mason HS,71.1,14.0,14.1,13.6,15.0
+2025,7,SO,Mason HS,77.3,16.1,13.2,16.5,16.1
+2025,10,SO,Mason HS,81.3,16.4,15.1,17.0,16.9
 2025,7,PIW,Matrix,88.35,26.85,18.1,25.3,18.1
 2025,12,PIW,Matrix,92.076,28.425,19.3,26.25,18.1
 2025,7,PIO,Matrix Open,84.4,24.9,17.1,25.3,17.1
@@ -1800,6 +2427,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,4,PJHSA,McFarland Jr. High Drumline,64.35,18.6,19.35,13.9,12.5
 2025,9,PJHSO,McFarland Jr. High Drumline,76.55,24.1,20.85,14.9,16.7
 2025,8,SRA,McMinn County Winter Guard,62.74,12.07,12.47,13.2,12.5
+2025,4,S,McNeese St. University,61.3,12.26,12.14,12.3,12.2
+2025,7,S,McNeese St. University,58.01,13.6,12.21,11.4,10.0
+2025,8,S,McNeese St. University,64.01,13.61,12.4,12.8,12.4
+2025,9,S,McNeese St. University,65.28,14.34,12.94,13.4,12.9
 2025,7,PSO,Mechanicsburg HS,74.501,22.5,14.2,22.8,15.0
 2025,0,SA,Mechanicsburg HS Guard,69.1,12.02,12.28,15.7,15.4
 2025,2,SA,Mechanicsburg HS Guard,69.15,13.61,13.34,11.7,14.6
@@ -1819,6 +2450,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,11,PIW,Meraki,87.701,26.7,17.4,26.55,17.05
 2025,12,PIW,Meraki,87.025,26.175,17.5,26.1,17.25
 2025,9,PSA,Merced HS,79.164,23.737,15.425,23.3,16.7
+2025,3,R1,Merced HS Guard,62.86,12.66,12.8,13.0,12.2
+2025,8,SRA,Merced HS Guard,83.14,16.12,16.72,16.8,16.7
+2025,10,G,Merced HS Guard,92.9,17.4,18.6,19.0,19.2
+2025,8,PSA,Merced HS Percussion,75.95,22.05,14.8,24.3,14.8
 2025,4,R2,Merced HS Winter Guard,72.7,16.54,14.26,13.4,13.7
 2025,6,GHSSA,Merced HS Winter Guard,70.78,13.61,12.87,14.2,15.1
 2025,4,PHSSA,Merced HS Winter Percussion,68.9,18.2,19.8,15.7,15.2
@@ -1845,9 +2480,32 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,10,PSA,Methacton,70.85,22.6,21.0,13.1,14.15
 2025,11,PSA,Methacton,71.65,22.0,20.85,14.1,14.7
 2025,9,PSA,Methacton HS,70.85,21.45,14.0,21.8,13.6
+2025,1,SRA,Miamisburg A Guard,62.99,12.35,12.14,13.8,13.5
+2025,3,SRA,Miamisburg A Guard,55.321,11.56,10.06,10.4,11.2
+2025,5,SRA,Miamisburg A Guard,68.251,13.38,13.52,13.3,14.15
+2025,7,SRA,Miamisburg A Guard,72.26,15.18,13.18,14.6,14.3
+2025,9,SRA,Miamisburg A Guard,78.06,16.32,14.94,15.9,15.6
+2025,10,SRA,Miamisburg A Guard,79.48,15.04,15.24,17.0,15.6
+2025,1,ECG,Miamisburg Elementary Guard,77.9,14.9,15.8,16.2,16.2
+2025,3,ECG,Miamisburg Elementary Guard,84.2,15.9,15.0,17.1,17.9
+2025,5,ECG,Miamisburg Elementary Guard,88.55,16.9,17.8,17.1,17.85
+2025,7,ECG,Miamisburg Elementary Guard,90.9,18.9,18.6,17.2,18.0
+2025,9,ECG,Miamisburg Elementary Guard,92.8,19.4,19.0,18.6,18.2
+2025,10,ECG,Miamisburg Elementary Guard,96.6,19.7,19.8,19.3,18.8
+2025,1,SW,Miamisburg World Guard,67.6,13.3,14.1,12.4,14.1
+2025,2,SW,Miamisburg World Guard,70.2,13.7,14.3,14.0,14.5
+2025,7,SW,Miamisburg World Guard,79.2,16.1,15.0,16.0,16.1
+2025,10,SW,Miamisburg World Guard,87.7,17.8,17.1,17.7,17.3
 2025,5,PRA,MidMichigan Impact,68.45,19.95,14.5,20.4,13.6
 2025,9,PRA,MidMichigan Impact,76.75,22.95,14.9,22.2,16.7
 2025,6,PSA,Midland Valley HS,67.801,19.5,14.0,20.9,13.4
+2025,2,,Milford High School (A),58.511,12.14,11.87,11.1,11.6
+2025,3,SA,Milford High School (A),53.16,10.15,12.61,9.2,9.9
+2025,7,SA,Milford High School (A),68.461,14.42,12.34,14.0,13.7
+2025,10,SA,Milford High School (A),73.421,14.08,15.34,14.6,14.4
+2025,2,SW,Milford High School (World),66.6,12.8,13.2,12.6,14.1
+2025,7,SW,Milford High School (World),70.7,15.3,11.5,14.9,14.8
+2025,10,SW,Milford High School (World),79.8,16.1,15.6,16.0,15.3
 2025,7,SJ,Milford Jr. HS,55.62,10.81,8.61,12.3,11.8
 2025,3,PSO,Millikan HS,68.851,21.45,13.6,20.5,13.3
 2025,6,PSO,Millikan HS,76.95,23.55,15.2,23.9,14.3
@@ -1861,6 +2519,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,9,SRA,Milton Hershey HS Guard,81.33,16.2,16.13,16.6,16.6
 2025,10,SRA,Milton Hershey HS Guard,84.77,16.74,16.73,16.9,17.4
 2025,10,SP-SRA,Milton Hershey School Percussion,85.8,40.2,45.1,43.1,43.2
+2025,1,SRA,Milton-Union Varsity Winter Guard,62.49,11.95,11.94,13.6,13.6
+2025,3,SRA,Milton-Union Varsity Winter Guard,59.4,12.92,11.38,10.5,11.5
+2025,5,SRA,Milton-Union Varsity Winter Guard,71.04,14.32,13.32,12.9,15.9
+2025,7,SRA,Milton-Union Varsity Winter Guard,76.8,13.18,15.52,15.6,15.8
+2025,8,SRA,Milton-Union Varsity Winter Guard,75.541,13.7,15.84,13.4,17.0
+2025,10,SRA,Milton-Union Varsity Winter Guard,83.941,16.8,16.94,16.2,16.8
 2025,4,PSO,Minooka Community HS,69.4,22.2,12.1,21.3,13.8
 2025,12,R1,Minooka Community HS,76.975,22.575,15.4,22.65,16.35
 2025,8,PSO,Minooka community high school,79.4,23.4,15.7,24.1,16.2
@@ -1888,6 +2552,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,PSO,Mission Viejo HS,88.95,27.15,17.3,26.9,17.6
 2025,10,R1,Mission Viejo HS,86.65,26.25,17.2,26.4,16.8
 2025,11,PSO,Mission Viejo HS,87.789,26.288,17.325,26.65,17.525
+2025,8,R1,Modesto HS,64.8,18.3,13.0,21.0,12.5
 2025,4,PSA,Mohonasen,68.35,18.9,21.45,13.3,14.7
 2025,5,PSA,Mohonasen,70.45,20.5,21.45,14.0,14.5
 2025,8,PSA,Mohonasen,73.601,21.4,22.2,14.6,15.4
@@ -1914,6 +2579,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,6,IA,Morehead State University,60.04,11.42,11.22,13.6,12.1
 2025,7,IA,Morehead State University,62.39,12.48,12.01,12.3,13.6
 2025,10,IA,Morehead State University,66.221,12.88,12.74,13.3,13.5
+2025,3,PSRA,Morgan City H.S.,66.55,19.95,12.9,20.5,13.2
+2025,7,PSRA,Morgan City H.S.,72.85,21.45,14.5,22.4,14.5
+2025,9,BD,Morgan City H.S.,81.36,16.68,16.68,15.7,16.9
 2025,6,PSA,Morton Ranch HS,79.05,23.85,15.0,23.2,17.0
 2025,6,PIO,Motor City Percussion,81.0,24.9,15.7,24.3,16.1
 2025,7,PIO,Motor City Percussion,82.0,24.3,16.9,24.0,16.8
@@ -1925,8 +2593,13 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,5,SRA,Mount Vernon Sr. HS,55.131,10.48,10.35,11.2,11.6
 2025,6,SRA,Mount Vernon Sr. HS,60.651,12.47,12.28,11.6,11.4
 2025,9,BR,Mount Vernon Sr. HS,66.75,13.08,13.87,12.2,13.9
+2025,5,PSA,Mountain Ridge HS,78.2,22.2,15.7,24.35,15.95
+2025,9,PSA,Mountain Ridge HS,87.0,24.9,18.8,26.2,17.1
+2025,10,PSA,Mountain Ridge HS,84.7,25.2,17.4,25.8,16.3
+2025,13,PSA,Mountain Ridge HS,89.1,27.0,18.5,25.4,18.2
 2025,7,PSA,Mountain Ridge HS (UT),82.55,25.35,16.6,23.9,16.7
 2025,12,R3,Mountain Ridge HS (UT),86.851,25.125,18.1,26.325,17.3
+2025,13,PSA,Mountain View HS,82.65,23.85,17.7,24.1,17.0
 2025,2,PHSSRA,Mt Whitney HS Percussion,62.15,20.4,17.55,11.6,12.6
 2025,4,R2,Mt Whitney HS Percussion,68.15,20.3,20.85,13.2,13.8
 2025,8,PHSSRA,Mt Whitney HS Percussion,76.95,24.3,22.65,15.8,14.2
@@ -1943,12 +2616,32 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,6,PIW,Music City Mystique,86.5,25.2,17.5,26.7,17.1
 2025,12,PIW,Music City Mystique,94.339,28.837,18.625,28.05,18.825
 2025,6,PIA,Myrtle Beatz Independent Percussion,70.001,21.3,13.9,21.2,13.6
+2025,3,N,"Natchitoches Central H.S. ""Tribal Fire""",59.191,10.21,11.48,12.1,12.7
+2025,7,N,"Natchitoches Central H.S. ""Tribal Fire""",71.12,15.28,15.94,12.6,12.7
+2025,9,N,"Natchitoches Central H.S. ""Tribal Fire""",76.5,15.49,15.21,15.5,15.0
+2025,4,PSA,Nebo District Percussion,70.55,20.85,14.2,21.9,13.6
+2025,5,PSO,Nebo District Percussion,72.1,20.1,13.2,24.45,14.35
+2025,9,PSO,Nebo District Percussion,85.9,25.5,18.0,25.7,16.7
+2025,10,PSO,Nebo District Percussion,83.65,25.65,18.4,23.0,16.6
+2025,13,PSO,Nebo District Percussion,83.2,24.6,17.6,23.9,17.1
+2025,2,SRA,Neville H.S.,53.521,11.34,11.08,10.7,10.7
+2025,5,SRA,Neville H.S.,58.02,12.02,12.5,10.0,11.5
+2025,7,SRA,Neville H.S.,60.62,13.24,10.7,11.7,12.0
+2025,9,RD,Neville H.S.,69.921,13.36,13.56,14.6,14.1
 2025,2,PSA,New Hartford,65.475,19.0,21.675,11.9,12.9
 2025,3,PSA,New Hartford,66.6,19.5,22.2,12.4,12.5
 2025,5,PSA,New Hartford,69.4,21.3,21.6,13.1,13.4
 2025,6,PSA,New Hartford,71.101,21.5,22.8,14.2,12.6
 2025,7,PSA,New Hartford,72.351,22.3,21.75,15.1,13.2
 2025,10,PSA,New Hartford,79.85,25.2,23.55,14.8,16.3
+2025,3,JV,New Iberia H.S. JV,63.821,12.34,12.18,13.2,11.9
+2025,5,JV,New Iberia H.S. JV,64.84,13.7,12.84,12.3,12.4
+2025,7,JV,New Iberia H.S. JV,72.76,15.72,13.64,13.8,14.9
+2025,9,JV,New Iberia H.S. JV,77.54,15.32,14.52,15.7,16.5
+2025,3,SA,New Iberia H.S. Varsity,65.76,13.35,13.21,12.7,14.0
+2025,5,SA,New Iberia H.S. Varsity,75.92,14.48,15.94,15.4,14.9
+2025,7,SA,New Iberia H.S. Varsity,76.65,14.21,14.34,16.0,16.3
+2025,9,SA,New Iberia H.S. Varsity,82.17,15.76,15.21,16.6,17.3
 2025,7,PSA,New Milford HS,82.2,25.8,16.3,25.3,14.8
 2025,12,R4,New Milford HS,80.575,24.525,15.55,24.35,16.15
 2025,0,P-SA,New Oxford Indoor Percussion Ensemble,62.55,19.2,18.45,12.9,12.0
@@ -1999,7 +2692,6 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,7,SA,North Harrison,63.781,12.61,15.07,10.8,12.0
 2025,8,SA,North Harrison,65.221,13.01,13.21,12.9,12.6
 2025,10,BR,North Harrison,71.191,13.55,14.34,13.5,15.1
-2025,3,PRA,North Harrison Indoor Percussion,67.3,21.0,13.9,19.1,13.3
 2025,5,PRA,North Harrison Indoor Percussion,67.85,21.15,14.1,18.7,13.9
 2025,7,PSA,North Harrison Indoor Percussion,72.0,21.9,15.1,20.7,14.3
 2025,8,PSA,North Harrison Indoor Percussion,70.25,20.85,14.8,20.2,14.4
@@ -2023,7 +2715,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,5,PSO,North Port HS,70.4,19.5,13.1,22.2,15.6
 2025,12,R3,North Port HS,80.85,23.55,16.3,23.25,17.75
 2025,7,PIA,North Star Independent,80.2,24.3,15.9,23.5,16.5
+2025,10,PIA,North Star Independent,84.85,26.25,17.4,24.3,16.9
 2025,12,PIA,North Star Independent,88.875,26.325,17.35,27.4,17.8
+2025,13,PIA,North Star Independent,89.7,27.0,18.7,25.2,18.8
+2025,1,SRA,Northeastern Damsels WG,65.28,11.94,12.74,13.7,13.3
+2025,2,SRA,Northeastern Damsels WG,69.26,13.52,13.64,14.4,14.2
+2025,5,SRA,Northeastern Damsels WG,73.89,13.98,14.46,14.8,14.05
+2025,7,SRA,Northeastern Damsels WG,78.26,16.54,15.32,16.5,14.6
+2025,10,SRA,Northeastern Damsels WG,84.101,18.74,15.26,17.8,16.5
 2025,0,SA,Northeastern HS Guard,61.501,11.22,11.68,13.2,13.4
 2025,2,SA,Northeastern HS Guard,61.62,12.68,12.74,9.3,14.6
 2025,4,SA,Northeastern HS Guard,69.08,13.74,13.54,14.7,13.1
@@ -2042,16 +2741,32 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,5,IRA,Northern Kentucky University,61.46,11.61,12.35,13.3,12.2
 2025,9,IRA,Northern Kentucky University,69.57,13.35,13.62,13.9,14.6
 2025,10,IRA,Northern Kentucky University,75.37,13.68,15.09,14.3,16.1
+2025,2,SO,Northmont High School Varsity Guard,67.9,13.3,13.2,12.8,14.8
+2025,6,SO,Northmont High School Varsity Guard,67.6,14.0,11.8,13.4,14.4
+2025,7,SO,Northmont High School Varsity Guard,70.8,15.2,12.7,15.0,14.2
+2025,10,SO,Northmont High School Varsity Guard,77.5,16.6,14.7,15.3,15.4
+2025,2,ECG,Northmont Wee Bolts Winterguard,78.3,16.0,16.0,15.4,15.1
+2025,5,ECG,Northmont Wee Bolts Winterguard,83.501,16.1,17.0,15.7,17.1
+2025,7,ECG,Northmont Wee Bolts Winterguard,88.5,18.0,17.0,18.7,18.0
+2025,8,ECG,Northmont Wee Bolts Winterguard,91.3,18.1,18.5,18.7,18.1
+2025,10,ECG,Northmont Wee Bolts Winterguard,92.2,17.6,18.7,18.0,19.0
+2025,2,SA,Northshore H.S.,55.331,11.61,11.42,11.1,11.6
+2025,4,SA,Northshore H.S.,61.391,12.08,12.61,12.1,12.0
+2025,5,SA,Northshore H.S.,61.36,12.48,13.68,11.5,12.1
+2025,9,SA,Northshore H.S.,65.981,13.21,14.87,12.7,13.5
 2025,8,R2,Northview Academy,63.431,12.28,12.35,12.2,13.0
 2025,10,R1,Northview Academy,71.811,14.14,14.47,14.3,14.8
 2025,6,PSA,Northview HS,87.275,27.225,17.35,25.75,16.95
 2025,12,R1,Northview HS,85.764,25.913,17.0,25.7,17.15
-2025,3,PSA,Northview Indoor Percussion,72.15,22.05,14.4,21.7,14.0
 2025,4,PSA,Northview Indoor Percussion,74.851,23.55,14.3,23.2,13.8
 2025,7,PSO,Northview Indoor Percussion,80.75,23.85,16.2,23.8,16.9
 2025,8,PSO,Northview Indoor Percussion,82.25,25.35,16.4,23.4,17.1
 2025,9,PSO,Northview Indoor Percussion,85.713,25.087,17.2,25.5,17.925
 2025,10,PSO,Northview Indoor Percussion,85.539,26.587,17.0,24.7,17.25
+2025,3,IA,Northwestern St. University,67.98,13.34,13.74,14.3,13.2
+2025,5,IA,Northwestern St. University,74.55,14.08,16.67,15.0,13.8
+2025,8,IA,Northwestern St. University,76.08,15.27,15.21,15.6,15.2
+2025,9,IA,Northwestern St. University,78.98,15.07,15.61,16.4,15.8
 2025,7,PSO,Norwalk HS,88.0,27.3,17.2,26.6,16.9
 2025,12,R1,Norwalk HS,83.8,24.9,16.6,25.6,16.7
 2025,4,PRA,Norwell Winter Percussion,64.65,19.35,13.0,19.5,12.8
@@ -2076,6 +2791,18 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,B1,Oak Hills HS,72.751,23.55,14.1,21.1,14.0
 2025,9,R3,Oak Hills HS,85.4,25.35,18.9,25.1,16.05
 2025,10,R2,Oak Hills HS,82.85,25.35,16.2,25.7,15.6
+2025,1,SA,Oak Hills High School Winter Guard,66.42,13.61,14.01,12.5,13.4
+2025,5,SA,Oak Hills High School Winter Guard,64.05,13.61,14.34,12.7,11.1
+2025,7,SA,Oak Hills High School Winter Guard,71.79,14.08,13.21,15.3,14.0
+2025,10,SA,Oak Hills High School Winter Guard,80.42,15.55,16.47,16.2,15.9
+2025,2,PSA,Oak Hills Indoor Percussion Ensemble,65.4,20.25,12.8,19.5,12.85
+2025,5,PSA,Oak Hills Indoor Percussion Ensemble,71.6,21.3,15.3,20.8,14.2
+2025,7,PSA,Oak Hills Indoor Percussion Ensemble,74.001,22.8,14.7,22.3,14.2
+2025,10,PSA,Oak Hills Indoor Percussion Ensemble,84.9,25.2,17.5,25.2,17.0
+2025,1,JCG,Oak Hills Junior Winter Guard,54.5,11.4,10.7,11.2,10.3
+2025,5,JCG,Oak Hills Junior Winter Guard,67.75,12.3,12.0,12.7,15.85
+2025,7,JCG,Oak Hills Junior Winter Guard,71.3,15.1,13.3,13.5,14.9
+2025,10,JCG,Oak Hills Junior Winter Guard,79.6,18.2,14.1,16.9,14.8
 2025,4,PSA,Oak Park HS,62.5,19.8,10.8,21.5,10.4
 2025,7,B2,Oak Park HS,72.101,22.8,13.3,22.2,13.8
 2025,9,R4,Oak Park HS,67.9,22.95,12.95,19.2,12.8
@@ -2090,6 +2817,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,5,PSA,Oak Ridge Indoor Percussion,74.05,22.4,21.15,15.8,14.7
 2025,7,PSA,Oak Ridge Indoor Percussion,78.6,23.9,23.1,16.1,15.5
 2025,10,PSA,Oak Ridge Indoor Percussion,83.175,25.4,24.375,16.9,16.5
+2025,3,R2,Oakdale HS,61.34,12.32,12.32,12.9,11.9
+2025,4,SRA,Oakdale HS,62.5,12.82,12.58,12.3,12.4
+2025,8,SRA,Oakdale HS,79.74,15.38,16.26,16.1,16.2
+2025,10,G,Oakdale HS,90.44,16.92,18.22,18.6,18.9
+2025,4,SJH,Oakdale JH,52.26,10.72,8.24,10.9,11.2
+2025,6,SJH,Oakdale JH,63.9,12.92,11.68,13.1,13.2
+2025,8,R1,Oakdale JH,71.42,14.06,14.46,14.2,14.2
+2025,10,G,Oakdale JH,77.7,15.6,15.4,15.9,15.8
 2025,5,PSA,Oakleaf HS,80.9,23.1,17.0,23.8,17.0
 2025,7,PSA,Ocean Lakes HS,82.4,24.3,16.9,24.7,16.5
 2025,5,PSA,Odessa High School,66.6,20.7,20.4,13.0,12.5
@@ -2098,6 +2833,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,10,PSA,Odessa High School,78.975,25.2,24.825,14.35,14.6
 2025,11,PSA,Odessa High School,77.4,24.7,21.45,15.45,15.8
 2025,7,PIA,Ogden HS,77.4,22.8,16.5,22.1,16.0
+2025,5,PSA,Ogden Indoor Percussion,76.7,21.75,15.4,24.1,15.45
+2025,9,PSA,Ogden Indoor Percussion,82.9,23.1,17.4,25.9,16.5
+2025,10,PSA,Ogden Indoor Percussion,81.45,23.55,16.8,24.7,16.4
+2025,13,PSA,Ogden Indoor Percussion,84.3,25.65,16.8,24.35,17.5
 2025,5,PSO,Old Bridge,76.95,24.3,22.95,15.3,14.4
 2025,8,PSO,Old Bridge,85.65,26.6,25.95,16.9,16.2
 2025,10,PSO,Old Bridge,89.5,27.9,25.5,17.7,18.4
@@ -2115,7 +2854,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,12,R2,Olentangy Liberty HS,85.614,24.562,17.5,27.0,16.55
 2025,7,PSA,Olive Branch HS,72.525,22.425,15.4,22.4,12.3
 2025,8,PJHSA,Ollivier Middle School,64.7,18.4,19.5,13.0,13.8
+2025,4,PSA,Onalaska High School,70.35,22.95,13.3,20.6,13.5
 2025,7,PSA,Onalaska High School,70.901,21.6,14.3,20.5,14.5
+2025,10,PSA,Onalaska High School,79.425,23.925,15.6,23.55,16.35
+2025,11,PSA,Onalaska High School,81.251,24.6,16.0,24.95,15.7
 2025,5,SRA,Ooltewah High School Winter Guard,61.111,11.74,13.27,11.8,12.3
 2025,10,R2,Ooltewah High School Winter Guard,72.181,14.61,15.47,13.9,14.4
 2025,4,B2,Orange HS,71.601,22.2,15.0,21.0,13.4
@@ -2134,6 +2876,8 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,4,R2,Orosi Indoor Percussion,70.775,21.6,21.075,14.1,14.0
 2025,8,PHSSRA,Orosi Indoor Percussion,79.0,23.2,24.6,16.2,15.0
 2025,9,PHSSRA,Orosi Indoor Percussion,78.05,20.1,25.05,16.3,16.6
+2025,2,PIA,Owatonna High School,63.15,19.05,12.9,18.3,12.9
+2025,4,PIA,Owatonna High School,62.95,19.05,11.8,19.8,12.3
 2025,2,SRA,Owen Co HS,54.531,10.22,11.81,10.0,11.8
 2025,5,SRA,Owen Co HS,65.041,11.29,13.55,13.8,13.2
 2025,6,SRA,Owen Co HS,73.21,14.07,14.54,13.6,15.2
@@ -2147,7 +2891,6 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,11,PSA,Owen J Roberts,88.575,26.4,26.475,17.6,18.1
 2025,9,PSA,Owen J Roberts HS,88.825,26.7,17.65,26.575,17.9
 2025,12,R3,Owen J Roberts HS,88.3,26.025,17.85,26.225,18.2
-2025,3,PRA,Owen Valley High School Winter Percussion,61.75,18.15,12.5,18.8,12.3
 2025,5,PRA,Owen Valley High School Winter Percussion,63.251,19.95,12.8,18.1,12.4
 2025,7,PRA,Owen Valley High School Winter Percussion,63.401,19.5,12.5,18.6,12.8
 2025,8,PRA,Owen Valley High School Winter Percussion,67.45,20.85,12.6,20.8,13.2
@@ -2161,6 +2904,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,12,PIW,POW Percussion,91.063,27.562,18.4,27.0,18.1
 2025,7,PSO,Pace HS,82.4,24.6,16.2,24.8,16.8
 2025,12,PSO,Pace HS,94.051,28.575,18.15,28.55,18.775
+2025,6,R1,Pacheco HS,67.75,21.15,12.6,19.6,14.4
+2025,8,R1,Pacheco HS,70.55,21.45,14.2,22.2,12.7
+2025,10,G,Pacheco HS,78.05,23.85,15.1,23.5,15.6
+2025,6,R1,Pacheco High School winter guard,64.24,12.64,12.9,12.9,13.2
+2025,8,R1,Pacheco High School winter guard,72.32,14.42,14.8,14.2,14.7
+2025,10,G,Pacheco High School winter guard,80.2,15.2,17.0,16.2,16.4
 2025,3,PSO,Pacifica HS,73.2,21.9,15.4,20.2,15.7
 2025,6,PSO,Pacifica HS,79.8,23.7,15.9,23.2,17.0
 2025,9,PSO,Pacifica HS,85.213,25.762,16.725,25.525,17.2
@@ -2187,6 +2936,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,8,B2,Patriot HS,82.5,23.4,16.8,25.9,16.4
 2025,9,R1,Patriot HS,87.026,26.625,18.2,25.7,16.5
 2025,10,R2,Patriot HS,85.376,25.725,16.8,26.45,16.4
+2025,6,R2,Patterson HS,57.72,11.38,12.24,11.4,11.3
+2025,8,R2,Patterson HS,68.141,12.38,13.36,13.6,14.8
+2025,10,S,Patterson HS,75.141,13.44,15.1,15.2,16.0
 2025,2,SA,Paul Laurence Dunbar HS,64.01,13.47,13.34,12.3,12.6
 2025,4,SA,Paul Laurence Dunbar HS,70.45,14.41,14.14,14.1,14.2
 2025,7,SA,Paul Laurence Dunbar HS,73.241,15.8,14.14,14.0,14.6
@@ -2199,6 +2951,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,10,SRA,Paul Laurence Dunbar HS JV,88.43,16.67,17.46,17.9,18.1
 2025,9,PSA,Paul V. Moore HS,84.826,26.325,17.0,24.55,16.95
 2025,12,R3,Paul V. Moore HS,84.101,24.15,17.8,25.4,16.75
+2025,4,PSA,Payson HS,64.651,18.45,13.2,20.5,12.5
+2025,5,PSA,Payson HS,65.051,18.75,13.4,20.8,12.1
+2025,9,PSA,Payson HS,71.701,19.5,16.2,21.3,14.7
+2025,10,PSA,Payson HS,77.601,23.4,15.9,21.8,16.5
+2025,13,PSA,Payson HS,74.901,21.15,16.0,21.65,16.1
 2025,7,PSA,Pearl HS,87.0,26.55,17.5,25.25,17.7
 2025,12,R1,Pearl HS,90.288,26.512,18.55,27.9,17.325
 2025,6,PSW,Pearland HS,80.5,24.6,16.3,23.3,16.3
@@ -2222,11 +2979,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,12,R1,Perkiomen Valley HS,86.089,25.913,17.15,25.8,17.225
 2025,6,PSA,Perry HS,70.051,20.25,14.6,20.3,14.9
 2025,6,PSA,Perry Meridian HS,74.125,20.775,16.3,22.45,14.6
-2025,3,PSA,Perry Meridian Indoor Percussion,68.75,21.15,13.7,19.3,14.6
 2025,5,PSA,Perry Meridian Indoor Percussion,68.9,21.3,14.2,19.3,14.1
 2025,8,PSA,Perry Meridian Indoor Percussion,72.101,21.0,14.2,22.3,14.6
 2025,9,PSA,Perry Meridian Indoor Percussion,73.938,21.788,15.05,22.65,14.45
+2025,5,SRA,Petal H.S.,74.0,14.92,13.58,15.0,15.3
 2025,7,PSA,Petal HS,72.5,19.5,15.7,22.9,14.4
+2025,5,C,Petal M.S.,76.35,14.54,15.21,14.9,15.9
 2025,6,PSO,Pflugerville HS,73.901,23.7,14.1,21.4,14.7
 2025,9,PSO,Pflugerville HS,76.0,23.1,15.1,22.8,15.0
 2025,3,PSA,Phoenix,65.351,19.1,20.55,12.8,12.9
@@ -2234,6 +2992,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,6,PSA,Phoenix,72.201,22.4,22.5,14.6,12.7
 2025,8,PSA,Phoenix,76.8,24.1,23.4,14.8,14.5
 2025,10,PSA,Phoenix,87.925,27.2,26.175,16.95,17.6
+2025,7,IO,Phoenix Independent,86.4,17.8,17.0,17.0,17.0
 2025,5,PRA(,Phoenixville,75.5,22.35,22.2,15.35,15.6
 2025,6,PRA(,Phoenixville,78.95,23.7,24.45,15.0,15.8
 2025,8,PSA,Phoenixville,72.15,21.95,23.1,13.5,13.6
@@ -2242,6 +3001,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Knoxville,70.91,13.94,13.27,14.2,15.0
 2025,4,PIO,Pi Percussion Inc.,75.4,22.8,14.7,23.2,14.7
 2025,6,PIO,Pi Percussion Inc.,78.9,23.4,15.9,24.8,14.8
 2025,12,R2,Pi Percussion Inc.,82.388,24.788,16.5,24.95,16.15
+2025,2,N,Picayune Memorial H.S. Varsity,62.55,13.14,13.41,11.8,12.6
+2025,3,N,Picayune Memorial H.S. Varsity,64.25,12.17,13.88,12.6,12.3
+2025,4,N,Picayune Memorial H.S. Varsity,68.88,14.01,14.47,12.8,13.3
+2025,9,N,Picayune Memorial H.S. Varsity,81.53,16.99,17.14,15.8,15.9
 2025,1,SRA,Pigeon Forge High School Winterguard,54.355,11.68,11.75,10.2,10.925
 2025,5,SRA,Pigeon Forge High School Winterguard,58.491,12.68,11.01,11.9,11.6
 2025,8,R2,Pigeon Forge High School Winterguard,65.69,13.54,13.35,12.4,13.2
@@ -2257,6 +3020,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,8,GJHSO,Pioneer MS Winterguard,65.89,144.7,120.2,12.5,14.3
 2025,9,GJHSO,Pioneer MS Winterguard,70.01,144.7,139.4,14.7,14.0
 2025,10,GJHSO,Pioneer MS Winterguard,73.44,148.0,151.4,14.5,14.4
+2025,2,SA,Piqua Winter Guard,58.23,11.81,11.52,11.1,11.6
+2025,5,SA,Piqua Winter Guard,64.92,12.61,12.61,12.9,14.1
+2025,7,SA,Piqua Winter Guard,70.89,14.61,13.68,13.6,14.4
+2025,8,SA,Piqua Winter Guard,74.46,15.14,14.62,14.5,15.0
+2025,9,SA,Piqua Winter Guard,77.79,16.14,15.95,15.8,14.6
+2025,10,SA,Piqua Winter Guard,78.18,15.21,16.07,15.5,16.2
 2025,4,PSA,Plainfield Combined Schools,74.7,22.8,14.5,22.8,14.6
 2025,12,R2,Plainfield Combined Schools,91.363,27.263,18.6,27.15,18.35
 2025,2,SRA,Pleasure Ridge Park HS,52.141,11.36,10.08,9.7,10.1
@@ -2268,6 +3037,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,10,PSO,Plymouth-Canton Educational Park,82.25,24.15,16.7,24.4,17.0
 2025,11,PSO,Plymouth-Canton Educational Park,86.7,27.15,17.2,26.3,16.05
 2025,12,R2,Plymouth-Canton Educational Park,81.825,24.225,16.275,25.075,16.25
+2025,2,N,Ponchatoula H.S.,60.05,12.41,12.74,11.7,12.0
+2025,3,N,Ponchatoula H.S.,60.87,12.16,12.61,12.3,11.2
+2025,4,N,Ponchatoula H.S.,64.061,13.55,12.41,12.1,13.1
+2025,7,N,Ponchatoula H.S.,76.88,16.27,15.21,15.6,14.4
+2025,9,N,Ponchatoula H.S.,78.491,16.28,15.81,15.7,15.7
 2025,5,PSA,Ponte Vedra Combined Schools,78.0,24.9,15.8,21.6,15.7
 2025,7,GSRB,Pottsville Winter Guard,69.62,14.04,12.58,15.5,12.7
 2025,8,GSRB,Pottsville Winter Guard,64.6,13.98,13.72,12.5,12.3
@@ -2276,6 +3050,21 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,5,SRA,Powell Bijoux,61.761,13.21,12.35,11.7,12.7
 2025,8,R1,Powell Bijoux,66.23,14.14,12.79,13.6,13.0
 2025,10,R1,Powell Bijoux,70.681,14.34,13.94,14.4,13.7
+2025,3,SRA,Prairieville H.S.,59.081,12.4,12.18,11.6,10.9
+2025,5,SRA,Prairieville H.S.,60.32,11.7,12.12,12.9,11.0
+2025,9,BD,Prairieville H.S.,71.821,14.42,14.3,14.2,14.5
+2025,2,PSRA,Preble Shawnee Indoor Percussion,60.5,18.6,11.8,18.4,11.7
+2025,5,PSRA,Preble Shawnee Indoor Percussion,70.45,21.45,14.7,20.3,14.0
+2025,6,PSRA,Preble Shawnee Indoor Percussion,67.6,20.1,13.0,21.6,12.9
+2025,7,PSRA,Preble Shawnee Indoor Percussion,78.85,23.85,15.4,24.5,15.1
+2025,8,PSRA,Preble Shawnee Indoor Percussion,75.15,21.45,16.4,20.4,16.9
+2025,10,PSRA,Preble Shawnee Indoor Percussion,82.45,25.95,16.4,23.9,16.2
+2025,2,IW,Pride of Cincinnati,79.2,15.9,16.0,15.6,15.4
+2025,7,IW,Pride of Cincinnati,89.9,18.3,18.3,17.2,18.1
+2025,4,PSA,Provo City Percussion,72.85,20.55,15.4,22.2,14.7
+2025,5,PSA,Provo City Percussion,75.85,21.45,15.9,22.9,15.6
+2025,10,PSA,Provo City Percussion,80.65,24.15,17.7,22.6,16.2
+2025,13,PSA,Provo City Percussion,83.25,25.05,17.5,23.5,17.2
 2025,7,PSA,Provo City School District,76.65,22.35,16.7,21.9,15.7
 2025,2,BR,Pulaski County HS,50.781,10.21,10.67,9.9,9.6
 2025,6,PR,Pulaski County HS,58.38,13.07,11.41,10.7,10.5
@@ -2291,7 +3080,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,12,PIW,Pulse Percussion,96.975,29.175,19.4,28.875,19.525
 2025,6,PIO,Q2,83.8,25.2,16.6,25.3,16.7
 2025,12,PIO,Q2,93.951,28.575,19.0,27.825,18.55
+2025,4,PIA,Quad City Percussion,67.45,22.35,12.6,20.2,12.3
+2025,6,PIA,Quad City Percussion,70.8,21.3,14.8,21.4,13.3
 2025,7,PIA,Quad City Percussion,72.3,21.9,15.2,20.6,14.6
+2025,10,PIA,Quad City Percussion,80.075,24.675,15.5,24.15,15.75
+2025,11,PIA,Quad City Percussion,81.225,24.675,15.55,25.05,15.95
 2025,12,PIA,Quad City Percussion,76.475,23.25,15.6,23.325,14.3
 2025,6,PSA,Quakertown,81.5,25.1,25.2,16.5,14.7
 2025,7,PSA,Quakertown,82.4,25.2,25.2,16.5,15.5
@@ -2304,6 +3097,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,9,PIW,RCC,94.2,28.2,19.0,28.05,18.95
 2025,10,PIW,RCC,96.75,29.25,19.6,28.5,19.4
 2025,12,PIW,RCC,99.163,29.888,19.975,29.375,19.925
+2025,10,WIO,RCR Winds,87.1,27.15,26.25,26.25,25.95
 2025,4,B1,Ramona HS,70.8,22.8,14.0,22.0,12.0
 2025,8,B1,Ramona HS,72.85,22.65,13.1,23.0,14.1
 2025,9,R2,Ramona HS,77.101,22.5,14.8,23.9,15.9
@@ -2326,6 +3120,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,4,PSA,Rancho Verde HS,72.451,22.05,14.5,22.1,13.8
 2025,7,PSO,Rancho Verde HS,78.85,23.25,16.0,22.6,17.0
 2025,10,R1,Rancho Verde HS,78.65,23.55,14.7,23.9,16.5
+2025,1,SRA,Randolph County Winter Guard,57.991,11.48,10.41,11.7,11.4
+2025,2,SRA,Randolph County Winter Guard,59.761,11.58,11.78,11.4,13.6
+2025,5,SRA,Randolph County Winter Guard,65.081,11.18,12.0,13.0,13.6
+2025,7,SRA,Randolph County Winter Guard,76.341,14.82,16.12,15.2,15.2
+2025,10,SRA,Randolph County Winter Guard,79.2,17.02,14.38,16.4,16.0
+2025,7,IA,Rangerettes Winter Guard,84.91,17.4,17.01,17.3,16.2
 2025,6,PSO,Ravenwood HS,79.7,24.3,15.9,23.6,15.9
 2025,4,GSN,Razorback Winterguard,56.001,11.72,11.08,11.1,12.4
 2025,8,GSN,Razorback Winterguard,66.66,14.58,13.48,12.9,12.6
@@ -2355,7 +3155,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,9,PIW,Resistance Indoor Percussion,78.85,24.15,15.5,23.5,15.7
 2025,6,PIA,Revelation,82.85,24.75,16.5,24.9,16.7
 2025,12,R1,Revelation,83.788,26.137,17.075,24.05,16.525
+2025,1,IO,Revival Winter Guard,69.5,14.1,14.7,13.8,13.4
+2025,2,IO,Revival Winter Guard,74.1,14.9,14.0,14.5,15.3
+2025,7,IO,Revival Winter Guard,84.8,17.3,16.6,16.7,17.7
+2025,10,IO,Revival Winter Guard,87.4,17.8,17.9,17.7,17.1
 2025,8,PSA,Rex Putnam Combined Schools,80.7,24.6,15.9,24.9,15.3
+2025,7,SRA,Reynoldsburg Winterguard Varsity,74.22,14.04,13.98,14.8,16.9
 2025,1,SRA,Rhea County High School Winter Guard,57.28,12.54,10.94,10.7,11.7
 2025,5,SRA,Rhea County High School Winter Guard,59.521,12.28,11.34,11.2,12.4
 2025,8,R1,Rhea County High School Winter Guard,63.89,13.34,12.15,13.4,12.5
@@ -2377,9 +3182,25 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Pigeon Forge High School Winterguard,70.72
 2025,7,PIO,Rift Percussion,78.2,23.1,16.4,22.4,16.3
 2025,12,R2,Rift Percussion,81.475,25.2,15.4,24.75,16.125
 2025,8,PIW,Rise Percussion,79.05,23.25,16.6,23.1,16.1
+2025,10,WSA,River  Valley Sound of Elk River HS,86.415,35.6,26.115,25.59,26.01
+2025,4,PIO,River City Rhythm,78.45,23.85,14.7,24.4,15.5
 2025,7,PIO,River City Rhythm,83.7,26.1,16.3,24.8,16.5
+2025,8,PIO,River City Rhythm,82.6,24.3,16.0,26.2,16.1
+2025,11,PIO,River City Rhythm,88.15,27.0,18.0,26.55,16.6
 2025,12,R2,River City Rhythm,92.175,27.375,18.25,28.075,18.475
 2025,5,PSA,River Ridge HS,80.175,24.975,16.3,22.6,16.3
+2025,2,PSA,River Valley Percussion Theatre of Elk River High School,68.15,21.45,13.3,19.6,13.8
+2025,4,PSA,River Valley Percussion Theatre of Elk River High School,68.9,18.9,14.2,22.3,13.5
+2025,5,PSA,River Valley Percussion Theatre of Elk River High School,74.3,22.2,15.3,22.3,14.5
+2025,9,PSA,River Valley Percussion Theatre of Elk River High School,84.15,24.75,16.5,25.7,17.2
+2025,10,PSA,River Valley Percussion Theatre of Elk River High School,86.225,26.175,16.0,26.7,17.35
+2025,11,PSA,River Valley Percussion Theatre of Elk River High School,87.95,26.1,17.65,27.2,17.0
+2025,8,R2,Rivera MS,69.06,13.32,14.24,14.0,13.6
+2025,10,S,Rivera MS,72.14,14.14,15.0,14.3,14.3
+2025,3,R1,Riverbank HS,63.74,12.86,12.78,12.7,12.7
+2025,4,SRA,Riverbank HS,64.26,12.64,12.92,13.0,12.8
+2025,8,SRA,Riverbank HS,81.24,15.18,16.46,16.5,16.6
+2025,10,G,Riverbank HS,89.6,16.38,17.92,18.7,18.5
 2025,4,PSB,Rivercrest Indoor Percussion Ensemble,68.55,20.25,12.8,22.4,13.1
 2025,9,PSB,Rivercrest Indoor Percussion Ensemble,74.6,21.6,15.3,22.3,15.4
 2025,5,PSA,Riverview HS,75.8,24.0,14.9,22.7,14.2
@@ -2399,12 +3220,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Roane County High School Winterguard,70.48
 2025,10,PIA,Rochester Institute of Technology (RIT),62.8,18.9,18.6,12.3,13.0
 2025,7,PIA,Rochester Lourdes Drumline,81.35,24.15,16.9,23.7,16.6
 2025,12,PIA,Rochester Lourdes Drumline,83.926,25.5,16.75,25.35,16.325
+2025,4,PIA,Rochester Lourdes High School,71.9,23.4,13.1,21.7,13.7
+2025,10,PIA,Rochester Lourdes High School,82.95,24.45,16.45,25.15,16.9
+2025,11,PIA,Rochester Lourdes High School,85.75,24.9,16.75,26.45,17.65
 2025,6,PSA,Rock Hill HS,81.65,23.85,16.2,25.1,16.5
 2025,12,R1,Rock Hill HS,86.051,25.35,17.4,25.35,17.95
 2025,3,SRA,Rockcastle County High School,53.951,10.21,10.54,10.6,11.5
 2025,9,"EAE&P
 BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94,13.07,13.0,14.0
 2025,10,R2,Rockcastle County High School,75.18,15.21,15.67,14.2,15.7
+2025,2,PSRA,Rocori High School,61.6,20.1,12.2,15.8,13.5
+2025,4,PSRA,Rocori High School,68.55,22.65,13.3,19.3,13.3
+2025,5,PSRA,Rocori High School,70.2,22.2,14.6,19.9,13.5
+2025,6,PSRA,Rocori High School,72.05,21.75,15.2,20.2,14.9
+2025,9,PSRA,Rocori High School,76.8,23.7,15.9,23.3,13.9
+2025,10,PSRA,Rocori High School,84.775,25.425,17.2,25.8,16.35
+2025,11,PSRA,Rocori High School,87.25,25.8,17.15,26.15,18.15
 2025,8,PSO,Rodriguez HS,73.851,21.45,14.4,23.1,14.9
 2025,4,GSN,Rogers HS Varsity Guard,63.461,12.98,12.58,13.3,12.1
 2025,8,GSN,Rogers HS Varsity Guard,79.6,15.32,15.18,16.1,16.3
@@ -2420,6 +3251,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,6,GHSSRA,Roosevelt HS Winterguard,61.9,12.66,14.2,11.4,12.2
 2025,9,GHSSRA,Roosevelt HS Winterguard,69.1,13.72,12.78,14.2,13.7
 2025,10,GHSSRA,Roosevelt HS Winterguard,75.1,14.18,15.32,14.6,16.0
+2025,2,PSA,Ross High School,69.75,20.85,14.0,20.6,14.3
+2025,5,PSA,Ross High School,72.3,21.9,14.5,21.4,14.5
+2025,6,PSA,Ross High School,76.86,22.5,15.3,23.96,15.1
+2025,7,PSA,Ross High School,76.15,23.25,15.3,22.6,15.0
+2025,9,PSA,Ross High School,77.75,22.95,15.5,23.6,15.7
 2025,4,PSW,Rowland HS,76.85,22.95,15.4,22.9,15.6
 2025,10,PSW,Rowland HS,84.551,25.95,16.6,25.7,16.3
 2025,11,PSW,Rowland HS,83.726,24.975,16.45,25.6,16.7
@@ -2434,6 +3270,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,9,PSO,Saginaw HS,84.95,26.85,16.5,25.0,16.6
 2025,12,R2,Saginaw HS,90.464,27.487,17.075,27.75,18.15
 2025,9,PSA,Sahuarita Combined Schools,77.2,22.95,14.7,24.3,15.25
+2025,4,SA,Sam Houston H.S.,69.48,13.47,13.41,14.7,13.9
+2025,5,SA,Sam Houston H.S.,74.44,14.14,15.6,15.1,14.5
+2025,7,SA,Sam Houston H.S.,76.07,14.87,14.6,15.7,15.5
+2025,9,SA,Sam Houston H.S.,79.181,16.34,16.14,14.7,16.3
 2025,4,B2,San Bernardino City USD,75.901,23.4,15.5,23.7,13.3
 2025,7,B2,San Bernardino City USD,76.5,23.7,15.5,21.1,16.2
 2025,8,PSJ,San Bernardino City USD,80.751,22.95,16.6,24.6,16.6
@@ -2452,6 +3292,7 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,B1,Santa Monica HS,71.901,23.4,14.2,19.7,14.6
 2025,9,R3,Santa Monica HS,83.451,25.95,17.8,23.4,16.3
 2025,8,PSW,Saratoga HS,86.65,25.05,16.5,27.3,17.8
+2025,8,PJHM,Savage MS,69.85,20.55,14.0,20.7,14.6
 2025,5,PSB,Scott HS,62.8,18.6,12.7,18.9,12.6
 2025,7,PSB,Scott HS,69.0,20.4,13.4,21.4,13.8
 2025,10,PSB,Scott HS,73.95,22.05,14.9,22.0,15.0
@@ -2552,7 +3393,16 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,SRA,Simon Kenton Guard,67.071,13.36,13.81,12.9,13.3
 2025,9,PR,Simon Kenton Guard,68.951,14.14,14.01,12.9,13.8
 2025,10,SRA,Simon Kenton Guard,70.441,14.54,15.2,13.2,13.8
+2025,8,PSA,Sioux Falls Jefferson High School,71.85,22.35,14.0,21.7,13.8
+2025,10,PSA,Sioux Falls Jefferson High School,77.526,23.175,14.9,23.85,15.6
+2025,11,PSA,Sioux Falls Jefferson High School,78.851,23.1,15.95,24.2,15.6
 2025,8,PSA,Skyview HS,67.251,20.25,12.2,22.8,12.0
+2025,2,SRA,Slidell H.S.,61.251,13.67,12.28,11.5,12.6
+2025,3,SRA,Slidell H.S.,61.161,11.58,12.58,12.8,11.5
+2025,5,SRA,Slidell H.S.,60.38,12.28,12.1,12.1,12.1
+2025,9,RD,Slidell H.S.,72.341,14.44,14.3,14.4,14.8
+2025,10,PBSA,SoWashCo Pepline North,88.95,43.7,45.5,43.1,45.6
+2025,10,PBSA,SoWashCo Pepline Sorth,84.6,41.4,43.5,41.1,43.2
 2025,2,PSRA,Soddy Daisy Indoor Percussion,58.301,18.3,17.1,11.4,11.5
 2025,5,PSRA,Soddy Daisy Indoor Percussion,62.55,19.4,18.45,12.4,12.3
 2025,1,SRA,Soddy-Daisy Winterguard,53.675,10.28,10.02,11.0,11.075
@@ -2572,12 +3422,20 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,11,PSA,South Hills HS,92.363,28.613,18.1,27.35,18.3
 2025,7,PSO,South Jones HS,75.501,23.4,14.3,22.8,15.0
 2025,12,R3,South Jones HS,87.864,26.663,17.3,26.8,17.1
+2025,2,SA,South Lafourche H.S.,66.251,14.54,14.41,12.2,12.8
+2025,3,SA,South Lafourche H.S.,67.04,13.13,14.41,11.8,13.6
+2025,4,SA,South Lafourche H.S.,71.08,14.01,14.87,13.7,14.3
+2025,7,SA,South Lafourche H.S.,75.27,14.2,15.07,14.7,15.7
+2025,8,SA,South Lafourche H.S.,77.31,14.87,15.94,15.8,15.4
+2025,9,SA,South Lafourche H.S.,81.88,15.81,16.47,16.5,16.8
 2025,6,PSA,South Lyon Percussion (SLP),67.2,18.6,14.1,21.3,13.2
 2025,10,PSA,South Lyon Percussion (SLP),68.95,21.45,14.4,19.0,14.1
 2025,11,PSA,South Lyon Percussion (SLP),73.675,23.025,14.7,20.6,15.35
 2025,3,SA,South Oldham HS,64.16,13.61,13.55,12.6,12.2
 2025,7,SA,South Oldham HS,74.251,14.61,14.54,14.3,14.7
 2025,10,BR,South Oldham HS,83.741,17.27,17.47,16.6,16.3
+2025,10,PSCRA,South St. Paul High School,85.05,41.4,45.0,42.4,41.3
+2025,11,PSCRA,South St. Paul High School,86.05,45.7,40.2,43.0,43.2
 2025,2,PSO,South Torrance HS,67.975,21.975,12.7,20.5,12.8
 2025,4,PSO,South Torrance HS,73.9,22.5,14.0,23.9,13.5
 2025,8,PSO,South Torrance HS,79.526,24.825,15.7,22.4,16.6
@@ -2598,6 +3456,14 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,9,PSA,Southport Indoor Percussion Ensemble,84.064,24.562,16.9,26.05,16.55
 2025,10,PSA,Southport Indoor Percussion Ensemble,85.713,25.388,17.65,25.425,17.25
 2025,8,PSA,Southridge HS,77.05,23.85,15.0,23.9,14.3
+2025,3,JV,Southside H.S. JV,60.781,11.6,11.78,12.2,11.6
+2025,7,JV,Southside H.S. JV,67.56,14.58,13.38,13.7,12.9
+2025,8,JV,Southside H.S. JV,71.76,14.22,13.74,14.4,14.5
+2025,9,JV,Southside H.S. JV,72.821,13.96,14.26,14.7,15.1
+2025,3,SA,Southside H.S. Varsity,58.71,12.16,11.75,12.5,10.8
+2025,7,SA,Southside H.S. Varsity,60.04,12.35,13.69,11.1,11.3
+2025,8,SA,Southside H.S. Varsity,62.741,12.56,13.18,12.8,12.3
+2025,9,SA,Southside H.S. Varsity,61.62,12.9,12.42,12.8,12.1
 2025,6,PSW,Sparkman HS,80.4,24.3,16.5,23.3,16.3
 2025,12,R2,Sparkman HS,86.576,26.325,17.2,26.65,16.4
 2025,8,PIO,Sparta Indoor Percussion,83.95,24.75,16.6,25.9,16.7
@@ -2621,26 +3487,65 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,11,PSO,Spring-Ford HS,91.7,27.7,27.9,17.4,18.7
 2025,12,R3,Spring-Ford HS,88.438,26.137,17.75,26.65,17.9
 2025,12,R1,Springboro HS,86.475,26.625,17.7,25.0,17.15
+2025,2,PSA,Springboro High School Indoor Percussion,72.45,20.85,14.4,22.5,14.7
+2025,5,PSA,Springboro High School Indoor Percussion,73.0,21.6,14.7,21.9,14.8
+2025,7,PSA,Springboro High School Indoor Percussion,80.225,22.425,16.1,26.4,15.3
+2025,10,PSA,Springboro High School Indoor Percussion,85.95,25.65,17.6,25.8,16.9
+2025,2,,Springboro High School Winterguard,67.48,14.14,14.14,13.3,13.6
+2025,7,,Springboro High School Winterguard,77.31,15.35,14.86,15.5,15.8
+2025,10,,Springboro High School Winterguard,80.13,16.67,15.66,15.2,16.7
 2025,3,SA,Springfield. KY,58.82,12.46,11.46,11.8,11.1
 2025,7,SA,Springfield. KY,61.83,12.42,12.61,12.6,11.7
 2025,8,SA,Springfield. KY,68.73,13.88,13.35,12.5,14.2
 2025,10,BR,Springfield. KY,69.491,13.75,14.54,13.3,13.9
 2025,6,SA,Springs Valley HS (WV),50.671,10.35,10.42,9.7,10.1
 2025,8,SA,Springs Valley HS (WV),57.871,11.36,12.61,11.2,11.0
+2025,3,SA,St. Amant H.S. Black,62.69,13.08,12.61,13.4,11.1
+2025,4,SA,St. Amant H.S. Black,69.91,13.94,14.47,13.8,13.8
+2025,5,SA,St. Amant H.S. Black,70.26,13.22,14.54,14.7,14.2
+2025,9,SA,St. Amant H.S. Black,73.95,14.34,15.41,15.5,15.0
+2025,3,JV,St. Amant H.S. Gold,64.26,12.82,13.04,12.3,12.0
+2025,4,JV,St. Amant H.S. Gold,68.3,13.84,13.86,12.7,14.5
+2025,5,JV,St. Amant H.S. Gold,66.82,13.44,13.38,13.1,13.4
+2025,9,JV,St. Amant H.S. Gold,75.281,14.3,14.98,15.6,16.0
+2025,4,PSRA,St. Francis High School,68.85,22.35,12.8,18.7,15.0
+2025,6,PSRA,St. Francis High School,69.4,22.8,14.2,18.9,13.5
+2025,9,PSRA,St. Francis High School,68.6,18.6,13.8,21.1,15.1
+2025,10,PSRA,St. Francis High School,79.575,23.775,15.35,24.3,16.15
+2025,11,PSRA,St. Francis High School,80.225,24.075,15.4,24.5,16.25
 2025,2,PSA,St. Genevieve HS,64.901,19.35,12.8,19.4,13.35
 2025,4,B2,St. Genevieve HS,74.401,22.5,13.8,23.5,14.6
 2025,6,B1,St. Genevieve HS,69.101,21.6,13.9,19.9,13.7
 2025,8,B1,St. Genevieve HS,75.0,22.5,14.2,23.5,14.8
+2025,2,SA,St. Mary's Dominican H.S.,67.62,13.41,13.61,13.5,13.9
+2025,4,SA,St. Mary's Dominican H.S.,69.91,14.54,14.07,14.1,14.0
+2025,9,SA,St. Mary's Dominican H.S.,72.28,14.87,14.21,13.9,15.1
 2025,8,PSA,Standley Lake HS,76.7,23.1,15.7,22.7,15.2
 2025,7,PSA,Starkville HS,75.25,21.6,16.2,23.75,13.7
 2025,12,R3,Starkville HS,81.475,24.0,16.4,24.4,16.675
+2025,2,SRA,Sterlington H.S.,70.84,15.0,14.54,13.4,14.0
+2025,5,SRA,Sterlington H.S.,68.26,13.16,14.5,14.3,12.4
+2025,7,SRA,Sterlington H.S.,75.32,15.06,15.1,14.5,14.6
+2025,9,BD,Sterlington H.S.,82.0,16.9,16.5,16.6,16.5
 2025,2,PSO,Stockdale HS,75.75,23.25,15.0,22.3,15.2
 2025,6,PSO,Stockdale HS,83.6,24.9,16.7,25.3,16.7
 2025,8,PSW,Stockdale HS,82.9,24.9,16.6,25.1,16.3
 2025,9,PSW,Stockdale HS,84.439,25.087,16.85,25.8,16.7
 2025,10,PSW,Stockdale HS,84.551,25.35,16.9,25.2,17.1
 2025,11,PSW,Stockdale HS,84.926,25.275,17.0,26.3,16.35
+2025,6,R2,Stockton,71.5,20.1,15.4,20.2,15.8
+2025,10,G,Stockton,80.9,24.9,15.5,23.7,16.8
 2025,5,PSO,Stoneman Douglas HS,66.65,19.05,12.7,22.3,12.6
+2025,4,N,"Sulphur H.S. ""F3""",62.581,12.81,12.47,11.9,12.9
+2025,8,N,"Sulphur H.S. ""F3""",74.95,16.53,14.02,15.2,14.3
+2025,9,N,"Sulphur H.S. ""F3""",73.21,14.29,14.22,15.6,14.3
+2025,4,JV,"Sulphur H.S. ""F4""",63.36,12.84,12.12,12.4,13.3
+2025,8,JV,"Sulphur H.S. ""F4""",71.86,14.44,13.72,14.2,14.9
+2025,9,JV,"Sulphur H.S. ""F4""",72.241,13.76,13.78,14.6,15.5
+2025,4,SA,"Sulphur H.S. ""F5""",69.11,12.87,12.94,14.9,13.5
+2025,7,SA,"Sulphur H.S. ""F5""",74.54,14.74,16.0,15.4,14.2
+2025,8,SA,"Sulphur H.S. ""F5""",77.49,15.0,15.59,16.0,15.7
+2025,9,SA,"Sulphur H.S. ""F5""",76.95,14.93,15.92,16.4,15.4
 2025,6,PSO,Summit HS (TN),75.1,22.5,15.1,22.8,14.7
 2025,9,PIO,Sun City Independent,80.5,24.0,16.8,24.0,15.7
 2025,12,R2,Sun City Independent,85.538,26.212,16.825,25.7,16.8
@@ -2673,9 +3578,17 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,SA,Sycamore HS,67.12,13.95,14.47,13.0,12.5
 2025,10,PR,Sycamore HS,69.841,14.47,14.27,13.6,13.8
 2025,12,R4,Sycamore HS,90.838,27.188,18.45,26.925,18.275
+2025,2,PSA,Sycamore High School Winter Drumline,74.6,22.8,14.8,22.0,15.0
+2025,5,PSA,Sycamore High School Winter Drumline,80.7,24.0,16.9,23.1,16.7
+2025,7,PSA,Sycamore High School Winter Drumline,81.25,25.05,16.2,23.8,16.2
+2025,10,PSA,Sycamore High School Winter Drumline,89.65,26.85,18.3,26.6,17.9
 2025,9,PIO,Synergy,84.35,25.65,16.9,24.5,17.3
 2025,12,R1,Synergy,85.225,26.175,16.35,25.05,17.65
 2025,6,PSW,T.L. Hanna HS,70.4,20.7,14.7,20.7,14.3
+2025,2,S,TCA Independent,59.03,11.75,12.08,11.2,12.6
+2025,5,S,TCA Independent,56.94,12.43,11.81,11.5,10.6
+2025,7,S,TCA Independent,63.49,14.21,13.48,12.2,11.9
+2025,9,S,TCA Independent,70.35,15.01,14.54,14.2,13.2
 2025,8,SJ,Tates Creek MS,57.37,11.67,12.0,11.5,11.0
 2025,1,SRA,Taylor HS,60.92,12.07,11.75,12.3,12.2
 2025,5,SRA,Taylor HS,71.89,14.01,13.88,14.8,14.7
@@ -2700,22 +3613,42 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,PRA,Terre Haute North Winter Percussion,67.9,20.7,12.7,21.2,13.3
 2025,8,PRA,Terre Haute North Winter Percussion,69.45,21.15,13.7,20.9,13.7
 2025,9,PRA,Terre Haute North Winter Percussion,76.201,24.3,14.75,22.05,15.1
-2025,3,PRA,Terre Haute South Indoor Percussion,65.35,19.95,12.6,20.2,12.6
 2025,4,PRA,Terre Haute South Indoor Percussion,64.25,18.75,13.2,20.1,12.2
 2025,7,PRA,Terre Haute South Indoor Percussion,69.8,21.9,13.3,20.4,14.2
 2025,8,PRA,Terre Haute South Indoor Percussion,72.0,20.7,14.0,23.0,14.3
 2025,9,PRA,Terre Haute South Indoor Percussion,78.675,23.775,14.7,24.0,16.2
+2025,4,SA,Terrebonne H.S.,70.72,13.75,14.87,14.6,13.3
+2025,8,SA,Terrebonne H.S.,74.96,14.81,14.75,15.1,15.5
+2025,9,SA,Terrebonne H.S.,72.941,13.96,14.68,15.0,14.4
+2025,2,PSO,Terrebonne Parish,70.45,21.1,20.85,14.2,14.3
+2025,3,PSO,Terrebonne Parish,71.75,20.8,21.75,13.7,15.5
+2025,8,PSO,Terrebonne Parish,81.5,24.2,24.6,16.4,16.3
 2025,7,PSO,Terrebonne Parish Combined Schools,73.551,20.85,14.0,23.9,14.8
 2025,6,PSA,Terry HS,81.95,25.05,17.0,24.8,15.1
 2025,8,B1,Tesoro HS,74.15,23.25,13.2,24.1,13.6
+2025,1,ECG,The Belles and the Beaux,74.2,14.5,15.1,15.4,14.3
+2025,2,ECG,The Belles and the Beaux,79.1,15.3,16.6,15.6,15.7
+2025,3,ECG,The Belles and the Beaux,83.1,15.1,14.9,16.8,18.1
+2025,5,ECG,The Belles and the Beaux,87.3,15.9,17.7,18.0,17.5
+2025,6,ECG,The Belles and the Beaux,87.6,16.7,17.5,18.2,17.8
+2025,7,ECG,The Belles and the Beaux,87.6,17.3,17.9,17.7,17.7
+2025,10,ECG,The Belles and the Beaux,91.4,18.7,18.1,17.9,18.6
 2025,4,SRA,The Collective Guard,63.65,13.74,13.01,12.3,12.6
 2025,7,SRA,The Collective Guard,71.32,15.01,14.81,14.5,13.4
 2025,8,SRA,The Collective Guard,76.85,15.41,15.94,16.3,14.6
 2025,10,SRA,The Collective Guard,81.38,16.28,16.2,16.4,16.3
 2025,6,IO,The Magnolia Project,71.6,14.4,14.0,14.3,14.5
 2025,10,IO,The Magnolia Project,77.5,16.2,15.2,15.6,15.3
+2025,1,ECG,The Milton Minis,70.701,14.0,14.1,14.8,14.0
+2025,3,ECG,The Milton Minis,77.6,14.3,14.3,14.5,16.8
+2025,5,ECG,The Milton Minis,80.7,16.8,16.8,16.4,15.5
+2025,8,ECG,The Milton Minis,88.2,18.4,18.0,16.9,17.6
+2025,10,ECG,The Milton Minis,90.101,18.4,18.6,17.4,17.5
 2025,8,PIW,Thesis,85.25,24.75,16.6,26.2,17.7
 2025,9,PIW,Thesis,85.526,25.65,16.9,26.1,16.875
+2025,5,SA,Thibodaux H.S.,67.07,13.07,13.6,13.9,12.8
+2025,8,SA,Thibodaux H.S.,77.65,15.86,15.19,15.2,16.0
+2025,9,SA,Thibodaux H.S.,77.97,15.47,16.0,15.9,15.1
 2025,7,PSO,Thomas Jefferson HS,82.75,24.45,15.6,26.5,16.2
 2025,2,SRA,Thomas S. Wootton HS Guard,67.71,13.34,12.87,15.1,12.8
 2025,6,SRA,Thomas S. Wootton HS Guard,74.45,15.01,14.74,15.8,14.7
@@ -2725,6 +3658,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,6,B2,Thousand Oaks HS,67.801,20.4,13.1,20.5,13.8
 2025,9,R3,Thousand Oaks HS,76.2,24.6,15.2,21.1,15.3
 2025,12,R4,Timberland Combined Schools,87.839,26.363,17.425,26.65,17.4
+2025,3,SRA,Tioga H.S.,67.9,14.18,13.32,13.9,13.4
+2025,4,SRA,Tioga H.S.,73.18,14.92,14.86,14.4,14.4
+2025,7,SRA,Tioga H.S.,72.46,14.66,14.6,14.1,14.1
+2025,8,SRA,Tioga H.S.,78.54,16.36,16.28,15.0,15.2
+2025,9,BD,Tioga H.S.,83.36,17.42,16.94,16.4,16.6
 2025,9,PIA,Toms River Percussion,71.375,21.525,14.65,21.2,14.0
 2025,2,PSA,Torrance HS,62.65,18.0,12.6,19.1,12.95
 2025,7,B2,Torrance HS,69.651,22.05,14.0,19.7,13.9
@@ -2752,15 +3690,27 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,9,R1,Trabuco Hills HS,89.25,27.15,18.8,26.1,17.2
 2025,10,R2,Trabuco Hills HS,89.7,27.6,17.5,27.5,17.1
 2025,11,PSA,Trabuco Hills HS,88.464,26.812,16.725,27.05,17.875
+2025,4,R2,Tracy HS,53.941,11.38,10.26,10.0,11.0
+2025,6,R3,Tracy HS,58.56,11.96,11.7,11.1,11.9
+2025,10,B,Tracy HS,76.2,14.84,15.06,15.4,15.4
 2025,8,PIO,Tri-City Percussion,79.9,22.5,16.2,25.2,16.0
 2025,12,R1,Tri-City Percussion,79.0,24.6,15.25,23.0,16.15
 2025,4,PRA,Triton Central Indoor Percussion,60.2,18.3,11.0,18.5,12.4
 2025,7,PRA,Triton Central Indoor Percussion,63.851,19.8,12.65,18.3,13.1
 2025,9,PRA,Triton Central Indoor Percussion,67.1,20.7,13.35,18.9,14.15
+2025,2,SRA,Troy HS,62.98,12.5,11.58,12.8,13.4
+2025,3,SRA,Troy HS,58.42,12.0,10.92,10.8,12.4
+2025,5,SRA,Troy HS,69.6,12.44,13.86,13.5,14.0
 2025,6,B1,Troy HS,72.501,20.7,13.8,21.8,16.2
-2025,7,B1,Troy HS,75.951,23.25,14.4,21.9,16.4
+2025,7,SRA,Troy HS,80.66,16.28,14.98,17.0,16.6
+2025,8,SRA,Troy HS,80.74,16.08,16.46,15.0,16.5
 2025,9,R2,Troy HS,73.2,21.45,16.0,20.6,15.15
+2025,10,SRA,Troy HS,84.5,16.92,16.48,17.7,17.8
 2025,12,R3,Troy HS,83.325,23.7,16.85,25.4,17.375
+2025,2,PSA,Troy Indoor Percussion,66.1,18.6,13.4,21.2,12.9
+2025,5,PSA,Troy Indoor Percussion,73.05,21.75,15.2,21.8,14.3
+2025,7,PSA,Troy Indoor Percussion,80.0,23.1,16.7,25.7,14.5
+2025,10,PSA,Troy Indoor Percussion,85.1,24.9,17.2,25.7,17.3
 2025,7,PSO,Trumbull HS,81.6,24.9,15.8,25.2,15.7
 2025,9,PSO,Trumbull HS,82.251,24.15,17.0,25.5,15.6
 2025,12,R3,Trumbull HS,84.95,26.25,16.9,25.05,16.75
@@ -2789,11 +3739,23 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,GHSSRA,Tulare Western HS Winterguard B,58.421,11.36,11.36,11.6,12.3
 2025,10,GHSSRA,Tulare Western HS Winterguard B,63.501,13.04,12.56,12.3,13.0
 2025,7,PSO,Tupelo HS,72.826,21.825,13.8,23.2,14.0
+2025,6,R1,Turlock Christian School,53.82,10.64,10.8,10.8,11.2
+2025,10,B,Turlock Christian School,67.38,13.26,13.52,13.5,13.3
+2025,6,R1,Turlock HS,65.15,19.05,13.8,18.6,13.7
+2025,8,R1,Turlock HS,63.301,17.7,13.1,20.1,12.4
+2025,3,R2,Turlock High Blue Winter Guard,56.18,11.32,10.46,12.0,11.2
+2025,6,SRA,Turlock High Blue Winter Guard,68.5,14.52,14.4,12.8,13.8
+2025,8,SRA,Turlock High Blue Winter Guard,75.16,14.78,15.38,15.1,14.8
+2025,10,S,Turlock High Blue Winter Guard,85.16,15.76,16.0,17.8,18.0
+2025,6,R1,Turlock High Gold Winter Guard,62.32,12.04,12.7,12.3,12.7
+2025,8,R1,Turlock High Gold Winter Guard,70.1,14.04,14.46,13.6,14.5
+2025,10,G,Turlock High Gold Winter Guard,77.58,14.72,15.86,15.7,16.0
 2025,5,PSA,Twin Valley HS,67.4,20.3,21.6,12.4,13.1
 2025,6,PSA,Twin Valley HS,75.601,23.3,23.1,15.2,14.0
 2025,7,PSA,Twin Valley HS,69.35,19.5,22.35,13.3,14.2
 2025,10,PSA,Twin Valley HS,70.35,22.1,21.45,13.2,13.6
 2025,11,PSA,Twin Valley HS,73.4,22.8,22.2,13.6,14.8
+2025,10,PBSA,Two Rivers High School,90.35,45.6,46.5,43.8,44.8
 2025,9,PIO,UTSA,88.2,26.4,17.8,26.3,17.7
 2025,12,PIO,UTSA,95.388,28.987,18.7,28.75,18.95
 2025,6,PSO,Union HS,82.25,25.65,16.9,23.4,16.3
@@ -2816,6 +3778,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,12,R2,United Percussion 2,91.563,26.812,18.7,27.95,18.1
 2025,5,PSO,University HS,70.0,20.1,12.9,22.8,14.2
 2025,6,PSA,University HS,72.451,22.35,14.1,21.7,14.3
+2025,3,IA,University of Louisiana,65.19,13.01,13.28,12.9,12.2
+2025,7,IA,University of Louisiana,74.99,14.68,14.61,15.7,15.1
+2025,8,IA,University of Louisiana,73.34,15.0,14.94,15.2,13.5
+2025,9,IA,University of Louisiana,76.39,14.75,15.34,15.6,15.3
 2025,2,PSA,Upland HS,74.8,22.5,14.8,22.4,15.1
 2025,4,B2,Upland HS,83.55,25.35,16.7,25.0,16.5
 2025,6,B2,Upland HS,86.3,26.1,17.7,25.1,17.4
@@ -2847,6 +3813,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,6,P-SA,Urbana High School Indoor Percussion,73.751,24.0,21.15,14.7,13.9
 2025,8,P-SA,Urbana High School Indoor Percussion,78.75,25.65,21.6,15.3,16.2
 2025,10,P-SA,Urbana High School Indoor Percussion,81.276,26.25,23.55,15.55,15.925
+2025,4,SJH,Ustach MS,54.22,11.34,10.38,10.1,11.3
+2025,8,R2,Ustach MS,72.06,14.04,15.12,13.2,15.2
+2025,10,G,Ustach MS,81.18,15.5,16.48,16.5,16.6
 2025,3,PSO,Valencia HS,72.5,22.2,14.2,21.2,14.9
 2025,6,PSO,Valencia HS,77.5,23.1,15.4,22.3,16.7
 2025,8,PSO,Valencia HS,86.925,27.225,17.3,25.6,16.8
@@ -2863,6 +3832,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,4,PSA,Valley View HS,65.85,20.85,13.1,20.6,11.3
 2025,7,B1,Valley View HS,69.851,21.45,13.8,19.6,15.0
 2025,9,R4,Valley View HS,66.9,20.7,12.6,19.7,13.9
+2025,1,N,Valley View High School Winter Guard,52.92,8.61,9.61,11.7,11.8
+2025,3,N,Valley View High School Winter Guard,54.68,11.78,10.1,11.0,11.3
+2025,7,N,Valley View High School Winter Guard,68.92,14.5,14.32,13.2,14.6
+2025,10,N,Valley View High School Winter Guard,74.541,12.98,14.06,15.3,15.8
 2025,4,GSRA,Valley View Winter Guard,63.14,12.86,12.08,12.5,12.7
 2025,7,GSRA,Valley View Winter Guard,70.2,13.58,14.5,13.7,14.3
 2025,9,GSRA,Valley View Winter Guard,75.6,14.72,15.28,15.1,15.3
@@ -2870,12 +3843,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,PSA,Van Buren HS Indoor Percussion,78.95,24.75,15.8,23.1,15.3
 2025,9,PSA,Van Buren HS Indoor Percussion,81.6,24.3,17.1,23.6,16.6
 2025,4,GSN,Van Buren High School Junior Varsity Winter Guard,70.52,13.98,13.84,14.4,15.2
+2025,9,PSRA,Vancleave H.S.,78.575,22.875,16.2,23.8,15.7
+2025,4,SRA,Vandebilt Catholic H.S.,71.86,14.58,14.18,13.7,14.6
+2025,8,SRA,Vandebilt Catholic H.S.,76.92,15.44,14.78,15.2,15.6
+2025,9,RD,Vandebilt Catholic H.S.,81.46,16.04,16.32,16.3,16.6
 2025,4,PIO,Veritas,77.85,23.85,16.0,22.1,15.9
 2025,6,PIO,Veritas,83.85,24.75,17.3,25.4,16.4
 2025,8,PIO,Veritas,87.65,26.25,17.4,26.3,17.7
 2025,9,PIO,Veritas,88.5,26.55,18.0,26.35,17.6
 2025,10,PIO,Veritas,89.375,28.275,17.35,26.35,17.4
 2025,12,PIO,Veritas,97.85,29.775,19.75,28.65,19.675
+2025,1,SRA,Versailles Ohio,62.98,13.34,12.54,12.0,13.0
+2025,1,SRA,Versailles Winter Guard,62.98,13.34,12.54,12.0,13.0
+2025,5,SRA,Versailles Winter Guard,62.96,12.24,12.32,12.3,12.7
+2025,7,SRA,Versailles Winter Guard,77.54,14.0,16.14,16.0,16.5
+2025,8,SRA,Versailles Winter Guard,76.12,13.9,16.72,13.6,16.1
+2025,10,SRA,Versailles Winter Guard,85.8,18.02,16.78,16.6,16.4
 2025,4,PSO,Victor,71.95,21.3,22.65,14.3,13.7
 2025,6,PSO,Victor,76.65,23.2,23.55,15.4,14.5
 2025,8,PSO,Victor,81.75,24.1,25.35,16.6,15.7
@@ -2886,13 +3869,15 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,12,PSO,Victor J. Andrew HS,96.763,29.062,19.35,28.925,19.425
 2025,9,PIW,Vigilantes Indoor Percussion,86.4,26.4,17.3,25.2,17.5
 2025,12,PIW,Vigilantes Indoor Percussion,84.65,25.575,16.55,25.675,16.85
-2025,3,PSA,Vincennes Indoor Percussion,66.85,20.4,12.4,20.2,13.85
 2025,4,PSA,Vincennes Indoor Percussion,66.05,19.65,13.1,20.0,13.3
 2025,5,PSA,Vincennes Indoor Percussion,67.3,19.8,13.5,20.2,13.8
 2025,7,PSA,Vincennes Indoor Percussion,68.801,21.15,13.15,20.6,13.9
 2025,8,PSA,Vincennes Indoor Percussion,73.251,21.6,15.0,22.45,14.2
 2025,9,PSA,Vincennes Indoor Percussion,74.25,21.9,13.6,23.5,15.25
 2025,10,PSA,Vincennes Indoor Percussion,76.463,22.312,15.15,23.25,15.75
+2025,4,SRA,Vinton H.S.,69.42,14.32,15.2,13.1,13.4
+2025,7,SRA,Vinton H.S.,69.021,13.92,12.8,13.6,13.3
+2025,9,RD,Vinton H.S.,72.261,14.18,14.98,14.7,14.4
 2025,9,GJHSA,Visalia,51.52,97.4,102.8,10.7,11.0
 2025,10,GJHSA,Visalia,55.201,113.5,113.5,10.6,10.4
 2025,6,PIO,Vision Percussion,79.75,23.85,15.6,24.3,16.0
@@ -2915,6 +3900,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,5,SRA,WB Orange,58.75,12.68,11.67,11.1,11.5
 2025,9,SRA,WB Orange,68.29,13.15,13.74,13.8,14.3
 2025,10,SRA,WB Orange,70.02,14.01,13.81,13.7,13.7
+2025,3,N,Walker H.S.,58.331,12.75,11.88,11.0,11.8
+2025,5,N,Walker H.S.,69.45,14.41,15.94,14.0,11.8
+2025,9,N,Walker H.S.,76.821,16.41,16.01,15.3,14.6
 2025,6,PSW,Walled Lake Consolidated Schools,79.2,24.6,15.2,23.9,15.5
 2025,10,PSW,Walled Lake Consolidated Schools,87.5,25.8,18.5,26.2,17.0
 2025,11,PSW,Walled Lake Consolidated Schools,91.525,27.975,18.45,27.65,17.45
@@ -2924,6 +3912,16 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,B2,Walnut HS,74.2,24.3,12.8,23.7,13.4
 2025,9,R1,Walnut HS,79.301,25.8,14.2,23.9,15.4
 2025,10,R2,Walnut HS,82.25,25.2,15.9,25.75,15.4
+2025,2,PSRA,Walter E. Stebbins Indoor Percussion,60.0,18.0,12.2,18.2,11.6
+2025,5,PSRA,Walter E. Stebbins Indoor Percussion,68.25,19.35,14.8,20.6,13.5
+2025,7,PSRA,Walter E. Stebbins Indoor Percussion,70.75,20.85,12.8,23.6,13.5
+2025,9,PSRA,Walter E. Stebbins Indoor Percussion,73.0,21.6,14.2,22.8,14.4
+2025,10,PSRA,Walter E. Stebbins Indoor Percussion,77.55,24.75,15.0,23.4,14.4
+2025,1,SA,Walter E. Stebbins Varsity Guard,55.02,11.61,11.21,10.4,10.8
+2025,7,SRA,Walter E. Stebbins Varsity Guard,74.66,14.48,13.18,14.7,15.7
+2025,8,SRA,Walter E. Stebbins Varsity Guard,75.621,14.88,15.94,13.9,14.9
+2025,9,SRA,Walter E. Stebbins Varsity Guard,79.62,17.48,14.74,15.1,16.8
+2025,10,SRA,Walter E. Stebbins Varsity Guard,77.86,14.78,14.38,16.0,16.7
 2025,7,PSJ,Warm Springs MS,83.0,25.2,16.5,25.3,16.0
 2025,8,PSJ,Warm Springs MS,88.05,25.65,17.5,27.1,17.8
 2025,10,PSJ,Warm Springs MS,95.113,28.762,19.35,27.95,19.05
@@ -2935,7 +3933,6 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,PSA,Warren Central HS (MS),80.401,22.8,17.4,23.5,16.7
 2025,9,PSA,Warren Central HS (MS),84.05,25.95,16.7,24.7,16.7
 2025,12,R3,Warren Central HS (MS),86.939,26.137,17.55,25.0,18.25
-2025,3,PSA,Warren Central High School,74.05,21.75,14.3,22.3,15.7
 2025,4,PSA,Warren Central High School,76.625,21.525,16.0,23.8,15.3
 2025,8,PSO,Warren Central High School,80.15,23.85,16.2,24.2,15.9
 2025,9,PSO,Warren Central High School,78.775,23.175,15.75,23.9,15.95
@@ -2963,8 +3960,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,6,SA,Washington County Winter Guard,73.74,15.47,13.67,14.8,15.4
 2025,7,SA,Washington County Winter Guard,77.64,17.0,14.54,15.1,15.2
 2025,9,SA,Washington County Winter Guard,77.52,15.21,15.21,15.6,15.6
+2025,8,R2,Washington Union HS,71.74,14.52,14.12,14.0,14.3
+2025,10,S,Washington Union HS,78.3,14.68,15.72,16.0,16.1
 2025,4,R2,Washington Union HS Winterguard,56.94,12.2,11.14,13.1,10.0
 2025,6,GHSSRA,Washington Union HS Winterguard,65.38,14.32,13.86,14.6,11.4
+2025,8,R1,Washington Union Indoor Percussion,72.7,21.9,14.4,22.8,13.6
+2025,10,G,Washington Union Indoor Percussion,80.65,24.75,16.2,24.5,15.2
 2025,2,BR,Wayne Co,52.04,12.13,10.21,8.6,10.5
 2025,5,SRA,Wayne Co,67.75,13.54,13.41,14.3,13.5
 2025,8,SRA,Wayne Co,74.18,14.54,15.14,15.3,14.6
@@ -2978,6 +3979,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,SJ,Waynesboro MS Guard,67.79,12.15,13.94,13.7,14.2
 2025,9,SJ,Waynesboro MS Guard,71.05,14.01,14.14,14.3,14.6
 2025,10,SJ,Waynesboro MS Guard,78.38,16.14,16.14,15.2,15.1
+2025,2,SRA,Waynesville High School Varsity Winter Guard,59.021,11.9,12.92,11.1,11.0
+2025,5,SRA,Waynesville High School Varsity Winter Guard,60.0,11.64,11.66,11.6,12.7
+2025,6,SRA,Waynesville High School Varsity Winter Guard,64.801,13.46,11.44,13.0,13.0
+2025,7,SRA,Waynesville High School Varsity Winter Guard,72.22,14.44,14.28,14.1,15.3
+2025,10,SRA,Waynesville High School Varsity Winter Guard,84.001,17.88,15.52,16.5,16.3
 2025,9,PSA,Weatherford HS,81.25,24.75,16.5,24.9,15.1
 2025,2,PJHSA,Weaver Middle School Percussion,63.25,21.5,18.9,12.2,10.65
 2025,4,PJHSA,Weaver Middle School Percussion,65.75,21.8,19.05,11.7,13.2
@@ -2987,6 +3993,11 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,GJHSO,Weaver Middle School Winterguard,69.77,144.9,130.8,13.8,14.4
 2025,9,GJHSO,Weaver Middle School Winterguard,73.81,140.7,141.4,15.3,14.6
 2025,10,GJHSO,Weaver Middle School Winterguard,78.79,143.5,155.4,16.3,16.6
+2025,1,SRA,West Carrollton High School Color Guard,61.441,12.4,12.34,12.4,12.8
+2025,5,SRA,West Carrollton High School Color Guard,62.12,11.66,13.26,11.3,13.2
+2025,6,SRA,West Carrollton High School Color Guard,65.921,13.54,11.78,11.7,14.4
+2025,7,SRA,West Carrollton High School Color Guard,74.9,14.72,13.78,16.4,13.5
+2025,10,SRA,West Carrollton High School Color Guard,77.68,16.66,13.92,15.7,15.7
 2025,1,SRA,West Clermont HS,56.06,9.74,10.82,11.4,11.8
 2025,5,SRA,West Clermont HS,69.92,11.88,14.74,15.5,14.4
 2025,7,PR,West Clermont HS,74.55,14.61,15.14,15.2,14.8
@@ -2998,6 +4009,12 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,6,PSA,West HS,64.801,18.3,14.3,19.0,13.2
 2025,7,PSO,West HS,82.15,25.65,16.0,23.9,16.6
 2025,10,R2,West HS,82.001,23.85,15.65,26.3,16.2
+2025,2,PSA,West Harrison H.S.,74.45,22.0,21.75,15.2,15.5
+2025,3,PSA,West Harrison H.S.,72.75,22.1,21.75,14.6,14.3
+2025,9,PSA,West Harrison H.S.,84.48,26.7,24.78,15.7,17.3
+2025,2,SA,West Harrison H.S. Varsity,67.85,13.81,13.94,12.9,13.5
+2025,3,SA,West Harrison H.S. Varsity,68.95,13.54,14.21,13.3,13.5
+2025,9,SA,West Harrison H.S. Varsity,79.77,15.8,16.67,15.4,15.8
 2025,7,PSA,West Harrison HS,81.151,26.1,17.6,23.0,14.45
 2025,2,PSRA,West High School Indoor Percussion,59.75,19.5,17.55,11.0,11.7
 2025,5,PSRA,West High School Indoor Percussion,66.55,20.0,20.25,13.6,12.7
@@ -3015,10 +4032,19 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,8,SJ,West Irvine ES,60.69,11.75,12.74,12.2,12.0
 2025,9,SJ,West Irvine ES,61.53,12.68,12.55,11.6,12.3
 2025,10,SJ,West Irvine ES,70.141,13.73,13.6,14.7,14.7
+2025,4,PSA,West Jordan HS,62.551,18.15,13.0,19.6,11.8
+2025,5,PSA,West Jordan HS,64.7,18.45,12.4,21.6,12.25
 2025,7,PSA,West Jordan HS,65.901,20.4,13.8,18.9,12.8
+2025,9,PSA,West Jordan HS,75.451,21.15,17.0,22.3,15.0
+2025,10,PSA,West Jordan HS,73.501,22.5,15.6,21.3,14.1
+2025,13,PSA,West Jordan HS,73.65,22.2,15.2,20.95,15.3
 2025,9,PSA,West Milford HS,87.388,27.113,17.6,25.375,17.3
 2025,12,R1,West Milford HS,85.076,25.05,17.775,25.6,16.65
 2025,5,PSA,West Orange HS,68.45,21.75,14.0,19.6,13.1
+2025,2,SRA,West Ouachita H.S.,57.231,12.48,11.75,10.9,11.8
+2025,5,SRA,West Ouachita H.S.,65.241,13.38,14.46,12.5,12.2
+2025,7,SRA,West Ouachita H.S.,71.241,14.86,13.4,13.8,14.4
+2025,9,RD,West Ouachita H.S.,79.76,16.0,16.66,15.9,15.4
 2025,8,PSO,West Park HS,83.45,24.15,16.3,25.9,17.1
 2025,4,PSW,West Ranch HS,75.15,22.65,14.9,23.3,14.3
 2025,7,PSW,West Ranch HS,80.15,26.25,15.5,22.6,15.8
@@ -3051,6 +4077,10 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,4,PSA,Western HS,63.55,19.95,12.2,19.8,11.6
 2025,8,B2,Western HS,65.801,20.7,12.4,20.5,12.2
 2025,9,R2,Western HS,67.3,22.2,12.8,19.4,12.9
+2025,1,SRA,Westerville Central Winterguard,52.891,10.61,9.88,10.9,10.7
+2025,7,SRA,Westerville Central Winterguard,67.54,13.76,12.18,14.1,13.5
+2025,9,SRA,Westerville Central Winterguard,70.52,13.84,13.98,15.2,13.5
+2025,10,SRA,Westerville Central Winterguard,71.2,13.7,14.0,14.3,13.7
 2025,6,PSA,Westfield HS (IN),82.726,26.625,15.1,25.55,15.45
 2025,12,R3,Westfield HS (IN),87.951,26.325,17.975,26.275,17.375
 2025,4,PSA,Westfield Indoor Percussion,74.9,22.5,14.6,22.9,14.9
@@ -3062,6 +4092,9 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,PSA,Westhill HS,88.0,27.0,17.3,26.5,17.2
 2025,9,PSO,Westhill HS,83.825,25.275,17.3,24.4,16.85
 2025,12,R3,Westhill HS,86.264,26.363,16.7,25.7,17.5
+2025,3,SA,Westlake H.S.,64.871,13.16,14.01,12.3,12.8
+2025,7,SA,Westlake H.S.,75.051,15.27,13.68,15.3,15.3
+2025,9,SA,Westlake H.S.,79.491,16.35,15.74,16.1,16.2
 2025,6,B2,Westlake HS,67.751,20.25,13.0,20.6,13.9
 2025,7,B2,Westlake HS,70.801,21.9,13.9,18.8,16.2
 2025,9,R3,Westlake HS,74.0,22.2,15.3,21.0,15.5
@@ -3081,12 +4114,22 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,5,PSA,Whiteland Indoor Percussion Ensemble,71.101,20.4,14.2,22.0,14.5
 2025,8,PSA,Whiteland Indoor Percussion Ensemble,76.475,21.975,15.1,23.9,15.5
 2025,2,IRA,Wildcat Color Guard,54.18,11.14,10.94,11.2,10.6
+2025,1,N,William Henry Harrison Winter Guard,57.21,9.87,8.94,12.7,12.9
+2025,2,N,William Henry Harrison Winter Guard,55.12,10.44,10.38,11.6,10.3
+2025,5,N,William Henry Harrison Winter Guard,70.1,11.58,11.12,13.8,17.7
+2025,7,N,William Henry Harrison Winter Guard,74.18,15.16,14.72,14.3,15.7
+2025,10,N,William Henry Harrison Winter Guard,82.12,15.94,14.38,17.2,17.7
 2025,6,PSO,Williams Field HS,80.25,23.55,15.7,24.5,16.5
 2025,9,PSO,Williams Field HS,84.189,25.087,16.85,25.3,16.95
 2025,2,P-IA,Williamsport PA,73.6,20.7,23.7,15.9,13.3
 2025,8,GJHSA,Wilson MS Winterguard,53.33,108.2,102.1,11.0,10.6
 2025,9,GJHSA,Wilson MS Winterguard,56.09,122.1,104.8,10.9,11.8
 2025,10,GJHSA,Wilson MS Winterguard,59.861,124.1,115.5,10.9,12.2
+2025,1,SRA,Winchester IN,57.991,11.48,10.41,11.7,11.4
+2025,2,SRA,Winchester IN,59.761,11.58,11.78,11.4,13.6
+2025,6,SJH,Winton MS,56.401,11.28,10.32,11.4,11.8
+2025,8,R2,Winton MS,65.14,13.12,13.72,12.4,13.3
+2025,10,S,Winton MS,69.04,13.12,14.52,13.7,13.9
 2025,3,B1,Woodbridge HS,73.25,22.95,13.8,22.1,14.4
 2025,9,R4,Woodbridge HS,82.1,25.65,17.7,24.6,14.15
 2025,10,R1,Woodbridge HS,87.251,26.85,17.0,27.4,16.0
@@ -3112,9 +4155,29 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,9,BR,Wyoming OH,62.985,12.835,12.35,12.0,13.2
 2025,6,PSA,Xenia HS,68.9,20.55,13.95,20.8,13.6
 2025,12,R3,Xenia HS,73.975,22.125,15.0,22.1,14.75
+2025,1,PSA,Xenia Indoor Percussion Ensemble,64.65,19.05,12.9,20.0,12.7
+2025,2,PSA,Xenia Indoor Percussion Ensemble,64.1,18.9,13.0,19.9,12.3
+2025,3,PSA,Xenia Indoor Percussion Ensemble,65.9,19.8,13.6,20.0,12.5
+2025,5,PSA,Xenia Indoor Percussion Ensemble,65.901,19.5,13.9,19.6,12.9
+2025,7,PSA,Xenia Indoor Percussion Ensemble,69.551,20.55,14.6,21.6,12.8
+2025,9,PSA,Xenia Indoor Percussion Ensemble,69.7,21.0,14.1,20.4,14.2
+2025,10,PSA,Xenia Indoor Percussion Ensemble,76.851,22.65,15.5,22.9,15.8
+2025,2,SA,Xenia Winterguard,56.36,11.48,10.68,11.2,11.1
+2025,5,SA,Xenia Winterguard,65.5,13.06,12.34,12.2,14.2
+2025,6,SA,Xenia Winterguard,65.9,13.19,12.41,13.2,14.5
+2025,7,SA,Xenia Winterguard,69.63,15.06,13.67,12.9,13.7
+2025,8,SA,Xenia Winterguard,70.25,14.21,14.54,13.1,14.4
+2025,10,SA,Xenia Winterguard,72.381,13.21,14.87,14.5,14.9
 2025,7,SA,Yorktown HS Guard,79.18,16.14,15.54,15.7,15.6
 2025,9,PSA,Young Women's Academy,68.6,21.6,13.2,20.6,13.2
+2025,3,IO,ZEUS Independent,65.4,13.3,13.0,13.1,13.0
+2025,6,IO,ZEUS Independent,79.2,16.0,15.9,15.8,15.5
+2025,8,IO,ZEUS Independent,80.5,15.9,16.1,15.8,16.4
+2025,10,IO,ZEUS Independent,85.5,17.2,17.2,17.0,16.9
 2025,6,FPM,ZIP CADET - Zionsville Middle School/Zionsville West Middle School,66.65,20.25,13.2,19.6,13.6
+2025,3,SRA,Zachary H.S.,65.0,13.16,13.84,13.1,11.4
+2025,5,SRA,Zachary H.S.,65.4,13.84,13.56,12.8,11.7
+2025,7,SRA,Zachary H.S.,71.7,14.92,12.4,14.7,13.4
 2025,2,GIO,Zeus Independent,58.4,11.8,11.4,12.0,11.3
 2025,4,GIO,Zeus Independent,60.5,11.0,12.7,12.5,12.8
 2025,6,PSO,Zionsville Community HS,82.401,24.15,17.25,24.7,16.3
@@ -3141,4 +4204,4 @@ BKSKRFCWGCTFHSWFTHSWGTCHSWHSWTJCHSVK",Rockcastle County High School,69.011,14.94
 2025,7,P-SA,,80.7,25.8,24.0,16.1,14.8
 2025,8,SRA,,76.04,14.74,14.8,14.3,16.0
 2025,9,PR,,78.92,14.28,14.74,16.9,15.8
-2025,10,SRA,,82.57,16.0,16.47,16.4,16.8
+2025,10,PBSA,,88.95,43.7,45.5,43.1,45.6

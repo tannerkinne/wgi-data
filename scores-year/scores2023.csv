@@ -23,6 +23,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,IA,Absolute Performing Arts,72.22,14.61,13.81,14.8,15.0
 2023,10,IA,Absolute Performing Arts,76.85,15.74,15.81,15.9,14.5
 2023,7,PSA,Academy District 20 Combined Schools,80.1,24.6,16.3,23.7,15.5
+2023,7,R1,Acadiana H.S.,74.35,15.54,15.21,14.7,14.3
+2023,10,BD,Acadiana H.S.,79.131,16.0,16.13,15.6,15.2
 2023,2,PIA,Albany,59.3,18.1,18.0,11.9,11.3
 2023,3,PIA,Albany,62.65,18.6,19.05,12.4,12.6
 2023,10,PIA,Albany,71.45,24.5,19.05,13.7,14.2
@@ -47,12 +49,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,GSN,Alma High School Winterguard,77.75,16.14,16.41,13.7,16.2
 2023,9,PSA,Aloha HS,68.051,20.55,13.8,20.6,13.1
 2023,8,PSA,Alpharetta HS,84.55,25.95,17.5,24.2,16.9
+2023,4,PSA,Alta HS,65.7,18.4,19.65,14.25,13.4
+2023,5,PSA,Alta HS,63.751,19.8,17.7,14.25,12.0
+2023,10,PSA,Alta HS,77.45,22.6,22.95,16.7,15.2
+2023,12,PSA,Alta HS,79.201,23.1,21.9,16.6,17.6
+2023,4,SA,Alter High School Winterguard,55.491,11.21,10.88,12.8,10.4
+2023,5,SA,Alter High School Winterguard,56.571,12.27,12.8,10.1,10.8
+2023,7,SA,Alter High School Winterguard,65.53,14.02,13.61,11.3,14.3
+2023,10,SA,Alter High School Winterguard,67.17,14.28,13.49,12.9,13.5
 2023,2,SA,Anderson Co Winterguard,56.42,12.61,12.81,10.2,10.4
 2023,5,SA,Anderson Co Winterguard,63.72,12.74,13.08,12.3,12.8
 2023,7,SA,Anderson Co Winterguard,68.47,13.41,14.26,14.1,13.6
 2023,10,BR,Anderson Co Winterguard,72.051,14.34,14.41,14.3,14.6
 2023,10,PE-SB,Annapolis MD,84.251,40.4,42.9,43.3,41.9
 2023,8,PSA,Anoka HS,63.501,18.0,12.8,19.6,13.1
+2023,3,PSRA,Anoka High School,59.05,17.85,10.7,17.8,12.7
 2023,3,SJ,Apolla HS Cadet,51.6,10.22,9.28,10.1,11.0
 2023,5,SJ,Apolla HS Cadet,58.12,12.21,10.61,11.9,11.7
 2023,6,SJ,Apolla HS Cadet,60.5,12.09,12.1,12.0,12.3
@@ -120,6 +131,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,SA,Ballard HS,70.71,14.8,14.41,14.0,14.1
 2023,8,PR,Ballard HS,73.751,14.01,14.14,14.5,15.0
 2023,10,PR,Ballard HS,79.74,15.87,15.47,16.0,16.2
+2023,10,RD,Barbe H.S.,71.811,14.94,15.27,14.1,13.9
 2023,5,PSO,Basha HS,74.75,23.85,14.8,21.2,14.9
 2023,7,PSO,Basha HS,81.4,24.9,15.9,24.7,15.9
 2023,5,PSA,Bay Port HS,69.9,20.4,14.1,22.0,13.4
@@ -133,12 +145,51 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,SA,Bearden Varsity,79.45,16.08,16.27,15.1,16.3
 2023,8,PSA,Beavercreek HS,88.05,26.85,17.8,26.4,17.0
 2023,13,PSA,Beavercreek HS,94.8,29.325,18.85,28.375,18.25
+2023,2,SA,Beavercreek High School,71.75,14.08,14.07,14.5,14.2
+2023,4,SA,Beavercreek High School,73.32,13.21,14.61,14.7,16.2
+2023,7,SA,Beavercreek High School,79.05,16.54,16.61,14.5,15.8
+2023,10,SA,Beavercreek High School,81.811,16.54,16.47,16.8,16.1
+2023,2,PSA,Beavercreek Indoor Percussion Ensemble,74.7,21.9,14.9,23.2,14.7
+2023,4,PSA,Beavercreek Indoor Percussion Ensemble,77.15,24.75,15.6,22.0,14.8
+2023,7,PSA,Beavercreek Indoor Percussion Ensemble,85.05,25.35,16.6,26.7,16.4
+2023,10,PSA,Beavercreek Indoor Percussion Ensemble,92.95,27.75,18.7,27.9,18.6
 2023,5,PRA,Beech Grove Indoor Percussion Ensemble,68.95,21.75,13.5,20.4,13.3
 2023,6,PRA,Beech Grove Indoor Percussion Ensemble,59.5,17.25,12.2,17.85,12.2
 2023,7,PRA,Beech Grove Indoor Percussion Ensemble,65.025,18.375,12.3,22.4,11.95
 2023,8,PRA,Beech Grove Indoor Percussion Ensemble,66.126,19.575,13.25,19.8,13.5
+2023,1,SRA,Bellbrook,72.35,13.61,15.34,14.0,14.5
+2023,2,SRA,Bellbrook,70.99,14.01,13.88,14.0,14.7
+2023,4,SRA,Bellbrook,76.98,14.94,15.74,15.7,15.8
+2023,5,SRA,Bellbrook,78.95,15.28,16.67,16.4,15.6
+2023,7,SRA,Bellbrook,82.08,16.41,16.67,16.6,15.9
+2023,8,SA,Bellbrook,78.44,15.54,15.0,17.5,15.8
+2023,10,SA,Bellbrook,81.71,16.14,15.87,16.8,16.0
 2023,8,PSA,Bellbrook HS,92.25,27.75,18.4,27.5,18.6
 2023,13,R,Bellbrook HS,87.126,26.25,17.85,25.775,17.25
+2023,1,SO,Bellbrook High School,70.8,14.4,14.3,13.8,14.1
+2023,2,SO,Bellbrook High School,75.8,14.9,14.6,15.6,15.4
+2023,4,SO,Bellbrook High School,79.2,15.9,16.0,16.1,15.7
+2023,7,SW,Bellbrook High School,83.7,17.1,16.7,16.6,16.5
+2023,10,SW,Bellbrook High School,83.6,16.5,16.7,16.9,16.5
+2023,1,PSA,Bellbrook High School Indoor Percussion Ensemble,71.6,20.7,14.7,21.6,14.6
+2023,4,PSA,Bellbrook High School Indoor Percussion Ensemble,74.75,24.0,14.8,21.85,14.1
+2023,5,PSA,Bellbrook High School Indoor Percussion Ensemble,80.15,23.85,16.8,23.4,16.1
+2023,7,PSA,Bellbrook High School Indoor Percussion Ensemble,82.85,24.15,16.8,25.6,16.3
+2023,10,PSO,Bellbrook High School Indoor Percussion Ensemble,87.425,27.225,16.8,26.3,17.1
+2023,1,SRA,Bellbrook Junior Varsity Winterguard,72.35,13.61,15.34,14.0,14.5
+2023,2,SRA,Bellbrook Junior Varsity Winterguard,70.99,14.01,13.88,14.0,14.7
+2023,4,SRA,Bellbrook Junior Varsity Winterguard,76.98,14.94,15.74,15.7,15.8
+2023,5,SRA,Bellbrook Junior Varsity Winterguard,78.95,15.28,16.67,16.4,15.6
+2023,7,SRA,Bellbrook Junior Varsity Winterguard,82.08,16.41,16.67,16.6,15.9
+2023,8,SA,Bellbrook Junior Varsity Winterguard,78.44,15.54,15.0,17.5,15.8
+2023,10,SA,Bellbrook Junior Varsity Winterguard,81.71,16.14,15.87,16.8,16.0
+2023,1,JCG,Bellbrook Middle School,62.7,10.2,13.7,12.5,12.8
+2023,2,JCG,Bellbrook Middle School,63.9,12.4,13.4,13.0,12.5
+2023,4,JCG,Bellbrook Middle School,67.2,12.8,11.8,13.7,14.6
+2023,5,JCG,Bellbrook Middle School,72.1,14.0,15.3,14.8,13.5
+2023,7,JCG,Bellbrook Middle School,76.7,15.3,15.7,15.0,15.7
+2023,8,JCG,Bellbrook Middle School,81.1,16.2,16.0,16.3,16.7
+2023,10,JCG,Bellbrook Middle School,80.5,16.0,16.1,15.2,16.8
 2023,13,R,Bellevue Combined Schools,86.325,25.575,17.4,26.55,16.8
 2023,8,B1,Bellflower HS,72.25,22.05,13.0,22.7,14.5
 2023,3,PSO,Ben Davis High School,64.8,19.2,12.3,19.8,13.5
@@ -158,12 +209,24 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,SG,Biglerville HS Guard,72.22,14.01,14.01,14.4,14.7
 2023,9,SG,Biglerville HS Guard,79.14,15.8,15.54,16.4,15.6
 2023,10,PE-SG,Biglerville HS Percussion,79.4,36.9,40.3,39.7,41.9
+2023,10,JV,Biloxi H.S. JV,76.301,14.87,15.33,14.4,16.7
+2023,10,SA,Biloxi High School,72.24,14.47,15.07,14.4,14.2
+2023,10,C,Biloxi Junior High,78.29,15.55,15.94,15.2,14.8
+2023,4,PSA,Bingham HS,67.7,18.2,21.0,14.6,13.9
+2023,5,PSA,Bingham HS,71.8,21.55,21.45,14.8,14.0
 2023,7,PSA,Bingham HS,72.601,23.4,14.3,22.0,12.9
+2023,9,PSA,Bingham HS,77.5,21.0,25.05,15.45,16.0
+2023,12,PSA,Bingham HS,81.75,22.7,23.85,17.5,17.7
 2023,3,PRA,Bishop Dwenger Winter Percussion,62.5,18.3,12.3,19.7,12.2
 2023,5,PRA,Bishop Dwenger Winter Percussion,63.501,18.6,12.7,19.2,13.0
 2023,6,PRA,Bishop Dwenger Winter Percussion,62.701,20.1,13.0,17.1,12.5
 2023,7,PRA,Bishop Dwenger Winter Percussion,66.601,19.5,12.9,22.05,12.15
 2023,8,PRA,Bishop Dwenger Winter Percussion,65.601,19.5,13.15,19.75,13.2
+2023,2,SRA,Blanchester Winterguard,52.441,10.06,10.68,10.3,11.5
+2023,7,SRA,Blanchester Winterguard,64.261,13.61,12.55,12.2,13.2
+2023,8,SRA,Blanchester Winterguard,70.79,14.01,14.28,14.2,14.5
+2023,9,SRA,Blanchester Winterguard,69.651,14.0,14.55,12.7,13.4
+2023,10,SRA,Blanchester Winterguard,66.69,13.34,12.75,13.1,13.9
 2023,5,PSA,Bloomington HS,70.251,20.25,14.0,22.7,13.3
 2023,7,PIW,Blue Knights,85.0,25.5,17.2,25.3,17.0
 2023,13,R,Blue Knights,86.351,25.65,16.3,27.05,17.35
@@ -184,6 +247,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,BR,Boyle Co HS,75.091,16.08,15.01,14.8,14.9
 2023,8,PSW,Brandon Valley HS,80.55,24.45,15.1,25.6,15.4
 2023,13,R,Brandon Valley HS,87.213,25.763,17.05,26.725,17.675
+2023,7,PSO,Brandon Valley High School,83.25,25.65,16.7,24.0,16.9
+2023,10,PSW,Brandon Valley High School,85.675,26.625,16.6,25.55,16.9
 2023,7,PIO,Breakthrough Indoor Percussion,79.15,23.25,15.8,23.9,16.2
 2023,9,PIO,Breakthrough Indoor Percussion,84.6,25.2,16.7,25.6,17.1
 2023,13,R,Breakthrough Indoor Percussion,85.525,24.525,16.4,26.025,18.575
@@ -202,6 +267,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PIW,Broken City,91.6,27.6,18.5,26.9,18.6
 2023,9,PIW,Broken City,92.5,27.6,18.2,28.3,18.4
 2023,13,PIW,Broken City,96.125,29.25,19.075,28.3,19.5
+2023,2,PSRA,Brookings HS Drumline,67.3,20.7,11.8,20.7,14.1
+2023,5,PSA,Brookings HS Drumline,73.251,20.55,15.3,23.9,13.5
+2023,7,PSA,Brookings HS Drumline,76.9,24.3,15.3,20.9,16.4
+2023,2,SRA,Brookville High School Color Guard,56.6,11.28,11.02,11.8,10.5
+2023,7,SRA,Brookville High School Color Guard,67.19,14.08,13.21,13.0,12.9
+2023,8,SRA,Brookville High School Color Guard,75.75,15.34,15.21,15.7,15.5
+2023,9,SRA,Brookville High School Color Guard,74.77,15.93,15.74,13.8,14.7
+2023,10,SRA,Brookville High School Color Guard,74.08,14.94,15.34,14.7,14.3
+2023,1,PSRA,Brookville High School Winter Percussion,70.45,20.85,14.3,21.4,13.9
+2023,2,PSRA,Brookville High School Winter Percussion,74.3,23.1,15.3,21.8,14.1
+2023,7,PSRA,Brookville High School Winter Percussion,80.25,24.75,16.2,23.1,16.2
+2023,8,PSRA,Brookville High School Winter Percussion,81.4,24.6,17.2,23.5,16.1
+2023,10,PSRA,Brookville High School Winter Percussion,83.2,23.7,17.1,25.1,17.3
 2023,6,PSO,Brownsburg HS,84.1,24.6,17.3,26.2,16.0
 2023,13,PSO,Brownsburg HS,96.3,29.175,19.25,28.7,19.175
 2023,4,PSO,Brownsburg Percussion,78.4,23.7,14.7,24.1,15.9
@@ -225,6 +303,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSA,Buena HS,90.413,26.962,18.1,27.2,18.15
 2023,7,PSJ,Buena Park MS,72.85,22.05,14.1,23.1,13.6
 2023,8,PSA,Buffalo HS,73.901,21.0,15.2,22.4,15.3
+2023,3,PSRA,Buffalo High School,66.35,19.05,14.7,18.8,13.8
+2023,5,PSA,Buffalo High School,73.65,21.15,15.4,21.5,15.6
+2023,6,PSA,Buffalo High School,74.2,22.2,15.8,21.4,14.8
 2023,10,GHSSRAB,Bullard HS Guard,64.655,118.6,114.95,12.8,13.3
 2023,3,SA,Bullitt East HS,54.2,11.48,10.82,9.7,10.9
 2023,4,SA,Bullitt East HS,56.63,11.81,11.42,11.1,11.1
@@ -235,6 +316,23 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,13,PSW,Burleson Centennial HS,90.313,27.488,18.075,26.9,17.85
 2023,9,PSO,Burleson HS,81.7,24.3,17.0,24.5,15.9
 2023,8,PSA,Burnsville HS,74.3,21.15,15.55,22.7,14.9
+2023,2,PSA,Burnsville High School,69.9,21.0,14.5,20.5,13.9
+2023,4,PSA,Burnsville High School,73.45,22.05,15.0,22.3,14.1
+2023,5,PSA,Burnsville High School,77.35,23.25,16.3,23.0,14.8
+2023,6,PSA,Burnsville High School,76.3,22.8,15.6,22.4,15.5
+2023,9,PSA,Burnsville High School,82.1,24.45,17.15,23.75,16.75
+2023,10,PSA,Burnsville High School,81.9,24.6,16.6,23.75,16.95
+2023,1,SRA,Butler High School Winterguard,54.401,11.15,13.75,9.5,10.0
+2023,4,SRA,Butler High School Winterguard,68.99,14.48,15.01,13.1,13.6
+2023,5,SRA,Butler High School Winterguard,73.95,16.41,16.94,13.8,14.0
+2023,7,SRA,Butler High School Winterguard,75.991,15.54,15.75,15.3,14.7
+2023,9,SRA,Butler High School Winterguard,79.64,17.0,16.54,14.8,15.5
+2023,10,SRA,Butler High School Winterguard,82.87,17.0,16.87,15.6,16.3
+2023,1,PSA,Butler Indoor Percussion Ensemble,63.3,18.0,12.7,20.2,12.4
+2023,5,PSA,Butler Indoor Percussion Ensemble,63.101,19.2,12.4,20.0,11.5
+2023,7,PSA,Butler Indoor Percussion Ensemble,73.3,21.0,14.8,23.3,14.2
+2023,8,PSA,Butler Indoor Percussion Ensemble,74.95,22.95,14.0,23.7,14.3
+2023,10,PSA,Butler Indoor Percussion Ensemble,74.35,22.5,14.8,22.2,14.85
 2023,6,PSA,C.E. King HS,76.65,22.95,14.9,23.6,15.2
 2023,5,PSA,Cab Calloway,68.101,19.5,21.3,13.7,13.6
 2023,6,PSA,Cab Calloway,74.901,22.5,22.05,14.95,15.4
@@ -246,6 +344,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,GSRA,Cabot High School Winter Guard,84.12,16.48,16.14,16.7,16.8
 2023,7,GSB,Cabot High School Winter Guard,73.51,16.67,16.34,15.1,12.6
 2023,10,GSB,Cabot High School Winter Guard,89.68,18.34,16.74,19.0,17.7
+2023,7,R1,Caldwell Parish H.S.,67.16,14.01,13.95,13.1,12.6
+2023,10,BD,Caldwell Parish H.S.,67.881,13.14,14.14,13.9,13.3
 2023,3,PSO,Camarillo HS,67.9,19.8,12.9,23.0,12.2
 2023,6,PSO,Camarillo HS,75.401,23.4,14.5,22.6,14.9
 2023,8,PSO,Camarillo HS,79.751,24.45,15.8,24.1,15.4
@@ -265,6 +365,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,SA,Campbell Co HS Varsity,68.42,13.48,13.74,12.5,14.1
 2023,8,SA,Campbell Co HS Varsity,78.641,15.6,15.34,16.7,14.5
 2023,10,BR,Campbell Co HS Varsity,86.01,16.81,17.0,17.3,17.5
+2023,7,SA,Campbell County,75.391,16.01,15.08,13.9,16.3
 2023,7,PSA,Campo Verde HS,76.2,21.9,15.0,25.1,14.2
 2023,3,B1,Canyon HS,65.301,19.8,14.3,19.0,12.2
 2023,4,PSO,Canyon HS,75.8,23.1,16.1,20.6,16.0
@@ -297,6 +398,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,SJ,Carlisle MS Guard,61.68,12.14,12.14,12.3,12.7
 2023,7,SJ,Carlisle MS Guard,66.27,13.0,13.07,13.2,13.7
 2023,9,SJ,Carlisle MS Guard,72.78,13.74,13.74,15.7,15.3
+2023,8,SRA,Carlisle Winterguard,65.941,11.89,12.55,15.4,13.8
+2023,9,SRA,Carlisle Winterguard,66.63,12.55,12.48,12.8,15.4
+2023,10,SRA,Carlisle Winterguard,61.53,12.35,12.28,12.2,12.8
 2023,5,PSA,Carlsbad HS,74.75,23.25,15.8,21.6,14.1
 2023,7,PSA,Carlsbad HS,72.876,22.575,14.05,21.95,14.3
 2023,9,PSA,Carlsbad HS,81.0,23.1,17.1,24.9,15.9
@@ -307,6 +411,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSO,Carroll High School Indoor Percussion Ensemble,77.85,23.25,15.5,23.9,15.2
 2023,8,PSO,Carroll High School Indoor Percussion Ensemble,77.775,24.45,15.85,22.35,15.125
 2023,10,PSO,Carroll High School Indoor Percussion Ensemble,79.726,24.375,15.9,22.5,16.95
+2023,1,SA,Carroll High School Winter Guard,66.14,13.53,12.21,13.9,13.6
+2023,2,SA,Carroll High School Winter Guard,68.94,13.73,13.81,14.2,13.9
+2023,4,SA,Carroll High School Winter Guard,69.38,13.8,14.08,14.2,13.3
+2023,5,SA,Carroll High School Winter Guard,74.45,14.74,15.01,15.3,14.7
+2023,8,SA,Carroll High School Winter Guard,78.38,15.68,15.8,16.7,14.6
+2023,10,SA,Carroll High School Winter Guard,81.51,15.84,16.07,17.1,15.8
 2023,6,PSW,Carroll Senior HS,77.7,22.5,15.8,24.1,15.3
 2023,9,PSW,Carroll Senior HS,78.751,23.25,16.5,24.2,14.8
 2023,1,PSRA,Carter Indoor Percussion,65.7,18.7,19.5,13.8,13.7
@@ -333,12 +443,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSW,Center Grove High School,87.45,25.65,17.5,27.2,17.1
 2023,8,PSW,Center Grove High School,88.125,25.8,17.475,27.05,17.8
 2023,10,PSW,Center Grove High School,89.675,26.925,18.2,27.0,17.55
+2023,1,SO,Centerville HS,68.8,12.8,13.7,13.9,14.2
+2023,5,SO,Centerville HS,74.9,15.3,16.0,15.5,14.0
+2023,7,SO,Centerville HS,84.8,16.8,16.8,17.0,17.0
 2023,8,PSW,Centerville HS,83.75,26.25,16.1,24.7,16.7
+2023,10,SO,Centerville HS,91.0,18.0,18.0,18.3,18.1
 2023,13,R,Centerville HS,85.9,26.175,17.7,24.45,17.575
+2023,1,JCG,Centerville Junior Guard,55.1,11.5,13.7,10.5,9.7
+2023,2,JCG,Centerville Junior Guard,66.9,13.5,13.3,13.8,13.2
+2023,4,JCG,Centerville Junior Guard,65.6,14.3,11.3,13.6,12.4
+2023,7,JCG,Centerville Junior Guard,73.6,15.5,15.3,13.9,15.4
+2023,10,JCG,Centerville Junior Guard,77.4,15.8,15.8,14.4,16.6
+2023,2,PSW,Centerville Winter Drumline,71.2,20.4,14.7,22.3,13.8
+2023,4,PSW,Centerville Winter Drumline,78.15,22.95,15.1,25.1,15.0
+2023,7,PSW,Centerville Winter Drumline,82.75,26.85,15.7,23.7,16.5
+2023,10,PSW,Centerville Winter Drumline,86.35,26.55,17.3,25.7,16.8
 2023,5,PIA,Central Bucks School District,67.45,20.6,19.05,14.2,13.6
 2023,7,PIA,Central Bucks School District,69.3,20.1,21.3,13.7,14.2
 2023,10,PIA,Central Bucks School District,71.5,21.5,21.0,14.5,14.5
 2023,8,PSO,Central Crossing HS,77.05,23.55,15.3,23.5,14.7
+2023,7,PSO,Central Crossing HS Indoor Percussion Ensemble,76.65,23.55,14.8,22.7,15.6
 2023,0,SG,Central Dauphin East HS Guard,55.7,11.99,11.21,10.8,10.6
 2023,1,SG,Central Dauphin East HS Guard,62.16,13.72,11.34,12.8,11.7
 2023,4,SG,Central Dauphin East HS Guard,68.48,13.14,14.54,13.7,13.8
@@ -360,6 +484,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,P-SNB,Central Dauphin HS Percussion,75.35,22.35,22.8,15.0,15.2
 2023,7,P-SNB,Central Dauphin HS Percussion,78.75,22.8,23.55,16.2,16.2
 2023,9,P-SP,Central Dauphin HS Percussion,83.9,26.25,24.75,16.5,16.4
+2023,10,BD,Central H.S.,72.78,14.94,15.14,14.2,14.0
 2023,2,SA,Central Hardin HS,59.92,13.01,12.61,11.1,11.9
 2023,5,SA,Central Hardin HS,65.95,13.21,14.54,13.4,12.4
 2023,6,SA,Central Hardin HS,71.09,14.32,14.47,13.7,14.3
@@ -370,6 +495,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,SRA,Central High School Winterguard,64.221,11.88,12.74,14.1,12.7
 2023,9,SRA,Central High School Winterguard,73.281,14.54,13.74,14.8,15.0
 2023,10,SRA,Central High School Winterguard,72.991,14.61,14.28,13.0,15.5
+2023,10,PSO,Central Lafourche H.S.,86.65,26.0,27.45,16.4,16.8
+2023,7,JV,Central Lafourche H.S.JV,76.59,14.74,14.95,15.9,15.5
+2023,10,JV,Central Lafourche H.S.JV,81.96,16.07,16.59,16.2,16.9
+2023,7,SA,Central Lafourche H.S.Varsity,74.25,14.65,13.8,15.1,15.5
+2023,10,SA,Central Lafourche H.S.Varsity,80.171,15.67,16.4,15.2,16.6
 2023,7,PSO,Central Lafourche HS,75.3,22.5,15.6,23.0,14.2
 2023,2,PSA,Central Square High School,67.925,21.55,20.175,13.1,13.1
 2023,4,PSA,Central Square High School,73.4,22.6,23.1,14.2,13.5
@@ -490,6 +620,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,C,Clinton TN,73.85,14.21,13.54,15.9,14.6
 2023,9,C,Clinton TN,78.11,16.04,15.07,15.6,16.1
 2023,10,C,Clinton TN,79.84,17.47,17.27,12.4,16.2
+2023,2,SRA,Clinton-Massie Winter Guard,62.81,11.81,11.4,13.6,13.0
+2023,4,SRA,Clinton-Massie Winter Guard,64.101,11.48,12.52,13.6,13.4
+2023,5,SRA,Clinton-Massie Winter Guard,67.891,14.14,14.15,13.7,12.9
+2023,7,SRA,Clinton-Massie Winter Guard,78.45,16.14,16.21,15.7,15.5
+2023,9,SRA,Clinton-Massie Winter Guard,81.41,16.07,16.14,16.1,17.6
+2023,10,SRA,Clinton-Massie Winter Guard,81.251,15.94,16.01,16.4,15.7
 2023,6,PSO,Clover HS,83.35,25.35,16.4,25.6,16.0
 2023,13,PSO,Clover HS,97.863,29.512,19.7,29.425,19.225
 2023,9,PSW,Clovis HS,87.6,27.3,16.7,26.1,17.5
@@ -507,16 +643,29 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PSO,Collins Hill HS,74.601,22.2,15.8,22.4,14.2
 2023,7,PSA,Columbine HS,74.801,22.8,15.2,22.2,14.6
 2023,7,PSA,Columbus HS,78.15,23.25,16.0,23.0,15.9
+2023,7,IA,Columbus Saints Winterguard,58.83,11.88,11.35,12.0,11.7
+2023,8,IA,Columbus Saints Winterguard,63.28,13.34,13.54,12.9,11.6
+2023,10,IA,Columbus Saints Winterguard,62.5,12.75,12.55,11.2,12.7
+2023,7,R2,Comeaux H.S.,78.88,15.47,15.61,15.6,16.5
+2023,10,RD,Comeaux H.S.,81.74,17.2,16.94,15.7,15.6
 2023,10,PE-SB,Conestoga Valley HS Percussion,85.1,38.2,44.5,44.8,42.7
 2023,5,PIA,Conflux Percussion,69.5,21.3,14.2,20.4,13.6
+2023,2,PIW,ConneXus,74.35,22.05,15.8,21.9,14.6
+2023,4,PIW,ConneXus,75.95,23.55,15.3,22.1,15.0
+2023,5,PIW,ConneXus,76.55,23.85,15.5,22.7,14.5
 2023,6,PIW,ConneXus,82.9,24.6,16.2,25.9,16.2
 2023,8,PIW,ConneXus,85.75,26.85,16.8,24.9,17.2
+2023,10,PIW,ConneXus,90.25,27.45,18.2,26.8,17.8
 2023,13,PIW,ConneXus,91.138,27.863,18.125,26.775,18.375
 2023,4,SRA,Conner HS,64.42,12.48,13.54,12.4,13.0
 2023,8,BR,Conner HS,72.591,13.68,14.21,14.9,15.3
 2023,9,PR,Conner HS,72.81,14.14,14.87,15.0,14.4
 2023,7,PIA,Convergence Indoor Percussion,68.9,21.0,13.0,22.4,12.5
+2023,4,PSA,Copper Hills HS,59.951,17.6,18.75,12.4,11.2
 2023,7,PSA,Copper Hills HS,71.051,21.15,13.9,22.4,13.6
+2023,9,PSA,Copper Hills HS,72.501,19.6,23.55,14.95,14.4
+2023,10,PSA,Copper Hills HS,75.251,22.75,21.6,15.6,15.3
+2023,12,PSA,Copper Hills HS,79.001,23.05,22.95,15.9,17.1
 2023,8,PIA,Cornell University,64.65,20.6,19.65,12.2,12.2
 2023,9,PIA,Cornell University,69.05,22.5,20.85,13.0,12.7
 2023,10,PIA,Cornell University,73.45,25.0,20.55,14.3,13.6
@@ -533,6 +682,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Council Rock South,73.25,20.8,22.8,14.75,14.9
 2023,10,PSA,Council Rock South,54.3,15.0,16.8,10.4,12.1
 2023,12,PSA,Council Rock South,71.9,22.9,21.9,12.5,14.6
+2023,7,R2,Covenant Christian Academy,68.3,14.41,14.59,13.3,13.2
+2023,10,RD,Covenant Christian Academy,68.521,12.41,14.81,14.2,13.2
 2023,7,PIA,Creekside Independent,86.1,27.0,17.9,24.1,17.1
 2023,4,B1,Crescenta Valley HS,69.151,19.95,14.2,20.7,14.3
 2023,6,B2,Crescenta Valley HS,69.901,19.65,14.55,21.4,14.3
@@ -563,6 +714,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,R2,Cypress HS,79.501,25.2,12.9,24.5,16.9
 2023,6,PSO,Cypress Park HS,85.2,25.2,16.7,24.9,18.4
 2023,6,PSO,Cypress Ranch HS,82.05,24.15,16.2,24.7,17.0
+2023,10,PSRA,D'Iberville H.S.,70.55,20.55,14.3,21.4,14.3
+2023,10,BD,D'Iberville H.S. Winterguard,85.14,17.01,17.33,16.9,16.8
 2023,7,PIA,DV Indoor Percussion,78.75,22.05,17.8,23.4,15.5
 2023,9,PSA,Dakota Combined Schools,82.2,24.9,16.0,24.9,16.4
 2023,13,R,Dakota Combined Schools,87.939,26.738,17.5,27.0,16.7
@@ -580,14 +733,25 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PSW,Dartmouth HS,87.45,26.55,17.5,25.7,17.7
 2023,13,PSW,Dartmouth HS,94.788,28.612,18.675,28.375,19.125
 2023,8,PSA,Dassel-Cokato HS,76.4,22.8,14.9,23.5,15.2
+2023,3,PSA,Dassel-Cokato High School,68.15,19.95,12.2,21.5,14.5
+2023,5,PSA,Dassel-Cokato High School,76.9,23.4,14.8,24.2,14.5
+2023,7,PSA,Dassel-Cokato High School,77.85,23.55,16.2,22.5,15.6
+2023,9,PSA,Dassel-Cokato High School,82.2,25.5,15.9,24.7,16.1
+2023,10,PSA,Dassel-Cokato High School,85.4,26.25,17.65,24.65,16.85
+2023,4,PSO,Davis HS,66.65,18.8,19.8,14.45,13.6
+2023,5,PSO,Davis HS,69.11,21.1,20.1,14.71,13.2
 2023,7,PSO,Davis HS,76.65,22.95,14.5,24.6,14.6
+2023,10,PSO,Davis HS,84.5,26.1,24.75,16.55,17.1
+2023,12,PSO,Davis HS,87.8,25.9,26.1,17.7,18.1
 2023,6,PSA,Dawson Bryant HS,72.675,21.375,14.6,22.7,14.0
 2023,13,R,Dawson Bryant HS,78.663,23.512,15.25,24.55,15.35
+2023,1,PSA,Dawson Bryant High School,67.6,19.2,13.3,21.1,14.0
 2023,3,PSA,DeKalb Winter Percussion,70.7,22.5,14.2,21.3,12.7
 2023,5,PSA,DeKalb Winter Percussion,72.301,22.35,14.75,21.1,14.1
 2023,7,PSA,DeKalb Winter Percussion,81.85,24.15,16.7,24.8,16.2
 2023,8,R1,DeKalb Winter Percussion,81.088,23.512,15.875,25.7,16.0
 2023,10,PSA,DeKalb Winter Percussion,83.926,25.05,16.575,25.9,16.4
+2023,10,RD,DeLa Salle H.S.,72.831,13.99,17.14,14.1,13.8
 2023,6,PSO,Decatur Central HS,75.401,21.9,14.8,23.3,15.4
 2023,13,R,Decatur Central HS,90.001,27.0,17.9,27.1,18.0
 2023,4,PSO,Decatur Central Winter Percussion Ensemble,75.55,22.5,14.9,22.8,15.35
@@ -606,8 +770,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PHSSO,Delano High School,83.275,26.0,24.375,15.6,17.3
 2023,10,PHSSO,Delano High School,84.25,26.2,25.95,16.2,15.9
 2023,10,GHSSAS,Delano Joint Union High School District Winterguard,70.71,134.9,136.2,13.4,15.0
+2023,10,S,Delta Independent Winter Guard,61.52,12.61,13.01,12.3,11.8
+2023,10,SA,Denham Springs H.S. Varsity,74.161,14.79,14.67,14.6,15.3
+2023,10,PSA,Destrehan H.S.,77.201,23.1,21.6,16.4,16.1
 2023,7,PSA,Destrehan HS,70.3,22.2,13.8,20.4,13.9
+2023,10,RD,Destrehan High School Winter Guard,73.101,14.4,14.8,14.6,14.5
 2023,10,GJHSA,Divisadero MS Winterguard,55.741,102.7,104.7,11.5,13.9
+2023,1,SA,Dixie Heights Winter Guard,56.1,8.21,11.99,11.5,12.2
+2023,2,SA,Dixie Heights Winter Guard,56.38,10.47,12.21,12.0,12.2
+2023,5,SA,Dixie Heights Winter Guard,65.46,12.81,14.35,12.4,12.3
+2023,8,SA,Dixie Heights Winter Guard,72.781,14.67,14.41,15.3,14.2
+2023,9,SA,Dixie Heights Winter Guard,73.13,14.99,15.14,14.1,14.2
+2023,10,SA,Dixie Heights Winter Guard,74.211,15.47,15.14,14.3,14.4
 2023,6,PSO,Dobyns-Bennett HS,75.3,22.5,15.3,22.5,15.0
 2023,8,PSO,Dobyns-Bennett HS,78.851,23.1,16.7,22.55,16.5
 2023,6,PSO,Dorman HS,86.7,26.1,17.6,26.2,16.8
@@ -633,8 +807,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Downingtown HS West,76.925,23.7,21.525,15.1,16.6
 2023,12,PSA,Downingtown HS West,81.3,24.9,25.05,15.2,16.15
 2023,8,PSA,Downingtown West HS,70.6,21.6,14.6,20.2,14.2
+2023,10,JV,Dutchtown H.S. JV,76.031,15.47,16.26,14.6,15.8
+2023,10,SA,Dutchtown H.S. Varsity,78.811,15.47,15.74,16.0,15.9
 2023,7,PSA,Dutchtown HS,71.15,23.55,13.9,18.8,14.9
 2023,7,PSA,E.D. White Catholic HS,78.35,25.05,14.4,23.3,15.6
+2023,7,SA,E.D.White Catholic High School,83.35,16.74,16.81,16.3,16.9
+2023,10,PSA,E.D.White Catholic High School,88.4,26.6,26.7,18.2,16.9
 2023,3,PIA,ECR Independent,69.7,20.7,15.0,20.0,14.0
 2023,6,PIA,ECR Independent,73.25,23.55,14.4,20.5,14.8
 2023,11,PIA,ECR Independent,81.9,24.6,16.3,24.7,16.3
@@ -645,6 +823,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,1,PJHSA,Earlimart MS Percussion,57.5,19.1,16.8,11.2,10.4
 2023,8,PJHSA,Earlimart MS Percussion,68.251,21.9,19.95,13.2,13.2
 2023,10,PJHSA,Earlimart MS Percussion,70.65,21.7,22.05,13.3,13.6
+2023,10,BD,East Ascension H.S. JV,72.71,14.27,16.54,15.2,12.5
+2023,10,BD,East Ascension H.S. Varsity,73.041,14.47,15.67,14.4,14.2
+2023,7,R2,East Beauregard H.S.,68.021,14.14,14.28,13.8,13.9
+2023,10,BD,East Beauregard H.S.,70.021,13.41,14.61,13.8,13.5
 2023,8,PSA,East Coweta HS,72.351,20.85,14.5,22.1,14.9
 2023,1,SRA,East Hamilton High School,66.34,15.27,15.07,11.4,13.3
 2023,4,PSRA,East Hamilton High School,70.0,20.0,22.5,13.2,14.3
@@ -701,8 +883,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PRA,Eastside Indoor,65.4,19.95,13.25,19.7,12.5
 2023,7,PRA,Eastside Indoor,63.45,18.15,12.6,21.5,11.2
 2023,8,PRA,Eastside Indoor,63.85,18.75,12.75,19.9,12.45
+2023,1,SRA,Eaton High School Varsity Winterguard,55.07,10.95,12.62,10.3,10.6
+2023,2,SRA,Eaton High School Varsity Winterguard,62.43,11.88,12.35,13.0,12.6
+2023,5,SRA,Eaton High School Varsity Winterguard,68.25,13.35,15.0,13.1,13.4
+2023,8,SRA,Eaton High School Varsity Winterguard,76.04,14.94,15.4,15.1,15.8
+2023,9,SRA,Eaton High School Varsity Winterguard,72.531,15.66,16.07,12.6,12.9
+2023,10,SRA,Eaton High School Varsity Winterguard,72.881,15.01,16.07,13.6,15.0
 2023,8,PSO,Eden Prairie HS,81.45,24.15,16.1,25.5,15.7
 2023,13,R,Eden Prairie HS,86.251,26.025,17.25,26.15,16.825
+2023,9,PSO,Eden Prairie High School,82.475,25.875,15.75,24.4,16.45
+2023,10,PSO,Eden Prairie High School,83.075,24.975,15.35,25.7,17.05
 2023,3,PSA,Edgewood High School,67.951,19.5,14.5,20.7,13.25
 2023,4,PSA,Edgewood High School,76.25,23.25,14.7,23.4,14.9
 2023,6,PSA,Edgewood High School,78.351,23.55,15.4,24.2,15.2
@@ -736,6 +926,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,R1,El Toro HS,82.6,24.45,16.4,26.0,15.75
 2023,5,PIO,Elan Percussion,80.15,25.65,15.7,22.5,16.3
 2023,9,PIO,Elan Percussion,81.35,24.45,17.3,23.3,16.3
+2023,2,SA,Elder High School Winterguard,61.13,12.02,13.21,12.4,11.2
+2023,5,SA,Elder High School Winterguard,67.42,13.62,14.6,13.4,13.1
+2023,7,SA,Elder High School Winterguard,67.16,14.81,12.55,13.5,13.1
+2023,8,SA,Elder High School Winterguard,70.651,14.94,14.61,14.4,13.2
+2023,10,SA,Elder High School Winterguard,73.721,14.81,14.81,14.7,14.0
 2023,2,IW,Elevate,68.8,13.5,13.8,13.9,13.8
 2023,10,IW,Elevate,83.3,16.7,16.5,16.4,16.7
 2023,3,SA,Elizabethtown HS,70.62,13.55,14.27,14.0,14.3
@@ -770,6 +965,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PSO,Fair Lawn HS,80.3,24.9,15.5,24.4,15.5
 2023,8,PSO,Fair Lawn HS,86.1,26.4,17.3,24.7,17.7
 2023,13,R,Fair Lawn HS,86.05,25.425,17.0,26.15,17.475
+2023,2,SRA,Fairfield High School Varsity Winter Guard,59.361,10.95,11.01,13.1,12.1
+2023,4,SRA,Fairfield High School Varsity Winter Guard,67.65,13.81,13.34,12.4,14.4
+2023,5,SRA,Fairfield High School Varsity Winter Guard,67.851,13.41,13.74,12.4,13.7
+2023,8,SRA,Fairfield High School Varsity Winter Guard,75.24,14.87,15.47,14.1,15.5
+2023,10,SRA,Fairfield High School Varsity Winter Guard,77.521,14.88,15.74,15.2,15.4
 2023,3,PRA,Fairfield Indoor Percussion,63.75,19.35,12.6,20.3,11.5
 2023,4,PRA,Fairfield Indoor Percussion,64.95,20.55,12.3,19.5,12.6
 2023,5,PRA,Fairfield Indoor Percussion,67.35,20.25,13.7,20.0,13.4
@@ -793,6 +993,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,P,Farragut Middle School,83.8,17.13,16.67,16.8,16.8
 2023,7,GSB,Fayetteville HS Eminence Winterguard,72.72,14.68,15.34,15.7,13.3
 2023,7,GSRA,Fayetteville HS Regent Winter Guard,81.81,16.54,16.67,15.6,16.2
+2023,2,PSA,Finneytown Indoor Percussion,68.1,20.7,13.5,20.7,13.2
+2023,4,PSA,Finneytown Indoor Percussion,66.15,20.4,13.0,20.1,12.65
+2023,8,PSA,Finneytown Indoor Percussion,77.25,21.75,15.4,25.2,14.9
+2023,10,PSA,Finneytown Indoor Percussion,80.676,24.375,16.0,24.2,16.1
+2023,2,SRA,Finneytown Winter Guard,64.4,13.4,13.4,12.3,13.4
+2023,7,SRA,Finneytown Winter Guard,72.38,14.41,14.87,14.3,14.1
+2023,8,SRA,Finneytown Winter Guard,77.84,15.94,15.8,15.2,16.0
+2023,10,SRA,Finneytown Winter Guard,78.64,15.34,16.4,16.5,15.4
 2023,1,PHSSRA,Firebaugh HS Percussion,60.751,18.8,16.95,12.6,12.4
 2023,8,PHSSRA,Firebaugh HS Percussion,75.725,22.4,23.925,14.4,15.0
 2023,10,PHSSRA,Firebaugh HS Percussion,79.55,23.2,24.75,15.1,16.5
@@ -824,9 +1032,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PIW,Flux Indoor Percussion,83.35,24.75,16.4,25.2,17.0
 2023,9,PIW,Flux Indoor Percussion,84.676,26.925,16.7,25.75,15.3
 2023,13,R,Flux Indoor Percussion,84.65,25.35,16.475,25.95,16.875
+2023,10,BD,Fontainebleau H.S. Varsity,76.221,15.28,15.94,15.2,14.9
 2023,7,PSO,Foothill HS (NV),83.05,26.25,16.6,22.6,17.6
 2023,9,PSO,Foothill HS (NV),82.951,23.85,17.4,23.5,18.2
 2023,13,R,Foothill HS (NV),87.714,25.688,17.8,25.6,18.625
+2023,2,SA,Forest Hills,67.17,13.02,13.15,14.3,13.1
+2023,5,SA,Forest Hills,70.85,14.54,15.21,14.5,13.6
+2023,7,SA,Forest Hills,77.85,15.14,15.61,15.6,16.2
+2023,10,SA,Forest Hills,80.121,15.48,15.94,17.5,15.9
+2023,2,JCG,Forest Hills (JCG),54.0,9.6,13.6,11.0,10.2
+2023,5,JCG,Forest Hills (JCG),60.6,11.1,11.4,12.9,12.4
+2023,7,JCG,Forest Hills (JCG),66.3,12.4,12.5,13.3,14.8
+2023,10,JCG,Forest Hills (JCG),72.301,14.6,14.7,14.0,14.9
 2023,9,PSO,Forney HS,78.751,24.45,15.2,24.0,15.1
 2023,8,PSO,Forsyth Central HS,83.1,25.8,16.5,24.2,16.6
 2023,6,PSA,Fort Mill HS,75.75,22.95,15.4,22.1,15.3
@@ -860,6 +1077,27 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSO,Franklin Community Indoor Percussion,80.075,23.475,15.9,24.9,15.8
 2023,8,PSO,Franklin Community Indoor Percussion,80.626,24.075,15.7,24.7,16.15
 2023,10,PSO,Franklin Community Indoor Percussion,85.876,26.775,16.7,25.75,16.65
+2023,1,ECG,Franklin Elementary Wildkittens,80.1,18.1,18.2,14.2,14.8
+2023,2,ECG,Franklin Elementary Wildkittens,81.1,17.4,17.0,15.7,15.5
+2023,4,ECG,Franklin Elementary Wildkittens,77.7,15.5,16.5,15.6,14.5
+2023,5,ECG,Franklin Elementary Wildkittens,79.4,15.8,17.4,15.3,15.9
+2023,7,ECG,Franklin Elementary Wildkittens,86.9,18.3,17.7,17.2,17.2
+2023,8,ECG,Franklin Elementary Wildkittens,88.9,18.3,18.0,18.4,17.1
+2023,10,ECG,Franklin Elementary Wildkittens,92.2,18.5,18.4,18.8,18.0
+2023,1,SA,Franklin HS Winter Guard,67.39,13.55,14.14,13.3,13.2
+2023,2,SA,Franklin HS Winter Guard,70.92,14.81,14.81,13.8,14.3
+2023,4,SA,Franklin HS Winter Guard,68.791,12.61,13.88,14.4,14.0
+2023,5,SA,Franklin HS Winter Guard,73.42,15.02,15.2,14.4,14.2
+2023,7,SA,Franklin HS Winter Guard,77.38,15.01,15.47,14.8,16.2
+2023,8,SA,Franklin HS Winter Guard,80.25,16.21,15.94,16.2,16.1
+2023,10,SA,Franklin HS Winter Guard,83.85,17.01,16.94,16.7,16.8
+2023,1,JCG,Franklin Junior High Winter Guard,57.1,10.2,14.1,11.4,10.7
+2023,2,JCG,Franklin Junior High Winter Guard,60.3,12.1,14.0,12.3,11.9
+2023,4,JCG,Franklin Junior High Winter Guard,65.6,14.2,14.6,12.3,13.3
+2023,5,JCG,Franklin Junior High Winter Guard,69.0,14.9,15.0,12.7,12.8
+2023,7,JCG,Franklin Junior High Winter Guard,74.3,14.9,15.9,14.9,14.5
+2023,8,JCG,Franklin Junior High Winter Guard,78.6,16.0,15.8,16.7,14.8
+2023,10,JCG,Franklin Junior High Winter Guard,77.4,15.5,15.1,16.1,15.0
 2023,6,SG,Frederick HS Guard,59.221,13.48,11.74,11.5,11.1
 2023,7,SG,Frederick HS Guard,65.621,11.88,12.94,14.3,13.2
 2023,8,SG,Frederick HS Guard,69.451,13.81,14.3,13.9,14.1
@@ -867,7 +1105,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PSO,Freedom HS,70.55,22.05,13.1,21.8,13.6
 2023,6,PIO,Freedom Percussion,78.8,23.7,16.3,24.1,14.7
 2023,13,PIO,Freedom Percussion,95.15,28.575,18.7,29.5,18.375
+2023,4,PSA,Fremont HS,59.351,17.9,17.4,12.25,11.8
 2023,7,PSA,Fremont HS,66.45,19.65,12.8,21.1,12.9
+2023,9,PSA,Fremont HS,66.401,19.1,19.2,14.0,14.1
+2023,10,PSA,Fremont HS,68.601,20.65,19.95,14.3,13.7
+2023,12,PSA,Fremont HS,73.15,21.5,21.45,14.5,15.7
 2023,1,PHSSRA,Fresno,52.8,17.0,15.0,10.8,10.0
 2023,5,PHSSRA,Fresno,55.8,15.8,17.4,11.6,11.0
 2023,10,GHSSRAS,Fresno Christian HS Winterguard,69.631,132.0,124.8,13.95,14.8
@@ -883,6 +1125,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PIA,Fruitport Independent,76.175,23.175,15.35,22.9,14.75
 2023,9,PIA,Fruitport Independent Percussion,76.0,23.1,15.7,23.0,14.2
 2023,13,R1,Fruitport Independent Percussion,82.725,24.825,16.5,24.85,16.55
+2023,4,PSRA,Fusion Drumline of ISD 622,61.05,19.05,12.8,17.7,11.5
+2023,6,PSRA,Fusion Drumline of ISD 622,68.75,20.55,14.0,20.2,14.0
+2023,9,PSRA,Fusion Drumline of ISD 622,71.95,21.75,14.8,20.25,15.15
+2023,10,PSRA,Fusion Drumline of ISD 622,76.15,24.0,14.75,22.15,15.25
 2023,3,PSO,Gahr HS,74.75,22.35,15.6,22.1,14.7
 2023,7,PSO,Gahr HS,83.25,25.05,16.5,25.4,16.3
 2023,9,PSW,Gahr HS,83.651,25.8,16.6,25.05,16.2
@@ -949,7 +1195,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PIW,Gold Indoor Percussion,87.55,26.55,17.9,25.5,17.6
 2023,9,PIW,Gold Indoor Percussion,85.451,26.25,17.6,25.0,16.6
 2023,13,R,Gold Indoor Percussion,84.75,26.25,16.45,25.05,17.0
+2023,4,PIO,Gold Spike Percussion,73.1,20.8,22.2,15.1,15.0
 2023,7,PIO,Gold Spike Percussion,77.3,23.4,15.9,22.9,15.1
+2023,10,PIO,Gold Spike Percussion,84.75,25.4,25.2,17.0,17.15
+2023,12,PIO,Gold Spike Percussion,87.95,25.0,26.55,18.4,18.0
 2023,13,R,Gold Spike Percussion,83.776,24.15,17.55,26.0,16.075
 2023,10,GHSSAS,Golden West HS Winterguard,72.87,137.6,136.1,13.5,15.4
 2023,6,PSA,Goshen HS,76.001,22.2,16.5,23.8,13.5
@@ -958,6 +1207,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Goshen High School,81.35,24.15,15.9,25.5,15.8
 2023,8,PSO,Goshen High School,77.876,23.025,14.7,24.8,15.35
 2023,10,PSO,Goshen High School,78.5,24.45,14.75,23.8,15.5
+2023,1,SRA,Goshen High School Winterguard,55.67,9.48,11.49,10.8,11.1
+2023,2,SRA,Goshen High School Winterguard,53.69,10.01,11.88,11.9,10.4
+2023,5,SRA,Goshen High School Winterguard,62.101,13.15,13.55,11.5,12.3
+2023,8,SRA,Goshen High School Winterguard,69.59,14.21,14.68,14.0,13.0
+2023,9,SRA,Goshen High School Winterguard,73.371,14.46,15.41,15.9,13.7
+2023,10,SRA,Goshen High School Winterguard,68.221,13.81,14.01,12.5,14.1
 2023,5,SJ,Grace James Academy,53.96,11.28,9.88,10.0,11.4
 2023,7,SJ,Grace James Academy,59.02,12.28,10.14,12.2,12.3
 2023,7,PSA,Granada Hills CHS,71.851,21.3,14.0,22.2,14.35
@@ -1038,17 +1293,42 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Greenwood Indoor Percussion,79.176,24.975,16.1,21.7,16.4
 2023,8,R1,Greenwood Indoor Percussion,81.5,24.15,16.1,24.85,16.4
 2023,10,PSA,Greenwood Indoor Percussion,84.151,25.8,16.25,25.05,17.05
+2023,7,PIA,Groove Pursuit,77.6,22.8,16.0,22.6,16.2
+2023,9,PIA,Groove Pursuit,77.125,23.175,14.85,23.5,15.6
+2023,10,PIA,Groove Pursuit,80.025,23.925,15.65,23.8,16.65
 2023,13,R1,Groove Pursuit,82.001,23.25,17.6,24.8,16.35
+2023,2,PSA,Grove Area Percussion of ISD 279,71.4,21.9,14.2,20.0,15.3
+2023,3,PSA,Grove Area Percussion of ISD 279,73.3,20.4,14.8,22.5,15.6
+2023,4,PSA,Grove Area Percussion of ISD 279,76.6,22.8,16.2,22.7,14.9
+2023,5,PSA,Grove Area Percussion of ISD 279,79.65,23.85,15.9,24.7,15.2
+2023,9,PSA,Grove Area Percussion of ISD 279,83.675,25.425,16.7,25.4,16.15
+2023,10,PSA,Grove Area Percussion of ISD 279,87.475,26.325,17.65,26.0,17.5
+2023,1,SRA,Grove City High School,65.92,14.93,14.09,12.3,12.3
+2023,2,SRA,Grove City High School,65.62,13.61,13.41,12.2,12.9
+2023,5,SRA,Grove City High School,72.29,14.47,15.22,14.9,13.3
+2023,7,SRA,Grove City High School,76.721,15.74,13.28,16.2,16.2
+2023,9,SRA,Grove City High School,82.97,16.73,16.74,16.6,16.9
+2023,10,SRA,Grove City High School,83.41,16.34,17.07,16.6,16.7
 2023,7,PSA,Gulf Breeze HS,72.9,23.7,14.1,21.1,14.0
 2023,13,R,Gulf Breeze HS,89.064,26.363,17.6,27.3,17.8
+2023,10,C,Gulfport Cadet,73.861,14.28,15.28,13.6,14.1
+2023,10,JV,Gulfport H.S. JV,76.621,14.41,16.01,15.0,16.4
+2023,10,SA,Gulfport H.S. Varsity,83.71,16.07,17.14,17.0,16.3
 2023,8,PSO,Gulfport HS,83.25,25.95,18.5,22.6,16.2
 2023,13,R,Gulfport HS,84.826,25.35,17.9,24.775,16.8
+2023,10,PSO,Gulfport Percussion,87.75,25.5,27.75,17.0,17.5
 2023,6,PSA,Gwinnett County Combined Schools,85.1,26.4,16.6,24.9,17.2
 2023,8,PSO,Gwinnett County Combined Schools,76.051,22.05,16.4,22.3,15.3
 2023,13,R,Gwinnett County Combined Schools,81.801,23.25,16.8,25.25,16.5
 2023,5,PSA,H.B. Plant HS,73.55,22.05,14.9,22.5,14.1
+2023,7,SA,H.L. Bourgeois H.S. Varsity,69.111,14.34,13.47,13.1,14.4
+2023,10,SA,H.L. Bourgeois H.S. Varsity,80.35,16.74,16.41,15.7,15.5
+2023,7,JV,H.L.Bourgeois H.S. JV,73.19,15.14,14.75,13.2,15.6
+2023,10,JV,H.L.Bourgeois H.S. JV,81.54,16.47,16.67,15.7,17.4
 2023,1,SAN,HIPE BLUE,57.49,12.81,13.08,11.3,10.0
 2023,4,SAN,HIPE BLUE,67.45,13.14,13.81,13.0,13.1
+2023,7,R2,Hahnville H.S.,75.84,14.99,14.85,15.2,15.8
+2023,10,BD,Hahnville H.S.,80.67,16.94,14.9,16.7,15.8
 2023,1,PSA,Halls Indoor Percussion Ensemble,70.15,19.9,22.65,13.5,14.1
 2023,4,PSA,Halls Indoor Percussion Ensemble,75.9,22.5,23.1,15.2,15.1
 2023,9,PSA,Halls Indoor Percussion Ensemble,81.55,22.1,25.05,17.6,16.8
@@ -1062,12 +1342,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Hamilton Heights Indoor Percussion,74.1,23.1,14.0,21.5,15.5
 2023,8,R2,Hamilton Heights Indoor Percussion,73.126,21.6,14.425,22.1,15.0
 2023,10,PSA,Hamilton Heights Indoor Percussion,75.1,23.25,14.85,22.6,14.4
+2023,2,PSA,Hamilton High School Indoor Percussion,64.55,19.95,12.8,19.1,12.7
+2023,4,PSA,Hamilton High School Indoor Percussion,67.15,20.55,13.5,20.7,12.4
+2023,7,PSA,Hamilton High School Indoor Percussion,72.75,22.95,13.0,22.7,14.1
+2023,8,PSA,Hamilton High School Indoor Percussion,75.7,22.5,14.4,24.4,14.4
+2023,10,PSA,Hamilton High School Indoor Percussion,75.351,22.8,14.6,23.2,14.75
+2023,2,SA,Hamilton High School Winter Guard,72.18,14.34,14.34,14.5,14.6
+2023,7,SA,Hamilton High School Winter Guard,83.05,16.34,16.41,16.2,17.2
+2023,8,SA,Hamilton High School Winter Guard,84.98,17.41,16.67,16.8,17.0
 2023,6,PSA,Hamilton Southeastern HS,81.65,24.75,16.9,25.7,14.3
 2023,13,R,Hamilton Southeastern HS,83.301,25.5,16.475,24.4,16.925
 2023,5,PSA,Hamilton Southeastern High School,75.7,24.15,15.2,21.8,14.55
 2023,6,PSO,Hamilton Southeastern High School,79.5,24.75,15.2,23.85,15.7
 2023,8,PSO,Hamilton Southeastern High School,79.676,25.275,14.85,22.55,17.0
 2023,10,PSO,Hamilton Southeastern High School,83.926,25.95,15.875,25.2,16.9
+2023,10,PSRA,Hancock Indoor Percussion,78.35,21.45,16.7,23.2,17.0
 2023,10,GIA,Hanford,76.32,151.5,160.7,14.6,14.9
 2023,5,PHSSRA,Hanford HS Percussion,63.2,19.2,19.8,12.0,12.2
 2023,8,PHSSRA,Hanford HS Percussion,66.651,20.6,19.95,13.1,13.0
@@ -1100,6 +1389,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,N,Harriman High School Winter Guard,59.281,13.87,13.01,11.1,11.2
 2023,9,N,Harriman High School Winter Guard,68.231,12.42,13.61,14.2,13.9
 2023,10,N,Harriman High School Winter Guard,71.721,13.21,13.41,16.0,14.6
+2023,7,R1,Harrison Central H.S. JV,73.43,14.67,14.66,14.2,14.7
 2023,7,PSA,Harrison Central HS,77.251,22.95,15.7,22.7,15.9
 2023,6,PR,Hartford KY,57.141,11.43,11.81,12.1,10.3
 2023,8,BR,Hartford KY,62.121,11.68,12.54,12.3,13.0
@@ -1174,6 +1464,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Higley HS,71.301,22.5,14.8,21.6,12.4
 2023,9,PSA,Higley HS,72.801,21.9,13.8,22.3,14.8
 2023,8,PSO,Hillgrove HS,81.1,24.9,16.6,24.5,15.1
+2023,2,SRA,Hilliard Bradley Varsity Winter Guard,62.49,12.21,12.08,13.2,12.3
+2023,7,SRA,Hilliard Bradley Winter Guard,75.371,15.14,16.13,14.4,15.2
+2023,8,SRA,Hilliard Bradley Winter Guard,82.17,16.2,16.27,16.2,16.6
+2023,9,SRA,Hilliard Bradley Winter Guard,86.19,16.39,16.4,18.3,18.5
+2023,10,SRA,Hilliard Bradley Winter Guard,87.0,16.5,17.4,18.1,17.3
 2023,2,PSA,Hilton,64.701,20.6,19.8,11.8,12.5
 2023,7,PSA,Hilton,75.85,23.6,22.65,14.4,15.2
 2023,10,PSA,Hilton,78.901,25.4,22.8,15.6,15.1
@@ -1204,7 +1499,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Hopewell Valley Central,82.5,25.0,24.9,15.9,16.7
 2023,12,PSA,Hopewell Valley Central,86.55,26.0,25.2,16.7,18.65
 2023,7,PSA,Horizon HS (AZ),80.15,24.75,16.2,24.1,15.1
+2023,4,PIA,Horizon Percussion,70.3,19.0,21.9,15.0,14.4
+2023,5,PIA,Horizon Percussion,69.8,20.7,19.5,15.5,14.1
 2023,7,PIA,Horizon Percussion,75.6,23.7,14.4,22.8,14.7
+2023,10,PIA,Horizon Percussion,80.65,23.1,24.15,17.1,16.3
+2023,12,PIA,Horizon Percussion,82.3,23.4,24.9,17.3,16.7
+2023,7,C,Houma Christian Cadets,75.68,14.94,15.14,14.1,15.4
+2023,10,C,Houma Christian Cadets,84.65,17.74,16.41,17.0,16.6
+2023,7,E,Houma Christian Eleminis,75.37,15.14,15.13,14.7,14.9
+2023,10,E,Houma Christian Eleminis,85.1,17.39,16.01,16.9,16.8
+2023,7,SA,Houma Christian Varsity,71.21,13.67,14.34,14.2,14.3
+2023,10,SA,Houma Christian Varsity,80.7,16.47,16.73,15.4,16.5
+2023,10,C,Houma J.H.S.,81.38,17.34,17.74,16.0,14.5
+2023,7,SA,Houma. LA,71.21,13.67,14.34,14.2,14.3
+2023,10,SA,Houma. LA,80.7,16.47,16.73,15.4,16.5
 2023,9,PSA,Hudsonville HS,85.1,25.5,16.8,26.0,16.8
 2023,13,R,Hudsonville HS,86.264,24.863,17.45,26.25,17.7
 2023,3,PSA,Hudsonville Winter Percussion,69.3,20.4,14.1,21.5,13.3
@@ -1226,6 +1534,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PIA,Impulse,76.45,23.85,13.2,23.0,16.4
 2023,11,PIA,Impulse,82.95,24.45,16.2,25.2,17.1
 2023,12,PIA,Impulse,86.65,26.1,17.0,25.6,17.95
+2023,5,PSA,Impulse Drumline,71.3,21.0,15.0,22.1,13.2
+2023,2,SRA,Indian Lake Winter Guard,54.34,9.02,9.62,12.5,11.0
+2023,4,SRA,Indian Lake Winter Guard,60.21,10.82,12.89,12.4,12.7
+2023,5,SRA,Indian Lake Winter Guard,65.26,13.16,13.4,13.5,13.2
+2023,7,SRA,Indian Lake Winter Guard,69.85,14.81,14.14,13.9,13.6
+2023,8,SRA,Indian Lake Winter Guard,73.32,14.61,14.01,15.4,15.0
+2023,9,SRA,Indian Lake Winter Guard,74.95,15.21,14.54,15.6,15.2
+2023,10,SRA,Indian Lake Winter Guard,73.331,14.15,14.28,15.2,14.8
 2023,5,PIW,Infinity,84.35,25.35,17.2,25.3,16.5
 2023,7,PIW,Infinity,84.6,25.2,17.0,25.2,17.2
 2023,13,PIW,Infinity,95.576,28.95,19.2,28.55,18.875
@@ -1240,8 +1556,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,11,PIO,Instinct,82.45,24.75,16.9,23.7,17.1
 2023,12,PIO,Instinct,82.4,24.75,16.4,24.6,16.65
 2023,13,R,Instinct,81.8,23.175,15.8,26.35,16.475
+2023,7,R1,Iowa H.S.,71.831,14.27,14.26,14.0,16.0
+2023,10,RD,Iowa H.S.,71.28,14.67,14.61,14.2,13.6
 2023,8,PSA,Irondale Combined Schools,82.15,24.75,16.1,24.8,16.5
 2023,13,PSA,Irondale Combined Schools,95.625,28.725,19.2,28.6,19.1
+2023,6,PSA,Irondale High School,78.95,23.25,16.5,23.1,16.1
+2023,9,PSA,Irondale High School,87.125,26.475,17.85,26.05,16.75
+2023,10,PSA,Irondale High School,89.6,27.375,18.35,26.125,17.75
 2023,5,PSA,J.W. Mitchell HS,74.9,22.5,15.3,22.0,15.1
 2023,13,R,J.W. Mitchell HS,81.2,24.375,16.2,24.575,16.05
 2023,1,SLAB,James Buchanan HS Guard,62.59,12.75,12.14,13.3,12.7
@@ -1272,6 +1593,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,SA,Jeffersonville HS - Varsity,71.37,13.89,14.28,14.3,15.0
 2023,10,BR,Jeffersonville HS - Varsity,77.15,14.94,15.41,15.7,15.7
 2023,9,PSA,Jenks HS,83.7,24.9,17.6,25.5,15.7
+2023,7,R2,Jennings H.S.,69.83,14.86,15.07,13.2,13.5
+2023,10,BD,Jennings H.S.,68.801,13.86,13.94,15.1,12.3
 2023,5,PSA,John C. Birdlebough HS,74.951,22.35,15.0,22.3,15.3
 2023,13,R,John C. Birdlebough HS,84.676,25.125,17.95,25.2,16.4
 2023,5,SRA,John Hardin HS,58.19,11.41,11.48,12.1,11.6
@@ -1294,12 +1617,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSA,Jordan Elbridge,82.05,24.5,24.15,16.5,16.9
 2023,10,PSA,Jordan Elbridge,85.2,26.6,25.2,16.8,16.6
 2023,5,PSA,Jupiter HS,72.85,22.65,14.0,22.1,14.1
+2023,2,IW,Juxtaposition,72.8,14.3,14.4,14.6,14.9
+2023,4,IW,Juxtaposition,77.8,16.5,15.1,15.6,15.0
+2023,7,IW,Juxtaposition,84.1,16.7,16.7,16.9,17.0
+2023,10,IW,Juxtaposition,87.0,17.4,17.5,17.7,16.9
 2023,9,PSO,Kamiak HS,85.75,26.25,17.8,25.2,16.5
 2023,13,R,Kamiak HS,91.826,27.075,18.6,27.375,18.775
 2023,5,PSA,Kaneland HS,67.401,19.5,13.6,21.0,13.3
 2023,8,PSA,Kaneland HS,73.8,22.2,15.1,21.6,14.9
 2023,6,PIA,Kannapolis Independent,71.6,21.9,14.1,21.8,13.8
 2023,13,PIA,Kannapolis Independent,81.85,25.05,16.1,24.9,15.8
+2023,7,R1,Kaplan H.S.,65.901,13.61,13.29,12.9,13.1
 2023,7,PSA,Karns HS,78.75,22.95,15.6,25.3,14.9
 2023,1,PSA,Karns High School Indoor Percussion,67.65,20.0,21.15,13.2,13.3
 2023,4,PSA,Karns High School Indoor Percussion,72.1,21.3,22.5,14.6,13.7
@@ -1314,12 +1642,40 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,P,Karns Middle School Winterguard,69.151,12.74,14.81,13.8,14.0
 2023,10,P,Karns Middle School Winterguard,73.321,15.21,15.01,14.4,14.3
 2023,9,PSO,Keller HS,81.451,23.55,17.1,25.2,15.6
+2023,5,SRA,Kettering,73.8,15.2,15.8,15.2,13.6
+2023,2,PSO,Kettering Fairmont,73.9,21.6,14.7,22.7,14.9
+2023,5,PSO,Kettering Fairmont,76.85,22.95,15.3,23.6,15.0
+2023,7,PSO,Kettering Fairmont,83.35,25.35,16.4,25.6,16.0
+2023,10,PSO,Kettering Fairmont,92.95,28.05,18.5,27.9,18.5
 2023,6,PSO,Kettering Fairmont HS,80.05,24.75,15.2,24.8,15.3
 2023,8,PSO,Kettering Fairmont HS,88.25,27.45,17.5,26.0,17.3
 2023,13,PSO,Kettering Fairmont HS,93.051,27.675,18.75,28.1,18.525
+2023,5,SRA,Kettering Fairmont HS JV,73.8,15.2,15.8,15.2,13.6
+2023,4,SA,Kettering Fairmont High School,73.36,14.0,15.06,14.6,15.0
+2023,5,SA,Kettering Fairmont High School,76.3,15.42,15.88,15.5,15.2
+2023,4,JCG,Kettering Juniors,54.701,9.4,11.0,11.5,11.5
+2023,5,JCG,Kettering Juniors,62.8,12.6,13.4,12.2,12.6
 2023,6,PSA,Kickapoo HS,81.85,24.15,16.3,26.3,15.1
+2023,1,PSA,Kings,71.85,20.85,14.4,22.2,14.4
+2023,4,PSA,Kings,73.9,22.8,15.2,21.5,14.4
+2023,5,PSA,Kings,77.85,23.55,15.6,23.0,15.7
+2023,7,PSA,Kings,83.0,25.2,16.8,24.8,16.2
+2023,10,PSA,Kings,88.65,25.65,18.2,26.6,18.2
+2023,1,SA,Kings HS,65.26,12.82,12.94,12.7,13.4
+2023,2,SA,Kings HS,71.66,14.28,14.08,14.2,14.7
+2023,4,SA,Kings HS,70.631,13.01,14.42,14.0,14.7
+2023,5,SA,Kings HS,73.16,14.55,15.01,14.8,13.9
+2023,7,SA,Kings HS,78.25,15.74,15.81,15.4,15.7
 2023,8,PSA,Kings HS,86.55,25.95,17.2,25.5,17.9
+2023,10,SA,Kings HS,81.921,16.01,15.61,17.1,16.6
 2023,13,R,Kings HS,89.113,26.138,18.65,27.075,17.25
+2023,1,JCG,Kings Juniors,50.4,11.0,10.2,10.2,9.5
+2023,2,JCG,Kings Juniors,60.5,12.4,13.2,12.4,11.8
+2023,4,JCG,Kings Juniors,65.8,11.5,13.6,13.5,14.2
+2023,5,JCG,Kings Juniors,67.9,13.0,14.4,14.1,13.2
+2023,7,JCG,Kings Juniors,72.8,14.4,13.1,15.1,15.1
+2023,8,JCG,Kings Juniors,76.8,15.3,14.9,16.3,15.4
+2023,10,JCG,Kings Juniors,78.3,15.3,14.5,16.4,15.8
 2023,10,GHSSAG,Kingsburg HS Winterguard,80.91,166.1,162.0,16.4,15.9
 2023,1,SRA,Kingston,55.541,11.49,11.15,10.6,11.9
 2023,4,SRA,Kingston,66.61,12.74,12.47,14.7,14.2
@@ -1350,6 +1706,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSO,La Quinta HS,86.1,27.3,17.3,24.4,17.1
 2023,10,R1,La Quinta HS,88.1,27.6,17.5,25.0,18.0
 2023,12,PSO,La Quinta HS,87.026,26.325,16.7,26.05,17.95
+2023,7,JV,Lafayette H.S. JV,76.33,14.73,15.0,15.0,16.2
+2023,10,JV,Lafayette H.S. JV,82.38,15.74,16.34,16.7,17.1
+2023,7,SA,Lafayette H.S. Varsity,76.55,14.61,15.34,15.6,15.4
+2023,10,SA,Lafayette H.S. Varsity,80.251,15.74,16.41,16.5,15.5
 2023,2,SA,Lafayette HS,71.28,14.74,13.34,14.5,14.2
 2023,4,SA,Lafayette HS,72.62,14.21,14.21,14.5,14.8
 2023,5,SA,Lafayette HS,78.72,15.88,15.74,15.3,15.9
@@ -1364,6 +1724,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,BR,Lafayette HS - JV,78.201,15.93,15.47,15.4,15.7
 2023,9,PSA,Laguna Creek HS,85.4,26.4,17.0,26.5,15.5
 2023,8,B1,Laguna Hills HS,71.701,22.2,12.6,22.1,14.8
+2023,7,IW,Lake Area Independent,64.2,12.8,12.2,12.9,13.3
+2023,10,IW,Lake Area Independent,75.8,15.0,15.0,15.5,15.2
 2023,5,PSA,Lake Central HS,78.8,24.0,15.4,24.3,15.1
 2023,4,PSA,Lake Central High School,68.651,20.85,13.6,20.7,13.5
 2023,7,PSA,Lake Central High School,76.05,22.95,15.4,22.9,14.8
@@ -1386,6 +1748,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,PSA,Lake Orion Percussion,71.8,22.2,14.6,20.5,14.5
 2023,7,PSA,Lake Orion Percussion,81.0,23.4,16.1,25.6,15.9
 2023,10,PSO,Lake Orion Percussion,86.8,25.65,17.6,26.85,16.7
+2023,10,PSN,Lakeshore H.S.,78.95,22.7,22.35,16.6,17.3
+2023,2,PIRA,Lakeville Area Percussion,61.85,17.85,12.2,19.4,12.4
+2023,4,PIRA,Lakeville Area Percussion,66.25,19.05,13.6,20.7,12.9
+2023,9,PIA,Lakeville Area Percussion,77.9,23.55,15.9,23.5,14.95
+2023,10,PIA,Lakeville Area Percussion,79.825,22.875,15.8,24.5,16.65
 2023,6,PSA,Lakeway Christian Academy,75.4,23.1,15.2,22.0,15.1
 2023,13,R,Lakeway Christian Academy,83.326,24.675,17.55,24.8,16.3
 2023,1,PSA,Lakeway Christian Academy Percussion,71.7,20.5,21.9,14.6,14.7
@@ -1404,7 +1771,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,4,SA,Lakota East HS - Varsity,66.581,12.94,13.34,13.2,13.9
 2023,8,SA,Lakota East HS - Varsity,75.151,14.61,14.74,15.1,15.3
 2023,10,PR,Lakota East HS - Varsity,77.51,15.07,15.14,16.3,15.9
+2023,7,SRA,Lakota East JV Winter Guard,77.86,13.81,14.75,16.4,16.6
+2023,7,SA,Lakota East Winter Guard,72.781,14.87,14.81,14.1,14.5
 2023,4,SRA,Lakota West,71.61,14.41,14.8,13.9,14.3
+2023,1,SRA,Lakota West Winter Guard,75.28,15.08,18.0,13.4,14.4
+2023,2,SRA,Lakota West Winter Guard,73.62,15.01,14.81,14.6,15.3
+2023,5,SA,Lakota West Winter Guard,72.84,14.54,13.8,15.2,15.1
+2023,8,SA,Lakota West Winter Guard,76.67,15.6,15.07,16.4,15.0
+2023,10,SA,Lakota West Winter Guard,83.87,16.6,16.27,17.3,16.6
 2023,8,PSW,Lambert HS,77.9,22.2,15.4,25.0,15.3
 2023,1,SA,Larry A Ryle HS,67.6,13.48,13.42,13.4,13.8
 2023,2,SA,Larry A Ryle HS,69.55,13.61,14.14,14.0,13.6
@@ -1418,6 +1792,29 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Lawrence Township Winter Percussion,81.038,24.788,15.55,25.4,15.3
 2023,8,PSA,Lebanon HS,77.65,22.05,16.3,23.9,15.4
 2023,13,R,Lebanon HS,82.439,24.337,17.1,24.9,16.1
+2023,1,PSA,Lebanon High School Drumline,68.4,19.8,13.8,20.6,14.2
+2023,4,PSA,Lebanon High School Drumline,70.101,20.7,14.0,21.8,13.6
+2023,7,PSA,Lebanon High School Drumline,77.45,23.55,15.4,23.7,14.8
+2023,10,PSA,Lebanon High School Drumline,81.85,24.3,16.5,25.7,15.35
+2023,2,SA,Lebanon High School Winterguard,54.68,10.69,10.29,11.4,11.5
+2023,4,SA,Lebanon High School Winterguard,60.87,11.22,12.75,12.3,11.7
+2023,7,SA,Lebanon High School Winterguard,62.36,12.01,12.95,12.2,12.7
+2023,8,SA,Lebanon High School Winterguard,66.561,13.35,14.01,13.8,12.6
+2023,9,SA,Lebanon High School Winterguard,70.25,14.74,14.61,13.5,14.0
+2023,10,SA,Lebanon High School Winterguard,70.866,14.545,14.22,13.7,14.2
+2023,2,JCG,Lebanon Junior High School Winterguard,57.8,11.9,12.4,11.2,10.9
+2023,4,JCG,Lebanon Junior High School Winterguard,60.1,11.7,11.6,12.7,13.0
+2023,7,JCG,Lebanon Junior High School Winterguard,72.1,15.2,14.0,14.3,14.7
+2023,8,JCG,Lebanon Junior High School Winterguard,77.2,15.0,14.5,17.0,16.2
+2023,9,JCG,Lebanon Junior High School Winterguard,75.6,15.2,14.4,15.0,15.5
+2023,10,JCG,Lebanon Junior High School Winterguard,74.1,15.0,14.8,14.2,15.6
+2023,1,ECG,Lebanon Little Arrows,73.6,16.3,16.5,13.0,13.9
+2023,2,ECG,Lebanon Little Arrows,74.8,16.3,16.1,14.1,14.1
+2023,4,ECG,Lebanon Little Arrows,74.0,16.4,15.1,15.0,13.5
+2023,7,ECG,Lebanon Little Arrows,80.9,17.3,15.2,16.0,16.2
+2023,8,ECG,Lebanon Little Arrows,81.4,16.4,16.0,17.0,15.8
+2023,9,ECG,Lebanon Little Arrows,84.5,16.5,16.2,18.3,17.1
+2023,10,ECG,Lebanon Little Arrows,85.6,16.5,16.8,18.1,17.0
 2023,4,PRA,Lebanon Percussion Ensemble,63.151,20.25,12.1,18.5,12.3
 2023,5,PRA,Lebanon Percussion Ensemble,68.1,21.0,13.0,20.5,13.6
 2023,7,PRA,Lebanon Percussion Ensemble,70.751,20.175,14.25,22.6,13.725
@@ -1425,6 +1822,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,GSRA,Legacy Winter Guard,67.37,14.29,14.48,16.2,13.6
 2023,8,GSRA,Legacy Winter Guard,80.35,14.67,16.68,16.6,16.7
 2023,10,GSRA,Legacy Winter Guard,78.45,14.48,15.67,14.8,16.7
+2023,4,PSO,Lehi HS,68.4,18.4,20.85,14.75,14.4
+2023,12,PSO,Lehi HS,84.85,23.8,24.75,17.8,18.5
 2023,7,PSO,Lehi HS Combined Schools,74.45,21.45,14.5,23.0,15.5
 2023,6,PSA,Lehman HS,79.9,22.2,16.3,23.9,17.5
 2023,10,GHSSAG,Lemoore HS A Winterguard,78.02,156.8,161.4,16.0,14.8
@@ -1457,31 +1856,62 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,SLAB,Linganore HS Guard,65.39,12.61,13.2,13.8,13.7
 2023,9,SLAB,Linganore HS Guard,73.62,14.48,13.34,14.3,15.8
 2023,10,PE-SB,Linganore HS Percussion,85.0,40.3,43.4,41.9,44.4
+2023,7,C,Live Oak J.H.S.,82.9,16.07,16.73,16.5,17.0
+2023,10,C,Live Oak J.H.S.,83.05,18.34,15.61,17.1,15.3
 2023,3,PSA,Liverpool,71.5,22.0,22.5,13.8,13.2
 2023,4,PSA,Liverpool,70.901,21.2,22.05,14.35,13.3
 2023,9,PSA,Liverpool,80.176,25.5,23.775,15.2,15.7
 2023,10,PSA,Liverpool,81.876,26.9,23.775,15.4,15.8
 2023,5,PSA,Liverpool HS,75.051,22.05,15.1,23.3,14.6
+2023,2,ECG,Lloyd Elementary Winterguard,70.0,14.5,14.3,13.9,13.4
+2023,8,ECG,Lloyd Elementary Winterguard,75.4,15.4,15.0,15.0,14.3
+2023,1,SRA,Lloyd Memorial Varsity Winterguard,57.04,10.55,12.99,10.7,11.4
+2023,2,SRA,Lloyd Memorial Varsity Winterguard,60.26,11.15,11.21,14.1,11.5
+2023,5,SRA,Lloyd Memorial Varsity Winterguard,73.21,15.01,16.0,14.5,14.1
+2023,7,SRA,Lloyd Memorial Varsity Winterguard,77.49,15.94,14.55,16.3,14.8
+2023,8,SRA,Lloyd Memorial Varsity Winterguard,74.29,15.41,14.88,15.3,14.4
+2023,10,SRA,Lloyd Memorial Varsity Winterguard,74.351,15.35,15.2,13.8,14.6
 2023,5,PSA,Londonderry HS,72.85,21.75,14.3,22.6,14.2
+2023,4,PSO,Lone Peak HS,66.9,18.1,20.4,13.8,14.6
+2023,5,PSO,Lone Peak HS,71.075,21.6,20.175,15.1,14.2
 2023,7,PSO,Lone Peak HS,78.55,23.55,15.4,25.2,14.4
 2023,9,PSO,Lone Peak HS,76.2,24.0,15.0,21.5,15.7
+2023,10,PSO,Lone Peak HS,83.05,25.4,24.15,16.5,17.0
+2023,12,PSO,Lone Peak HS,89.35,26.7,25.95,17.9,18.8
 2023,7,PSA,Longmont Combined Schools,82.35,25.05,16.7,24.9,15.7
 2023,13,PSA,Longmont Combined Schools,92.864,28.613,17.95,27.875,18.425
 2023,8,B3,Los Alamitos HS,77.25,24.15,13.5,24.6,15.0
 2023,10,R3,Los Alamitos HS,85.05,25.65,16.6,27.2,15.6
 2023,11,R2,Los Alamitos HS,88.001,26.55,18.0,26.85,16.6
 2023,12,PSA,Los Alamitos HS,85.5,25.125,17.5,26.2,16.675
+2023,10,IO,Louisiana St. University,75.2,14.6,15.5,14.9,15.4
 2023,3,SA,Louisville Male HS,52.49,11.07,10.42,11.0,10.8
 2023,6,SA,Louisville Male HS,50.3,11.19,11.21,8.7,9.6
 2023,8,BR,Louisville Male HS,64.931,11.22,13.01,13.1,13.2
 2023,10,PR,Louisville Male HS,70.911,14.14,13.87,14.6,14.1
 2023,7,PSO,Loveland HS,79.15,23.55,15.8,24.3,15.5
+2023,2,SRA,Loveland High School Winterguard,59.59,11.55,12.54,12.6,10.8
+2023,4,SRA,Loveland High School Winterguard,58.811,11.28,11.83,11.5,12.9
+2023,7,SRA,Loveland High School Winterguard,68.75,15.14,14.21,12.5,13.7
+2023,9,SRA,Loveland High School Winterguard,72.181,14.87,15.01,14.3,14.5
 2023,4,P-SP,Lower Dauphin HS Percussion,65.5,18.3,21.0,13.0,13.2
 2023,8,BR,Lynchburg Clay HS,61.421,11.08,11.34,12.9,13.3
 2023,8,PIO,M3,80.7,24.9,15.5,25.0,15.3
 2023,13,R,M3,83.45,24.9,16.5,26.625,15.425
+2023,2,PIW,MBI Indoor Percussion,70.0,20.4,16.1,19.5,14.0
+2023,3,PIW,MBI Indoor Percussion,70.95,21.45,14.9,20.4,14.2
+2023,7,PIW,MBI Indoor Percussion,80.95,24.15,15.8,23.5,17.5
 2023,8,PIW,MBI Indoor Percussion,85.25,25.05,17.2,26.2,16.8
+2023,9,PIW,MBI Indoor Percussion,85.85,25.95,17.25,25.75,16.9
+2023,10,PIW,MBI Indoor Percussion,87.35,26.55,17.45,26.15,17.2
 2023,13,PIW,MBI Indoor Percussion,86.8,26.55,17.1,25.95,17.2
+2023,2,JCG,Mad River Junior Winter Guard,53.4,9.8,11.8,10.2,11.1
+2023,4,JCG,Mad River Junior Winter Guard,56.201,10.3,9.8,11.2,14.3
+2023,5,JCG,Mad River Junior Winter Guard,59.701,11.6,12.4,11.3,12.0
+2023,7,JCG,Mad River Junior Winter Guard,65.5,14.2,13.5,11.5,13.7
+2023,8,JCG,Mad River Junior Winter Guard,74.4,15.1,15.1,14.5,15.6
+2023,9,JCG,Mad River Junior Winter Guard,71.1,12.5,15.3,14.4,14.0
+2023,10,JCG,Mad River Junior Winter Guard,69.101,13.5,13.8,13.5,14.8
 2023,4,SA,Madeira HS,58.171,11.68,12.29,10.8,11.6
 2023,6,SA,Madeira HS,61.24,12.56,12.88,11.4,13.0
 2023,8,SA,Madeira HS,68.59,13.35,13.34,13.9,13.7
@@ -1503,6 +1933,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,BR,Madison Consolidated HS,76.141,14.4,13.54,17.1,15.9
 2023,9,PR,Madison Consolidated HS,73.88,15.47,14.41,15.5,14.5
 2023,10,PR,Madison Consolidated HS,77.741,15.4,15.94,15.0,15.5
+2023,7,PSRA,Madison High School,66.35,20.25,14.4,18.8,12.9
 2023,5,SRA,Madison Southern HS,58.481,10.69,12.69,12.5,11.3
 2023,8,PR,Madison Southern HS,71.021,13.48,13.94,15.3,15.1
 2023,9,PR,Madison Southern HS,74.561,14.68,14.68,15.8,14.3
@@ -1514,6 +1945,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,GSN,Malvern Indoor Guard,61.86,13.69,14.87,9.9,12.0
 2023,8,GSN,Malvern Indoor Guard,66.32,16.27,14.95,10.3,11.7
 2023,10,GSN,Malvern Indoor Guard,68.61,15.14,13.27,12.8,13.4
+2023,10,SA,Mandeville H.S. Varsity,77.911,14.94,15.87,15.6,15.9
 2023,5,PSA,Mansfield HS,77.8,22.8,15.5,23.8,15.7
 2023,13,R,Mansfield HS,82.976,24.975,15.9,25.85,16.25
 2023,5,PRA,Marching Knights Indoor,59.9,18.0,12.5,18.5,10.9
@@ -1532,12 +1964,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Martinsville Indoor Percussion,79.9,24.6,16.7,22.0,16.6
 2023,8,R2,Martinsville Indoor Percussion,81.425,24.9,16.375,23.5,16.65
 2023,10,PSA,Martinsville Indoor Percussion,82.638,24.938,16.7,24.4,16.6
+2023,2,SRA,Marysville OH,57.901,12.06,10.94,12.0,11.3
+2023,4,SRA,Marysville OH,61.861,11.88,12.08,13.2,12.8
+2023,5,SRA,Marysville OH,67.301,13.66,14.74,13.6,12.6
+2023,7,SRA,Marysville OH,71.65,14.21,14.74,14.5,15.2
+2023,10,SRA,Marysville OH,70.51,14.48,14.73,14.3,13.6
+2023,2,SRA,Marysville Winterguard,57.901,12.06,10.94,12.0,11.3
+2023,4,SRA,Marysville Winterguard,61.861,11.88,12.08,13.2,12.8
+2023,5,SRA,Marysville Winterguard,67.301,13.66,14.74,13.6,12.6
+2023,7,SRA,Marysville Winterguard,71.65,14.21,14.74,14.5,15.2
+2023,10,SRA,Marysville Winterguard,70.51,14.48,14.73,14.3,13.6
 2023,4,SRA,Maryville High School,54.721,10.88,12.74,9.1,11.1
 2023,6,SRA,Maryville High School,63.271,12.82,11.35,14.2,12.0
 2023,10,SRA,Maryville High School,70.22,13.21,13.81,13.4,15.1
 2023,4,SRA,Maryville Winter Guard,54.721,10.88,12.74,9.1,11.1
 2023,6,SRA,Maryville Winter Guard,63.271,12.82,11.35,14.2,12.0
 2023,10,SRA,Maryville Winter Guard,70.22,13.21,13.81,13.4,15.1
+2023,2,SA,Mason HS,75.18,14.54,14.54,15.3,15.6
+2023,4,SA,Mason HS,79.64,15.94,16.0,15.9,16.5
+2023,7,SA,Mason HS,85.42,16.87,17.15,17.1,16.7
+2023,10,SA,Mason HS,89.36,18.06,17.8,18.5,17.4
 2023,3,PSA,Mater Dei Winter Percussion,65.901,18.9,13.5,19.9,13.6
 2023,5,PSA,Mater Dei Winter Percussion,68.551,22.05,13.8,18.9,13.8
 2023,6,PSA,Mater Dei Winter Percussion,74.101,21.9,15.1,23.0,14.1
@@ -1550,6 +1996,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,13,R,Matrix Open,86.026,26.025,16.85,25.9,17.25
 2023,6,PSO,Mauldin HS,74.751,22.05,14.8,22.0,15.9
 2023,8,PSO,Mauldin HS,75.551,23.25,16.4,20.6,15.3
+2023,7,S,McNeese St. University,62.15,12.28,12.87,12.3,12.7
+2023,10,S,McNeese St. University,67.91,13.54,14.87,13.1,13.2
 2023,3,SRA,Meade County HS,69.98,14.21,13.87,13.7,14.3
 2023,4,SA,Meade County HS,63.19,12.81,12.48,12.9,12.5
 2023,6,SA,Meade County HS,62.79,13.68,12.81,12.2,12.1
@@ -1580,16 +2028,41 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,IRA,Meridian Winter Guard,75.52,13.88,14.54,17.1,15.0
 2023,9,IRA,Meridian Winter Guard,77.27,15.0,14.87,15.9,16.2
 2023,10,IRA,Meridian Winter Guard,81.44,16.67,16.27,16.4,16.3
+2023,1,SA,Miamisburg A Guard,60.74,12.68,11.46,11.8,12.4
+2023,4,SA,Miamisburg A Guard,67.6,12.75,13.15,13.3,14.3
+2023,5,SA,Miamisburg A Guard,67.02,13.81,13.81,13.6,12.8
+2023,7,SA,Miamisburg A Guard,74.55,15.01,15.14,15.4,14.3
+2023,8,SA,Miamisburg A Guard,76.82,15.14,14.88,17.1,14.4
+2023,10,SA,Miamisburg A Guard,75.99,15.48,14.21,15.2,15.0
+2023,1,ECG,Miamisburg Sweethearts,80.5,16.6,18.5,15.2,15.1
+2023,4,ECG,Miamisburg Sweethearts,79.8,16.9,16.8,14.8,15.4
+2023,5,ECG,Miamisburg Sweethearts,80.3,17.3,17.0,15.2,16.0
+2023,7,ECG,Miamisburg Sweethearts,88.8,18.1,18.4,18.2,16.7
+2023,8,ECG,Miamisburg Sweethearts,90.3,18.1,18.4,18.7,16.9
+2023,10,ECG,Miamisburg Sweethearts,92.7,18.7,18.7,17.9,18.7
+2023,1,SW,Miamisburg World Guard,72.8,14.9,14.4,14.3,14.6
+2023,4,SW,Miamisburg World Guard,78.0,15.4,15.5,15.5,15.9
+2023,7,SW,Miamisburg World Guard,87.1,17.7,17.7,17.1,17.3
+2023,8,SW,Miamisburg World Guard,88.5,18.1,17.9,17.4,17.4
+2023,10,SW,Miamisburg World Guard,90.2,18.0,18.0,18.3,17.9
 2023,4,PIA,MidMichigan Impact,66.6,20.4,12.9,20.0,13.3
 2023,5,PIA,MidMichigan Impact,66.95,18.75,14.1,20.8,13.3
 2023,8,PIA,MidMichigan Impact,75.4,23.4,13.2,23.8,15.0
 2023,10,PIA,MidMichigan Impact,75.075,22.575,15.25,22.2,15.05
+2023,4,SA,Middletown High School,75.69,14.08,15.21,15.5,15.8
 2023,1,SO,Milford HS,69.0,13.4,13.2,14.1,14.2
 2023,4,SO,Milford HS,76.3,15.4,14.8,15.2,15.5
 2023,8,SO,Milford HS,86.1,16.9,16.5,17.1,17.6
 2023,10,SO,Milford HS,90.4,18.0,18.0,18.0,18.3
 2023,8,PSO,Milford HS (OH),82.0,24.9,16.1,24.8,16.2
 2023,13,R,Milford HS (OH),84.826,25.95,16.5,25.55,16.825
+2023,7,SA,Milford High School (A),81.01,16.27,16.14,16.1,16.2
+2023,1,SO,Milford High School (Open),69.0,13.3,13.8,14.0,13.9
+2023,7,SO,Milford High School (Open),83.1,16.5,16.2,16.7,16.8
+2023,2,PSA,Milford Indoor Percussion Ensemble,74.8,21.3,15.1,23.5,14.9
+2023,4,PSA,Milford Indoor Percussion Ensemble,79.4,24.3,15.7,23.9,15.5
+2023,5,PSA,Milford Indoor Percussion Ensemble,79.35,24.45,16.0,24.4,14.5
+2023,10,PSO,Milford Indoor Percussion Ensemble,89.3,27.3,17.4,26.9,17.7
 2023,4,SJ,Milford Jr. HS,54.63,10.48,10.35,11.1,11.3
 2023,8,SJ,Milford Jr. HS,67.81,12.67,11.94,13.7,14.8
 2023,13,R,Mililani HS,85.976,24.825,17.05,27.2,16.9
@@ -1605,6 +2078,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,1,SG,Milton Hershey HS Guard,64.34,14.1,12.54,13.5,12.2
 2023,8,SG,Milton Hershey HS Guard,73.08,14.74,14.34,14.3,14.8
 2023,9,SG,Milton Hershey HS Guard,78.17,15.53,15.74,16.2,15.0
+2023,8,SRA,Milton-Union Varsity Winter Guard,70.191,15.14,14.55,13.9,14.2
+2023,9,SRA,Milton-Union Varsity Winter Guard,66.58,13.47,14.01,12.3,13.6
+2023,10,SRA,Milton-Union Varsity Winter Guard,65.13,13.35,13.08,12.6,13.4
 2023,5,PSA,Minooka Community HS,75.8,23.7,14.7,23.3,14.1
 2023,13,R,Minooka Community HS,86.426,26.025,16.8,26.7,16.9
 2023,3,B2,Mira Costa HS,77.45,22.35,16.4,22.7,16.0
@@ -1629,6 +2105,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSA,Mission Viejo HS,87.151,26.175,16.9,26.425,17.65
 2023,5,PIA,Modulation Z,85.45,25.05,17.1,26.4,16.9
 2023,13,PIA,Modulation Z,96.05,29.55,19.225,28.375,18.9
+2023,2,SRA,Moeller/MND Winter Guard,52.261,10.68,10.28,10.6,10.2
+2023,5,SRA,Moeller/MND Winter Guard,62.85,12.6,13.15,12.6,12.1
+2023,7,SRA,Moeller/MND Winter Guard,63.761,13.14,12.62,12.6,12.8
+2023,9,SRA,Moeller/MND Winter Guard,70.971,15.4,14.87,14.4,13.0
+2023,10,SRA,Moeller/MND Winter Guard,68.82,14.28,13.94,14.2,13.4
 2023,3,PSA,Mohonasen,62.7,19.3,18.6,12.3,12.5
 2023,8,PSA,Mohonasen,67.601,19.5,20.7,13.8,13.6
 2023,10,PSA,Mohonasen,68.2,23.2,18.9,13.2,12.9
@@ -1658,6 +2139,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,IRA,Morehead State University,76.06,15.22,14.14,15.4,15.8
 2023,9,IRA,Morehead State University,79.15,16.14,15.41,15.5,16.0
 2023,10,IRA,Morehead State University,84.89,17.41,16.68,16.7,17.0
+2023,10,RD,Morgan City H.S. Guard,82.32,16.54,17.68,16.1,16.0
 2023,4,PIO,Motor City Percussion,75.45,22.65,15.3,22.0,15.5
 2023,7,PIO,Motor City Percussion,82.7,25.5,17.2,23.3,16.7
 2023,9,PIO,Motor City Percussion,90.65,27.75,18.5,27.0,17.4
@@ -1666,7 +2148,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,3,SRA,Mount Vernon Sr. HS,65.911,13.42,12.89,12.6,13.7
 2023,6,SRA,Mount Vernon Sr. HS,68.19,13.88,13.81,14.5,12.0
 2023,7,PR,Mount Vernon Sr. HS,68.971,14.67,12.8,13.8,14.4
+2023,5,PSA,Mountain Crest HS,65.051,20.7,18.45,13.3,12.6
+2023,9,PSA,Mountain Crest HS,71.401,19.9,21.6,14.8,15.1
+2023,10,PSA,Mountain Crest HS,70.201,20.0,21.9,13.8,14.5
+2023,12,PSA,Mountain Crest HS,75.55,23.0,22.05,15.3,15.2
+2023,4,PSA,Mountain Ridge HS,64.226,17.65,20.175,12.8,13.6
+2023,9,PSA,Mountain Ridge HS,74.001,21.3,23.1,14.85,14.75
+2023,12,PSA,Mountain Ridge HS,83.35,23.55,24.6,16.4,18.8
 2023,7,PSA,Mountain Ridge HS (UT),77.3,23.1,15.2,24.4,14.6
+2023,12,PSA,Mountain View High School,74.85,20.5,22.05,16.5,15.8
 2023,1,PHSSRA,Mt Whitney HS Percussion,60.501,18.4,20.7,11.0,10.4
 2023,8,PHSSRA,Mt Whitney HS Percussion,66.051,21.3,19.65,12.8,12.3
 2023,10,PHSSRA,Mt Whitney HS Percussion,67.45,19.0,21.75,13.1,13.6
@@ -1676,12 +2166,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,GJHSA,Mulcahy MS Winterguard,62.751,113.4,112.1,13.7,15.1
 2023,7,PIW,Music City Mystique,88.55,26.85,17.8,26.0,17.9
 2023,13,PIW,Music City Mystique,95.475,28.8,18.875,28.675,19.125
+2023,7,R1,Natchitoches Central H.S.,62.181,13.42,12.76,11.9,12.2
+2023,10,RD,Natchitoches Central H.S.,64.631,11.55,14.28,12.8,12.9
 2023,7,PSA,Nebo School District Combined Schools,79.1,24.3,16.5,23.8,14.5
+2023,5,PSA,Nebo School District Percussion,70.1,22.1,19.95,14.6,13.45
+2023,9,PSA,Nebo School District Percussion,78.4,21.8,25.65,14.45,16.5
+2023,12,PSA,Nebo School District Percussion,81.2,23.8,24.6,16.2,16.6
 2023,4,PSA,Neshaminy High School,64.851,20.0,19.35,13.1,12.4
 2023,5,PSA,Neshaminy High School,66.15,19.8,20.25,13.2,12.9
 2023,9,PSA,Neshaminy High School,72.5,22.1,22.8,13.6,14.0
 2023,10,PSA,Neshaminy High School,71.7,23.4,20.7,13.8,13.8
 2023,12,PSA,Neshaminy High School,73.375,23.5,21.675,14.1,14.1
+2023,10,RD,Neville H.S.,72.441,14.21,14.63,14.7,13.4
 2023,3,BR,New Albany HS,57.15,10.43,11.62,11.5,12.4
 2023,4,SRA,New Albany HS,52.531,9.48,10.55,11.3,10.3
 2023,6,PR,New Albany HS,55.571,11.96,11.61,11.2,9.9
@@ -1693,6 +2189,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSA,New Hartford,86.35,26.8,25.65,17.2,16.7
 2023,10,PSA,New Hartford,84.65,27.7,24.75,15.8,16.4
 2023,5,PSA,New Hartford HS,81.85,24.75,16.0,25.1,16.0
+2023,10,PSN,New Iberia Indoor Percussion Ensemble,77.1,22.4,22.2,16.0,16.5
+2023,7,R1,New Iberia JV,78.78,16.34,16.74,14.9,15.3
+2023,10,BD,New Iberia JV,83.61,17.87,17.54,17.0,15.2
+2023,7,SA,New Iberia Varsity,74.81,14.74,14.07,14.9,15.7
+2023,10,SA,New Iberia Varsity,82.67,15.87,17.0,16.8,16.8
 2023,5,PSA,New Milford HS,83.25,25.35,16.4,25.0,16.5
 2023,8,PSO,New Milford HS,83.65,25.05,16.9,25.8,15.9
 2023,13,R,New Milford HS,83.876,25.65,15.85,26.125,16.25
@@ -1749,6 +2250,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,North Penn,73.9,23.0,21.6,14.9,14.4
 2023,12,PSA,North Penn,79.65,24.7,24.15,15.4,15.4
 2023,7,PIA,North Star Independent,84.4,25.5,17.7,25.1,16.1
+2023,10,PIA,North Star Independent,84.75,25.55,24.75,17.4,17.05
+2023,12,PIA,North Star Independent,86.6,24.4,26.4,18.4,17.4
 2023,13,R2,North Star Independent,91.938,27.337,18.65,27.85,18.1
 2023,0,SG,Northeastern HS Guard,57.99,12.08,11.01,11.4,12.2
 2023,1,SG,Northeastern HS Guard,62.92,13.91,11.61,13.3,11.8
@@ -1757,12 +2260,43 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,SG,Northeastern HS Guard,77.06,15.27,15.59,14.9,15.9
 2023,9,SG,Northeastern HS Guard,78.21,15.07,15.94,15.4,15.2
 2023,10,SG,Northeastern HS Guard,82.678,16.218,16.91,15.75,17.0
+2023,2,SRA,Northeastern High School Winter Guard,53.511,10.09,9.62,11.7,11.3
+2023,4,SRA,Northeastern High School Winter Guard,59.67,12.35,11.82,11.7,12.6
+2023,5,SRA,Northeastern High School Winter Guard,63.831,14.28,12.95,11.8,13.0
+2023,7,SRA,Northeastern High School Winter Guard,63.75,13.21,12.94,11.8,12.7
+2023,8,SRA,Northeastern High School Winter Guard,71.58,14.21,14.47,14.5,15.1
+2023,9,SRA,Northeastern High School Winter Guard,73.7,16.26,14.74,13.9,14.3
+2023,10,SRA,Northeastern High School Winter Guard,72.401,16.13,14.47,14.2,14.6
+2023,1,PSRA,Northeastern Indoor Percussion,63.75,18.45,13.3,20.7,11.3
+2023,2,PSRA,Northeastern Indoor Percussion,73.75,22.95,14.6,21.8,14.4
+2023,4,PSA,Northeastern Indoor Percussion,67.876,20.475,13.8,20.9,12.7
+2023,5,PSA,Northeastern Indoor Percussion,67.451,20.25,13.8,21.5,11.9
+2023,7,PSA,Northeastern Indoor Percussion,76.95,23.55,15.0,23.8,14.6
+2023,10,PSA,Northeastern Indoor Percussion,79.201,23.4,15.6,24.7,15.5
 2023,0,SJ,Northeastern MS Guard,53.61,8.87,9.54,10.3,14.2
 2023,1,SJ,Northeastern MS Guard,56.11,9.47,9.94,10.8,13.7
 2023,2,SJ,Northeastern MS Guard,58.49,10.61,10.28,11.1,13.8
 2023,4,SJ,Northeastern MS Guard,67.91,13.47,13.54,13.9,13.1
 2023,7,SJ,Northeastern MS Guard,70.71,13.54,13.67,14.4,14.5
 2023,9,SJ,Northeastern MS Guard,76.55,14.21,14.34,16.8,15.7
+2023,2,SO,Northmont High School Varsity Guard,73.3,14.6,14.4,15.0,14.9
+2023,4,SO,Northmont High School Varsity Guard,74.6,14.7,15.0,15.4,14.8
+2023,7,SO,Northmont High School Varsity Guard,81.9,16.0,16.2,16.6,16.8
+2023,10,SO,Northmont High School Varsity Guard,87.5,17.3,17.7,17.4,17.4
+2023,2,SRA,Northmont JV Guard,68.26,13.28,13.48,14.3,14.1
+2023,4,SRA,Northmont JV Guard,67.481,12.34,14.14,13.9,14.3
+2023,5,SRA,Northmont JV Guard,70.13,13.61,15.42,14.1,13.8
+2023,8,SRA,Northmont JV Guard,75.18,15.14,15.74,14.4,14.9
+2023,10,SRA,Northmont JV Guard,72.36,15.08,14.88,13.3,14.9
+2023,1,ECG,Northmont Wee Bolts Winterguard,78.4,17.0,17.7,14.7,14.5
+2023,2,ECG,Northmont Wee Bolts Winterguard,77.2,16.5,16.2,14.8,15.0
+2023,4,ECG,Northmont Wee Bolts Winterguard,76.6,15.3,16.2,15.9,13.7
+2023,5,ECG,Northmont Wee Bolts Winterguard,79.9,16.1,16.6,15.9,15.6
+2023,7,ECG,Northmont Wee Bolts Winterguard,80.5,17.0,17.2,15.4,15.1
+2023,8,ECG,Northmont Wee Bolts Winterguard,83.4,17.6,17.0,15.4,16.6
+2023,9,ECG,Northmont Wee Bolts Winterguard,87.2,16.3,17.2,18.2,18.2
+2023,10,ECG,Northmont Wee Bolts Winterguard,88.5,17.4,17.6,18.2,17.8
+2023,10,RD,Northshore H.S. Winterguard,81.41,16.14,16.87,16.4,16.9
 2023,6,PSA,Northview HS,81.0,24.9,17.4,22.6,16.1
 2023,13,R,Northview HS,87.289,26.062,17.8,26.0,17.425
 2023,3,PSA,Northview Indoor Percussion,75.05,22.65,14.8,22.7,14.9
@@ -1770,6 +2304,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSO,Northview Indoor Percussion,82.75,23.85,16.8,25.4,16.7
 2023,8,PSO,Northview Indoor Percussion,84.838,25.462,16.9,25.6,16.875
 2023,10,PSO,Northview Indoor Percussion,88.388,25.837,18.25,26.2,18.1
+2023,10,IA,Northwestern St. University,81.68,16.54,16.94,16.5,15.4
 2023,13,R,Norwalk Combined Schools,85.625,25.425,17.05,26.0,17.15
 2023,5,PSO,Norwalk HS Combined Schools,76.6,23.7,14.5,22.3,16.1
 2023,8,PSO,Norwalk HS Combined Schools,83.2,25.5,18.0,23.2,16.5
@@ -1789,9 +2324,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PSA,Nutley HS,85.051,24.75,17.3,24.95,18.05
 2023,6,PSO,OConnor HS,81.15,23.85,16.4,24.1,16.8
 2023,9,PSO,OConnor HS,85.9,26.4,17.5,25.8,16.2
+2023,10,PSA,Oak Grove H.S.,88.25,26.5,27.15,16.8,17.8
+2023,10,JV,Oak Grove H.S. Junior Varsity,80.28,16.66,16.52,15.3,16.2
+2023,10,SA,Oak Grove H.S. Varsity,81.93,16.4,17.13,16.1,15.3
 2023,8,PSA,Oak Grove HS,75.675,22.575,14.8,22.5,15.8
 2023,7,PSA,Oak Grove HS (MS),80.85,25.05,16.8,23.0,16.0
 2023,13,PSA,Oak Grove HS (MS),92.276,28.575,18.2,27.525,17.975
+2023,2,SA,Oak Hills High School Winter Guard,64.42,12.68,12.94,13.2,12.6
+2023,4,SA,Oak Hills High School Winter Guard,62.8,13.08,12.32,13.2,12.1
+2023,7,SA,Oak Hills High School Winter Guard,75.25,15.41,16.14,15.3,14.0
+2023,8,SA,Oak Hills High School Winter Guard,76.08,15.41,15.47,14.8,15.4
+2023,10,SA,Oak Hills High School Winter Guard,77.01,15.94,15.67,14.4,15.1
+2023,2,PSA,Oak Hills Indoor Percussion Ensemble,69.15,19.95,14.1,20.8,14.3
+2023,4,PSA,Oak Hills Indoor Percussion Ensemble,68.101,21.45,13.7,20.15,12.8
+2023,5,PSA,Oak Hills Indoor Percussion Ensemble,67.151,20.85,13.4,20.4,12.5
+2023,10,PSA,Oak Hills Indoor Percussion Ensemble,78.701,23.1,16.3,23.5,15.8
 2023,6,B2,Oak Park HS,65.851,19.95,12.9,20.4,12.6
 2023,8,B2,Oak Park HS,73.401,22.5,13.0,23.3,14.6
 2023,10,R4,Oak Park HS,77.151,22.65,14.1,25.1,15.3
@@ -1803,6 +2350,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,1,PSA,Oak Ridge Indoor Percussion,75.2,21.1,22.8,15.6,15.7
 2023,4,PSA,Oak Ridge Indoor Percussion,79.4,23.7,24.0,16.2,15.5
 2023,10,PSA,Oak Ridge Indoor Percussion,88.65,25.7,26.55,18.5,17.9
+2023,7,R1,Oakdale H.S.,67.791,13.95,13.14,13.5,13.4
+2023,10,RD,Oakdale H.S.,70.88,13.74,14.34,14.8,14.1
 2023,4,SG,Oakdale HS Guard,59.99,13.75,13.34,10.7,10.9
 2023,6,SG,Oakdale HS Guard,70.11,14.15,13.86,13.8,14.3
 2023,7,SG,Oakdale HS Guard,74.22,15.28,15.14,14.8,14.3
@@ -1813,7 +2362,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PRA,Odessa High School,80.75,24.4,24.75,15.9,15.7
 2023,10,PRA,Odessa High School,82.55,23.9,25.35,16.6,16.7
 2023,12,PRA,Odessa High School,84.5,24.8,24.6,16.9,18.2
+2023,4,PSA,Ogden HS,65.95,18.3,20.4,14.05,13.2
+2023,5,PSA,Ogden HS,69.45,21.9,19.8,14.35,13.4
 2023,7,PSA,Ogden HS,78.7,24.6,14.5,24.3,15.3
+2023,10,PSA,Ogden HS,81.5,24.3,24.9,16.0,16.3
+2023,12,PSA,Ogden HS,88.1,25.9,25.8,18.1,18.3
 2023,6,PR,Ohio Co HS,57.141,11.43,11.81,12.1,10.3
 2023,8,BR,Ohio Co HS,62.121,11.68,12.54,12.3,13.0
 2023,9,PR,Ohio Co HS,66.521,13.21,13.81,13.7,12.9
@@ -1834,12 +2387,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,SW,Old Mill HS,78.31,15.54,15.07,16.6,15.5
 2023,9,SW,Old Mill HS,79.54,15.21,15.73,16.8,16.0
 2023,10,SW,Old Mill HS,83.815,16.47,17.095,17.45,16.55
+2023,7,SA,Olentangy High School Winter Guard,58.42,11.47,12.35,11.5,12.1
 2023,8,PSA,Olentangy Liberty HS,87.025,25.425,18.1,26.0,17.5
 2023,13,R,Olentangy Liberty HS,80.725,23.775,16.65,24.3,16.0
 2023,1,PSRA,Oneida High School Indoor Percussion,62.55,18.1,19.05,12.8,12.6
 2023,5,PSRA,Oneida High School Indoor Percussion,55.35,18.7,16.05,10.6,10.0
 2023,10,PSRA,Oneida High School Indoor Percussion,64.251,18.3,20.25,13.2,12.5
 2023,4,IW,Onyx,83.5,16.5,16.4,16.5,17.1
+2023,2,IA,Onyx Independent A,75.95,14.61,15.7,15.6,15.5
 2023,4,B1,Orange HS,71.45,19.35,15.4,21.4,15.3
 2023,6,B2,Orange HS,73.0,21.6,14.4,22.1,14.9
 2023,7,PSA,Orange HS,74.0,22.05,15.6,21.0,15.35
@@ -1856,6 +2411,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,GHSSRAS,Orosi HS Winterguard,79.48,159.4,161.4,15.5,15.7
 2023,8,PSA,Osseo Area Combined Schools,81.35,24.45,16.4,24.7,15.8
 2023,9,PSA,Othello HS,66.501,20.4,13.2,19.6,13.3
+2023,2,PIA,Owatonna High School,58.95,16.65,10.9,19.7,11.7
+2023,4,PIA,Owatonna High School,59.65,19.05,12.9,17.3,10.4
 2023,5,PR,Owen Co HS,61.98,12.01,14.07,13.1,11.4
 2023,8,BR,Owen Co HS,72.71,13.74,14.27,15.1,14.5
 2023,9,BR,Owen Co HS,74.53,14.54,15.19,15.6,15.4
@@ -1918,6 +2475,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSA,Parkland,79.9,23.7,23.4,15.9,16.9
 2023,10,GJHSA,Parkview MS Winterguard,63.01,109.4,110.7,15.1,14.7
 2023,6,PSA,Patriot HS,65.95,20.55,12.8,19.0,13.6
+2023,7,R2,Patterson H.S.,75.59,15.41,16.28,14.4,15.6
+2023,10,RD,Patterson H.S.,81.31,17.14,17.67,16.3,14.1
 2023,2,R1,Paul Laurence Dunbar HS,61.35,13.34,11.01,12.0,12.8
 2023,4,SRA,Paul Laurence Dunbar HS,68.92,13.88,14.34,14.2,13.7
 2023,5,SRA,Paul Laurence Dunbar HS,71.82,14.35,14.87,14.4,14.1
@@ -1926,6 +2485,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PR,Paul Laurence Dunbar HS,85.58,16.94,16.74,17.3,17.5
 2023,10,BR,Paul Laurence Dunbar HS,87.28,17.54,17.54,17.2,17.7
 2023,5,PSA,Paul V. Moore HS,71.6,20.7,13.3,24.2,13.4
+2023,4,PSA,Payson HS,59.751,17.1,17.85,12.6,12.2
+2023,9,PSA,Payson HS,65.551,18.5,19.95,14.7,12.4
+2023,10,PSA,Payson HS,65.251,19.1,19.65,13.4,13.1
+2023,12,PSA,Payson HS,68.85,19.5,19.95,14.4,15.0
 2023,7,PSA,Pearl HS,80.35,24.15,16.7,22.5,17.0
 2023,13,R,Pearl HS,86.676,26.925,16.5,26.8,16.45
 2023,6,PSW,Pearland HS,80.5,23.4,16.0,24.3,16.8
@@ -1968,10 +2531,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PSA,Pike Indoor Percussion,71.1,21.6,14.9,21.2,13.4
 2023,7,PSA,Pike Indoor Percussion,78.451,25.05,14.6,24.3,14.5
 2023,8,R1,Pike Indoor Percussion,71.875,20.925,14.65,22.0,14.3
+2023,7,R1,Pine Prairie H.S.,66.361,13.93,14.53,12.8,12.3
+2023,10,BD,Pine Prairie H.S.,75.11,15.6,15.61,14.8,14.0
+2023,7,R1,Pineville H.S.,68.481,13.94,14.34,13.4,13.9
+2023,10,BD,Pineville H.S.,72.11,14.28,15.33,14.1,14.4
 2023,7,PIA,Pinnacle Percussion,75.325,22.125,15.4,23.0,14.8
 2023,6,IA,Pioneer Independent Winter Guard,62.13,13.08,12.35,13.5,11.9
 2023,9,IA,Pioneer Independent Winter Guard,65.62,13.88,13.14,13.8,12.2
 2023,10,GJHSA,Pioneer MS Winterguard,68.35,121.4,114.1,16.5,15.6
+2023,2,SRA,Piqua Winter Guard,74.78,14.34,14.54,15.4,15.4
+2023,4,SRA,Piqua Winter Guard,75.15,14.75,15.2,15.4,14.9
+2023,7,SRA,Piqua Winter Guard,82.72,16.08,15.74,17.2,17.1
+2023,8,SA,Piqua Winter Guard,76.01,15.34,14.67,16.2,14.7
+2023,10,SA,Piqua Winter Guard,74.851,15.28,15.47,13.8,15.2
 2023,10,GJHSA,Pixley MS Winterguard,56.341,100.0,101.4,10.9,14.3
 2023,5,PSA,Plainfield Combined School,82.75,24.15,16.2,26.4,16.0
 2023,13,R,Plainfield Combined School,89.95,25.8,18.45,27.55,18.15
@@ -1981,8 +2553,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSO,Plainfield High School Winter Percussion Ensemble,79.65,22.35,16.3,24.6,16.4
 2023,8,PSO,Plainfield High School Winter Percussion Ensemble,83.55,25.35,17.0,24.45,16.75
 2023,10,PSO,Plainfield High School Winter Percussion Ensemble,86.513,26.212,17.75,25.25,17.3
+2023,4,PSA,Pleasant Grove HS,69.05,18.7,21.45,14.3,14.6
 2023,7,PSA,Pleasant Grove HS,69.651,20.25,13.2,23.2,13.0
 2023,9,PSA,Pleasant Grove HS,78.001,22.5,16.6,24.2,14.7
+2023,10,PSA,Pleasant Grove HS,76.9,23.3,24.15,14.9,14.55
+2023,12,PSA,Pleasant Grove HS,81.05,23.4,24.75,16.8,16.1
 2023,5,PRA,Plymouth Whitemarsh,66.55,19.7,20.25,13.3,13.3
 2023,6,PRA,Plymouth Whitemarsh,71.35,19.8,20.55,15.1,15.9
 2023,4,PSO,Plymouth-Canton Educational Park,72.4,21.6,14.9,21.6,14.3
@@ -1990,6 +2565,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSO,Plymouth-Canton Educational Park,85.05,25.65,16.5,26.7,16.2
 2023,10,PSO,Plymouth-Canton Educational Park,83.725,25.275,16.9,25.35,16.2
 2023,13,R,Plymouth-Canton Educational Park,85.676,26.175,17.45,26.05,16.0
+2023,5,PIA,Pocatello,69.725,20.9,19.425,14.8,14.6
+2023,10,PIA,Pocatello,82.9,24.6,25.05,16.75,16.5
+2023,12,PIA,Pocatello,82.1,24.3,24.9,16.9,16.0
+2023,7,R1,Ponchatoula H.S.,72.8,14.75,14.75,14.3,14.4
+2023,10,BD,Ponchatoula H.S.,72.71,12.83,15.08,16.3,13.6
 2023,4,PSA,Port Huron Northern Thunder Percussion,67.3,21.3,13.9,19.1,13.0
 2023,8,PSA,Port Huron Northern Thunder Percussion,74.65,23.85,14.2,22.1,14.5
 2023,10,PSA,Port Huron Northern Thunder Percussion,77.851,23.7,15.45,22.8,15.9
@@ -2009,11 +2589,25 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,GSRA,Prairie Grove Winter Guard,72.03,14.02,14.41,14.9,14.6
 2023,7,GSRA,Prairie Grove Winter Guard,72.99,15.41,15.08,14.2,14.2
 2023,10,GSRA,Prairie Grove Winter Guard,74.42,14.28,15.14,14.2,15.2
+2023,1,PSRA,Preble Shawnee Indoor Percussion,60.0,16.8,12.8,19.8,10.6
+2023,2,PSRA,Preble Shawnee Indoor Percussion,69.4,23.4,13.6,19.0,13.4
+2023,4,PSRA,Preble Shawnee Indoor Percussion,64.55,19.65,13.1,18.7,13.1
+2023,7,PSRA,Preble Shawnee Indoor Percussion,64.4,18.9,14.3,17.4,13.8
+2023,8,PSRA,Preble Shawnee Indoor Percussion,74.1,20.1,16.2,23.4,14.4
+2023,10,PSRA,Preble Shawnee Indoor Percussion,74.3,23.1,14.8,22.3,14.1
 2023,6,GSN,Prescott Wolf Pride Winter Guard,54.46,12.57,13.09,9.6,9.5
 2023,7,GSN,Prescott Wolf Pride Winter Guard,60.97,13.36,14.61,10.7,10.0
 2023,8,GSN,Prescott Wolf Pride Winter Guard,64.98,15.87,14.81,10.9,11.1
 2023,10,GSN,Prescott Wolf Pride Winter Guard,65.151,14.94,12.81,12.2,12.8
+2023,2,IW,Pride of Cincinnati,80.3,15.2,15.2,16.5,16.8
+2023,4,IW,Pride of Cincinnati,85.9,17.4,17.2,17.1,17.0
+2023,7,IW,Pride of Cincinnati,92.3,18.6,18.6,18.3,18.2
 2023,8,IW,Pride of Cincinnati,92.3,17.7,18.1,18.8,18.6
+2023,4,PSA,Provo City Percussion,65.201,18.8,19.8,14.0,12.6
+2023,5,PSA,Provo City Percussion,74.2,22.15,21.75,15.4,14.9
+2023,9,PSA,Provo City Percussion,77.75,23.0,24.75,14.6,15.4
+2023,10,PSA,Provo City Percussion,80.15,22.3,24.75,16.2,16.9
+2023,12,PSA,Provo City Percussion,85.3,23.8,24.9,18.2,18.4
 2023,7,PSA,Provo HS,78.65,22.95,15.6,25.0,15.1
 2023,7,PR,Pulaski County HS,64.5,13.0,13.0,13.6,13.1
 2023,9,N,Pulaski County Maroon Winter Guard,77.71,14.87,17.14,16.0,14.4
@@ -2025,7 +2619,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,PIO,Q2,75.8,22.8,15.4,22.4,15.2
 2023,8,PIO,Q2,82.1,24.6,16.8,24.1,16.6
 2023,13,PIO,Q2,93.626,28.275,18.9,28.0,18.45
+2023,6,PIA,Quad City Percussion,71.4,21.6,14.4,21.7,13.7
 2023,8,PIA,Quad City Percussion,70.45,20.85,14.2,21.7,13.7
+2023,9,PIA,Quad City Percussion,75.35,23.4,14.4,22.75,14.8
+2023,10,PIA,Quad City Percussion,76.701,23.1,14.8,23.7,15.1
 2023,13,R1,Quad City Percussion,82.439,25.388,16.5,25.5,15.05
 2023,4,PSA,Quakertown,68.151,20.7,19.05,14.6,13.8
 2023,6,PSA,Quakertown,73.651,21.4,22.95,14.6,14.7
@@ -2058,6 +2655,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,R1,Rancho Verde HS,84.55,23.85,16.9,27.3,16.5
 2023,11,R2,Rancho Verde HS,89.55,26.85,17.6,27.6,17.5
 2023,12,PSA,Rancho Verde HS,88.351,26.25,17.35,27.5,17.25
+2023,1,SRA,Randolph Southern Color Guard,59.91,9.86,13.65,12.2,12.1
+2023,4,SRA,Randolph Southern Color Guard,63.55,11.53,13.32,12.3,13.1
+2023,5,SRA,Randolph Southern Color Guard,65.38,12.21,14.47,12.5,13.6
+2023,7,SRA,Randolph Southern Color Guard,73.11,14.94,14.87,14.6,14.4
+2023,9,SRA,Randolph Southern Color Guard,77.98,14.47,15.21,16.5,16.2
+2023,10,SRA,Randolph Southern Color Guard,77.51,14.14,15.67,16.1,16.1
+2023,4,IA,Rangerettes Winter Guard,71.04,14.41,14.03,15.2,14.1
 2023,13,R,Ravenwood HS,91.413,27.188,18.45,27.075,18.7
 2023,7,PSO,Ravenwood High School,85.45,25.65,17.5,25.5,16.8
 2023,1,SRA,Red Regiment Winterguard,56.281,14.01,12.27,9.1,11.4
@@ -2077,6 +2681,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,13,R,Resistance Indoor Percussion,88.089,25.688,18.25,27.425,16.725
 2023,6,PIA,Revelation,75.2,22.5,14.6,22.1,16.0
 2023,13,R2,Revelation,88.975,26.25,17.8,26.9,18.025
+2023,7,IO,Revival Winter Guard,81.5,16.4,16.7,16.2,16.0
+2023,8,IO,Revival Winter Guard,84.3,16.9,17.0,16.4,17.2
+2023,10,IO,Revival Winter Guard,82.1,17.4,15.7,16.4,16.4
 2023,9,PSA,Rex Putnam HS,83.75,25.5,16.15,25.4,16.7
 2023,1,N,Rhea County High School Winter Guard,57.2,14.0,13.6,11.6,8.7
 2023,5,N,Rhea County High School Winter Guard,69.23,13.68,11.75,14.4,14.8
@@ -2085,17 +2692,34 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PIW,Rhythm X,88.45,26.25,17.5,27.0,17.7
 2023,8,PIW,Rhythm X,92.35,28.35,18.6,26.9,18.5
 2023,13,PIW,Rhythm X,97.625,29.55,19.675,28.975,19.425
+2023,2,PIW,Rhythm X (PIW),84.3,25.5,17.0,25.3,16.5
+2023,4,PIW,Rhythm X (PIW),84.5,24.9,16.8,26.0,16.8
+2023,5,PIW,Rhythm X (PIW),85.45,25.35,17.2,25.8,17.1
+2023,10,PIW,Rhythm X (PIW),95.65,28.95,18.9,28.9,18.9
 2023,6,PIW,Rhythmic Force Percussion,81.15,23.25,15.5,25.6,16.8
 2023,9,PIW,Rhythmic Force Percussion,82.7,24.6,16.0,26.0,16.1
 2023,13,R,Rhythmic Force Percussion,85.263,25.613,16.5,25.85,17.3
 2023,8,PJHSA,Richgrove School Percussion Ensemble,75.25,24.1,22.65,14.0,14.5
 2023,10,PJHSA,Richgrove School Percussion Ensemble,77.65,24.2,24.45,14.2,14.8
+2023,5,PSRA,Richmond Indoor Percussion,77.1,21.6,16.6,21.8,17.1
+2023,8,PSRA,Richmond Indoor Percussion,79.8,23.4,16.8,24.2,15.4
+2023,5,PIA,Rift Percussion,69.725,20.9,19.425,14.8,14.6
 2023,7,PIA,Rift Percussion,81.45,24.75,16.9,25.2,14.6
 2023,9,PIA,Rift Percussion,83.4,24.9,17.8,24.9,15.8
+2023,10,PIA,Rift Percussion,82.9,24.6,25.05,16.75,16.5
+2023,12,PIA,Rift Percussion,82.1,24.3,24.9,16.9,16.0
 2023,7,PIW,Rise Percussion,80.4,25.2,16.4,22.6,16.2
 2023,13,R,Rise Percussion,81.325,24.225,16.3,24.35,16.45
+2023,6,PIO,River City Rhythm,81.15,24.75,15.7,24.2,16.5
 2023,8,PIW,River City Rhythm,82.4,24.3,16.6,25.5,16.0
+2023,9,PIW,River City Rhythm,83.55,25.35,17.15,24.7,16.35
+2023,10,PIW,River City Rhythm,87.575,26.475,17.95,26.0,17.15
 2023,13,R,River City Rhythm,84.075,25.125,16.05,26.55,16.35
+2023,2,PSA,River Valley Percussion Theatre of Elk River High School,68.15,20.85,13.5,19.3,14.5
+2023,3,PSA,River Valley Percussion Theatre of Elk River High School,68.4,20.1,13.4,20.7,14.2
+2023,5,PSA,River Valley Percussion Theatre of Elk River High School,77.55,22.95,16.1,23.5,15.0
+2023,9,PSA,River Valley Percussion Theatre of Elk River High School,82.125,25.275,16.45,24.6,15.8
+2023,10,PSA,River Valley Percussion Theatre of Elk River High School,83.925,24.975,17.0,25.65,16.3
 2023,1,SRA,Roane County High School Winterguard,55.541,11.49,11.15,10.6,11.9
 2023,4,SRA,Roane County High School Winterguard,66.61,12.74,12.47,14.7,14.2
 2023,6,SRA,Roane County High School Winterguard,76.51,15.21,16.4,15.2,15.0
@@ -2105,6 +2729,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PSA,Robert Vela HS,75.101,21.6,16.1,22.3,15.1
 2023,6,PSA,Robstown Early College HS,69.651,19.65,14.9,21.1,14.0
 2023,8,PIA,Rochester Lourdes Drumline,74.3,22.5,14.7,22.1,15.0
+2023,2,PIA,Rochester Lourdes High School,61.25,16.95,12.9,18.5,12.9
+2023,4,PIA,Rochester Lourdes High School,71.45,21.15,15.6,21.6,13.1
+2023,5,PIA,Rochester Lourdes High School,69.7,19.8,15.7,21.3,12.9
+2023,9,PIA,Rochester Lourdes High School,80.1,24.15,16.1,24.2,15.65
+2023,10,PIA,Rochester Lourdes High School,82.45,24.0,16.45,25.05,16.95
 2023,6,PSA,Rock Hill HS,71.9,21.6,14.7,21.2,14.4
 2023,8,PSA,Rock Hill HS,75.001,21.9,15.4,23.1,14.6
 2023,1,N,Rockcastle County High School,59.49,11.68,12.01,11.9,11.7
@@ -2112,11 +2741,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,N,Rockcastle County High School,74.421,15.68,15.34,13.6,14.7
 2023,10,N,Rockcastle County High School,79.74,16.01,16.13,16.2,15.7
 2023,8,PSA,Rocori HS,68.701,19.2,14.0,21.6,13.9
+2023,3,PSRA,Rocori High School,56.55,17.55,10.2,16.4,12.4
+2023,5,PSRA,Rocori High School,64.4,17.4,13.4,20.6,13.0
+2023,6,PSRA,Rocori High School,64.4,19.5,12.9,18.9,13.1
+2023,9,PSRA,Rocori High School,68.475,20.625,13.3,20.15,14.4
+2023,10,PSRA,Rocori High School,74.225,23.475,14.45,21.6,14.7
 2023,8,PSB,Rogers Heritage Indoor Percussion,68.55,20.25,14.5,20.7,13.1
 2023,7,GSRB,Rogers Heritage Winter Guard,67.33,14.81,14.22,12.1,13.5
 2023,8,GSRB,Rogers Heritage Winter Guard,69.95,14.14,14.01,13.0,13.7
 2023,10,GSRB,Rogers Heritage Winter Guard,73.55,14.74,14.21,14.7,15.0
 2023,10,GHSSRAS,Roosevelt HS Winterguard,70.661,145.5,140.1,13.4,14.1
+2023,2,PSRA,Ross High School,75.0,24.9,14.4,20.4,15.3
+2023,5,PSA,Ross High School,65.501,19.5,12.8,19.3,13.9
+2023,8,PSA,Ross High School,72.15,21.15,13.5,22.3,15.2
+2023,10,PSA,Ross High School,74.05,22.05,15.2,22.1,14.7
 2023,4,PSW,Rowland HS,77.3,23.1,15.9,23.2,15.1
 2023,6,PSW,Rowland HS,81.9,27.0,15.0,25.5,14.4
 2023,8,PSW,Rowland HS,82.0,23.7,16.6,25.4,16.3
@@ -2138,6 +2776,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,SG,Saint Mary's County Color Guard,69.561,13.15,13.61,13.4,15.2
 2023,8,SG,Saint Mary's County Color Guard,78.31,15.34,16.9,15.5,15.7
 2023,10,PE-SB,Saint Mary's County Indoor Percussion,85.95,41.6,43.7,42.9,43.7
+2023,1,PIRA,Saints Indoor Percussion,61.35,18.45,12.7,18.8,11.4
+2023,7,PIRA,Saints Indoor Percussion,74.1,22.5,13.8,23.5,14.3
+2023,8,PIRA,Saints Indoor Percussion,70.85,19.95,15.2,21.2,14.5
+2023,10,PIRA,Saints Indoor Percussion,74.3,21.9,15.0,22.3,15.1
 2023,3,PR,Salem HS,58.04,11.03,10.81,11.8,11.5
 2023,4,SRA,Salem HS,59.39,11.01,12.28,12.2,11.7
 2023,6,BR,Salem HS,59.16,12.55,12.21,10.7,11.6
@@ -2145,6 +2787,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PR,Salem HS,71.11,13.74,14.67,15.2,13.4
 2023,10,PR,Salem HS,77.54,15.34,14.8,15.7,15.9
 2023,13,R,Salem HS,84.776,25.425,17.0,25.7,16.65
+2023,7,SA,Sam Houston H.S.,73.36,14.33,14.53,14.3,15.2
+2023,10,SA,Sam Houston H.S.,81.69,16.66,15.93,16.2,16.3
 2023,4,B1,San Clemente HS,67.526,20.025,13.0,21.6,12.9
 2023,6,B1,San Clemente HS,68.801,21.15,13.5,20.15,14.0
 2023,8,B2,San Clemente HS,69.251,21.45,13.9,19.9,14.0
@@ -2211,6 +2855,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PR,Shawe Memorial HS,54.871,12.49,12.08,10.3,10.1
 2023,7,PR,Shawe Memorial HS,57.191,11.48,11.81,12.1,11.3
 2023,9,PR,Shawe Memorial HS,63.921,13.01,13.01,13.2,12.5
+2023,2,SRA,Shawnee Winterguard,51.671,10.42,10.35,10.0,10.5
+2023,8,SRA,Shawnee Winterguard,68.13,12.75,13.28,14.5,14.5
+2023,9,SRA,Shawnee Winterguard,66.57,15.06,13.21,11.7,13.3
 2023,6,PIA,Shelby County IGNITE Winter Percussion,69.1,21.9,13.7,20.6,12.9
 2023,4,SW,Shenandoah Valley HS Guard,66.65,14.81,14.54,12.3,12.3
 2023,5,SW,Shenandoah Valley HS Guard,71.35,13.61,14.54,13.6,15.0
@@ -2231,6 +2878,13 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,3,PSB,Silver Creek HS,52.6,18.4,15.3,8.7,10.2
 2023,6,PSB,Silver Creek HS,57.95,16.8,17.25,11.7,12.2
 2023,8,PSB,Silver Creek HS,63.65,19.6,18.45,12.8,12.8
+2023,4,SRA,Simon Kenton Winter Guard,53.66,9.55,9.61,11.9,12.3
+2023,5,SRA,Simon Kenton Winter Guard,60.331,11.88,13.15,11.6,12.5
+2023,7,SRA,Simon Kenton Winter Guard,61.691,13.07,13.02,11.8,12.6
+2023,8,SRA,Simon Kenton Winter Guard,67.781,13.41,13.27,14.2,13.1
+2023,9,SRA,Simon Kenton Winter Guard,65.82,13.01,13.01,13.0,13.2
+2023,10,SRA,Simon Kenton Winter Guard,65.12,12.88,12.74,11.8,13.7
+2023,7,PSRA,Sioux City North High School,63.45,19.65,12.7,18.3,12.8
 2023,1,SRA,Soddy-Daisy,51.63,11.48,11.55,9.6,10.3
 2023,4,SRA,Soddy-Daisy,66.75,12.41,12.54,14.6,14.0
 2023,6,SRA,Soddy-Daisy,74.64,14.61,14.43,15.6,14.8
@@ -2245,6 +2899,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,R2,South Hills HS,85.8,24.75,15.8,26.75,18.5
 2023,11,R1,South Hills HS,85.526,25.125,16.8,25.3,18.3
 2023,7,PSA,South Jones HS,73.7,21.6,15.2,21.6,15.3
+2023,10,SA,South Lafourche H.S.,81.16,16.2,15.66,16.5,16.4
 2023,2,R2,South Laurel HS,59.52,11.94,10.88,11.8,11.5
 2023,5,SRA,South Laurel HS,65.35,13.01,14.14,13.6,12.3
 2023,7,BR,South Laurel HS,75.41,14.94,15.07,15.9,14.5
@@ -2269,6 +2924,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,B1,South Pasadena HS,70.901,22.05,13.4,20.2,15.25
 2023,10,R4,South Pasadena HS,80.601,22.5,15.3,25.4,17.4
 2023,8,PSA,South St. Paul HS,68.651,20.25,14.5,20.4,13.5
+2023,2,PSRA,South St. Paul High School,59.6,17.4,11.4,18.2,12.6
+2023,4,PSRA,South St. Paul High School,58.9,18.3,12.3,17.8,10.5
+2023,5,PSRA,South St. Paul High School,64.0,18.9,13.3,19.1,12.7
+2023,6,PSRA,South St. Paul High School,64.6,18.6,12.8,19.3,13.9
+2023,10,PSRA,South St. Paul High School,69.75,21.3,13.65,20.55,14.25
 2023,3,B2,South Torrance HS,67.951,19.05,12.6,23.9,12.4
 2023,6,B1,South Torrance HS,77.5,25.35,14.25,23.4,14.5
 2023,8,B2,South Torrance HS,81.65,25.65,16.9,23.3,15.8
@@ -2291,6 +2951,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,R1,Southport Indoor Percussion Ensemble,80.251,24.75,15.525,24.55,15.425
 2023,10,PSA,Southport Indoor Percussion Ensemble,83.039,24.938,16.0,25.1,17.0
 2023,9,PSA,Southridge HS,75.7,22.2,15.3,23.1,15.1
+2023,7,R1,Southside H.S.,74.86,15.21,14.35,15.0,15.9
+2023,10,BD,Southside H.S.,82.54,16.67,17.47,16.0,16.1
 2023,3,BR,Southwestern HS (IN),56.33,10.34,10.89,11.4,11.9
 2023,5,BR,Southwestern HS (IN),57.69,12.01,12.28,11.6,10.9
 2023,8,BR,Southwestern HS (IN),67.18,12.94,11.94,14.0,14.0
@@ -2312,13 +2974,31 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Spring-Ford,83.976,26.25,24.525,17.05,16.15
 2023,12,PSA,Spring-Ford,89.475,26.8,26.775,18.0,17.9
 2023,8,PSA,Spring-Ford HS,83.351,25.95,15.4,25.4,16.6
+2023,2,SA,Springboro High School Winterguard,67.42,12.75,13.27,14.1,13.4
+2023,4,SA,Springboro High School Winterguard,73.61,15.0,15.01,14.9,14.4
+2023,7,SA,Springboro High School Winterguard,79.71,16.54,17.07,14.3,16.1
+2023,10,SA,Springboro High School Winterguard,84.32,16.74,16.48,17.8,16.4
+2023,2,SRA,Springboro Junior Guard,59.52,12.41,11.21,11.4,12.7
+2023,4,SRA,Springboro Junior Guard,66.05,13.21,12.94,12.5,13.2
+2023,7,SRA,Springboro Junior Guard,73.62,14.61,14.01,15.2,14.6
+2023,10,SRA,Springboro Junior Guard,79.05,14.74,16.41,16.4,15.6
 2023,6,BR,Springfield. KY,65.36,13.61,13.35,14.2,11.3
 2023,8,PR,Springfield. KY,75.88,14.01,13.47,16.0,15.7
 2023,9,BR,Springfield. KY,76.641,16.13,14.81,15.6,15.1
 2023,10,PR,Springfield. KY,80.311,15.74,16.87,15.4,15.8
+2023,7,R2,St. Amant Black,80.08,15.14,16.54,15.9,16.7
+2023,10,BD,St. Amant Black,84.56,17.0,17.66,16.7,16.4
+2023,7,R2,St. Amant Gold,78.53,15.66,16.47,14.9,16.3
+2023,10,RD,St. Amant Gold,81.95,16.87,17.08,16.2,15.9
 2023,8,PIA,St. Ambrose University Indoor Percussion,70.0,20.4,13.7,22.0,13.9
 2023,13,PIA,St. Ambrose University Indoor Percussion,83.925,25.575,16.2,25.7,16.45
 2023,8,PSA,St. Clairsville HS,76.3,22.8,16.1,21.7,15.7
+2023,2,PSRA,St. Francis High School,56.15,17.55,10.5,16.7,11.4
+2023,3,PSRA,St. Francis High School,54.05,17.25,10.3,15.2,11.3
+2023,4,PSRA,St. Francis High School,57.35,17.85,11.5,17.1,10.9
+2023,5,PSRA,St. Francis High School,56.5,15.6,11.5,18.0,11.4
+2023,9,PSRA,St. Francis High School,63.25,19.5,13.35,17.6,12.8
+2023,10,PSRA,St. Francis High School,65.925,19.725,12.5,20.4,13.3
 2023,2,PSA,St. Genevieve HS,68.076,21.675,12.2,20.9,13.3
 2023,4,B2,St. Genevieve HS,73.05,22.05,14.7,22.1,14.2
 2023,6,B2,St. Genevieve HS,76.601,25.35,14.15,21.9,15.2
@@ -2327,15 +3007,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,11,R1,St. Genevieve HS,78.65,23.85,15.3,23.5,16.0
 2023,7,PIA,St. Martin Independent,75.6,23.7,15.0,22.1,14.8
 2023,13,PIA,St. Martin Independent,94.025,28.35,18.875,28.25,18.55
+2023,10,SA,St. Mary's Dominican H.S.,79.071,15.2,16.27,15.9,15.8
 2023,3,PRA,Star System Percussion,62.85,19.05,12.4,19.1,12.3
 2023,4,PRA,Star System Percussion,66.35,21.15,13.5,19.6,12.1
 2023,6,PRA,Star System Percussion,67.951,21.45,13.4,19.6,13.5
 2023,7,PRA,Star System Percussion,72.775,21.225,14.3,23.1,14.15
 2023,8,PRA,Star System Percussion,73.375,21.525,14.6,22.5,14.75
+2023,10,RD,Sterlington H.S.,80.67,16.67,17.4,15.9,14.6
+2023,7,C,Sterlington M.S.,68.36,14.34,13.22,12.2,13.0
+2023,10,C,Sterlington M.S.,76.29,15.08,14.61,14.1,16.4
 2023,9,PSO,Stockdale HS,77.501,23.1,16.1,22.5,15.8
 2023,5,PSA,Stoneman Douglas HS,76.55,23.85,15.7,21.0,16.0
 2023,13,R,Stoneman Douglas HS,84.676,26.475,16.85,24.85,16.5
+2023,7,R1,"Sulphur H.S. ""F3""",71.05,14.67,14.28,13.4,14.8
+2023,10,RD,"Sulphur H.S. ""F3""",73.25,16.21,15.54,14.7,12.3
+2023,7,JV,"Sulphur H.S. ""F4""",70.69,13.94,13.95,13.4,14.5
+2023,10,JV,"Sulphur H.S. ""F4""",73.291,14.21,15.08,14.5,15.2
+2023,7,SA,"Sulphur H.S. ""F5""",69.481,14.14,13.74,13.5,13.8
+2023,10,SA,"Sulphur H.S. ""F5""",74.14,14.48,15.26,15.0,14.8
 2023,7,PSA,Summit HS,80.2,22.8,16.6,25.0,15.8
+2023,10,IRA,Summit Independent VE,65.28,13.34,13.54,13.2,12.1
 2023,7,PIA,Sun City Independent,75.6,21.3,14.5,25.5,14.3
 2023,13,R,Sun City Independent,83.651,24.3,15.6,27.65,16.1
 2023,1,PJHSA,Sundale Union Percussion,57.0,18.2,18.0,10.8,10.0
@@ -2369,6 +3060,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,SA,Sycamore HS,71.991,13.62,14.27,14.2,15.5
 2023,10,PR,Sycamore HS,73.981,14.74,14.94,14.7,15.0
 2023,13,R,Sycamore HS,85.876,26.55,16.45,25.975,16.9
+2023,7,SA,Sycamore High School,71.721,14.41,16.21,13.8,14.0
+2023,2,PSA,Sycamore High School Winter Drumline,73.25,22.65,14.3,22.1,14.2
+2023,4,PSA,Sycamore High School Winter Drumline,76.5,23.7,15.1,22.8,14.9
+2023,7,PSA,Sycamore High School Winter Drumline,84.35,26.55,16.0,25.3,16.5
+2023,10,PSA,Sycamore High School Winter Drumline,89.6,27.0,17.7,27.2,17.7
+2023,10,IRA,TCA Independent,74.28,16.01,16.27,14.6,12.5
 2023,7,PR,Taylor County HS,62.48,13.61,13.27,11.9,11.8
 2023,8,PR,Taylor County HS,70.4,13.75,13.35,15.0,14.1
 2023,9,BR,Taylor County HS,71.51,13.21,15.0,14.6,15.1
@@ -2387,13 +3084,27 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PRA,Terre Haute South Indoor Percussion,67.301,21.0,12.95,19.55,13.8
 2023,7,PRA,Terre Haute South Indoor Percussion,69.589,20.587,12.65,22.9,13.45
 2023,8,PRA,Terre Haute South Indoor Percussion,70.776,20.175,13.9,21.7,15.0
+2023,10,RD,Terrebonne H.S.,77.291,15.26,16.33,15.1,14.7
+2023,1,ECG,The Little Belles,72.001,14.6,17.9,13.1,13.2
+2023,2,ECG,The Little Belles,70.5,14.8,14.4,13.9,14.0
+2023,4,ECG,The Little Belles,71.3,15.2,14.4,14.9,12.7
+2023,5,ECG,The Little Belles,77.2,15.1,16.3,15.7,14.9
+2023,7,ECG,The Little Belles,79.9,16.5,17.5,15.4,15.1
+2023,8,ECG,The Little Belles,82.0,17.3,16.4,16.3,15.8
+2023,10,ECG,The Little Belles,85.7,16.3,16.6,18.0,16.6
 2023,2,IA,The Magnolia Project,75.08,14.54,14.94,15.3,15.0
 2023,6,IA,The Magnolia Project,82.22,16.81,16.21,16.4,16.5
 2023,8,IA,The Magnolia Project,87.31,17.47,17.14,17.4,17.7
 2023,10,IA,The Magnolia Project,91.58,18.34,18.5,18.2,18.4
+2023,2,ECG,The Milton Minis,67.7,14.2,14.0,13.3,13.2
+2023,8,ECG,The Milton Minis,76.8,15.8,15.7,14.4,15.4
+2023,9,ECG,The Milton Minis,80.7,15.4,16.1,17.1,16.1
+2023,10,ECG,The Milton Minis,81.101,15.3,16.0,17.3,16.3
 2023,10,PE-SB,The Ox Percussion Ensemble,90.25,42.0,45.0,46.2,47.3
 2023,9,PIW,Thesis,86.951,25.35,17.2,26.8,17.6
 2023,13,R,Thesis,85.776,26.625,16.55,25.3,17.3
+2023,7,R2,Thibodaux H.S. Winterguard,76.96,15.46,14.6,15.3,16.3
+2023,10,RD,Thibodaux H.S. Winterguard,82.77,17.0,16.67,16.5,15.9
 2023,6,PSO,Thomas Jefferson HS,81.05,23.85,16.0,24.8,16.4
 2023,4,SG,Thomas S. Wootton HS Guard,57.12,13.48,13.54,9.9,10.2
 2023,5,SG,Thomas S. Wootton HS Guard,64.36,13.22,14.14,11.5,14.5
@@ -2409,6 +3120,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Thurston Winter Percussion,75.951,23.85,14.7,22.1,15.3
 2023,6,PSW,Timber Creek HS,78.9,22.2,15.0,25.8,15.9
 2023,9,PSW,Timber Creek HS,79.4,23.1,16.2,24.7,15.4
+2023,7,R2,Tioga H.S.,73.921,14.74,14.68,15.0,15.1
+2023,10,BD,Tioga H.S.,75.901,15.53,16.47,14.8,13.8
+2023,1,PSRA,Tippecanoe Indoor Percussion Ensemble,62.6,18.3,12.6,20.0,11.7
+2023,7,PSRA,Tippecanoe Indoor Percussion Ensemble,76.65,23.25,15.3,23.0,15.1
+2023,8,PSRA,Tippecanoe Indoor Percussion Ensemble,80.05,24.45,16.8,24.0,14.8
+2023,10,PSRA,Tippecanoe Indoor Percussion Ensemble,85.25,24.75,17.2,26.4,16.9
 2023,2,PSA,Torrance HS,68.401,22.2,11.3,21.8,13.1
 2023,4,B1,Torrance HS,72.1,21.45,14.5,21.95,14.2
 2023,8,B2,Torrance HS,71.05,22.05,12.3,21.6,15.1
@@ -2430,6 +3147,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,R1,Trabuco Hills HS,84.051,26.55,16.4,25.9,15.2
 2023,12,PSO,Trabuco Hills HS,83.113,24.863,15.95,25.55,16.75
 2023,6,PIA,Trilogy Independent,80.95,24.45,15.8,24.7,16.0
+2023,1,SRA,Troy HS,54.91,12.02,11.89,9.6,10.7
+2023,4,SRA,Troy HS,64.381,12.15,13.03,12.6,13.0
+2023,5,SRA,Troy HS,68.731,13.81,14.42,13.2,13.1
+2023,8,SRA,Troy HS,77.23,15.21,15.02,15.5,16.0
+2023,10,SRA,Troy HS,77.981,15.54,15.54,14.6,15.9
+2023,2,PSA,Troy Indoor Percussion,73.55,21.45,15.0,23.0,14.1
+2023,4,PSA,Troy Indoor Percussion,72.951,21.75,15.0,22.3,13.9
+2023,5,PSA,Troy Indoor Percussion,73.55,22.05,15.4,22.4,13.7
+2023,10,PSA,Troy Indoor Percussion,84.6,24.6,17.0,26.2,16.8
 2023,5,PSO,Trumbull HS,76.9,22.8,15.9,22.0,16.2
 2023,8,PSO,Trumbull HS,81.65,24.45,17.1,22.9,17.2
 2023,13,R,Trumbull HS,84.175,25.575,17.325,24.025,17.25
@@ -2446,6 +3172,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,PIO,UTSA,79.0,23.4,15.3,24.5,15.8
 2023,9,PIO,UTSA,84.2,25.2,16.5,25.7,16.8
 2023,13,R,UTSA,85.551,25.05,15.6,28.3,16.6
+2023,4,PIA,UW‐Eau Claire Blugold Indoor Drumline,63.4,18.3,14.3,20.0,10.8
+2023,6,PIA,UW‐Eau Claire Blugold Indoor Drumline,68.95,20.25,13.6,20.7,14.4
+2023,9,PIA,UW‐Eau Claire Blugold Indoor Drumline,70.175,21.075,14.5,19.5,15.1
+2023,10,PIA,UW‐Eau Claire Blugold Indoor Drumline,77.725,23.475,15.25,23.25,15.75
 2023,9,PSO,Union HS,86.75,25.35,17.7,26.2,17.5
 2023,13,PSO,Union HS,96.775,29.475,19.2,28.85,19.25
 2023,4,PSA,Unionville,75.15,23.7,20.55,15.7,15.2
@@ -2467,6 +3197,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,University City HS,69.075,20.775,13.7,20.5,14.1
 2023,8,B1,University City HS,75.1,23.7,14.6,21.7,15.1
 2023,10,R3,University City HS,78.701,22.5,16.0,25.0,15.2
+2023,7,IA,University of Louisiana,75.92,14.95,15.07,15.8,15.0
+2023,10,IA,University of Louisiana,79.73,16.35,16.48,15.5,15.6
 2023,4,PSO,Upland HS,75.05,22.65,15.5,22.2,14.7
 2023,6,PSO,Upland HS,75.951,24.75,14.9,22.2,14.1
 2023,8,PSO,Upland HS,78.776,23.175,16.4,23.5,15.7
@@ -2494,11 +3226,16 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,12,PSA,Valencia HS,85.05,25.575,16.55,26.45,16.475
 2023,7,PSA,Valhalla HS,73.201,22.5,14.15,21.25,15.3
 2023,8,B1,Valhalla HS,69.45,20.85,12.0,20.9,15.7
+2023,10,PSA,Vandebilt Catholic H.S.,88.45,27.7,25.65,17.6,17.5
 2023,7,PSA,Vandebilt Catholic HS,80.9,24.75,16.3,24.3,15.55
 2023,13,PSA,Vandebilt Catholic HS,93.5,28.425,18.25,28.7,18.125
 2023,5,PIW,Veritas,70.9,21.3,13.1,22.1,14.4
 2023,6,PIW,Veritas,74.201,21.6,14.3,24.1,14.2
 2023,13,R,Veritas,80.95,24.6,15.75,24.5,16.1
+2023,7,R1,Vernon Parish H.S.,72.02,14.88,13.94,14.1,15.7
+2023,10,RD,Vernon Parish H.S.,79.001,15.74,16.66,15.8,15.2
+2023,9,SRA,Versailles Ohio,68.091,13.67,13.02,13.4,15.1
+2023,9,SRA,Versailles Winter Guard,68.091,13.67,13.02,13.4,15.1
 2023,7,PIW,Vessel,82.251,24.45,16.9,24.2,16.7
 2023,9,PIW,Vessel,78.85,23.55,15.9,23.2,16.2
 2023,13,R,Vessel,81.7,25.05,15.45,24.55,16.65
@@ -2523,6 +3260,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,PSA,Vincennes Indoor Percussion,80.05,23.25,16.4,24.8,15.6
 2023,8,R2,Vincennes Indoor Percussion,81.55,25.2,16.4,24.0,15.95
 2023,10,PSA,Vincennes Indoor Percussion,85.301,25.65,16.825,25.525,17.3
+2023,7,R2,Vinton H.S.,69.26,14.39,14.27,13.1,14.5
+2023,10,BD,Vinton H.S.,70.161,13.95,14.41,13.3,14.6
 2023,10,GJHSA,Visalia,55.741,102.7,104.7,11.5,13.9
 2023,7,PIO,Vision Percussion,85.6,25.8,17.8,25.1,16.9
 2023,9,PIO,Vision Percussion,87.25,25.95,18.2,25.7,17.4
@@ -2545,11 +3284,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,6,N,WB Orange,62.001,12.15,12.35,12.4,12.6
 2023,9,N,WB Orange,71.351,13.61,14.74,14.6,14.1
 2023,10,N,WB Orange,73.281,14.14,13.94,15.5,14.9
+2023,10,BD,Walker H.S.,78.22,16.34,14.88,16.5,15.0
 2023,4,PSW,Walled Lake Consolidated Schools,75.8,22.8,14.8,23.3,14.9
 2023,7,PSW,Walled Lake Consolidated Schools,81.9,24.9,15.6,25.3,16.1
 2023,9,PSW,Walled Lake Consolidated Schools,90.6,27.6,18.1,27.0,17.9
 2023,10,PSW,Walled Lake Consolidated Schools,88.575,26.775,17.9,26.9,17.0
 2023,13,R,Walled Lake Consolidated Schools,89.876,26.625,18.225,26.925,18.1
+2023,2,SA,Walter E. Stebbins High School,56.92,10.88,10.54,12.0,11.4
+2023,4,SA,Walter E. Stebbins High School,56.631,10.61,11.72,11.9,11.2
+2023,5,SA,Walter E. Stebbins High School,59.691,11.74,12.15,12.3,11.9
+2023,7,SA,Walter E. Stebbins High School,66.66,14.68,13.88,12.4,13.8
+2023,10,SA,Walter E. Stebbins High School,68.53,14.62,14.41,13.1,12.8
 2023,8,PSA,Wapakoneta HS,78.051,23.55,15.9,22.3,16.3
 2023,13,R,Wapakoneta HS,80.65,23.85,16.2,24.9,15.7
 2023,4,PSJ,Warm Springs MS,69.4,20.4,13.7,20.1,15.2
@@ -2590,6 +3335,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,SJ,Washington County Junior Winter Guard,70.49,14.21,13.28,14.7,14.2
 2023,9,SJ,Washington County Junior Winter Guard,74.71,14.74,14.27,15.1,15.2
 2023,10,GHSSAS,Washington Union HS Winterguard,71.9,126.3,132.7,14.0,15.8
+2023,7,PSA,Waukee HS,71.75,20.85,15.2,20.7,15.0
 2023,5,BR,Wayne Co,57.93,11.48,13.35,11.7,10.7
 2023,7,PR,Wayne Co,62.42,12.28,12.34,12.9,12.2
 2023,8,BR,Wayne Co,67.92,12.95,13.47,13.4,14.4
@@ -2605,6 +3351,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,5,SJ,Waynesboro MS Guard,66.98,12.74,13.94,12.6,14.2
 2023,6,SJ,Waynesboro MS Guard,60.95,12.81,13.34,11.6,11.8
 2023,8,SJ,Waynesboro MS Guard,72.91,15.34,13.87,14.6,14.6
+2023,2,SRA,Waynesville HS,52.961,11.28,10.08,10.4,11.1
+2023,4,SRA,Waynesville HS,58.291,11.09,12.3,11.9,12.3
+2023,7,SRA,Waynesville HS,64.531,14.28,12.75,12.3,12.8
+2023,10,SRA,Waynesville HS,65.2,13.82,13.68,12.8,12.4
 2023,9,PSA,Weatherford HS,81.6,25.5,15.8,24.2,16.1
 2023,2,PSA,Webster,61.051,20.2,17.85,11.5,11.5
 2023,4,PSA,Webster,64.451,18.7,21.15,12.0,12.6
@@ -2613,21 +3363,37 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,9,PSA,Webster,75.701,24.6,21.9,14.6,14.6
 2023,10,PSA,Webster,72.3,24.4,20.1,14.4,13.4
 2023,5,PIA,West Broward Independent,74.1,22.8,15.0,21.2,15.1
+2023,5,SA,West Carrollton High School Winter Guard,57.191,11.54,12.35,10.2,11.2
+2023,7,SA,West Carrollton High School Winter Guard,58.361,11.81,12.15,11.2,11.9
+2023,8,SA,West Carrollton High School Winter Guard,67.49,14.21,13.68,13.1,14.0
+2023,10,SA,West Carrollton High School Winter Guard,66.76,13.88,13.48,12.7,13.4
+2023,1,SRA,West Clermont Winter Guard,63.79,14.21,15.48,11.1,11.5
+2023,5,SRA,West Clermont Winter Guard,65.63,14.68,13.35,12.6,12.8
+2023,7,SRA,West Clermont Winter Guard,67.59,15.34,12.35,13.1,13.8
+2023,10,SRA,West Clermont Winter Guard,71.911,15.54,15.87,13.4,14.0
 2023,8,PSA,West Essex HS,67.1,19.8,13.4,21.0,12.9
 2023,6,PSO,West HS,77.5,24.0,15.0,22.9,15.6
 2023,8,PSO,West HS,80.625,24.975,15.85,23.8,16.0
 2023,10,R1,West HS,89.0,26.7,17.4,27.7,17.2
 2023,12,PSO,West HS,92.05,27.6,18.05,27.7,18.7
+2023,10,PSA,West Harrison H.S.,83.4,25.3,24.6,17.0,16.5
+2023,10,JV,West Harrison H.S. JV,74.421,14.68,14.74,14.8,16.0
+2023,10,SA,West Harrison H.S. Varsity,78.621,15.54,15.88,15.8,15.7
 2023,7,PSA,West Harrison HS,76.551,22.35,15.4,22.0,16.8
 2023,4,N,West High School Winterguard,61.48,12.47,12.81,11.5,12.4
 2023,6,N,West High School Winterguard,72.19,14.01,15.08,15.4,13.8
 2023,9,SRA,West High School Winterguard,69.941,13.0,15.34,14.3,13.3
 2023,10,SRA,West High School Winterguard,73.691,15.28,15.21,14.5,14.6
 2023,7,PSA,West Johnston HS,71.3,22.2,14.6,20.8,13.7
+2023,5,PSA,West Jordan HS,68.85,21.0,19.35,13.7,14.8
 2023,7,PSA,West Jordan HS,74.15,22.05,14.1,23.9,14.1
+2023,9,PSA,West Jordan HS,75.0,20.8,24.0,15.4,14.8
+2023,10,PSA,West Jordan HS,76.701,23.15,23.55,15.1,14.9
+2023,12,PSA,West Jordan HS,78.401,23.05,23.1,15.75,16.5
 2023,5,PSA,West Milford HS,74.801,22.5,14.1,22.6,15.6
 2023,8,PSA,West Milford HS,78.5,23.4,14.9,23.6,16.6
 2023,13,R,West Milford HS,84.164,24.337,18.075,24.75,17.0
+2023,10,BD,West Ouachita H.S.,80.311,16.08,17.13,15.4,15.3
 2023,6,PSW,West Ranch HS,82.0,26.1,15.4,25.2,15.3
 2023,7,PSW,West Ranch HS,78.7,23.7,16.1,23.2,15.7
 2023,9,PSW,West Ranch HS,80.451,23.55,15.5,25.0,16.4
@@ -2653,6 +3419,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,P-SNB,Western Frederick Indoor Percussion,81.85,25.65,25.2,15.0,16.0
 2023,9,P-SNB,Western Frederick Indoor Percussion,83.65,26.25,24.9,16.1,16.4
 2023,10,P-SNB,Western Frederick Indoor Percussion,84.1,26.4,24.75,16.65,16.3
+2023,1,SA,Westerville City School District,62.59,12.48,12.61,12.3,12.6
+2023,2,SA,Westerville City School District,66.42,12.48,12.74,13.8,13.7
+2023,4,SA,Westerville City School District,71.41,15.07,14.94,14.5,12.2
+2023,7,SA,Westerville City School District,84.25,16.74,16.81,17.1,17.1
+2023,10,SA,Westerville City School District,83.201,15.69,15.41,18.0,17.0
 2023,6,PSA,Westfield HS,74.051,22.05,15.2,22.4,14.4
 2023,13,R,Westfield HS,85.701,26.1,17.3,24.9,17.4
 2023,4,PSA,Westfield Indoor Percussion,72.05,22.05,13.8,22.2,14.0
@@ -2662,10 +3433,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,PSA,Westfield Indoor Percussion,86.763,26.212,16.65,26.725,17.175
 2023,5,PSA,Westhill HS,69.95,20.25,14.0,21.7,14.0
 2023,8,PSA,Westhill HS,78.4,24.0,15.6,23.3,15.5
+2023,7,SA,Westlake H.S.,74.05,14.34,15.01,14.6,14.9
+2023,10,SA,Westlake H.S.,82.98,16.67,16.81,16.3,16.4
+2023,7,R2,Westlake H.S. JV,67.821,13.94,14.08,13.0,14.4
+2023,10,RD,Westlake H.S. JV,70.161,13.68,14.48,14.4,12.8
 2023,4,B1,Westlake HS,70.85,20.85,14.1,21.8,14.1
 2023,6,B2,Westlake HS,72.55,21.45,13.8,24.0,13.3
 2023,10,R3,Westlake HS,84.5,24.6,16.5,27.1,16.3
 2023,11,R2,Westlake HS,85.251,25.35,16.8,26.3,16.8
+2023,2,SA,Westland High School Winter Guard,65.82,12.28,12.74,13.6,13.7
+2023,4,SA,Westland High School Winter Guard,67.461,12.81,13.35,13.8,14.2
+2023,7,SA,Westland High School Winter Guard,71.351,15.47,15.28,13.4,14.1
+2023,8,SA,Westland High School Winter Guard,80.04,15.87,15.47,17.1,16.6
+2023,10,SA,Westland High School Winter Guard,79.321,15.88,16.14,16.3,15.6
 2023,3,B2,Westminster HS,63.451,19.5,12.55,20.1,11.3
 2023,6,B1,Westminster HS,72.501,24.0,14.1,19.6,14.8
 2023,7,PSA,Westminster HS,69.625,20.625,14.2,21.1,13.7
@@ -2700,6 +3480,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,10,BR,Woodford County HS,77.17,15.53,15.74,15.4,15.4
 2023,10,GHSSRAB,Woodlake HS Winterguard,55.491,103.5,105.4,10.1,10.3
 2023,10,PE-SG,Wootton High School Percussion,78.15,37.2,40.2,36.0,42.9
+2023,1,SA,Worthington Kilbourne Varsity Winter Guard,69.5,12.81,14.39,14.1,14.1
+2023,4,SA,Worthington Kilbourne Varsity Winter Guard,68.541,12.34,14.2,13.9,14.5
+2023,7,SA,Worthington Kilbourne Varsity Winter Guard,82.38,16.34,17.34,16.2,15.8
+2023,10,SA,Worthington Kilbourne Varsity Winter Guard,88.21,17.34,17.47,18.3,17.2
+2023,1,SRA,Worthington Kilbourne Winter Guard,58.01,11.08,13.73,10.0,11.6
+2023,4,SRA,Worthington Kilbourne Winter Guard,67.49,12.42,13.87,14.6,13.7
+2023,7,SRA,Worthington Kilbourne Winter Guard,78.32,15.34,15.28,14.9,16.5
+2023,10,SRA,Worthington Kilbourne Winter Guard,84.14,16.54,16.2,17.0,16.6
 2023,7,BR,Wyoming HS,65.191,13.08,12.61,13.0,13.1
 2023,8,PR,Wyoming HS,69.211,13.08,14.13,14.7,13.2
 2023,9,BR,Wyoming HS,73.32,14.74,15.28,14.5,14.3
@@ -2707,6 +3495,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,7,BR,Wyoming OH,65.191,13.08,12.61,13.0,13.1
 2023,8,PR,Wyoming OH,69.211,13.08,14.13,14.7,13.2
 2023,9,BR,Wyoming OH,73.32,14.74,15.28,14.5,14.3
+2023,1,PSRA,Xenia Indoor Percussion Ensemble,60.8,18.3,12.2,18.7,11.6
+2023,2,PSRA,Xenia Indoor Percussion Ensemble,69.85,22.35,13.7,20.8,13.0
+2023,4,PSRA,Xenia Indoor Percussion Ensemble,65.15,19.05,13.3,18.8,14.0
+2023,7,PSRA,Xenia Indoor Percussion Ensemble,66.95,19.35,13.7,19.9,14.0
+2023,8,PSRA,Xenia Indoor Percussion Ensemble,69.9,19.5,14.7,21.2,14.5
+2023,10,PSRA,Xenia Indoor Percussion Ensemble,73.8,22.5,14.2,22.2,14.9
+2023,1,SRA,Xenia Winterguard,68.23,13.55,14.08,13.5,13.3
+2023,2,SRA,Xenia Winterguard,66.26,13.08,12.68,13.8,14.2
+2023,4,SRA,Xenia Winterguard,67.181,12.75,14.93,13.4,12.6
+2023,7,SRA,Xenia Winterguard,74.51,15.34,15.47,15.1,15.1
+2023,8,SRA,Xenia Winterguard,77.11,15.74,15.87,14.0,15.5
+2023,10,SRA,Xenia Winterguard,78.951,16.14,16.21,14.8,15.8
 2023,6,PSO,Zionsville Community HS,77.4,23.7,15.1,22.6,16.0
 2023,13,PSO,Zionsville Community HS,96.125,29.175,19.375,28.075,19.5
 2023,4,PSO,Zionsville Indoor Percussion,75.7,23.1,15.4,22.5,14.7
@@ -2722,10 +3522,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2023,8,PIO,Élan Percussion,77.7,22.2,15.7,24.7,15.1
 2023,11,PIO,Élan Percussion,85.95,27.15,17.0,25.0,16.8
 2023,12,PIO,Élan Percussion,85.225,25.275,17.15,25.95,16.85
+2023,1,ECG,,73.6,16.3,16.5,13.0,13.9
+2023,2,PSRA,,74.3,23.1,15.3,21.8,14.1
 2023,3,PSA,,67.851,19.35,14.1,21.0,13.4
 2023,4,PIA,,66.2,21.9,12.9,18.7,12.7
 2023,5,PSA,,71.6,22.2,14.7,20.1,14.6
 2023,6,PSA,,75.751,23.25,14.9,22.2,15.4
-2023,7,PRA,,71.45,20.25,13.7,24.5,13.0
-2023,8,R1,,76.451,22.125,14.825,24.3,15.2
-2023,10,PSA,,78.338,23.888,15.5,23.85,15.1
+2023,7,PSRA,,80.25,24.75,16.2,23.1,16.2
+2023,8,PSRA,,81.4,24.6,17.2,23.5,16.1
+2023,10,PSRA,,83.2,23.7,17.1,25.1,17.3

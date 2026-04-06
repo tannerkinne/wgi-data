@@ -3,15 +3,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,7,PIA,202 Indoor Percussion,85.95,24.15,16.8,27.5,17.5
 2026,8,PIA,Albemarle County Indoor Percussion,78.1,23.7,15.2,24.3,14.9
 2026,8,PIA,Arlington Indoor Percussion,85.0,25.5,16.7,25.6,17.2
+2026,5,PIA,Belleville Indoor Percussion,70.65,20.25,14.3,22.3,13.8
 2026,7,PIA,Belleville Indoor Percussion,76.7,22.8,15.0,23.3,15.6
 2026,5,PIA,Bellevue Combined Schools,74.5,22.8,14.7,22.6,14.4
 2026,8,PIA,Bellevue Combined Schools,80.0,23.4,15.7,25.0,15.9
+2026,9,PIA,Bellevue Combined Schools,75.2,24.0,15.6,22.8,12.8
 2026,6,PIA,Boise Gems Independent,79.4,23.7,15.5,24.4,15.8
 2026,6,PIA,Borderline Percussion,78.55,22.35,16.0,24.4,15.8
 2026,5,PIA,Breakthrough A,73.925,21.525,14.6,22.95,14.85
 2026,3,PIA,Breakwater Performing Arts,66.35,19.65,13.1,19.7,13.9
 2026,6,PIA,Breakwater Performing Arts,75.2,23.1,16.1,21.4,14.6
 2026,8,PIA,Breakwater Performing Arts,78.75,24.15,15.7,23.3,15.6
+2026,9,PIA,Breakwater Performing Arts,80.25,24.15,15.8,23.9,16.4
 2026,5,PIA,Carolina Storm Indoor Percussion,72.65,21.75,14.0,22.7,14.2
 2026,8,PIA,Carolina Storm Indoor Percussion,73.05,21.75,14.5,21.8,15.0
 2026,1,PIA,Category 5 Percussion,75.35,25.05,15.1,21.0,14.2
@@ -20,6 +23,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,8,PIA,Category 5 Percussion Independent Marching A,76.75,22.65,15.5,23.0,15.6
 2026,7,PIA,Central Bucks School District,70.25,21.15,13.1,22.4,13.6
 2026,8,PIA,Central Bucks School District,70.9,20.7,14.5,20.8,14.9
+2026,9,PIA,Central Bucks School District,70.85,21.45,14.4,20.3,14.7
 2026,8,PIA,Chantilly HS,83.85,25.65,16.5,25.0,16.7
 2026,6,PIA,Cornerstone Percussion,72.05,19.65,15.3,23.0,14.1
 2026,7,PIA,Cornerstone Percussion,73.275,21.975,14.8,21.45,15.05
@@ -36,19 +40,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PIA,Estrella Indoor Percussion,65.3,19.35,12.6,20.3,13.05
 2026,4,PIA,Farmington United Percussion Ensemble,69.75,20.55,14.7,20.5,14.0
 2026,8,PIA,Farmington United Percussion Ensemble,72.65,22.65,15.4,20.2,14.4
+2026,5,PIA,Fleur Winter Percussion,73.9,20.7,16.5,21.7,15.0
 2026,7,PIA,Fleur Winter Percussion,74.4,21.0,14.7,23.2,15.5
 2026,2,PIA,Flower City Percussion,63.95,19.4,19.95,12.7,11.9
 2026,3,PIA,Flower City Percussion,65.85,19.35,12.8,21.2,12.5
+2026,9,PIA,Flower City Percussion,73.475,20.85,23.625,14.55,14.45
+2026,5,PIA,Francis Howell Independent,80.35,23.85,16.3,24.2,16.0
 2026,7,PIA,Francis Howell Independent,85.1,25.8,17.5,25.1,16.7
 2026,4,PIA,Francis Howell Percussion,79.7,23.4,16.4,24.1,15.8
 2026,7,PIA,Frederick HS,72.2,21.6,14.5,22.4,13.7
 2026,3,PIA,Grandville Independent,70.45,22.05,14.1,21.3,13.0
 2026,7,PIA,Grind City Percussion Ensemble,83.175,24.375,16.35,25.5,16.95
 2026,2,PIA,Harrison County,67.65,20.2,19.65,13.4,14.4
+2026,9,PIA,Harrison County,86.6,26.1,26.7,16.9,16.9
 2026,4,PIA,Henry County Crimson Percussion,61.4,19.2,11.3,18.7,12.2
 2026,6,PIA,Henry County Crimson Percussion,64.0,19.2,13.1,19.2,12.5
 2026,8,PIA,Henry County Crimson Percussion,67.275,21.075,13.15,19.6,13.45
+2026,4,PIA,Horizon Percussion,74.8,22.8,14.2,22.4,15.4
+2026,5,PIA,Horizon Percussion,76.65,22.95,15.2,22.7,15.8
 2026,6,PIA,Horizon Percussion,83.4,25.8,15.7,25.0,16.9
+2026,9,PIA,Horizon Percussion,86.3,28.05,16.7,25.6,15.95
 2026,6,PIA,IGNITE Winter Percussion,72.05,21.75,14.7,20.4,15.2
 2026,7,PIA,IGNITE Winter Percussion,73.251,20.55,14.0,23.1,15.6
 2026,8,PIA,IGNITE Winter Percussion,75.825,23.175,15.6,21.25,15.8
@@ -57,23 +68,46 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PIA,Kannapolis Independent,79.25,25.05,13.5,25.1,15.6
 2026,4,PIA,Lake Effect Percussion,73.25,21.45,14.6,22.1,15.1
 2026,6,PIA,Lake Effect Percussion,81.85,24.75,17.0,23.7,16.4
+2026,9,PIA,Lake Effect Percussion,83.5,24.9,16.4,25.0,17.2
+2026,2,PIA,Lakeville Area Percussion,75.25,23.1,14.8,22.5,22.6
+2026,4,PIA,Lakeville Area Percussion,77.9,22.05,24.75,15.2,23.0
+2026,8,PIA,Lakeville Area Percussion,81.55,24.6,16.3,15.6,24.8
 2026,4,PIA,Legacy Percussion,74.85,21.75,15.4,21.5,16.2
 2026,7,PIA,MidMichigan Impact,75.75,23.25,14.6,22.6,15.3
 2026,8,PIA,MidMichigan Impact,77.25,24.45,14.9,21.8,16.1
 2026,4,PIA,Modulation Z,82.85,24.15,16.8,25.3,16.6
+2026,5,PIA,Modulation Z,83.55,25.35,17.0,24.5,16.7
 2026,7,PIA,Modulation Z,88.35,26.55,17.8,26.2,17.8
 2026,5,PIA,Myrtle Beatz Independent Percussion,65.601,19.2,13.8,21.5,11.1
 2026,5,PIA,Nomad Indoor,84.05,25.5,16.65,25.1,16.8
 2026,6,PIA,North Star Independent,81.05,24.75,16.7,23.4,16.2
+2026,8,PIA,North Star Independent,82.6,25.8,16.3,24.2,16.3
+2026,9,PIA,North Star Independent,87.3,27.0,17.1,26.6,16.6
 2026,4,PIA,NorthCoast Academy,68.5,20.1,14.0,20.6,13.8
 2026,6,PIA,NorthCoast Academy,74.75,23.25,14.4,22.2,14.9
 2026,7,PIA,NorthCoast Academy,76.3,23.4,14.9,23.0,15.0
+2026,9,PIA,NorthCoast Academy,76.6,22.8,15.2,23.3,15.3
 2026,6,PIA,Ogden HS,76.15,23.25,14.6,24.0,14.3
+2026,2,PIA,Owatonna High School,67.9,21.6,13.0,20.3,20.5
+2026,4,PIA,Owatonna High School,66.6,18.9,21.3,12.8,20.4
 2026,5,PIA,Palmetto Indoor Theatre,74.8,22.8,14.1,23.3,14.6
 2026,7,PIA,Pi Percussion Inc.,84.175,25.125,16.95,25.55,16.55
+2026,2,PIA,Quad City Percussion,66.7,20.55,11.9,20.4,21.1
+2026,4,PIA,Quad City Percussion,66.4,18.15,21.45,12.4,20.8
+2026,6,PIA,Quad City Percussion,74.5,21.0,14.7,23.9,14.4
+2026,7,PIA,Quad City Percussion,71.05,20.25,14.2,21.5,15.1
+2026,8,PIA,Quad City Percussion,75.15,23.55,14.4,14.2,22.2
+2026,9,PIA,Quad City Percussion,77.35,22.95,14.85,23.6,15.95
 2026,5,PIA,Ravenwood HS,85.6,27.3,17.9,25.1,15.3
 2026,5,PIA,Revelation A,79.425,23.925,15.9,23.6,16.0
+2026,4,PIA,Rochester Lourdes High School,76.875,23.55,24.6,15.0,22.1
+2026,7,PIA,Rochester Lourdes High School,79.9,23.4,16.1,23.3,17.1
+2026,8,PIA,Rochester Lourdes High School,82.8,25.2,15.8,16.4,24.7
+2026,9,PIA,Rochester Lourdes High School,86.975,26.325,17.25,25.95,17.45
+2026,2,PIA,Saints Indoor Percussion,64.15,18.75,12.5,19.6,13.3
+2026,3,PIA,Saints Indoor Percussion,68.25,19.35,14.4,20.4,14.1
 2026,5,PIA,Saints Indoor Percussion,72.8,22.5,15.1,21.6,13.6
+2026,6,PIA,Saints Indoor Percussion,70.35,21.15,13.5,22.0,13.7
 2026,9,PIA,Saints Indoor Percussion,69.35,19.05,13.4,22.1,14.8
 2026,8,PIA,South County Combined,85.05,25.95,16.3,26.3,16.5
 2026,4,PIA,Southmont High School - MCU,64.45,20.25,13.0,18.9,12.3
@@ -94,4 +128,5 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,6,PIA,Vortex Percussion,78.4,23.7,16.0,23.0,15.7
 2026,8,PIA,Vortex Percussion,82.85,25.35,16.6,24.4,16.5
 2026,4,PIA,Wentzville Independent,79.65,23.55,16.0,24.0,16.1
+2026,5,PIA,Wentzville Independent,77.2,22.8,15.7,23.0,15.7
 2026,7,PIA,Wentzville Independent,83.7,24.9,16.8,24.8,17.2

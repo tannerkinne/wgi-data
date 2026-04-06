@@ -8,12 +8,20 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,11,PSO,Arroyo HS,85.564,26.438,17.475,24.65,17.0
 2025,5,PSO,Basha HS,81.25,25.65,16.4,23.6,15.6
 2025,6,PSO,Basha HS,82.9,25.2,16.3,25.4,16.0
+2025,2,PSO,Beavercreek Indoor Percussion Ensemble,71.75,21.45,14.3,21.4,14.6
+2025,7,PSO,Beavercreek Indoor Percussion Ensemble,83.35,25.05,16.7,25.0,16.6
+2025,10,PSO,Beavercreek Indoor Percussion Ensemble,88.9,26.7,18.4,25.9,17.9
+2025,9,PSO,Bingham HS,83.3,24.3,17.6,24.5,16.9
+2025,13,PSO,Bingham HS,83.05,25.65,16.5,24.0,16.9
 2025,4,PSO,Bloomington HS,71.25,22.35,13.6,22.0,13.3
 2025,7,PSO,Bloomington HS,73.75,22.35,14.2,21.7,15.5
 2025,9,PSO,Bloomington HS (CA),76.0,22.2,14.9,24.4,14.5
 2025,6,PSO,Bob Jones HS,71.3,21.3,14.4,21.4,14.2
 2025,7,PSO,Brandon Valley HS,80.75,24.75,16.2,23.7,16.1
 2025,9,PSO,Brandon Valley HS,84.0,24.6,16.9,25.7,16.8
+2025,4,PSO,Brandon Valley High School,74.05,23.25,13.7,23.4,13.7
+2025,8,PSO,Brandon Valley High School,81.9,23.4,16.5,25.4,16.6
+2025,11,PSO,Brandon Valley High School,86.4,25.5,17.7,26.35,16.85
 2025,8,PSO,Branham HS,86.85,25.05,17.2,27.9,16.7
 2025,6,PSO,Buckeye Union HS,74.7,22.2,14.9,22.2,15.4
 2025,6,PSO,Buckhorn HS,78.45,23.85,15.7,23.8,15.1
@@ -36,6 +44,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,9,PSO,Carroll High School Indoor Percussion,84.876,25.725,17.65,24.7,16.8
 2025,10,PSO,Carroll High School Indoor Percussion,82.864,25.612,16.7,24.75,15.8
 2025,9,PSO,Casa Grande HS,88.675,25.5,17.875,27.55,17.75
+2025,2,PSO,Centerville Winter Drumline,71.45,22.05,14.1,21.0,14.3
+2025,5,PSO,Centerville Winter Drumline,74.25,23.55,15.0,20.7,15.0
+2025,7,PSO,Centerville Winter Drumline,79.5,24.3,16.5,22.9,15.8
+2025,10,PSO,Centerville Winter Drumline,84.35,26.55,17.2,23.6,17.0
 2025,8,PSO,Century HS,75.1,22.5,14.8,23.4,14.4
 2025,3,PSO,Cerritos HS,72.15,21.75,14.7,21.4,14.3
 2025,6,PSO,Cerritos HS,78.65,24.45,16.6,22.2,15.4
@@ -54,7 +66,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,12,PSO,Chisholm Trail HS,90.788,27.938,17.7,27.5,17.65
 2025,8,PSO,Clovis East HS,87.35,25.65,16.8,27.3,17.6
 2025,6,PSO,Cypress Ranch HS,76.85,21.45,14.5,25.7,15.2
+2025,4,PSO,Davis HS,72.4,21.6,13.8,22.7,14.3
+2025,5,PSO,Davis HS,76.05,22.05,14.4,24.85,14.75
 2025,7,PSO,Davis HS,77.85,23.55,15.5,23.3,15.5
+2025,10,PSO,Davis HS,84.3,25.2,16.6,26.0,16.5
+2025,13,PSO,Davis HS,88.1,26.7,17.7,26.3,17.4
 2025,5,PSO,Downingtown HS West,72.65,23.0,22.35,14.1,13.2
 2025,6,PSO,Downingtown HS West,76.1,23.6,23.4,14.6,14.5
 2025,10,PSO,Downingtown HS West,84.75,26.7,25.05,15.9,17.1
@@ -62,7 +78,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,9,PSO,Downingtown West HS,82.8,24.6,17.3,25.6,15.3
 2025,8,PSO,Dublin HS,82.15,24.15,16.1,25.7,16.2
 2025,9,PSO,Dublin HS,85.988,25.462,16.8,26.8,16.925
+2025,3,PSO,Dutchtown H.S.,68.95,21.1,20.85,12.9,14.1
+2025,5,PSO,Dutchtown H.S.,76.35,21.8,22.35,17.3,14.9
 2025,7,PSO,Dutchtown HS (LA),77.451,22.35,16.3,22.6,16.2
+2025,4,PSO,Eden Prairie High School,76.85,23.85,14.5,23.9,14.6
+2025,11,PSO,Eden Prairie High School,89.075,26.625,18.1,27.25,17.1
 2025,7,PSO,Egg Harbor Township HS,80.0,25.3,24.3,15.5,14.9
 2025,10,PSO,Egg Harbor Township HS,84.0,26.8,24.6,15.3,17.3
 2025,11,PSO,Egg Harbor Township HS,84.2,24.3,25.5,17.2,17.2
@@ -74,6 +94,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,5,PSO,El Toro HS,70.751,22.65,14.1,20.0,14.0
 2025,7,PSO,El Toro HS,77.551,23.55,14.9,22.7,16.4
 2025,7,PSO,Farmington HS,78.85,22.95,16.9,22.5,16.5
+2025,10,PSO,Farmington HS,82.45,25.05,17.3,24.2,15.9
+2025,13,PSO,Farmington HS,85.1,26.1,17.1,24.4,17.5
 2025,6,PSO,Fishers HS,86.2,25.95,17.2,25.75,17.3
 2025,12,PSO,Fishers HS,96.75,29.625,19.3,28.825,19.0
 2025,5,PSO,Fishers Indoor Drumline (PSO),77.55,22.05,15.3,24.6,15.6
@@ -115,6 +137,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,8,PSO,Greenwood Indoor Percussion,82.9,24.3,17.0,24.8,16.8
 2025,9,PSO,Greenwood Indoor Percussion,85.401,24.6,16.25,27.75,16.8
 2025,10,PSO,Greenwood Indoor Percussion,85.176,25.95,16.6,25.625,17.0
+2025,2,PSO,Gulfport H.S.,70.3,20.7,20.7,14.7,14.2
 2025,7,PSO,Gulfport HS,82.75,24.75,16.3,25.1,16.6
 2025,7,PSO,Halls Indoor Percussion Ensemble,75.9,23.6,21.9,15.3,15.1
 2025,10,PSO,Halls Indoor Percussion Ensemble,82.6,25.4,24.3,16.5,16.4
@@ -131,6 +154,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,10,PSO,Hudsonville Winter Percussion,84.7,25.8,16.9,25.8,16.2
 2025,11,PSO,Hudsonville Winter Percussion,88.525,26.775,17.85,26.75,17.15
 2025,7,PSO,Irondale Combined Schools,83.9,25.5,17.1,24.4,16.9
+2025,4,PSO,Irondale High School,70.45,20.55,13.8,21.9,14.2
+2025,10,PSO,Irondale High School,87.025,26.025,17.25,26.15,17.6
+2025,11,PSO,Irondale High School,90.15,27.15,18.5,26.85,17.65
 2025,6,PSO,John Marshall HS,69.85,20.85,13.6,22.1,13.3
 2025,9,PSO,John Marshall HS,78.451,25.05,15.7,22.3,15.4
 2025,6,PSO,Jordan HS,81.6,24.6,15.6,25.1,16.3
@@ -138,6 +164,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,6,PSO,Keller Central HS,75.5,24.0,14.4,23.7,13.4
 2025,9,PSO,Keller Central HS,82.1,25.2,16.8,23.6,16.5
 2025,6,PSO,La Porte HS,84.95,25.35,16.5,26.9,16.2
+2025,2,PSO,Lafourche Parish,72.5,21.5,21.9,14.4,14.7
+2025,5,PSO,Lafourche Parish,81.35,24.0,23.85,17.6,15.9
+2025,8,PSO,Lafourche Parish,83.3,25.6,24.3,17.0,16.4
 2025,9,PSO,Laguna Creek HS,77.288,23.288,15.05,24.05,14.9
 2025,7,PSO,Lake Orion HS,77.6,23.7,15.8,23.1,15.0
 2025,6,PSO,Lake Orion Percussion,75.65,23.55,15.0,22.5,14.6
@@ -164,6 +193,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,11,PSO,Mission Hills HS,84.1,25.95,16.7,25.2,16.25
 2025,8,PSO,Mission Viejo HS,88.95,27.15,17.3,26.9,17.6
 2025,11,PSO,Mission Viejo HS,87.789,26.288,17.325,26.65,17.525
+2025,5,PSO,Nebo District Percussion,72.1,20.1,13.2,24.45,14.35
+2025,9,PSO,Nebo District Percussion,85.9,25.5,18.0,25.7,16.7
+2025,10,PSO,Nebo District Percussion,83.65,25.65,18.4,23.0,16.6
+2025,13,PSO,Nebo District Percussion,83.2,24.6,17.6,23.9,17.1
 2025,6,PSO,Ninety Six HS,79.2,25.5,14.8,24.2,14.7
 2025,6,PSO,Noblesville HS,84.95,25.35,17.6,26.1,15.9
 2025,5,PSO,Noblesville Indoor Percussion Ensemble,77.35,24.15,15.9,22.0,15.3
@@ -227,6 +260,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,6,PSO,Stockdale HS,83.6,24.9,16.7,25.3,16.7
 2025,5,PSO,Stoneman Douglas HS,66.65,19.05,12.7,22.3,12.6
 2025,6,PSO,Summit HS (TN),75.1,22.5,15.1,22.8,14.7
+2025,2,PSO,Terrebonne Parish,70.45,21.1,20.85,14.2,14.3
+2025,3,PSO,Terrebonne Parish,71.75,20.8,21.75,13.7,15.5
+2025,8,PSO,Terrebonne Parish,81.5,24.2,24.6,16.4,16.3
 2025,7,PSO,Terrebonne Parish Combined Schools,73.551,20.85,14.0,23.9,14.8
 2025,7,PSO,Thomas Jefferson HS,82.75,24.45,15.6,26.5,16.2
 2025,9,PSO,Torres HS,83.239,24.262,16.3,26.0,16.675

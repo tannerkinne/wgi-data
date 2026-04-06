@@ -1,28 +1,40 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2017,0,PIW,Broken City,85.5,26.25,16.6,25.3,17.35
-2017,2,PIW,Broken City,85.6,26.7,16.6,25.0,17.3
-2017,3,PIW,Broken City,87.85,26.55,17.4,26.2,17.7
-2017,8,PIW,Broken City,94.05,27.75,18.8,28.7,18.8
-2017,9,PIW,Broken City,94.538,28.237,18.6,28.85,18.85
-2017,-1,PIW,Dark Sky Percussion,70.7,21.6,13.3,21.5,14.3
-2017,3,PIW,Dark Sky Percussion,79.9,24.3,15.9,24.5,15.2
-2017,8,PIW,Dark Sky Percussion,88.701,26.85,17.7,27.55,16.6
-2017,9,PIW,Dark Sky Percussion,87.263,25.762,17.25,27.35,16.9
-2017,0,PIW,Legacy Indoor Percussion Ensemble,77.05,23.55,14.1,24.7,14.7
-2017,5,PIW,Legacy Indoor Percussion Ensemble,82.85,25.05,16.3,25.35,16.15
-2017,7,PIW,Legacy Indoor Percussion Ensemble,83.9,25.5,17.05,25.65,15.7
-2017,9,PIW,Legacy Indoor Percussion Ensemble,84.85,25.65,17.0,25.4,16.8
-2017,-1,PIW,POW Percussion,72.2,21.9,13.9,21.9,14.5
-2017,4,PIW,POW Percussion,84.275,24.975,17.3,25.2,16.8
-2017,8,PIW,POW Percussion,89.9,27.3,17.3,27.9,17.4
-2017,9,PIW,POW Percussion,89.338,26.438,17.5,27.9,17.5
-2017,-1,PIW,Pulse Percussion,81.05,24.15,16.5,24.6,15.8
-2017,4,PIW,Pulse Percussion,91.0,27.45,18.35,26.9,18.3
-2017,8,PIW,Pulse Percussion,95.55,28.65,19.0,28.9,19.0
-2017,9,PIW,Pulse Percussion,94.4,28.8,18.225,28.825,18.55
-2017,-1,PIW,RCC,79.65,23.25,16.3,24.1,16.0
-2017,4,PIW,RCC,89.3,26.7,18.3,26.2,18.1
-2017,8,PIW,RCC,93.475,27.825,18.6,28.55,18.5
-2017,9,PIW,RCC,93.438,27.788,18.55,28.35,18.75
-2017,4,PIW,United Percussion,87.95,25.7,26.55,17.4,18.3
-2017,8,PIW,United Percussion,88.15,26.2,27.75,17.0,17.2
+2017,2,PIW,Broken City,85.5,26.25,16.6,25.3,17.35
+2017,4,PIW,Broken City,85.6,26.7,16.6,25.0,17.3
+2017,5,PIW,Broken City,87.85,26.55,17.4,26.2,17.7
+2017,10,PIW,Broken City,94.05,27.75,18.8,28.7,18.8
+2017,11,PIW,Broken City,94.538,28.237,18.6,28.85,18.85
+2017,1,PIW,Dark Sky Percussion,70.7,21.6,13.3,21.5,14.3
+2017,5,PIW,Dark Sky Percussion,79.9,24.3,15.9,24.5,15.2
+2017,10,PIW,Dark Sky Percussion,88.701,26.85,17.7,27.55,16.6
+2017,11,PIW,Dark Sky Percussion,87.263,25.762,17.25,27.35,16.9
+2017,2,PIW,Legacy Indoor Percussion Ensemble,77.05,23.55,14.1,24.7,14.7
+2017,7,PIW,Legacy Indoor Percussion Ensemble,82.85,25.05,16.3,25.35,16.15
+2017,9,PIW,Legacy Indoor Percussion Ensemble,83.9,25.5,17.05,25.65,15.7
+2017,11,PIW,Legacy Indoor Percussion Ensemble,84.85,25.65,17.0,25.4,16.8
+2017,3,PIW,Minnesota Brass Indoor,78.25,23.4,23.25,15.0,16.6
+2017,4,PIW,Minnesota Brass Indoor,77.75,23.1,22.95,15.9,15.8
+2017,7,PIW,Minnesota Brass Indoor,85.35,24.8,25.95,18.1,16.5
+2017,9,PIW,Minnesota Brass Indoor,88.375,26.1,27.075,18.2,17.0
+2017,10,PIW,Minnesota Brass Indoor,91.45,27.875,27.675,18.2,17.7
+2017,1,PIW,POW Percussion,72.2,21.9,13.9,21.9,14.5
+2017,6,PIW,POW Percussion,84.275,24.975,17.3,25.2,16.8
+2017,10,PIW,POW Percussion,89.9,27.3,17.3,27.9,17.4
+2017,11,PIW,POW Percussion,89.338,26.438,17.5,27.9,17.5
+2017,1,PIW,Pulse Percussion,81.05,24.15,16.5,24.6,15.8
+2017,6,PIW,Pulse Percussion,91.0,27.45,18.35,26.9,18.3
+2017,10,PIW,Pulse Percussion,95.55,28.65,19.0,28.9,19.0
+2017,11,PIW,Pulse Percussion,94.4,28.8,18.225,28.825,18.55
+2017,1,PIW,RCC,79.65,23.25,16.3,24.1,16.0
+2017,6,PIW,RCC,89.3,26.7,18.3,26.2,18.1
+2017,10,PIW,RCC,93.475,27.825,18.6,28.55,18.5
+2017,11,PIW,RCC,93.438,27.788,18.55,28.35,18.75
+2017,0,PIW,Rhythm X,78.1,23.1,23.1,15.8,16.1
+2017,2,PIW,Rhythm X,80.9,25.0,24.0,15.3,16.6
+2017,5,PIW,Rhythm X,85.15,26.0,25.65,16.3,17.2
+2017,9,PIW,Rhythm X,92.3,27.2,28.05,18.65,18.4
+2017,9,PIW,River City Rhythm,84.975,25.1,25.575,17.6,16.7
+2017,10,PIW,River City Rhythm,87.475,26.575,26.25,17.4,17.25
+2017,2,PIW,Tates Creek Indoor Ensemble,73.75,22.8,22.35,13.5,15.1
+2017,6,PIW,United Percussion,87.95,25.7,26.55,17.4,18.3
+2017,10,PIW,United Percussion,88.15,26.2,27.75,17.0,17.2

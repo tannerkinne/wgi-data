@@ -1,120 +1,149 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2017,2,PSO,Ben Davis High School,77.7,23.7,16.4,22.6,15.0
-2017,4,PSO,Ben Davis High School,78.0,24.9,14.2,24.0,14.9
-2017,5,PSO,Ben Davis High School,77.976,23.475,14.8,25.05,14.65
-2017,7,PSO,Ben Davis High School,81.801,25.35,16.2,24.6,15.65
-2017,9,PSO,Ben Davis High School,85.6,25.2,17.1,25.5,17.8
-2017,2,PSO,Buena HS,75.4,24.45,15.1,20.7,15.15
-2017,3,PSO,Buena HS,81.15,24.45,16.3,23.0,17.4
-2017,5,PSO,Buena HS,81.5,23.85,16.8,24.15,16.7
-2017,2,PSO,Cab Calloway,72.05,24.2,19.95,13.4,14.5
-2017,4,PSO,Cab Calloway,80.1,24.2,23.85,15.6,16.45
-2017,5,PSO,Cab Calloway,80.25,23.1,24.45,15.8,16.9
-2017,7,PSO,Cab Calloway,77.15,24.6,22.95,14.8,14.8
-2017,8,PSO,Cab Calloway,79.05,24.1,23.55,15.9,15.5
-2017,0,PSO,Carmel High School,74.5,21.9,14.4,24.1,14.1
-2017,1,PSO,Carmel High School,76.8,23.7,14.3,24.8,14.0
-2017,2,PSO,Carmel High School,78.3,22.8,16.3,23.3,15.9
-2017,5,PSO,Carmel High School,84.575,25.8,16.15,25.275,17.35
-2017,7,PSO,Carmel High School,88.4,27.075,16.55,27.175,17.6
-2017,0,PSO,Decatur Central Winter Percussion Ensemble,73.45,21.15,13.4,24.5,14.4
-2017,1,PSO,Decatur Central Winter Percussion Ensemble,72.0,23.1,14.5,20.8,13.6
-2017,2,PSO,Decatur Central Winter Percussion Ensemble,75.85,23.55,16.1,21.9,14.3
-2017,3,PSO,Decatur Central Winter Percussion Ensemble,76.201,25.5,15.0,20.9,14.8
-2017,4,PSO,Decatur Central Winter Percussion Ensemble,76.5,23.7,14.8,23.4,14.6
-2017,5,PSO,Decatur Central Winter Percussion Ensemble,80.126,24.0,15.0,25.125,16.0
-2017,7,PSO,Decatur Central Winter Percussion Ensemble,84.6,25.65,17.275,25.125,16.55
-2017,9,PSO,Decatur Central Winter Percussion Ensemble,84.9,25.8,17.2,24.9,17.0
-2017,3,PSO,El Dorado HS,77.701,24.3,15.7,22.7,15.0
-2017,5,PSO,El Dorado HS,80.35,24.75,15.7,24.1,15.8
-2017,7,PSO,El Dorado HS,84.35,26.25,17.0,24.1,17.0
-2017,-1,PSO,Etiwanda HS,74.55,22.95,14.7,22.1,14.8
-2017,2,PSO,Fishers High School,82.55,25.05,17.8,24.4,15.3
-2017,3,PSO,Fishers High School,83.1,26.7,17.0,23.2,16.2
-2017,5,PSO,Fishers High School,89.275,26.775,17.3,27.925,17.275
-2017,7,PSO,Fishers High School,92.7,27.975,18.55,27.925,18.25
-2017,3,PSO,Fountain Valley HS,77.65,22.35,15.6,23.3,16.4
-2017,5,PSO,Fountain Valley HS,81.65,24.45,16.4,25.1,15.7
-2017,7,PSO,Fountain Valley HS,80.2,25.5,15.8,23.2,15.7
-2017,9,PSO,Fountain Valley HS,81.375,23.625,16.15,25.65,15.95
-2017,5,PSO,Granada Hills CHS,79.001,23.1,16.6,23.7,15.6
-2017,7,PSO,Granada Hills CHS,77.8,24.3,15.6,22.5,15.4
-2017,0,PSO,Great Oak HS,71.55,22.35,13.2,21.2,14.8
-2017,4,PSO,Great Oak HS,81.865,24.975,16.19,24.6,16.1
-2017,7,PSO,Great Oak HS,90.75,27.45,17.6,27.6,18.1
-2017,9,PSO,Great Oak HS,90.688,27.038,17.6,27.85,18.2
-2017,1,PSO,Greenfield-Central Indoor Percussion Ensemble,73.95,23.25,13.4,22.9,14.4
-2017,3,PSO,Greenfield-Central Indoor Percussion Ensemble,78.625,26.025,15.4,21.9,15.3
-2017,5,PSO,Greenfield-Central Indoor Percussion Ensemble,84.038,25.538,16.3,25.95,16.25
-2017,7,PSO,Greenfield-Central Indoor Percussion Ensemble,84.201,25.5,16.75,25.1,16.85
-2017,9,PSO,Greenfield-Central Indoor Percussion Ensemble,86.9,26.1,16.5,25.7,18.6
-2017,1,PSO,Greenwood Indoor Percussion,67.55,22.35,12.9,18.9,13.4
-2017,2,PSO,Independence HS,72.151,22.65,14.1,20.4,15.0
-2017,4,PSO,Independence HS,75.68,22.35,16.33,22.2,14.8
-2017,3,PSO,La Quinta HS (OC),78.0,25.2,16.7,22.3,13.8
-2017,9,PSO,La Quinta HS (OC),92.15,27.45,18.15,28.275,18.275
-2017,1,PSO,Lawrence Township,75.675,23.475,14.1,24.3,13.8
-2017,3,PSO,Lawrence Township,76.45,24.45,15.9,20.7,15.4
-2017,5,PSO,Lawrence Township,84.025,24.375,16.7,26.8,16.15
-2017,7,PSO,Lawrence Township,87.1,26.7,17.2,26.15,17.05
-2017,9,PSO,Lawrence Township,88.7,26.7,18.1,26.7,17.2
-2017,2,PSO,Los Alamitos HS,77.825,23.775,16.8,21.4,15.85
-2017,5,PSO,Los Alamitos HS,86.7,26.85,17.2,25.55,17.1
-2017,7,PSO,Los Alamitos HS,87.6,27.0,17.8,25.4,17.4
-2017,9,PSO,Los Alamitos HS,89.738,27.488,17.825,26.925,17.5
-2017,1,PSO,Mechanicsburg,70.0,20.6,21.3,13.9,14.2
-2017,7,PSO,Mission Hills HS,81.85,26.25,16.2,22.8,16.6
-2017,2,PSO,Mission Viejo HS,78.15,24.6,16.6,21.0,15.95
-2017,3,PSO,Mission Viejo HS,78.85,23.85,15.8,23.5,15.7
-2017,5,PSO,Mission Viejo HS,85.0,25.2,18.2,24.8,16.8
-2017,9,PSO,Mission Viejo HS,84.626,24.75,17.2,26.025,16.65
-2017,3,PSO,Nogales HS,82.15,25.65,16.2,24.5,15.8
-2017,5,PSO,Nogales HS,82.1,25.5,16.4,24.4,15.8
-2017,9,PSO,Nogales HS,86.201,25.05,18.05,25.6,17.5
-2017,0,PSO,Old Bridge,75.05,21.5,23.55,15.4,14.6
-2017,2,PSO,Old Bridge,76.8,24.7,22.8,14.1,15.2
-2017,4,PSO,Old Bridge,82.25,25.0,24.75,16.3,16.2
-2017,7,PSO,Old Bridge,86.65,26.2,26.55,17.0,16.9
-2017,8,PSO,Old Bridge,86.85,25.7,26.55,17.5,17.1
-2017,0,PSO,Perry Meridian Indoor Drumline,70.35,20.85,13.6,22.4,13.5
-2017,2,PSO,Perry Meridian Indoor Drumline,76.6,24.3,15.7,22.4,14.2
-2017,3,PSO,Perry Meridian Indoor Drumline,73.401,23.4,15.8,19.8,14.4
-2017,5,PSO,Perry Meridian Indoor Drumline,75.551,22.2,14.85,24.25,14.25
-2017,7,PSO,Perry Meridian Indoor Drumline,79.726,24.45,16.375,23.85,15.05
-2017,2,PSO,Rancho Cucamonga HS,75.425,23.925,14.4,22.15,14.95
-2017,5,PSO,Rancho Cucamonga HS,82.4,24.3,16.0,25.6,16.5
-2017,7,PSO,Rancho Cucamonga HS,84.5,24.6,16.8,26.6,16.5
-2017,2,PSO,San Marino HS,78.025,24.225,15.8,21.8,16.2
-2017,5,PSO,San Marino HS,83.45,25.05,16.2,25.4,16.8
-2017,9,PSO,San Marino HS,88.538,26.288,18.0,26.95,17.3
-2017,3,PSO,Springford,81.45,24.3,25.05,16.0,16.1
-2017,4,PSO,Springford,82.55,24.9,24.45,16.7,16.5
-2017,5,PSO,Springford,83.8,25.7,25.8,14.9,17.4
-2017,7,PSO,Springford,88.3,26.5,26.4,17.6,17.8
-2017,8,PSO,Springford,91.0,26.0,28.2,18.2,18.6
-2017,0,PSO,Sunny Hills HS,73.1,22.8,13.8,21.5,15.0
-2017,2,PSO,Sunny Hills HS,74.851,23.55,13.4,22.3,15.6
-2017,3,PSO,Sunny Hills HS,77.4,23.1,14.8,22.7,16.8
-2017,5,PSO,Sunny Hills HS,79.001,24.0,14.6,24.1,16.3
-2017,-1,PSO,Thousand Oaks HS,66.85,20.25,13.5,19.7,13.4
-2017,0,PSO,Thousand Oaks HS,66.9,21.3,12.9,19.5,13.2
-2017,5,PSO,Thousand Oaks HS,75.401,22.5,14.9,23.2,14.8
-2017,2,PSO,Upper Darby,70.35,23.4,20.25,12.9,13.8
-2017,3,PSO,Upper Darby,70.6,22.8,21.3,12.9,13.6
-2017,4,PSO,Upper Darby,71.95,23.4,22.35,10.6,15.6
-2017,5,PSO,Upper Darby,74.65,21.7,23.25,14.0,15.7
-2017,7,PSO,Upper Darby,78.1,23.7,23.4,15.3,15.7
-2017,8,PSO,Upper Darby,79.4,23.8,24.6,15.7,15.3
-2017,3,PSO,VIctor J Andrew HS,81.275,26.475,17.1,21.4,16.3
-2017,4,PSO,Vista Murrieta HS,82.97,24.75,17.22,24.5,16.5
-2017,7,PSO,Vista Murrieta HS,87.35,26.85,16.6,27.1,16.8
-2017,9,PSO,Vista Murrieta HS,92.438,27.638,17.9,28.45,18.45
-2017,5,PSO,West Ranch HS,84.6,26.4,16.9,23.9,17.4
-2017,7,PSO,West Ranch HS,88.75,27.75,17.9,25.3,17.8
-2017,9,PSO,West Ranch HS,83.25,24.825,16.825,25.0,16.6
-2017,3,PSO,Westlake HS,82.6,24.6,16.7,23.9,17.4
-2017,5,PSO,Westlake HS,81.201,24.6,15.7,24.8,16.1
-2017,9,PSO,Westlake HS,84.176,24.825,17.05,25.85,16.45
-2017,4,PSO,William S. Hart HS,80.04,24.6,15.64,23.8,16.0
-2017,7,PSO,William S. Hart HS,80.151,24.45,15.3,24.7,15.7
-2017,9,PSO,William S. Hart HS,83.613,24.188,16.575,26.3,16.55
+2017,1,PSO,Bellbrook Indoor Percussion Ensemble,70.8,22.4,20.1,14.2,14.1
+2017,2,PSO,Bellbrook Indoor Percussion Ensemble,74.8,22.3,23.1,15.4,14.0
+2017,4,PSO,Bellbrook Indoor Percussion Ensemble,82.5,25.7,24.9,16.1,15.8
+2017,6,PSO,Bellbrook Indoor Percussion Ensemble,79.8,23.3,24.3,16.1,16.1
+2017,9,PSO,Bellbrook Indoor Percussion Ensemble,85.9,25.6,25.5,16.5,18.3
+2017,4,PSO,Ben Davis High School,77.7,23.7,16.4,22.6,15.0
+2017,6,PSO,Ben Davis High School,78.0,24.9,14.2,24.0,14.9
+2017,7,PSO,Ben Davis High School,77.976,23.475,14.8,25.05,14.65
+2017,9,PSO,Ben Davis High School,81.801,25.35,16.2,24.6,15.65
+2017,11,PSO,Ben Davis High School,85.6,25.2,17.1,25.5,17.8
+2017,3,PSO,Bingham HS,64.9,26.4,24.5,14.0,0.0
+2017,4,PSO,Bingham HS,58.2,23.8,22.7,11.7,0.0
+2017,4,PSO,Buena HS,75.4,24.45,15.1,20.7,15.15
+2017,5,PSO,Buena HS,81.15,24.45,16.3,23.0,17.4
+2017,7,PSO,Buena HS,81.5,23.85,16.8,24.15,16.7
+2017,4,PSO,Cab Calloway,72.05,24.2,19.95,13.4,14.5
+2017,6,PSO,Cab Calloway,80.1,24.2,23.85,15.6,16.45
+2017,7,PSO,Cab Calloway,80.25,23.1,24.45,15.8,16.9
+2017,9,PSO,Cab Calloway,77.15,24.6,22.95,14.8,14.8
+2017,10,PSO,Cab Calloway,79.05,24.1,23.55,15.9,15.5
+2017,2,PSO,Carmel High School,74.5,21.9,14.4,24.1,14.1
+2017,3,PSO,Carmel High School,76.8,23.7,14.3,24.8,14.0
+2017,4,PSO,Carmel High School,78.3,22.8,16.3,23.3,15.9
+2017,7,PSO,Carmel High School,84.575,25.8,16.15,25.275,17.35
+2017,9,PSO,Carmel High School,88.4,27.075,16.55,27.175,17.6
+2017,3,PSO,Davis HS,73.4,31.2,26.0,16.2,0.0
+2017,4,PSO,Davis HS,76.9,30.6,29.9,16.4,0.0
+2017,5,PSO,Davis HS,81.4,32.6,31.6,17.2,0.0
+2017,7,PSO,Davis HS,86.9,34.6,35.0,17.3,0.0
+2017,8,PSO,Davis HS,89.95,36.6,35.85,17.5,0.0
+2017,10,PSO,Davis HS,90.5,27.4,27.0,17.7,18.4
+2017,2,PSO,Decatur Central Winter Percussion Ensemble,73.45,21.15,13.4,24.5,14.4
+2017,3,PSO,Decatur Central Winter Percussion Ensemble,72.0,23.1,14.5,20.8,13.6
+2017,4,PSO,Decatur Central Winter Percussion Ensemble,75.85,23.55,16.1,21.9,14.3
+2017,5,PSO,Decatur Central Winter Percussion Ensemble,76.201,25.5,15.0,20.9,14.8
+2017,6,PSO,Decatur Central Winter Percussion Ensemble,76.5,23.7,14.8,23.4,14.6
+2017,7,PSO,Decatur Central Winter Percussion Ensemble,80.126,24.0,15.0,25.125,16.0
+2017,9,PSO,Decatur Central Winter Percussion Ensemble,84.6,25.65,17.275,25.125,16.55
+2017,11,PSO,Decatur Central Winter Percussion Ensemble,84.9,25.8,17.2,24.9,17.0
+2017,5,PSO,El Dorado HS,77.701,24.3,15.7,22.7,15.0
+2017,7,PSO,El Dorado HS,80.35,24.75,15.7,24.1,15.8
+2017,9,PSO,El Dorado HS,84.35,26.25,17.0,24.1,17.0
+2017,1,PSO,Etiwanda HS,74.55,22.95,14.7,22.1,14.8
+2017,4,PSO,Fishers High School,82.55,25.05,17.8,24.4,15.3
+2017,5,PSO,Fishers High School,83.1,26.7,17.0,23.2,16.2
+2017,7,PSO,Fishers High School,89.275,26.775,17.3,27.925,17.275
+2017,9,PSO,Fishers High School,92.7,27.975,18.55,27.925,18.25
+2017,5,PSO,Fountain Valley HS,77.65,22.35,15.6,23.3,16.4
+2017,7,PSO,Fountain Valley HS,81.65,24.45,16.4,25.1,15.7
+2017,9,PSO,Fountain Valley HS,80.2,25.5,15.8,23.2,15.7
+2017,11,PSO,Fountain Valley HS,81.375,23.625,16.15,25.65,15.95
+2017,7,PSO,Granada Hills CHS,79.001,23.1,16.6,23.7,15.6
+2017,9,PSO,Granada Hills CHS,77.8,24.3,15.6,22.5,15.4
+2017,2,PSO,Great Oak HS,71.55,22.35,13.2,21.2,14.8
+2017,6,PSO,Great Oak HS,81.865,24.975,16.19,24.6,16.1
+2017,9,PSO,Great Oak HS,90.75,27.45,17.6,27.6,18.1
+2017,11,PSO,Great Oak HS,90.688,27.038,17.6,27.85,18.2
+2017,3,PSO,Greenfield-Central Indoor Percussion Ensemble,73.95,23.25,13.4,22.9,14.4
+2017,5,PSO,Greenfield-Central Indoor Percussion Ensemble,78.625,26.025,15.4,21.9,15.3
+2017,7,PSO,Greenfield-Central Indoor Percussion Ensemble,84.038,25.538,16.3,25.95,16.25
+2017,9,PSO,Greenfield-Central Indoor Percussion Ensemble,84.201,25.5,16.75,25.1,16.85
+2017,11,PSO,Greenfield-Central Indoor Percussion Ensemble,86.9,26.1,16.5,25.7,18.6
+2017,3,PSO,Greenwood Indoor Percussion,67.55,22.35,12.9,18.9,13.4
+2017,4,PSO,Independence HS,72.151,22.65,14.1,20.4,15.0
+2017,6,PSO,Independence HS,75.68,22.35,16.33,22.2,14.8
+2017,5,PSO,La Quinta HS (OC),78.0,25.2,16.7,22.3,13.8
+2017,11,PSO,La Quinta HS (OC),92.15,27.45,18.15,28.275,18.275
+2017,3,PSO,Lawrence Township,75.675,23.475,14.1,24.3,13.8
+2017,5,PSO,Lawrence Township,76.45,24.45,15.9,20.7,15.4
+2017,7,PSO,Lawrence Township,84.025,24.375,16.7,26.8,16.15
+2017,9,PSO,Lawrence Township,87.1,26.7,17.2,26.15,17.05
+2017,11,PSO,Lawrence Township,88.7,26.7,18.1,26.7,17.2
+2017,4,PSO,Los Alamitos HS,77.825,23.775,16.8,21.4,15.85
+2017,7,PSO,Los Alamitos HS,86.7,26.85,17.2,25.55,17.1
+2017,9,PSO,Los Alamitos HS,87.6,27.0,17.8,25.4,17.4
+2017,11,PSO,Los Alamitos HS,89.738,27.488,17.825,26.925,17.5
+2017,3,PSO,Mechanicsburg,70.0,20.6,21.3,13.9,14.2
+2017,9,PSO,Mission Hills HS,81.85,26.25,16.2,22.8,16.6
+2017,4,PSO,Mission Viejo HS,78.15,24.6,16.6,21.0,15.95
+2017,5,PSO,Mission Viejo HS,78.85,23.85,15.8,23.5,15.7
+2017,7,PSO,Mission Viejo HS,85.0,25.2,18.2,24.8,16.8
+2017,11,PSO,Mission Viejo HS,84.626,24.75,17.2,26.025,16.65
+2017,5,PSO,Nogales HS,82.15,25.65,16.2,24.5,15.8
+2017,7,PSO,Nogales HS,82.1,25.5,16.4,24.4,15.8
+2017,11,PSO,Nogales HS,86.201,25.05,18.05,25.6,17.5
+2017,2,PSO,Old Bridge,75.05,21.5,23.55,15.4,14.6
+2017,4,PSO,Old Bridge,76.8,24.7,22.8,14.1,15.2
+2017,6,PSO,Old Bridge,82.25,25.0,24.75,16.3,16.2
+2017,9,PSO,Old Bridge,86.65,26.2,26.55,17.0,16.9
+2017,10,PSO,Old Bridge,86.85,25.7,26.55,17.5,17.1
+2017,2,PSO,Perry Meridian Indoor Drumline,70.35,20.85,13.6,22.4,13.5
+2017,4,PSO,Perry Meridian Indoor Drumline,76.6,24.3,15.7,22.4,14.2
+2017,5,PSO,Perry Meridian Indoor Drumline,73.401,23.4,15.8,19.8,14.4
+2017,7,PSO,Perry Meridian Indoor Drumline,75.551,22.2,14.85,24.25,14.25
+2017,9,PSO,Perry Meridian Indoor Drumline,79.726,24.45,16.375,23.85,15.05
+2017,3,PSO,Pleasant Grove HS,72.25,29.4,26.75,16.1,0.0
+2017,4,PSO,Pleasant Grove HS,78.5,31.2,30.6,16.7,0.0
+2017,5,PSO,Pleasant Grove HS,82.2,32.8,32.0,17.4,0.0
+2017,8,PSO,Pleasant Grove HS,89.4,35.4,36.4,17.6,0.0
+2017,10,PSO,Pleasant Grove HS,91.05,27.1,27.45,17.9,18.6
+2017,4,PSO,Rancho Cucamonga HS,75.425,23.925,14.4,22.15,14.95
+2017,7,PSO,Rancho Cucamonga HS,82.4,24.3,16.0,25.6,16.5
+2017,9,PSO,Rancho Cucamonga HS,84.5,24.6,16.8,26.6,16.5
+2017,1,PSO,River Valley Percussion Theatre of Elk River High School,69.5,22.0,21.3,12.8,13.4
+2017,3,PSO,River Valley Percussion Theatre of Elk River High School,71.65,21.4,22.65,13.8,13.8
+2017,4,PSO,River Valley Percussion Theatre of Elk River High School,77.05,23.7,24.15,13.9,15.3
+2017,6,PSO,River Valley Percussion Theatre of Elk River High School,81.4,25.05,24.15,16.0,16.2
+2017,10,PSO,River Valley Percussion Theatre of Elk River High School,83.325,25.25,25.575,16.85,15.65
+2017,3,PSO,Riverton HS,68.2,28.8,24.0,15.4,0.0
+2017,4,PSO,Riverton HS,71.7,28.4,28.7,14.6,0.0
+2017,5,PSO,Riverton HS,80.4,32.2,31.2,17.0,0.0
+2017,7,PSO,Riverton HS,86.8,33.6,36.05,17.15,-1.77
+2017,8,PSO,Riverton HS,88.15,35.6,35.45,17.1,0.0
+2017,10,PSO,Riverton HS,86.95,26.0,25.65,17.4,17.9
+2017,4,PSO,San Marino HS,78.025,24.225,15.8,21.8,16.2
+2017,7,PSO,San Marino HS,83.45,25.05,16.2,25.4,16.8
+2017,11,PSO,San Marino HS,88.538,26.288,18.0,26.95,17.3
+2017,5,PSO,Springford,81.45,24.3,25.05,16.0,16.1
+2017,6,PSO,Springford,82.55,24.9,24.45,16.7,16.5
+2017,7,PSO,Springford,83.8,25.7,25.8,14.9,17.4
+2017,9,PSO,Springford,88.3,26.5,26.4,17.6,17.8
+2017,10,PSO,Springford,91.0,26.0,28.2,18.2,18.6
+2017,2,PSO,Sunny Hills HS,73.1,22.8,13.8,21.5,15.0
+2017,4,PSO,Sunny Hills HS,74.851,23.55,13.4,22.3,15.6
+2017,5,PSO,Sunny Hills HS,77.4,23.1,14.8,22.7,16.8
+2017,7,PSO,Sunny Hills HS,79.001,24.0,14.6,24.1,16.3
+2017,1,PSO,Thousand Oaks HS,66.85,20.25,13.5,19.7,13.4
+2017,2,PSO,Thousand Oaks HS,66.9,21.3,12.9,19.5,13.2
+2017,7,PSO,Thousand Oaks HS,75.401,22.5,14.9,23.2,14.8
+2017,4,PSO,Upper Darby,70.35,23.4,20.25,12.9,13.8
+2017,5,PSO,Upper Darby,70.6,22.8,21.3,12.9,13.6
+2017,6,PSO,Upper Darby,71.95,23.4,22.35,10.6,15.6
+2017,7,PSO,Upper Darby,74.65,21.7,23.25,14.0,15.7
+2017,9,PSO,Upper Darby,78.1,23.7,23.4,15.3,15.7
+2017,10,PSO,Upper Darby,79.4,23.8,24.6,15.7,15.3
+2017,5,PSO,VIctor J Andrew HS,81.275,26.475,17.1,21.4,16.3
+2017,6,PSO,Vista Murrieta HS,82.97,24.75,17.22,24.5,16.5
+2017,9,PSO,Vista Murrieta HS,87.35,26.85,16.6,27.1,16.8
+2017,11,PSO,Vista Murrieta HS,92.438,27.638,17.9,28.45,18.45
+2017,7,PSO,West Ranch HS,84.6,26.4,16.9,23.9,17.4
+2017,9,PSO,West Ranch HS,88.75,27.75,17.9,25.3,17.8
+2017,11,PSO,West Ranch HS,83.25,24.825,16.825,25.0,16.6
+2017,5,PSO,Westlake HS,82.6,24.6,16.7,23.9,17.4
+2017,7,PSO,Westlake HS,81.201,24.6,15.7,24.8,16.1
+2017,11,PSO,Westlake HS,84.176,24.825,17.05,25.85,16.45
+2017,6,PSO,William S. Hart HS,80.04,24.6,15.64,23.8,16.0
+2017,9,PSO,William S. Hart HS,80.151,24.45,15.3,24.7,15.7
+2017,11,PSO,William S. Hart HS,83.613,24.188,16.575,26.3,16.55

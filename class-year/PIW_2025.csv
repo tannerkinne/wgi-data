@@ -10,9 +10,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,10,PIW,Broken City,94.8,28.8,19.1,27.9,19.0
 2025,11,PIW,Broken City,95.175,28.425,18.8,28.9,19.05
 2025,12,PIW,Broken City,97.95,29.475,19.6,29.3,19.575
+2025,5,PIW,Cap City,83.55,25.65,17.2,23.9,16.8
 2025,6,PIW,Cap City,85.85,25.65,17.8,25.4,17.0
 2025,12,PIW,Cap City,92.114,28.237,18.25,27.1,18.525
+2025,2,PIW,ConneXus,76.55,23.55,15.1,22.4,15.5
+2025,5,PIW,ConneXus,80.05,24.75,16.7,21.9,16.7
 2025,6,PIW,ConneXus,81.45,23.25,17.1,25.5,15.6
+2025,7,PIW,ConneXus,85.8,25.8,16.6,27.1,16.3
+2025,10,PIW,ConneXus,87.55,25.65,18.3,25.6,18.0
 2025,12,PIW,ConneXus,84.913,26.288,17.05,24.75,16.825
 2025,2,PIW,Dark Sky,78.85,24.15,16.4,23.2,15.1
 2025,6,PIW,Dark Sky,84.0,25.5,17.1,24.8,16.6
@@ -35,7 +40,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2025,9,PIW,Instinct,79.55,24.15,15.9,23.75,15.75
 2025,10,PIW,Instinct,79.751,24.15,16.4,23.2,16.0
 2025,11,PIW,Instinct,80.476,24.825,15.3,24.85,15.5
+2025,2,PIW,MBI Indoor Percussion,70.5,20.7,14.6,20.3,14.9
+2025,4,PIW,MBI Indoor Percussion,76.75,23.55,14.3,24.7,14.2
 2025,7,PIW,MBI Indoor Percussion,82.1,24.9,16.5,24.2,16.5
+2025,8,PIW,MBI Indoor Percussion,82.95,24.75,16.2,25.5,16.5
+2025,10,PIW,MBI Indoor Percussion,87.325,25.875,17.5,26.55,17.4
+2025,11,PIW,MBI Indoor Percussion,87.025,26.475,17.6,26.15,16.8
 2025,7,PIW,Matrix,88.35,26.85,18.1,25.3,18.1
 2025,12,PIW,Matrix,92.076,28.425,19.3,26.25,18.1
 2025,3,PIW,Meraki,82.55,25.05,16.3,24.7,16.5

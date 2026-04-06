@@ -1,4 +1,5 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2021,8,SRA,Acadiana H.S.,79.781,15.34,16.14,15.5,15.7
 2021,0,PIA,Alliance Indoor Percussion,67.3,21.6,12.8,19.4,13.5
 2021,1,PIA,Alliance Indoor Percussion,72.05,21.75,13.6,22.6,14.1
 2021,2,PIA,Alliance Indoor Percussion,70.25,20.25,14.5,21.2,14.3
@@ -6,6 +7,11 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PIA,Alliance Indoor Percussion,71.45,21.45,14.5,20.4,15.1
 2021,5,PIA,Alliance Indoor Percussion,75.45,22.35,15.1,22.3,15.7
 2021,6,PIA,Alliance Indoor Percussion,76.15,22.95,15.8,22.2,15.2
+2021,8,PSA,Alta High School,77.251,22.7,22.95,16.4,15.2
+2021,4,C,Arnett M.S.,61.98,12.61,12.87,12.4,11.6
+2021,8,C,Arnett M.S.,74.95,14.74,15.41,14.2,15.5
+2021,5,IA,Atlas Winter Guard,78.42,16.21,15.81,15.4,15.6
+2021,8,IA,Atlas Winter Guard,84.39,15.76,18.33,17.8,16.6
 2021,0,PSW,Avon High School,79.4,24.9,16.5,21.7,16.3
 2021,2,PSW,Avon High School,84.1,25.5,17.2,25.1,16.3
 2021,3,PSW,Avon High School,87.5,25.8,17.8,26.6,17.3
@@ -25,6 +31,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PSA,Benton Indoor Percussion,75.9,23.4,14.3,23.3,14.9
 2021,9,PSA,Benton Indoor Percussion,83.8,26.4,16.0,25.3,16.1
 2021,4,GSRA,Bentonville West Winter Guard,73.47,13.22,15.35,15.7,14.4
+2021,8,N,Biloxi H.S.,76.22,15.81,15.21,14.0,14.6
+2021,8,C,Biloxi J.H.S.,73.091,15.01,14.28,13.5,14.8
+2021,8,PSO,Bingham High School,81.6,23.9,24.3,16.7,16.7
 2021,0,PSB,Bishop Dwenger Winter Percussion,66.4,19.2,14.8,19.7,12.7
 2021,1,PSB,Bishop Dwenger Winter Percussion,69.7,21.0,14.0,20.4,14.3
 2021,2,PSB,Bishop Dwenger Winter Percussion,73.6,22.2,14.5,22.1,14.8
@@ -33,6 +42,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,PSO,Brownsburg Percussion,84.0,23.4,17.1,26.7,16.8
 2021,5,PSO,Brownsburg Percussion,87.95,26.85,17.7,25.6,17.8
 2021,6,PSO,Brownsburg Percussion,86.45,26.25,16.9,25.8,17.5
+2021,8,N,Brusly H.S.,73.441,15.14,15.2,13.5,14.5
 2021,2,GSRA,Bryant High School Winter Guard,62.8,12.61,15.39,12.0,12.2
 2021,3,GSRA,Bryant High School Winter Guard,71.59,14.88,16.21,12.7,13.5
 2021,8,GSRA,Bryant High School Winter Guard,70.19,13.74,12.35,13.7,15.0
@@ -44,14 +54,30 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,GSRA,Cabot High School Winter Guard,78.89,16.61,16.68,15.4,14.8
 2021,4,GSRA,Cabot High School Winter Guard,82.05,15.21,17.94,16.1,16.7
 2021,9,GSRA,Cabot High School Winter Guard,86.56,15.02,18.54,17.6,18.3
+2021,4,SRA,Caldwell Parish H.S.,62.19,12.41,12.48,11.9,11.8
+2021,5,SRA,Caldwell Parish H.S.,59.99,12.21,12.28,12.6,11.8
+2021,4,SRA,Carencro H.S.,66.061,12.68,13.68,12.2,12.6
+2021,5,SRA,Carencro H.S.,64.42,13.21,12.81,12.5,11.5
 2021,0,PSW,Center Grove High School,75.45,24.15,15.3,20.6,15.4
 2021,1,PSW,Center Grove High School,80.4,24.6,15.8,24.0,16.0
 2021,3,PSW,Center Grove High School,79.6,23.7,16.3,24.4,15.2
 2021,4,PSW,Center Grove High School,85.75,26.1,17.1,25.7,16.85
 2021,5,PSW,Center Grove High School,86.25,26.85,17.3,25.3,16.8
 2021,6,PSW,Center Grove High School,87.15,26.85,17.3,25.8,17.2
+2021,4,N,Central H.S.,65.54,13.54,12.8,12.7,13.2
+2021,8,N,Central H.S.,74.311,14.54,14.87,14.6,14.7
+2021,4,N,Central Lafourche H.S.JV,71.78,13.87,13.81,15.0,14.9
+2021,5,N,Central Lafourche H.S.JV,82.18,16.74,16.54,16.7,16.1
+2021,8,N,Central Lafourche H.S.JV,82.05,15.41,17.34,15.6,16.7
+2021,4,SA,Central Lafourche H.S.Varsity,68.32,12.55,13.27,13.8,14.2
+2021,5,SA,Central Lafourche H.S.Varsity,70.86,13.68,14.28,13.8,14.7
+2021,8,SA,Central Lafourche H.S.Varsity,74.68,14.15,15.33,14.3,15.2
+2021,8,PSA,Copper Hills High School,82.1,24.8,24.0,15.9,17.4
 2021,3,PSA,Corydon Central Winter Percussion,70.4,20.1,13.6,22.4,14.3
 2021,4,PSA,Corydon Central Winter Percussion,71.5,21.6,14.0,21.8,14.1
+2021,8,PSA,D'Iberville H.S.,79.75,25.3,24.75,14.8,14.9
+2021,4,SA,D'Iberville H.S. Varsity,72.42,14.54,15.28,13.7,14.3
+2021,5,SA,D'Iberville H.S. Varsity,76.95,15.54,15.21,15.6,15.4
 2021,1,PSA,DeKalb Winter Percussion,71.5,22.2,13.9,22.3,13.1
 2021,3,PSA,DeKalb Winter Percussion,79.65,23.55,15.7,24.4,16.0
 2021,4,PSA,DeKalb Winter Percussion,79.325,24.075,15.0,25.1,15.15
@@ -61,11 +87,31 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,PSO,Decatur Central Winter Percussion Ensemble,83.65,24.75,16.4,26.8,15.7
 2021,5,PSO,Decatur Central Winter Percussion Ensemble,85.5,25.8,17.2,25.3,17.2
 2021,6,PSO,Decatur Central Winter Percussion Ensemble,81.351,24.0,15.6,25.15,16.6
+2021,4,SRA,Denham Springs H.S.Varsity,80.41,15.74,15.47,16.1,16.3
+2021,5,SRA,Denham Springs H.S.Varsity,81.83,16.02,15.61,17.3,16.3
+2021,8,SRA,Denham Springs H.S.Varsity,86.17,16.07,19.0,17.1,16.8
+2021,4,SRA,Destrehan H.S.,68.651,13.08,13.87,13.6,13.0
+2021,5,SRA,Destrehan H.S.,77.57,16.4,16.07,12.7,16.2
+2021,8,SRA,Destrehan H.S.,78.981,14.47,17.61,14.7,15.2
+2021,8,PSA,Destrehan High School,76.05,24.2,23.25,14.1,14.5
+2021,8,PSA,Destrehan Indoor Percussion,76.05,24.2,23.25,14.1,14.5
+2021,4,N,Dutchtown H.S. JV,57.0,12.47,10.73,11.3,10.7
+2021,5,N,Dutchtown H.S. JV,73.44,15.46,14.68,13.4,15.4
+2021,4,SRA,Dutchtown H.S. Varsity,72.671,14.13,14.54,12.9,15.5
+2021,5,SRA,Dutchtown H.S. Varsity,75.551,15.14,14.61,13.3,16.1
+2021,4,SA,E.D.White H.S.,78.65,15.94,16.21,14.5,15.7
+2021,5,SA,E.D.White H.S.,80.34,16.67,16.67,15.2,15.8
+2021,8,SA,E.D.White H.S.,84.94,16.14,17.4,15.9,17.4
+2021,4,SRA,East Ascension H.S.,73.9,14.94,15.46,13.7,13.9
+2021,5,SRA,East Ascension H.S.,78.04,14.81,16.53,15.5,16.0
+2021,8,SRA,East Ascension H.S.,78.371,13.48,17.39,15.6,15.8
 2021,0,PSB,East Noble High School Indoor Percussion Ensemble,62.55,17.55,13.6,19.4,12.0
 2021,1,PSB,East Noble High School Indoor Percussion Ensemble,61.35,17.55,12.7,18.5,12.6
 2021,3,PSB,East Noble High School Indoor Percussion Ensemble,66.95,21.15,13.1,20.0,12.7
 2021,4,PSB,East Noble High School Indoor Percussion Ensemble,70.025,20.625,14.1,22.5,12.8
 2021,5,PSB,East Noble High School Indoor Percussion Ensemble,67.45,19.05,13.0,22.3,13.1
+2021,4,SRA,East Webster H.S.,64.09,13.54,12.75,11.3,12.0
+2021,8,PSA,East Webster H.S.,73.251,23.3,22.05,13.7,14.2
 2021,0,PSB,Eastside Indoor,61.251,18.45,13.1,19.1,10.6
 2021,1,PSB,Eastside Indoor,64.95,19.95,12.1,19.5,13.4
 2021,3,PSB,Eastside Indoor,68.0,20.1,12.8,22.0,13.1
@@ -74,6 +120,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PSA,Edgewood High School,81.176,24.825,16.8,23.6,15.95
 2021,5,PSA,Edgewood High School,86.175,27.675,17.0,24.3,17.2
 2021,6,PSA,Edgewood High School,87.4,27.3,18.1,25.0,17.0
+2021,8,PSO,Farmington High School,83.15,24.2,24.75,17.3,16.9
 2021,2,PSW,Fishers Indoor Drumline,81.15,24.75,16.4,24.4,15.6
 2021,4,PSW,Fishers Indoor Drumline,89.9,27.6,17.6,27.2,17.5
 2021,5,PSW,Fishers Indoor Drumline,87.85,26.55,17.7,25.9,17.7
@@ -93,6 +140,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PSA,Franklin Community High School Indoor Percussion,84.275,25.425,17.6,24.4,16.85
 2021,5,PSA,Franklin Community High School Indoor Percussion,86.775,26.025,17.9,25.2,17.65
 2021,6,PSA,Franklin Community High School Indoor Percussion,89.5,28.05,18.5,24.65,18.3
+2021,8,PSA,Fremont High School,72.7,22.0,21.0,14.3,15.4
+2021,8,PIO,Gold Spike Percussion,86.95,25.2,26.25,17.7,17.8
 2021,3,PSA,Goshen High School,83.35,24.45,16.7,25.6,16.6
 2021,4,PSA,Goshen High School,83.651,25.8,16.2,25.15,16.5
 2021,5,PSO,Goshen High School,81.901,24.9,16.1,24.5,16.4
@@ -108,12 +157,26 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PSA,Greenwood Indoor Percussion,79.601,23.7,18.3,21.2,16.4
 2021,5,PSA,Greenwood Indoor Percussion,86.051,26.85,18.1,24.0,17.1
 2021,6,PSA,Greenwood Indoor Percussion,84.951,26.25,17.4,24.15,17.15
+2021,4,C,Gulfport Cadet,62.32,11.21,12.41,15.0,12.1
+2021,5,C,Gulfport Cadet,63.05,11.01,11.74,13.8,13.1
+2021,4,SA,Gulfport H.S. Varsity,69.66,13.81,14.75,13.0,14.1
+2021,5,SA,Gulfport H.S. Varsity,71.28,13.61,14.87,14.4,14.2
+2021,8,PSA,Gulfport Percussion,87.35,25.9,26.85,17.6,17.0
 2021,2,GSRA,Gurdon High School Winter Guard,62.55,12.07,15.48,11.6,12.6
 2021,3,GSRA,Gurdon High School Winter Guard,70.29,14.61,14.48,13.4,12.9
+2021,4,SA,H.L. Bourgeois H.S. Varsity,69.1,14.0,14.2,13.3,14.8
+2021,5,SA,H.L. Bourgeois H.S. Varsity,73.45,15.21,14.94,13.7,14.8
+2021,8,SA,H.L. Bourgeois H.S. Varsity,76.98,14.34,15.74,14.9,16.1
+2021,8,SRA,Hahnville H.S.,77.03,14.14,16.39,15.2,15.4
 2021,1,PSA,Hamilton Southeastern High School,75.3,22.5,15.8,22.8,14.2
 2021,4,PSA,Hamilton Southeastern High School,79.351,25.05,16.3,22.3,15.7
 2021,5,PSA,Hamilton Southeastern High School,86.076,26.175,16.5,25.5,17.9
 2021,6,PSA,Hamilton Southeastern High School,87.275,26.025,17.25,25.6,18.4
+2021,8,PSN,Hancock Indoor Percussion,81.25,23.4,22.95,18.3,16.6
+2021,4,N,Harrison Central H.S. JV,70.97,14.61,14.76,16.2,13.1
+2021,5,N,Harrison Central H.S. JV,75.45,14.54,15.81,15.7,15.6
+2021,4,SA,Harrison Central H.S. Varsity,74.96,14.81,14.55,15.2,15.2
+2021,5,SA,Harrison Central H.S. Varsity,79.79,15.55,15.74,16.8,16.0
 2021,3,GSRA,Hollister High School Winter Guard,80.95,16.81,16.74,16.0,15.9
 2021,4,GSRA,Hollister High School Winter Guard,80.49,15.48,17.61,15.4,16.2
 2021,9,GSRA,Hollister High School Winter Guard,88.71,17.34,18.87,17.5,18.0
@@ -121,11 +184,24 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,PSO,Homestead Indoor Percussion,80.2,23.7,16.5,24.6,15.4
 2021,5,PSO,Homestead Indoor Percussion,84.4,24.6,17.9,24.6,17.3
 2021,6,PSO,Homestead Indoor Percussion,85.751,25.95,16.8,25.1,17.9
+2021,8,PIA,Horizon Percussion,83.0,23.9,24.9,17.5,16.7
+2021,4,E,Houma Christian Elementary,56.99,12.54,11.55,11.6,10.8
+2021,5,E,Houma Christian Elementary,71.63,13.42,15.21,14.3,14.4
+2021,8,E,Houma Christian Elementary,72.99,14.68,13.5,15.4,15.6
+2021,4,N,Houma Christian Varsity,66.99,13.34,12.95,14.0,13.0
+2021,5,N,Houma Christian Varsity,77.24,16.93,15.61,14.6,15.0
+2021,8,N,Houma Christian Varsity,78.71,16.54,16.07,15.2,15.2
+2021,4,C,Houma J.H.S.,61.85,12.94,12.01,12.3,12.4
+2021,8,C,Houma J.H.S.,77.75,15.94,16.01,14.2,15.7
+2021,4,N,Houma. LA,66.99,13.34,12.95,14.0,13.0
+2021,5,N,Houma. LA,77.24,16.93,15.61,14.6,15.0
+2021,8,N,Houma. LA,78.71,16.54,16.07,15.2,15.2
 2021,0,PIA,IGNITE Winter Percussion,62.55,18.45,12.6,18.7,12.8
 2021,3,PIA,IGNITE Winter Percussion,70.55,20.55,14.3,21.6,14.1
 2021,4,PIA,IGNITE Winter Percussion,72.6,21.9,15.4,20.8,14.5
 2021,5,PIA,IGNITE Winter Percussion,73.85,23.25,16.0,19.8,14.8
 2021,6,PIA,IGNITE Winter Percussion,73.75,22.05,14.9,21.2,15.6
+2021,4,IRA,Jay Independent,71.53,14.28,14.15,13.7,14.7
 2021,4,GSRA,Joplin High School Winter Guard,76.01,15.94,17.07,13.3,15.0
 2021,4,PSB,Joplin Indoor Percussion,67.15,19.95,13.3,19.8,14.1
 2021,0,PSB,Knox Percussion Ensemble,70.75,19.95,14.5,22.9,13.4
@@ -133,6 +209,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,PSA,Knox Percussion Ensemble,74.2,21.6,13.7,23.2,15.7
 2021,5,PSA,Knox Percussion Ensemble,81.65,26.25,16.2,24.4,14.8
 2021,6,PSA,Knox Percussion Ensemble,79.2,24.15,16.1,23.55,15.4
+2021,8,SRA,Lafayette H.S. JV,79.431,13.94,17.59,16.7,15.9
+2021,4,SA,Lafayette H.S. Varsity,75.28,14.87,14.21,14.8,15.3
+2021,8,SA,Lafayette H.S. Varsity,80.69,15.21,17.08,15.4,16.3
+2021,4,IW,Lake Area Independent,69.2,13.7,13.2,14.6,14.0
+2021,5,IW,Lake Area Independent,64.5,13.0,13.9,12.4,12.7
+2021,8,IW,Lake Area Independent,68.5,14.7,14.2,12.1,13.3
+2021,4,SRA,Lake Arthur H.S.,76.71,16.27,15.94,14.6,14.5
+2021,5,SRA,Lake Arthur H.S.,75.711,15.8,13.21,15.3,15.9
+2021,8,SRA,Lake Arthur H.S.,73.87,14.81,15.76,14.1,14.6
 2021,1,PSA,Lake Central High School,67.75,20.85,13.7,20.5,12.7
 2021,3,PSA,Lake Central High School,72.05,21.45,13.9,22.3,14.4
 2021,5,PSA,Lake Central High School,74.45,23.85,14.8,22.0,13.8
@@ -149,6 +234,14 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,2,GSA,Lake Hamilton Varsity Winter Guard,70.74,16.87,12.1,13.7,13.8
 2021,3,GSA,Lake Hamilton Varsity Winter Guard,72.95,16.41,16.14,14.6,11.8
 2021,9,GSA,Lake Hamilton Varsity Winter Guard,89.17,18.14,18.08,17.6,18.4
+2021,4,SRA,Lakeshore H.S.,61.58,12.0,12.28,11.5,11.9
+2021,5,SRA,Lakeshore H.S.,58.95,10.14,11.81,12.6,12.2
+2021,8,PSO,Lehi High School,79.65,23.1,23.85,16.3,16.4
+2021,8,C,Live Oak J.H.S.,79.14,15.74,17.0,14.7,15.9
+2021,8,PSO,Lone Peak High School,87.35,26.0,25.65,17.6,18.1
+2021,4,IA,Louisiana St. University,70.84,14.94,15.4,12.8,13.4
+2021,5,IA,Louisiana St. University,69.92,14.94,13.68,12.7,14.3
+2021,8,IA,Louisiana St. University,77.63,15.35,16.88,15.2,15.0
 2021,3,GSRA,Malvern Indoor Guard,68.421,14.28,14.94,12.9,13.6
 2021,8,GSRA,Malvern Indoor Guard,62.56,11.88,9.08,13.4,14.1
 2021,9,GSRA,Malvern Indoor Guard,67.59,13.28,15.81,14.4,11.8
@@ -179,23 +272,30 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PSA,Noblesville Indoor Percussion Ensemble,84.85,24.9,17.55,25.3,17.1
 2021,5,PSA,Noblesville Indoor Percussion Ensemble,84.501,27.6,17.5,22.6,16.8
 2021,6,PSA,Noblesville Indoor Percussion Ensemble,88.65,27.6,18.65,24.7,17.7
+2021,8,PIA,North Star Independent,76.75,21.6,22.95,16.3,15.9
 2021,1,PSB,Northeastern Indoor Percussion,64.501,20.1,12.6,19.0,12.8
 2021,2,PSB,Northeastern Indoor Percussion,68.875,20.475,13.1,22.0,13.3
 2021,3,PSB,Northeastern Indoor Percussion,67.851,19.65,14.0,20.8,13.4
 2021,4,PSB,Northeastern Indoor Percussion,72.15,22.95,13.3,21.8,14.1
 2021,5,PSB,Northeastern Indoor Percussion,71.15,20.25,13.6,23.4,13.9
+2021,5,SRA,Northshore H.S.,62.97,11.89,13.48,12.0,12.1
+2021,8,SRA,Northshore H.S.,70.39,12.61,14.88,14.3,14.2
 2021,1,PSA,Northview Indoor Percussion,72.0,21.6,14.2,21.2,15.0
 2021,2,PSA,Northview Indoor Percussion,72.25,21.45,14.5,21.2,15.1
 2021,3,PSA,Northview Indoor Percussion,80.4,23.1,17.2,22.8,17.3
 2021,4,PSA,Northview Indoor Percussion,83.675,23.625,18.8,23.05,18.2
 2021,5,PSA,Northview Indoor Percussion,85.701,26.4,18.5,22.8,18.0
 2021,6,PSA,Northview Indoor Percussion,84.576,25.725,17.1,23.95,17.8
+2021,4,IW,Northwestern St. University,69.6,14.2,12.7,14.5,13.7
+2021,5,IW,Northwestern St. University,63.8,13.3,12.4,11.9,13.1
+2021,8,IW,Northwestern St. University,66.6,13.5,14.3,12.3,12.8
 2021,0,PSA,Norwell Winter Percussion,69.65,21.45,14.3,20.9,13.0
 2021,1,PSA,Norwell Winter Percussion,70.901,21.6,13.9,21.5,13.9
 2021,3,PSA,Norwell Winter Percussion,70.05,20.25,14.3,20.6,14.9
 2021,4,PSA,Norwell Winter Percussion,71.4,21.15,14.5,20.7,15.05
 2021,5,PSA,Norwell Winter Percussion,76.675,25.275,14.9,21.2,15.3
 2021,6,PSA,Norwell Winter Percussion,75.7,22.2,15.0,22.6,15.9
+2021,8,PSA,Ogden High School,76.75,23.8,23.55,13.6,15.8
 2021,2,PSN,Paragould Indoor Percussion,62.8,19.2,12.3,19.0,12.3
 2021,3,PSN,Paragould Indoor Percussion,71.3,21.9,15.2,19.1,15.1
 2021,9,PSB,Paragould Indoor Percussion,82.8,25.5,15.6,26.1,15.6
@@ -212,6 +312,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,2,PSO,Plainfield High School Winter Percussion Ensemble,78.8,23.7,15.7,23.5,15.9
 2021,5,PSO,Plainfield High School Winter Percussion Ensemble,87.775,27.375,18.1,25.05,17.25
 2021,6,PSO,Plainfield High School Winter Percussion Ensemble,87.75,26.85,17.2,26.1,17.6
+2021,8,PSA,Pleasant Grove High School,81.0,24.6,24.0,16.2,16.2
+2021,8,PSA,Provo High School,79.2,24.2,23.1,15.1,16.8
 2021,1,PSB,Scottsburg High School Winter Percussion,64.95,19.05,13.4,18.7,13.8
 2021,2,PSB,Scottsburg High School Winter Percussion,68.55,20.1,13.8,21.25,13.4
 2021,3,PSB,Scottsburg High School Winter Percussion,67.351,19.05,13.4,22.0,12.9
@@ -221,15 +323,22 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,9,PSA,Siloam Springs Indoor Percussion,83.95,26.25,16.8,25.0,15.9
 2021,4,GSA,Siloam Springs Paragon Winter Guard,77.25,14.34,16.41,15.6,15.2
 2021,9,GSA,Siloam Springs Paragon Winter Guard,88.41,17.34,18.0,18.1,16.7
+2021,8,SRA,Slidell H.S.,70.62,12.94,15.28,14.6,14.0
 2021,0,PSA,Southport Indoor Percussion Ensemble,72.15,23.7,13.6,21.65,13.2
 2021,1,PSA,Southport Indoor Percussion Ensemble,74.1,23.1,14.2,23.1,13.7
 2021,3,PSA,Southport Indoor Percussion Ensemble,74.451,21.15,14.8,22.1,16.4
 2021,5,PSA,Southport Indoor Percussion Ensemble,78.9,25.8,15.4,22.2,15.5
 2021,6,PSA,Southport Indoor Percussion Ensemble,82.051,25.2,17.3,23.15,16.4
+2021,8,PSA,Spanish Fork High School,80.95,24.4,23.85,16.8,15.9
 2021,0,PSB,Springs Valley Percussion Ensemble,66.85,21.15,13.0,19.8,12.9
 2021,1,PSB,Springs Valley Percussion Ensemble,65.45,19.95,13.3,19.9,12.3
 2021,4,PSB,Springs Valley Percussion Ensemble,74.9,24.3,15.0,22.0,13.6
 2021,5,PSB,Springs Valley Percussion Ensemble,72.501,21.3,13.9,22.7,14.6
+2021,8,SRA,Sterlington H.S.,79.841,15.01,17.13,15.7,16.2
+2021,8,C,Sterlington M.S.,83.05,16.67,17.58,15.8,16.5
+2021,5,IRA,Summit Independent,64.48,12.74,13.34,12.4,12.7
+2021,8,IRA,Summit Independent,71.86,12.95,16.21,14.6,14.2
+2021,8,IRA,TCA Independent,76.37,15.21,15.66,14.8,15.0
 2021,0,PSB,Terre Haute North Winter Percussion,59.651,18.45,11.4,18.4,11.4
 2021,2,PSB,Terre Haute North Winter Percussion,61.701,18.9,12.5,18.5,11.8
 2021,3,PSB,Terre Haute North Winter Percussion,63.45,19.35,12.7,18.4,13.0
@@ -239,6 +348,24 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,3,PSB,Terre Haute South Indoor Percussion,71.2,20.7,14.4,21.7,14.4
 2021,4,PSB,Terre Haute South Indoor Percussion,77.7,25.2,13.6,24.8,14.1
 2021,5,PSB,Terre Haute South Indoor Percussion,75.05,22.05,14.0,24.8,14.2
+2021,8,PSN,Terrebonne H.S.,71.0,23.0,21.9,12.0,14.1
+2021,4,SRA,Terrebonne H.S. JV,70.951,14.47,13.88,13.5,13.4
+2021,5,SRA,Terrebonne H.S. JV,72.241,15.13,13.81,14.4,14.2
+2021,8,SRA,Terrebonne H.S. JV,77.91,16.34,15.47,15.0,14.4
+2021,4,SA,Terrebonne H.S. Varsity,67.531,13.39,12.94,13.4,13.5
+2021,5,SA,Terrebonne H.S. Varsity,70.28,14.47,14.01,13.3,14.2
+2021,8,SA,Terrebonne H.S. Varsity,74.641,13.93,16.21,14.1,15.0
+2021,4,SRA,Tioga H.S.,69.371,14.67,15.0,12.4,12.3
+2021,5,SRA,Tioga H.S.,76.011,14.8,15.21,14.2,15.3
+2021,8,SRA,Tioga H.S.,77.67,15.54,15.03,16.1,15.0
+2021,4,IA,University of Louisiana,77.78,15.81,15.67,15.0,15.2
+2021,5,IA,University of Louisiana,77.19,15.81,14.28,15.7,15.7
+2021,8,IA,University of Louisiana,83.06,16.53,17.13,16.0,16.8
+2021,5,SRA,Vancleave H.S. Winterguard,64.89,11.01,13.08,13.5,13.8
+2021,8,SRA,Vancleave H.S. Winterguard,71.66,13.67,15.19,13.9,13.8
+2021,8,PSA,Vandebilt Catholic H.S.,86.4,26.2,27.0,16.3,16.9
+2021,5,SRA,Vernon Parish H.S.,80.75,15.61,14.94,15.9,17.2
+2021,8,SRA,Vernon Parish H.S.,85.67,15.74,18.53,16.8,16.7
 2021,0,PSA,Vincennes Indoor Percussion,74.25,23.25,14.0,23.1,13.9
 2021,1,PSA,Vincennes Indoor Percussion,77.05,23.55,14.6,23.9,15.0
 2021,2,PSA,Vincennes Indoor Percussion,76.2,22.2,15.4,22.6,16.0
@@ -248,14 +375,28 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,2,PSB,Warren Central High School,73.4,21.9,14.1,23.1,14.3
 2021,3,PSB,Warren Central High School,73.2,22.2,13.7,22.6,14.7
 2021,5,PSB,Warren Central High School,80.225,22.425,14.7,27.3,15.8
+2021,8,PSA,Wasatch High School,82.425,23.7,24.825,17.6,16.3
 2021,2,PSB,Washington Indoor Percussion,64.301,19.5,14.4,17.6,12.8
 2021,3,PSB,Washington Indoor Percussion,73.75,22.95,14.8,20.9,15.1
 2021,5,PSB,Washington Indoor Percussion,79.1,22.8,15.0,26.1,15.2
+2021,4,N,West Harrison H.S. Cadets,69.75,14.07,13.88,16.1,13.0
+2021,5,N,West Harrison H.S. Cadets,74.64,14.27,15.07,14.8,16.0
+2021,8,N,West Harrison H.S. Cadets,74.69,16.0,15.19,13.9,14.1
+2021,4,SA,West Harrison H.S. Varsity,75.92,15.54,15.08,14.1,15.4
+2021,5,SA,West Harrison H.S. Varsity,80.51,15.74,16.27,16.0,16.4
+2021,8,SA,West Harrison H.S. Varsity,83.62,15.8,17.72,16.1,16.9
+2021,8,PSA,West Jordan HS,81.55,24.1,24.6,17.05,15.8
+2021,4,SA,West Monroe H.S. Varsity,74.12,14.88,14.74,14.4,14.7
+2021,8,SA,West Monroe H.S. Varsity,72.381,13.34,15.14,13.7,14.8
+2021,8,SRA,West Ouachita H.S.,80.44,15.0,17.14,15.3,16.4
 2021,1,PSB,Westfield Indoor Percussion,72.15,22.35,14.5,20.8,14.5
 2021,3,PSB,Westfield Indoor Percussion,76.2,23.7,13.8,22.7,16.0
 2021,4,PSA,Westfield Indoor Percussion,77.75,23.1,15.1,23.7,15.85
 2021,5,PSA,Westfield Indoor Percussion,81.375,26.625,15.3,22.3,17.15
 2021,6,PSA,Westfield Indoor Percussion,81.9,24.6,16.65,24.05,16.6
+2021,4,SRA,Westlake H.S.,79.67,15.54,15.93,15.9,15.8
+2021,5,SRA,Westlake H.S.,85.37,16.73,16.34,17.9,16.9
+2021,8,SRA,Westlake H.S.,89.13,16.74,18.99,18.0,16.9
 2021,0,PSB,Woodlan Indoor Percussion,65.1,18.9,13.5,20.2,12.5
 2021,1,PSB,Woodlan Indoor Percussion,65.15,19.05,13.5,19.3,13.3
 2021,3,PSB,Woodlan Indoor Percussion,72.2,22.5,14.5,21.2,14.0
@@ -274,3 +415,4 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2021,4,PIA,,72.6,21.9,15.4,20.8,14.5
 2021,5,PIA,,75.45,22.35,15.1,22.3,15.7
 2021,6,PIA,,76.15,22.95,15.8,22.2,15.2
+2021,8,PIA,,83.0,23.9,24.9,17.5,16.7

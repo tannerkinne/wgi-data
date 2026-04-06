@@ -1,37 +1,53 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2017,1,PIA,Aftermath,70.65,20.2,21.75,14.2,14.5
-2017,3,PIA,Aftermath,76.2,22.9,24.3,14.0,15.0
-2017,5,PIA,Aftermath,83.1,24.6,24.9,16.8,16.8
-2017,7,PIA,Aftermath,84.4,25.2,24.9,17.4,16.9
-2017,8,PIA,Aftermath,86.8,25.4,25.5,17.7,18.2
-2017,3,PIA,Cornell Indoor Drumline,65.75,20.3,21.45,12.2,11.8
-2017,5,PIA,Cornell Indoor Drumline,70.9,21.0,22.2,13.4,14.3
-2017,7,PIA,Cornell Indoor Drumline,78.5,24.6,24.3,14.2,15.4
-2017,0,PIA,Cornerstone Percussion,67.25,21.15,12.7,20.2,13.2
-2017,4,PIA,Cornerstone Percussion,75.375,22.425,14.95,22.6,15.4
-2017,8,PIA,Cornerstone Percussion,80.75,25.65,15.4,23.1,16.6
-2017,9,PIA,Cornerstone Percussion,77.75,22.95,15.5,23.4,15.9
-2017,0,PIA,Dundee Indoor Percussion,62.95,19.5,19.65,11.9,11.9
-2017,2,PIA,Dundee Indoor Percussion,65.9,22.4,18.0,12.4,13.1
-2017,5,PIA,Dundee Indoor Percussion,76.35,22.5,23.55,14.4,15.9
-2017,6,PIA,Dundee Indoor Percussion,78.1,24.6,22.8,15.2,15.5
-2017,7,PIA,Dundee Indoor Percussion,86.55,27.3,26.25,16.5,16.5
-2017,-1,PIA,Midlakes Independent,59.7,18.8,17.4,12.2,11.3
-2017,0,PIA,Midlakes Independent,64.0,20.3,18.9,12.4,12.4
-2017,2,PIA,Midlakes Independent,69.05,22.8,18.75,14.0,13.5
-2017,4,PIA,Midlakes Independent,76.45,23.4,22.65,15.1,15.3
-2017,5,PIA,Midlakes Independent,75.75,22.2,23.25,14.9,15.4
-2017,6,PIA,Midlakes Independent,78.75,24.3,22.65,16.1,15.7
-2017,7,PIA,Midlakes Independent,85.9,26.8,25.5,16.8,16.8
-2017,3,PIA,Pace Percussion Ensemble,71.95,21.15,14.4,21.4,15.0
-2017,4,PIA,Pace Percussion Ensemble,70.75,20.7,13.45,22.1,14.5
-2017,8,PIA,Pace Percussion Ensemble,77.45,24.75,15.5,22.4,14.8
-2017,3,PIA,Pasadena City College,68.5,20.4,14.1,19.6,14.4
-2017,8,PIA,Pasadena City College,83.0,25.2,17.1,24.7,16.0
-2017,9,PIA,Pasadena City College,83.7,24.6,17.2,25.25,16.65
-2017,8,PIA,Pinnacle Percussion,79.5,23.1,16.4,24.4,15.6
-2017,9,PIA,Pinnacle Percussion,81.75,24.6,16.45,24.5,16.2
-2017,-1,PIA,Rome Free Academy,50.55,15.5,15.15,10.2,9.7
-2017,2,PIA,Rome Free Academy,52.95,16.0,16.35,10.0,10.6
-2017,6,PIA,Rome Free Academy,62.35,18.9,19.35,11.3,12.8
-2017,7,PIA,Rome Free Academy,70.0,22.5,21.0,12.6,13.9
+2017,3,PIA,Aftermath,70.65,20.2,21.75,14.2,14.5
+2017,5,PIA,Aftermath,76.2,22.9,24.3,14.0,15.0
+2017,7,PIA,Aftermath,83.1,24.6,24.9,16.8,16.8
+2017,9,PIA,Aftermath,84.4,25.2,24.9,17.4,16.9
+2017,10,PIA,Aftermath,86.8,25.4,25.5,17.7,18.2
+2017,5,PIA,Cornell Indoor Drumline,65.75,20.3,21.45,12.2,11.8
+2017,7,PIA,Cornell Indoor Drumline,70.9,21.0,22.2,13.4,14.3
+2017,9,PIA,Cornell Indoor Drumline,78.5,24.6,24.3,14.2,15.4
+2017,2,PIA,Cornerstone Percussion,67.25,21.15,12.7,20.2,13.2
+2017,6,PIA,Cornerstone Percussion,75.375,22.425,14.95,22.6,15.4
+2017,10,PIA,Cornerstone Percussion,80.75,25.65,15.4,23.1,16.6
+2017,11,PIA,Cornerstone Percussion,77.75,22.95,15.5,23.4,15.9
+2017,2,PIA,Dundee Indoor Percussion,62.95,19.5,19.65,11.9,11.9
+2017,4,PIA,Dundee Indoor Percussion,65.9,22.4,18.0,12.4,13.1
+2017,7,PIA,Dundee Indoor Percussion,76.35,22.5,23.55,14.4,15.9
+2017,8,PIA,Dundee Indoor Percussion,78.1,24.6,22.8,15.2,15.5
+2017,9,PIA,Dundee Indoor Percussion,86.55,27.3,26.25,16.5,16.5
+2017,8,PIA,Elite Indoor Percussion,52.85,20.0,32.85,0.0,0.0
+2017,4,PIA,Groove Pursuit,75.25,23.4,22.35,14.1,15.4
+2017,9,PIA,Groove Pursuit,89.1,27.0,26.7,18.0,17.4
+2017,10,PIA,Groove Pursuit,86.725,26.7,25.875,17.4,16.75
+2017,1,PIA,Midlakes Independent,59.7,18.8,17.4,12.2,11.3
+2017,2,PIA,Midlakes Independent,64.0,20.3,18.9,12.4,12.4
+2017,4,PIA,Midlakes Independent,69.05,22.8,18.75,14.0,13.5
+2017,6,PIA,Midlakes Independent,76.45,23.4,22.65,15.1,15.3
+2017,7,PIA,Midlakes Independent,75.75,22.2,23.25,14.9,15.4
+2017,8,PIA,Midlakes Independent,78.75,24.3,22.65,16.1,15.7
+2017,9,PIA,Midlakes Independent,85.9,26.8,25.5,16.8,16.8
+2017,5,PIA,Pace Percussion Ensemble,71.95,21.15,14.4,21.4,15.0
+2017,6,PIA,Pace Percussion Ensemble,70.75,20.7,13.45,22.1,14.5
+2017,10,PIA,Pace Percussion Ensemble,77.45,24.75,15.5,22.4,14.8
+2017,5,PIA,Pasadena City College,68.5,20.4,14.1,19.6,14.4
+2017,10,PIA,Pasadena City College,83.0,25.2,17.1,24.7,16.0
+2017,11,PIA,Pasadena City College,83.7,24.6,17.2,25.25,16.65
+2017,1,PIA,Phoenix Drumline,71.4,21.7,22.2,13.4,14.1
+2017,2,PIA,Phoenix Drumline,67.75,22.0,19.65,13.7,12.4
+2017,4,PIA,Phoenix Drumline,70.85,22.2,22.05,13.1,13.5
+2017,9,PIA,Phoenix Drumline,77.7,22.8,23.7,16.1,15.1
+2017,10,PIA,Phoenix Drumline,77.7,23.2,23.55,15.45,15.5
+2017,10,PIA,Pinnacle Percussion,79.5,23.1,16.4,24.4,15.6
+2017,11,PIA,Pinnacle Percussion,81.75,24.6,16.45,24.5,16.2
+2017,6,PIA,Red River Rhythm,75.2,30.8,30.6,13.8,0.0
+2017,9,PIA,Red River Rhythm,82.05,25.2,25.05,16.4,15.4
+2017,1,PIA,Rochester Lourdes High School,72.5,23.7,21.3,13.0,14.5
+2017,4,PIA,Rochester Lourdes High School,76.65,23.7,22.05,14.3,16.6
+2017,7,PIA,Rochester Lourdes High School,80.15,24.2,24.45,16.4,15.1
+2017,8,PIA,Rochester Lourdes High School,81.75,24.4,24.75,15.3,17.3
+2017,10,PIA,Rochester Lourdes High School,84.7,25.575,25.575,17.2,16.35
+2017,1,PIA,Rome Free Academy,50.55,15.5,15.15,10.2,9.7
+2017,4,PIA,Rome Free Academy,52.95,16.0,16.35,10.0,10.6
+2017,8,PIA,Rome Free Academy,62.35,18.9,19.35,11.3,12.8
+2017,9,PIA,Rome Free Academy,70.0,22.5,21.0,12.6,13.9

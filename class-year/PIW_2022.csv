@@ -17,8 +17,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,6,PIW,Cap City Percussion,83.85,24.75,16.5,25.7,16.9
 2022,9,PIW,Cap City Percussion,90.35,27.15,18.4,26.9,17.9
 2022,13,PIW,Cap City Percussion,90.738,26.887,18.25,27.65,17.95
+2022,2,PIW,ConneXus,75.65,22.65,15.8,22.5,14.7
+2022,4,PIW,ConneXus,76.05,23.25,15.8,22.9,14.1
 2022,6,PIW,ConneXus,80.15,24.75,16.2,23.6,15.6
+2022,7,PIW,ConneXus,83.65,24.15,17.2,25.8,16.5
 2022,9,PIW,ConneXus,87.501,26.4,17.3,26.8,17.0
+2022,10,PIW,ConneXus,86.6,25.8,17.5,26.1,17.2
 2022,13,PIW,ConneXus,86.05,26.1,17.25,26.2,16.5
 2022,3,PIW,Dark Sky,80.75,24.45,17.1,23.7,15.5
 2022,6,PIW,Dark Sky,84.75,25.35,18.1,24.3,17.0
@@ -40,6 +44,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,8,PIW,MBI Indoor Percussion,84.75,25.95,16.6,25.9,16.3
 2022,9,PIW,Matrix,93.65,28.05,19.3,28.0,18.3
 2022,13,PIW,Matrix,93.214,28.312,19.7,26.575,18.625
+2022,2,PIW,Minnesota Brass Indoor Percussion,71.45,20.55,13.7,23.5,13.7
+2022,3,PIW,Minnesota Brass Indoor Percussion,68.5,19.8,13.5,21.2,14.0
+2022,5,PIW,Minnesota Brass Indoor Percussion,72.45,21.15,14.7,22.8,13.8
+2022,7,PIW,Minnesota Brass Indoor Percussion,82.9,24.0,16.8,25.2,16.9
+2022,10,PIW,Minnesota Brass Indoor Percussion,87.65,26.25,18.2,25.9,17.3
+2022,11,PIW,Minnesota Brass Indoor Percussion,88.25,27.3,17.8,25.9,17.25
 2022,6,PIW,Monarch Independent,81.55,23.85,16.3,24.7,16.7
 2022,13,PIW,Monarch Independent,92.751,27.525,18.325,28.45,18.45
 2022,6,PIW,Music City Mystique,87.45,25.35,18.1,26.2,17.8
@@ -77,6 +87,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,6,PIW,Rhythm X,89.6,26.1,18.5,26.7,18.3
 2022,9,PIW,Rhythm X,95.0,28.8,19.0,28.2,19.0
 2022,13,PIW,Rhythm X,98.075,29.625,19.9,29.125,19.425
+2022,2,PIW,Rhythm X (PIW),80.4,24.3,17.0,22.8,16.3
+2022,4,PIW,Rhythm X (PIW),82.4,24.9,17.6,24.6,15.3
+2022,5,PIW,Rhythm X (PIW),86.65,26.55,17.3,26.3,16.5
+2022,10,PIW,Rhythm X (PIW),94.2,28.5,18.8,28.1,18.8
 2022,8,PIW,Rhythmic Force Percussion,86.75,25.95,17.1,26.2,17.5
 2022,13,PIW,Rhythmic Force Percussion,87.888,26.288,17.9,26.3,17.4
 2022,7,PIW,Rise Percussion,79.55,24.15,15.2,24.9,15.3
@@ -95,4 +109,3 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2022,12,PIW,Vessel Indoor Percussion,84.701,25.8,17.0,25.1,16.8
 2022,8,PIW,Vigilantes Indoor Percussion,84.35,25.35,17.0,25.1,16.9
 2022,13,PIW,Vigilantes Indoor Percussion,89.325,27.0,17.8,27.1,17.425
-2022,1,PIW,,65.8,23.4,18.3,11.8,12.3

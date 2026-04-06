@@ -1,10 +1,33 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2015,2,PSO,Alta High School,70.6,28.4,29.0,13.2,0.0
+2015,6,PSO,Alta High School,74.6,25.6,32.9,16.1,-0.45
+2015,8,PSO,Alta High School,79.65,30.8,33.75,15.1,-0.2
+2015,11,PSO,Alta High School,81.8,32.8,32.7,16.3,0.0
 2015,2,PSO,Arcadia HS,80.65,31.8,32.05,16.8,-1.0
+2015,2,PSO,Bingham HS,73.3,27.8,31.7,13.8,0.0
+2015,3,PSO,Bingham HS,78.35,32.0,31.2,15.15,0.0
+2015,5,PSO,Bingham HS,81.3,32.8,33.0,15.5,0.0
+2015,6,PSO,Bingham HS,77.6,27.4,33.3,16.9,0.0
+2015,8,PSO,Bingham HS,81.4,31.8,33.6,16.0,0.0
+2015,11,PSO,Bingham HS,85.35,34.2,34.65,16.5,0.0
 2015,2,PSO,Buena HS,79.2,31.1,32.7,15.4,-1.45
 2015,6,PSO,Buena HS,83.951,34.0,33.85,16.1,0.0
 2015,1,PSO,Cypress HS,73.15,28.2,30.55,14.4,0.0
 2015,2,PSO,Cypress HS,79.55,33.0,30.45,16.1,0.0
 2015,5,PSO,Cypress HS,77.101,31.6,29.9,15.6,0.0
+2015,2,PSO,Davis HS,77.2,29.8,33.1,14.3,0.0
+2015,3,PSO,Davis HS,81.8,32.2,34.2,15.4,0.0
+2015,5,PSO,Davis HS,87.1,34.6,36.0,16.5,-0.4
+2015,8,PSO,Davis HS,86.8,34.2,35.2,17.4,0.0
+2015,11,PSO,Davis HS,91.85,36.0,37.05,18.8,0.0
+2015,1,PSO,E.D. White Catholic H.S.,76.25,30.2,32.95,13.1,0.0
+2015,4,PSO,E.D. White Catholic H.S.,82.9,33.4,33.5,16.0,-1.3
+2015,5,PSO,E.D. White Catholic H.S.,84.95,35.2,33.35,16.4,0.0
+2015,8,PSO,E.D. White Catholic H.S.,90.25,36.4,36.95,16.9,-0.8
+2015,2,PSO,Eagan High School,72.6,30.6,29.0,13.0,-1.5
+2015,4,PSO,Eagan High School,75.6,30.2,29.8,15.6,0.0
+2015,5,PSO,Eagan High School,79.0,31.0,31.5,16.5,0.0
+2015,6,PSO,Eagan High School,73.8,31.0,27.4,15.4,0.0
 2015,0,PSO,El Dorado HS,74.2,31.0,29.1,14.1,0.0
 2015,2,PSO,El Dorado HS,76.226,30.8,29.625,15.8,0.0
 2015,5,PSO,El Dorado HS,77.901,33.4,29.1,15.4,0.0
@@ -19,9 +42,18 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2015,2,PSO,Hatboro-Horsham,72.35,31.2,26.85,14.3,0.0
 2015,5,PSO,Hatboro-Horsham,85.05,33.4,33.35,18.3,0.0
 2015,5,PSO,Independence HS,79.851,32.2,30.95,16.7,-0.8
+2015,2,PSO,Irondale High School,78.35,31.6,33.25,13.5,-0.5
+2015,4,PSO,Irondale High School,74.1,28.8,28.6,16.7,0.0
+2015,5,PSO,Irondale High School,81.2,32.8,32.8,15.6,0.0
 2015,6,PSO,King HS (Riverside),77.8,32.8,29.4,15.6,0.0
 2015,2,PSO,Los Alamitos HS,81.95,32.0,33.35,16.6,0.0
 2015,6,PSO,Los Alamitos HS,86.9,36.2,33.9,16.8,0.0
+2015,2,PSO,Maple Mountain HS,68.1,25.6,29.9,12.6,0.0
+2015,3,PSO,Maple Mountain HS,71.75,27.6,29.5,14.65,0.0
+2015,5,PSO,Maple Mountain HS,69.9,25.4,30.2,14.3,0.0
+2015,6,PSO,Maple Mountain HS,70.1,25.2,29.5,15.4,-0.1
+2015,8,PSO,Maple Mountain HS,80.0,31.4,34.4,14.2,0.0
+2015,11,PSO,Maple Mountain HS,81.501,32.4,33.3,15.8,0.0
 2015,4,PSO,Mission Viejo HS,85.075,34.2,33.875,17.0,-5.35
 2015,6,PSO,Mission Viejo HS,84.076,33.9,33.875,16.3,-2.35
 2015,1,PSO,Nogales HS,77.625,29.6,32.425,15.6,-2.8
@@ -33,6 +65,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2015,5,PSO,Parkland,82.2,32.6,33.0,16.6,0.0
 2015,6,PSO,Parkland,84.0,33.2,33.8,17.0,0.0
 2015,8,PSO,Parkland,86.15,34.6,34.05,17.5,0.0
+2015,1,PSO,River Valley Percussion Theatre of Elk River High School,70.55,27.0,28.75,14.8,0.0
+2015,3,PSO,River Valley Percussion Theatre of Elk River High School,79.3,31.4,33.1,14.8,0.0
+2015,5,PSO,River Valley Percussion Theatre of Elk River High School,83.4,33.0,34.7,15.7,0.0
 2015,4,PSO,San Marcos HS (SB),70.601,27.8,28.7,14.1,-4.1
 2015,4,PSO,San Marino HS,81.75,33.2,33.75,14.8,-1.1
 2015,6,PSO,San Marino HS,78.05,32.2,30.55,15.3,-0.1
@@ -50,9 +85,17 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2015,2,PSO,Valencia HS (OC),72.851,26.6,31.1,15.15,-4.15
 2015,4,PSO,Valencia HS (OC),77.701,31.4,30.7,15.6,0.0
 2015,6,PSO,Valencia HS (OC),78.75,33.2,30.95,14.6,0.0
+2015,0,PSO,Vandebilt Catholic H.S.,69.45,27.4,29.35,12.7,0.0
+2015,4,PSO,Vandebilt Catholic H.S.,82.1,32.0,34.7,15.4,-0.35
+2015,5,PSO,Vandebilt Catholic H.S.,85.5,35.0,34.4,16.1,0.0
+2015,8,PSO,Vandebilt Catholic H.S.,91.8,37.0,37.6,17.2,0.0
 2015,4,PSO,Vista Murrieta HS,80.3,31.2,34.2,14.9,-1.35
 2015,5,PSO,Vista Murrieta HS,82.3,33.0,32.8,16.5,-1.5
 2015,6,PSO,Vista Murrieta HS,80.351,32.0,32.55,15.8,-0.65
 2015,1,PSO,Westlake HS,73.175,27.2,31.075,14.9,-5.1
 2015,2,PSO,Westlake HS,75.051,29.2,28.85,17.0,-2.75
 2015,6,PSO,Westlake HS,77.2,30.8,29.9,16.5,-2.5
+2015,3,PSO,Westlake High School,78.05,32.8,30.05,15.2,0.0
+2015,5,PSO,Westlake High School,82.65,33.2,34.05,15.4,0.0
+2015,8,PSO,Westlake High School,83.55,32.4,34.15,17.0,0.0
+2015,11,PSO,Westlake High School,88.9,35.0,36.1,17.8,0.0

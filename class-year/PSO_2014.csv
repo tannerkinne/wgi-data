@@ -1,4 +1,9 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
+2014,2,PSO,Bingham HS,75.45,28.2,32.75,14.5,0.0
+2014,3,PSO,Bingham HS,77.25,27.4,33.25,16.6,0.0
+2014,5,PSO,Bingham HS,72.4,24.8,31.2,16.4,0.0
+2014,8,PSO,Bingham HS,82.0,30.4,35.3,16.3,0.0
+2014,9,PSO,Bingham HS,84.55,33.2,35.05,16.3,0.0
 2014,2,PSO,Buena HS,76.55,28.6,32.45,15.5,0.0
 2014,5,PSO,Buena HS,78.85,30.8,32.05,16.0,0.0
 2014,6,PSO,Buena HS,86.875,34.2,35.475,17.2,0.0
@@ -6,6 +11,19 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2014,4,PSO,Chino HS,80.15,34.0,32.05,14.1,0.0
 2014,5,PSO,Chino HS,73.9,29.0,30.3,14.6,0.0
 2014,6,PSO,Cypress HS,83.2,31.6,36.8,14.8,0.0
+2014,2,PSO,Davis HS,81.3,31.0,34.0,16.3,0.0
+2014,3,PSO,Davis HS,86.65,33.4,35.45,17.8,0.0
+2014,5,PSO,Davis HS,84.9,33.2,34.0,17.7,0.0
+2014,8,PSO,Davis HS,87.65,34.4,36.15,17.1,0.0
+2014,9,PSO,Davis HS,91.25,34.8,37.75,18.7,0.0
+2014,0,PSO,E.D. White Catholic H.S.,73.7,28.8,31.6,13.3,0.0
+2014,2,PSO,E.D. White Catholic H.S.,78.75,30.8,31.55,16.4,0.0
+2014,5,PSO,E.D. White Catholic H.S.,85.15,34.8,33.15,17.2,0.0
+2014,8,PSO,E.D. White Catholic H.S.,88.95,36.0,34.95,18.0,0.0
+2014,3,PSO,Eagan High School,69.9,29.2,25.1,15.6,0.0
+2014,4,PSO,Eagan High School,79.2,32.4,31.3,15.5,0.0
+2014,5,PSO,Eagan High School,77.7,31.4,29.9,16.4,0.0
+2014,6,PSO,Eagan High School,81.5,31.2,33.9,16.4,0.0
 2014,1,PSO,El Dorado HS,76.2,30.0,31.5,14.7,0.0
 2014,4,PSO,El Dorado HS,81.25,33.3,33.15,14.8,0.0
 2014,5,PSO,El Dorado HS,74.8,30.4,29.9,14.5,0.0
@@ -19,12 +37,21 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2014,6,PSO,Granada Hills HS,79.45,30.8,33.35,15.3,0.0
 2014,2,PSO,Great Oak HS,77.25,30.4,31.55,15.3,0.0
 2014,6,PSO,Great Oak HS,85.75,35.2,34.95,15.6,0.0
+2014,0,PSO,Irondale High School,78.75,29.4,34.55,14.8,0.0
+2014,2,PSO,Irondale High School,75.55,30.4,29.25,15.9,0.0
+2014,4,PSO,Irondale High School,84.3,33.4,34.7,16.2,0.0
+2014,5,PSO,Irondale High School,83.3,32.6,33.5,17.2,0.0
+2014,2,PSO,Lehi HS,83.8,30.8,36.0,17.0,0.0
+2014,3,PSO,Lehi HS,84.8,32.6,34.4,17.8,0.0
+2014,6,PSO,Lehi HS,87.35,34.0,34.95,18.4,0.0
+2014,9,PSO,Lehi HS,89.55,35.4,36.05,18.1,0.0
 2014,1,PSO,Los Alamitos HS,80.1,31.6,32.7,15.8,0.0
 2014,6,PSO,Los Alamitos HS,85.0,34.0,36.0,15.0,0.0
 2014,8,PSO,Old Bridge,87.25,35.0,34.95,17.3,0.0
 2014,1,PSO,Pacifica HS,74.05,30.4,29.75,13.9,0.0
 2014,5,PSO,Pacifica HS,76.125,29.6,31.725,14.8,0.0
 2014,8,PSO,Parkland,86.0,33.6,35.5,16.9,0.0
+2014,6,PSO,Provo HS,81.5,33.0,31.1,17.4,0.0
 2014,2,PSO,Rancho Cucamonga HS,70.9,28.2,28.3,14.4,0.0
 2014,5,PSO,Rancho Cucamonga HS,75.8,30.0,31.4,14.4,0.0
 2014,6,PSO,Rancho Cucamonga HS,80.35,32.0,31.75,16.6,0.0
@@ -40,6 +67,10 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2014,5,PSO,Upper Darby,85.65,33.6,34.45,17.6,0.0
 2014,1,PSO,Valencia HS (OC),76.275,29.6,31.775,14.9,0.0
 2014,5,PSO,Valencia HS (OC),81.05,32.8,34.05,14.2,0.0
+2014,0,PSO,Vandebilt Catholic H.S.,75.45,30.2,31.55,13.7,0.0
+2014,3,PSO,Vandebilt Catholic H.S.,82.5,32.8,36.3,13.4,0.0
+2014,5,PSO,Vandebilt Catholic H.S.,81.4,32.8,33.1,15.5,0.0
+2014,8,PSO,Vandebilt Catholic H.S.,88.65,36.4,35.35,16.9,0.0
 2014,1,PSO,Vista Murrieta HS,74.3,29.0,31.6,13.7,0.0
 2014,2,PSO,Vista Murrieta HS,76.2,30.0,30.2,16.0,0.0
 2014,5,PSO,Vista Murrieta HS,78.4,31.4,31.0,16.0,0.0

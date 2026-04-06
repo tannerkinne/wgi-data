@@ -1,35 +1,51 @@
 year,week,class,name,overall score,music effect,visual effect,music,visual
-2018,4,PIA,Aftermath,68.75,20.0,22.35,12.8,13.6
-2018,11,PIA,Aftermath,75.6,21.9,22.2,15.2,16.3
-2018,5,PIA,Cornell Indoor Drumline,67.2,18.4,21.0,13.6,14.2
-2018,10,PIA,Cornell Indoor Drumline,73.2,21.6,21.6,15.3,14.7
-2018,3,PIA,Cornerstone Percussion,66.8,20.1,13.9,19.0,13.8
-2018,6,PIA,Cornerstone Percussion,74.55,22.35,14.3,22.3,15.6
-2018,10,PIA,Cornerstone Percussion,83.6,25.2,15.7,25.6,17.1
-2018,11,PIA,Cornerstone Percussion,82.775,24.975,15.75,25.45,16.6
-2018,3,PIA,Decatur County Indoor,65.05,20.25,12.6,19.1,13.1
-2018,6,PIA,Decatur County Indoor,65.75,20.55,12.6,19.4,13.2
-2018,10,PIA,Decatur County Indoor,70.838,21.938,13.7,20.2,15.0
-2018,2,PIA,Dundee Indoor Percussion,60.4,18.4,17.4,13.0,11.6
-2018,4,PIA,Dundee Indoor Percussion,66.25,20.4,19.95,13.4,12.5
-2018,7,PIA,Dundee Indoor Percussion,75.5,24.8,21.6,14.4,14.7
-2018,9,PIA,Dundee Indoor Percussion,78.75,24.0,22.65,15.4,16.7
-2018,10,PIA,Dundee Indoor Percussion,79.8,23.5,24.3,15.7,16.3
-2018,3,PIA,East Coast Percussion,72.0,22.8,20.7,14.1,14.4
-2018,4,PIA,East Coast Percussion,74.0,21.2,22.5,15.6,14.7
-2018,11,PIA,East Coast Percussion,82.3,26.0,24.3,16.0,16.0
-2018,5,PIA,Marian University Knight Star Percussion,74.2,23.1,14.7,20.2,16.2
-2018,7,PIA,Marian University Knight Star Percussion,77.1,22.8,15.3,22.5,16.5
-2018,8,PIA,Marian University Knight Star Percussion,78.2,23.025,15.1,24.225,15.85
-2018,10,PIA,Marian University Knight Star Percussion,77.1,23.325,15.5,22.575,15.7
-2018,6,PIA,Onondaga Community College,71.75,23.3,20.55,13.9,14.0
-2018,9,PIA,Onondaga Community College,78.7,24.6,22.2,15.5,16.4
-2018,10,PIA,Onondaga Community College,79.9,22.7,24.0,16.2,17.0
-2018,1,PIA,Pace Percussion Ensemble,68.25,20.25,12.1,21.1,14.8
-2018,10,PIA,Pace Percussion Ensemble,83.15,25.65,16.2,24.6,16.7
-2018,5,PIA,Pasadena City College,71.15,20.25,13.3,23.2,14.4
-2018,10,PIA,Pasadena City College,85.05,26.25,16.7,25.5,16.6
-2018,11,PIA,Pasadena City College,82.163,25.312,16.4,24.0,16.45
-2018,6,PIA,Watchmen Percussion,76.7,23.7,14.8,22.9,15.3
-2018,10,PIA,Watchmen Percussion,87.05,26.55,17.0,25.9,17.6
-2018,11,PIA,Watchmen Percussion,85.75,25.95,17.1,25.75,16.95
+2018,5,PIA,Aftermath,68.75,20.0,22.35,12.8,13.6
+2018,12,PIA,Aftermath,75.6,21.9,22.2,15.2,16.3
+2018,2,PIA,Chops Percussion Indoor,67.7,20.8,19.8,14.4,12.7
+2018,4,PIA,Chops Percussion Indoor,69.15,20.3,21.75,13.8,13.3
+2018,7,PIA,Chops Percussion Indoor,77.975,24.075,15.9,23.6,14.4
+2018,9,PIA,Chops Percussion Indoor,79.4,25.8,17.1,22.4,14.1
+2018,11,PIA,Chops Percussion Indoor,78.975,22.575,16.1,24.9,15.4
+2018,6,PIA,Cornell Indoor Drumline,67.2,18.4,21.0,13.6,14.2
+2018,11,PIA,Cornell Indoor Drumline,73.2,21.6,21.6,15.3,14.7
+2018,4,PIA,Cornerstone Percussion,66.8,20.1,13.9,19.0,13.8
+2018,7,PIA,Cornerstone Percussion,74.55,22.35,14.3,22.3,15.6
+2018,11,PIA,Cornerstone Percussion,83.6,25.2,15.7,25.6,17.1
+2018,12,PIA,Cornerstone Percussion,82.775,24.975,15.75,25.45,16.6
+2018,3,PIA,Crossroads Percussion,75.9,25.15,22.05,14.5,14.2
+2018,8,PIA,Crossroads Percussion,86.3,24.9,17.7,27.1,16.6
+2018,11,PIA,Crossroads Percussion,84.75,25.35,16.35,25.55,17.5
+2018,4,PIA,Decatur County Indoor,65.05,20.25,12.6,19.1,13.1
+2018,7,PIA,Decatur County Indoor,65.75,20.55,12.6,19.4,13.2
+2018,11,PIA,Decatur County Indoor,70.838,21.938,13.7,20.2,15.0
+2018,3,PIA,Dundee Indoor Percussion,60.4,18.4,17.4,13.0,11.6
+2018,5,PIA,Dundee Indoor Percussion,66.25,20.4,19.95,13.4,12.5
+2018,8,PIA,Dundee Indoor Percussion,75.5,24.8,21.6,14.4,14.7
+2018,10,PIA,Dundee Indoor Percussion,78.75,24.0,22.65,15.4,16.7
+2018,11,PIA,Dundee Indoor Percussion,79.8,23.5,24.3,15.7,16.3
+2018,4,PIA,East Coast Percussion,72.0,22.8,20.7,14.1,14.4
+2018,5,PIA,East Coast Percussion,74.0,21.2,22.5,15.6,14.7
+2018,12,PIA,East Coast Percussion,82.3,26.0,24.3,16.0,16.0
+2018,6,PIA,Marian University Knight Star Percussion,74.2,23.1,14.7,20.2,16.2
+2018,8,PIA,Marian University Knight Star Percussion,77.1,22.8,15.3,22.5,16.5
+2018,9,PIA,Marian University Knight Star Percussion,78.2,23.025,15.1,24.225,15.85
+2018,11,PIA,Marian University Knight Star Percussion,77.1,23.325,15.5,22.575,15.7
+2018,12,PIA,Northstar Independent,82.4,24.0,24.9,16.5,17.0
+2018,7,PIA,Onondaga Community College,71.75,23.3,20.55,13.9,14.0
+2018,10,PIA,Onondaga Community College,78.7,24.6,22.2,15.5,16.4
+2018,11,PIA,Onondaga Community College,79.9,22.7,24.0,16.2,17.0
+2018,2,PIA,Pace Percussion Ensemble,68.25,20.25,12.1,21.1,14.8
+2018,11,PIA,Pace Percussion Ensemble,83.15,25.65,16.2,24.6,16.7
+2018,6,PIA,Pasadena City College,71.15,20.25,13.3,23.2,14.4
+2018,11,PIA,Pasadena City College,85.05,26.25,16.7,25.5,16.6
+2018,12,PIA,Pasadena City College,82.163,25.312,16.4,24.0,16.45
+2018,2,PIA,Phoenix Drumline,57.5,15.5,16.5,12.7,12.8
+2018,7,PIA,Phoenix Drumline,70.55,22.35,13.8,19.5,14.9
+2018,8,PIA,Phoenix Drumline,73.35,22.95,16.2,19.5,14.7
+2018,9,PIA,Phoenix Drumline,70.9,19.2,16.5,21.7,13.5
+2018,11,PIA,Phoenix Drumline,73.325,19.95,14.8,22.775,15.8
+2018,8,PIA,Revolution Indoor Percussion,63.65,21.15,13.0,17.4,12.1
+2018,12,PIA,Snow College Indoor Percussion,82.1,23.7,24.6,16.9,16.9
+2018,7,PIA,Watchmen Percussion,76.7,23.7,14.8,22.9,15.3
+2018,11,PIA,Watchmen Percussion,87.05,26.55,17.0,25.9,17.6
+2018,12,PIA,Watchmen Percussion,85.75,25.95,17.1,25.75,16.95

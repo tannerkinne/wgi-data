@@ -7,11 +7,15 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PSO,Basha HS,79.925,24.675,15.75,23.95,15.55
 2026,6,PSO,Basha HS,84.25,25.35,17.0,25.4,16.5
 2026,7,PSO,Beavercreek HS,84.101,25.2,16.6,25.6,16.7
+2026,3,PSO,Beavercreek Indoor Percussion Ensemble,77.55,22.65,15.5,24.2,15.2
+2026,6,PSO,Beavercreek Indoor Percussion Ensemble,80.1,24.0,16.0,23.8,16.3
 2026,9,PSO,Beavercreek Indoor Percussion Ensemble,85.15,24.45,17.5,26.7,16.5
 2026,8,PSO,Bellflower HS,77.45,22.95,14.8,24.6,15.1
 2026,5,PSO,Bob Jones HS,75.2,23.4,14.2,22.4,15.2
 2026,8,PSO,Boswell HS,84.05,25.35,17.15,24.95,16.6
 2026,8,PSO,Brandon Valley HS,86.25,26.25,17.4,24.7,17.9
+2026,4,PSO,Brandon Valley High School,78.675,24.45,26.1,15.2,23.4
+2026,5,PSO,Brandon Valley High School,80.05,25.8,15.9,21.7,16.65
 2026,4,PSO,Branham HS,78.25,23.85,15.1,24.5,14.8
 2026,7,PSO,Branham HS,84.85,25.65,16.8,25.55,16.85
 2026,2,PSO,Buena HS,65.951,19.95,13.1,18.3,14.6
@@ -30,8 +34,12 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,4,PSO,Casa Grande HS,77.55,23.25,15.4,23.2,15.7
 2026,5,PSO,Casa Grande HS,80.325,24.525,15.25,24.85,15.7
 2026,5,PSO,Centerville HS,77.85,24.75,15.7,21.3,16.1
+2026,1,PSO,Centerville Winter Drumline,74.45,22.05,14.6,22.5,15.3
+2026,3,PSO,Centerville Winter Drumline,75.05,22.35,15.3,22.4,15.0
+2026,6,PSO,Centerville Winter Drumline,77.75,23.85,16.7,21.9,15.3
 2026,9,PSO,Centerville Winter Drumline,83.3,24.6,16.9,25.6,16.2
 2026,2,PSO,Central Lafourche H.S.,70.15,20.0,20.85,14.4,14.9
+2026,9,PSO,Central Lafourche H.S.,88.2,26.3,26.4,17.6,17.9
 2026,7,PSO,Central Lafourche HS,83.15,24.75,17.4,24.1,16.9
 2026,2,PSO,Cerritos HS,70.8,21.6,13.3,20.9,15.0
 2026,5,PSO,Cerritos HS,78.5,24.0,16.0,22.5,16.0
@@ -45,15 +53,25 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,7,PSO,Chino HS,84.35,26.55,16.3,24.6,16.9
 2026,8,PSO,Chisholm Trail HS,81.201,25.5,15.2,24.4,16.1
 2026,5,PSO,Clover HS,79.15,23.85,14.8,25.7,14.8
+2026,4,PSO,Davis HS,75.7,23.1,14.2,22.8,15.6
+2026,5,PSO,Davis HS,76.2,22.8,15.1,22.9,15.4
 2026,6,PSO,Davis HS,81.85,24.75,15.6,25.7,15.8
+2026,8,PSO,Davis HS,83.75,25.95,16.5,25.1,16.2
+2026,9,PSO,Davis HS,86.75,27.45,17.7,25.9,15.7
 2026,2,PSO,Downingtown HS West,68.9,21.6,13.8,20.0,13.5
 2026,4,PSO,Downingtown HS West,77.4,22.2,15.3,23.5,16.4
 2026,5,PSO,Downingtown HS West,79.0,24.0,16.0,24.2,14.8
 2026,8,PSO,Downingtown West HS,81.6,24.3,16.6,24.5,16.2
+2026,9,PSO,Downingtown West HS,80.05,23.85,16.8,23.9,15.5
 2026,7,PSO,Dublin HS,82.35,25.05,16.6,25.1,15.6
 2026,8,PSO,Dublin HS,77.701,24.0,15.0,22.9,15.8
 2026,2,PSO,Dutchtown H.S.,66.9,18.9,20.4,13.2,14.4
+2026,4,PSO,Dutchtown H.S.,73.65,24.9,21.45,14.9,12.4
+2026,5,PSO,Dutchtown H.S.,75.15,23.0,23.25,14.3,14.6
+2026,9,PSO,Dutchtown H.S.,84.65,26.0,25.05,16.5,17.1
 2026,7,PSO,Dutchtown HS (LA),81.126,24.525,16.45,23.95,16.2
+2026,4,PSO,Eden Prairie High School,78.15,22.8,24.9,15.7,24.2
+2026,9,PSO,Eden Prairie High School,87.6,25.8,16.8,27.6,17.4
 2026,1,PSO,El Toro HS,73.55,21.75,14.5,22.2,15.1
 2026,6,PSO,El Toro HS,82.65,24.45,16.6,25.5,16.1
 2026,7,PSO,El Toro HS,80.625,26.325,14.2,25.4,14.7
@@ -96,6 +114,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,6,PSO,Greenwood Indoor Percussion,86.55,25.65,17.6,26.2,17.1
 2026,8,PSO,Greenwood Indoor Percussion,88.4,27.0,16.4,27.45,17.55
 2026,2,PSO,Gulfport H.S.,67.7,21.1,19.8,13.0,13.8
+2026,9,PSO,Gulfport H.S.,81.25,25.9,23.85,15.7,15.8
 2026,7,PSO,Gulfport HS,76.151,22.5,15.25,23.1,15.3
 2026,5,PSO,Halls HS,82.55,25.35,16.5,24.4,16.3
 2026,7,PSO,Halls HS,77.3,22.5,15.3,24.0,15.5
@@ -114,15 +133,22 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,6,PSO,Hudsonville HS,78.8,23.7,16.0,23.5,15.6
 2026,3,PSO,Hudsonville Winter Percussion,67.6,20.7,13.6,19.8,13.5
 2026,8,PSO,Hudsonville Winter Percussion,83.15,25.35,16.1,24.9,16.8
+2026,9,PSO,Hudsonville Winter Percussion,85.4,25.8,16.7,25.2,17.7
+2026,6,PSO,Irondale High School,82.85,24.9,15.9,25.0,16.4
+2026,8,PSO,Irondale High School,82.9,24.9,16.6,16.8,24.6
+2026,9,PSO,Irondale High School,87.2,25.35,17.5,26.7,17.65
 2026,5,PSO,John Marshall HS,72.025,22.425,13.8,21.85,13.95
 2026,5,PSO,Jordan HS,80.9,24.45,15.5,25.2,15.75
 2026,5,PSO,Kettering Fairmont HS,79.475,23.925,16.3,23.45,15.8
 2026,7,PSO,Kettering Fairmont HS,78.275,23.325,16.2,23.3,15.45
+2026,1,PSO,Kettering Fairmont Indoor Percussion,70.55,20.85,13.9,22.1,13.7
+2026,3,PSO,Kettering Fairmont Indoor Percussion,74.9,21.6,15.1,23.7,14.5
 2026,9,PSO,Kettering Fairmont Indoor Percussion,83.4,24.0,17.1,26.6,15.7
 2026,2,PSO,Kingsway Regional,68.45,19.95,14.6,19.8,14.1
 2026,3,PSO,Kingsway Regional,69.95,20.25,14.0,21.7,14.0
 2026,4,PSO,Kingsway Regional,76.15,22.35,15.0,23.0,15.8
 2026,7,PSO,Kingsway Regional,77.5,23.7,15.0,23.4,15.4
+2026,9,PSO,Kingsway Regional,78.35,23.55,15.9,23.3,15.6
 2026,6,PSO,Kingsway Regional HS,75.051,22.65,14.7,23.0,14.7
 2026,8,PSO,La Habra HS,79.651,24.45,16.3,22.6,16.3
 2026,7,PSO,Laguna Creek HS,72.551,21.3,14.4,21.85,15.0
@@ -137,6 +163,8 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,8,PSO,Los Osos HS,79.076,23.175,15.5,23.3,17.1
 2026,7,PSO,Loveland HS,77.95,22.95,16.3,23.7,15.0
 2026,6,PSO,Maple Mountain HS,73.2,21.0,14.0,24.1,14.1
+2026,8,PSO,Maple Mountain HS,78.95,23.85,15.9,24.3,14.9
+2026,9,PSO,Maple Mountain HS,80.05,25.95,15.6,23.6,14.9
 2026,8,PSO,Mechanicsburg HS,81.75,24.15,16.0,25.8,15.8
 2026,4,PSO,Mission Hills HS,77.35,24.15,15.1,22.6,15.5
 2026,5,PSO,Mission Hills HS,80.775,24.225,16.5,24.6,15.45
@@ -144,6 +172,9 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,3,PSO,Mission Viejo HS,77.2,23.1,15.1,23.1,15.9
 2026,6,PSO,Mission Viejo HS,78.05,22.5,16.1,24.1,15.35
 2026,7,PSO,Mission Viejo HS,80.85,25.65,15.5,24.5,15.2
+2026,4,PSO,Mountain Ridge HS,74.15,22.35,13.9,22.2,15.7
+2026,5,PSO,Mountain Ridge HS,73.6,21.9,14.6,21.8,15.3
+2026,9,PSO,Mountain Ridge HS,84.4,26.7,17.0,24.9,15.8
 2026,6,PSO,Mountain Ridge HS (UT),79.15,24.45,15.0,23.8,15.9
 2026,6,PSO,New Milford HS,75.35,23.25,15.3,21.8,15.0
 2026,5,PSO,Ninety Six HS,80.125,23.925,16.3,24.25,15.65
@@ -158,6 +189,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,8,PSO,North Forsyth HS,80.95,25.35,15.7,24.6,15.3
 2026,8,PSO,North Gwinnett HS,73.201,22.2,14.3,22.9,13.8
 2026,8,PSO,North Penn,84.6,24.9,17.0,25.5,17.2
+2026,9,PSO,North Penn,85.15,25.35,17.3,25.5,17.0
 2026,6,PSO,North Penn HS,78.55,23.7,15.1,23.85,15.9
 2026,7,PSO,Northview HS,80.075,24.075,16.7,23.2,16.1
 2026,2,PSO,Northview Indoor Percussion,74.15,22.35,14.8,22.4,14.6
@@ -172,6 +204,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PSO,Old Bridge,75.3,22.5,15.1,23.4,14.3
 2026,7,PSO,Old Bridge,82.2,24.6,16.3,25.0,16.3
 2026,8,PSO,Old Bridge,82.55,24.45,16.4,25.2,16.5
+2026,9,PSO,Old Bridge,82.875,24.975,16.9,24.5,16.5
 2026,7,PSO,Pace HS,86.225,25.65,17.375,25.65,17.55
 2026,1,PSO,Pace Indoor Percussion,74.8,24.6,14.2,21.8,14.2
 2026,3,PSO,Pace Indoor Percussion,75.3,23.7,15.9,21.0,14.7
@@ -183,6 +216,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,5,PSO,Panther Creek HS,83.125,24.675,16.75,25.4,16.3
 2026,5,PSO,Papillion-La Vista South HS,81.05,23.85,16.2,24.4,16.6
 2026,8,PSO,Papillion-La Vista South HS,84.2,26.4,16.8,24.3,16.7
+2026,9,PSO,Papillion-La Vista South HS,83.9,25.5,17.1,25.1,16.2
 2026,5,PSO,Pflugerville HS,78.95,23.85,15.8,24.0,15.3
 2026,8,PSO,Pflugerville HS,78.201,23.4,14.6,23.8,16.4
 2026,7,PSO,Plainfield HS (IN),74.3,21.0,14.9,22.4,16.0
@@ -216,6 +250,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,3,PSO,Spring-Ford,77.85,23.85,15.0,23.9,15.1
 2026,4,PSO,Spring-Ford,80.05,23.85,16.4,23.6,16.2
 2026,8,PSO,Spring-Ford,84.3,24.6,16.7,26.4,16.6
+2026,9,PSO,Spring-Ford,81.95,25.05,17.5,23.0,16.4
 2026,6,PSO,Spring-Ford HS,80.45,23.85,15.6,24.8,16.2
 2026,3,PSO,Stockdale HS,73.55,21.75,14.9,22.8,14.1
 2026,8,PSO,Stockdale HS,77.501,22.5,15.7,23.9,15.4
@@ -231,6 +266,7 @@ year,week,class,name,overall score,music effect,visual effect,music,visual
 2026,1,PSO,Victor,66.0,19.7,19.5,13.2,13.6
 2026,7,PSO,Victor,81.2,23.8,24.9,16.2,16.3
 2026,8,PSO,Victor,84.8,25.2,25.8,16.9,16.9
+2026,9,PSO,Victor,82.85,24.5,25.05,16.55,16.75
 2026,3,PSO,Victor HS,69.8,19.8,13.6,21.4,15.0
 2026,5,PSO,Victor HS,76.625,22.875,15.95,22.4,15.4
 2026,2,PSO,Victor J Andrew HS,79.25,23.85,16.1,24.1,15.2
