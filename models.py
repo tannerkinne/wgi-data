@@ -93,7 +93,6 @@ if __name__ == '__main__':
     df = df.drop(df[df['current_overall_average'] <=50].index)
     df = df.drop(df[df['show_count'] <= 1].index)
     df = df.drop(df[df['year'] == 2014].index)
-    df = df.drop(df[df['year'] == 2015].index)
     df = df.drop(df[df['year'] == 2020].index)
     df = df.drop(df[df['year'] == 2021].index)
     df = df.drop(df[df['show_count'] == 7].index)
@@ -106,6 +105,8 @@ if __name__ == '__main__':
 
     x = df_train.drop(['name', 'overall score', 'me score', 've score', 'm score', 'v score'], axis = 1)
     y = df_train['overall score']
+
+    print(x.columns)
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
@@ -161,37 +162,37 @@ if __name__ == '__main__':
 
     print("----------------------------------------------------------------------------------------------")
 
-    lr_residuals = y_test - lr_model.predict(x_test)
+    gb_residuals = y_test - gb_model.predict(x_test)
 
-    # df["residual"] = lr_residuals
+    # df["residual"] = gb_residuals
     # df.groupby("show_count")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by show count")
     # plt.show()
     #
-    # # 2. lr_residuals by class — is one class dragging you down?
+    # # 2. gb_residuals by class — is one class dragging you down?
     # df.groupby("class")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by class")
     # plt.show()
     #
-    # # 3. lr_residuals by year — model degrading over time?
+    # # 3. gb_residuals by year — model degrading over time?
     # df.groupby("year")["residual"].apply(lambda x: np.abs(x).mean()).plot(kind="bar")
     # plt.title("MAE by year")
     # plt.show()
     #
-    # plt.scatter(lr_model.predict(x_test), lr_residuals)
-    # plt.title("lr_residuals vs Predicted Values")
+    # plt.scatter(lr_model.predict(x_test), gb_residuals)
+    # plt.title("gb_residuals vs Predicted Values")
     # plt.show()
     #
-    # plt.scatter(x_test['current_overall_average'], lr_residuals)
-    # plt.title("lr_residuals vs Current Overall Average")
+    # plt.scatter(x_test['current_overall_average'], gb_residuals)
+    # plt.title("gb_residuals vs Current Overall Average")
     # plt.show()
     #
-    # plt.scatter(x_test['show_count'], lr_residuals)
-    # plt.title("lr_residuals vs Show Count")
+    # plt.scatter(x_test['show_count'], gb_residuals)
+    # plt.title("gb_residuals vs Show Count")
     # plt.show()
     #
-    # plt.scatter(x_test['week'], lr_residuals)
-    # plt.title("lr_residuals vs Week")
+    # plt.scatter(x_test['week'], gb_residuals)
+    # plt.title("gb_residuals vs Week")
     # plt.show()
 
     print('For Gradient Boosting Regressor:')
@@ -217,3 +218,32 @@ if __name__ == '__main__':
     print(f"Within 1 pt:   {within_1:.1%}")
     print(f"Within 2 pts:  {within_2:.1%}")
     print(f"Within 3 pts:  {within_3:.1%}")
+
+    east = pd.DataFrame([{
+        'class': 0,
+        'year': 2026,
+        'week': 10,
+        'weeks_since': 1,
+        'show_count': 3,
+        'current_overall_average': 83.867,
+        'current_me_average': 25.225,
+        'current_ve_average': 16.1,
+        'current_m_average': 25.642,
+        'current_v_average': 16.475,
+        'last_show_overall_score': 85.55,
+        'last_show_me_score': 25.35,
+        'last_show_ve_score': 17.1,
+        'last_show_m_score': 26.2,
+        'last_show_v_score': 16.9,
+        'last_overall_jump': 0.0,
+        'last_me_jump': 0.0,
+        'last_ve_jump': 0.0,
+        'last_m_jump': 0.0,
+        'last_v_jump': 0.0,
+        'last_2_overall_average': 84.375,
+        'last_2_me_average': 25.256,
+        'last_2_ve_average': 16.6,
+        'last_2_m_average': 25.831,
+        'last_2_v_average': 16.688,
+    }])
+    print(gb_model.predict(east))
