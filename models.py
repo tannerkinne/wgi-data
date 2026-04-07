@@ -208,16 +208,16 @@ if __name__ == '__main__':
 
     mega_model = [lr_model, rf_model, gb_model, mlp_model]
 
-    print('For Mega Predictor:')
-    mae = mean_absolute_error(y_test, mega_predictor(mega_model, x_test))
-    within_1 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 1.0)
-    within_2 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 2.0)
-    within_3 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 3.0)
-
-    print(f"MAE:           {mae:.2f} pts")
-    print(f"Within 1 pt:   {within_1:.1%}")
-    print(f"Within 2 pts:  {within_2:.1%}")
-    print(f"Within 3 pts:  {within_3:.1%}")
+    # print('For Mega Predictor:')
+    # mae = mean_absolute_error(y_test, mega_predictor(mega_model, x_test))
+    # within_1 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 1.0)
+    # within_2 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 2.0)
+    # within_3 = np.mean(np.abs(y_test - mega_predictor(mega_model, x_test)) < 3.0)
+    #
+    # print(f"MAE:           {mae:.2f} pts")
+    # print(f"Within 1 pt:   {within_1:.1%}")
+    # print(f"Within 2 pts:  {within_2:.1%}")
+    # print(f"Within 3 pts:  {within_3:.1%}")
 
     east = pd.DataFrame([{
         'class': 0,
@@ -246,4 +246,7 @@ if __name__ == '__main__':
         'last_2_m_average': 25.831,
         'last_2_v_average': 16.688,
     }])
-    print(gb_model.predict(east))
+
+
+    print('-----------------------------------------------------------------------------------------------')
+    print(f'Predictions for East week 10: {gb_model.predict(east)}')
