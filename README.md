@@ -21,12 +21,8 @@ This project builds machine learning models to analyze and predict performance i
 ## Problem
 
 ### Objective
-Predict team performance level based on competition data.
+Predict team performance score based on competition data.
 
-### Target Classes
-- 0 → Low
-- 1 → Mid
-- 2 → High
 
 ### Challenges
 - Uneven number of performances per school
