@@ -1,27 +1,16 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
+
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.neural_network import MLPRegressor
-from sklearn.utils import resample
-from sklearn.linear_model import LogisticRegression
+
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import (
-    accuracy_score, confusion_matrix, classification_report,
-    precision_score, recall_score, f1_score
-)
-import joblib
-import random
-import shap
-from itertools import combinations
+
 from sklearn.metrics import mean_absolute_error
 
 
-from sklearn.inspection import PartialDependenceDisplay
 
 def linear_regression(x_train, y_train, x_test, y_test):
     model = LinearRegression()
