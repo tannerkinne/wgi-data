@@ -106,7 +106,6 @@ if __name__ == '__main__':
     x = df_train.drop(['name', 'overall score', 'me score', 've score', 'm score', 'v score'], axis = 1)
     y = df_train['overall score']
 
-    print(x.columns)
 
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
