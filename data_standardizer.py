@@ -141,6 +141,8 @@ for i in range(2014, 2027):
             if length < 3:
                 continue
             last_3 = new_df.iloc[-3:]
+            if last_3['show_count'].iloc[0] == 0:
+                continue
             for k in range(3):
                 last_3_df.loc[len(last_3_df)] = last_3.iloc[k]
 

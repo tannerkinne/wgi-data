@@ -92,7 +92,8 @@ if __name__ == '__main__':
 
     df = df.drop(df[df['current_overall_average'] <=50].index)
     df = df.drop(df[df['show_count'] <= 1].index)
-    #df = df.drop(df[df['year'] == 2014].index)
+    df = df.drop(df[df['year'] == 2014].index)
+    df = df.drop(df[df['year'] == 2015].index)
     df = df.drop(df[df['year'] == 2020].index)
     df = df.drop(df[df['year'] == 2021].index)
     df = df.drop(df[df['show_count'] == 7].index)
